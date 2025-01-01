@@ -7,14 +7,6 @@ Server: N/A
 Country: Brazil
 
 Protocol: http
-Proxy: 80.241.251.54:8080:Georgia
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Georgia
-
-Protocol: http
 Proxy: 202.61.204.51:80:Germany
 Status: not working
 IP: 127.0.0.1
@@ -23,12 +15,12 @@ Server: N/A
 Country: Germany
 
 Protocol: http
-Proxy: 103.49.202.252:80:Bangladesh
+Proxy: 198.49.68.80:80:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Bangladesh
+Country: United States
 
 Protocol: http
 Proxy: 188.166.56.246:80:The Netherlands
@@ -47,12 +39,28 @@ Server: N/A
 Country: Singapore
 
 Protocol: http
+Proxy: 179.48.11.6:8085:Brazil
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Brazil
+
+Protocol: http
 Proxy: 102.68.128.215:8080:Libya
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Libya
+
+Protocol: http
+Proxy: 138.121.161.85:8097:Argentina
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Argentina
 
 Protocol: http
 Proxy: 46.47.197.210:3128:Russia
@@ -63,15 +71,15 @@ Server: N/A
 Country: Russia
 
 Protocol: http
-Proxy: 111.59.4.88:9002:China
-Status: working
-IP: None
-Anon: elite
-Server: None
+Proxy: 203.19.38.114:1080:China
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
 Country: China
 
 Protocol: http
-Proxy: 203.19.38.114:1080:China
+Proxy: 36.134.91.82:8888:China
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -87,12 +95,28 @@ Server: N/A
 Country: Indonesia
 
 Protocol: http
+Proxy: 65.108.9.181:80:Finland
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Finland
+
+Protocol: http
 Proxy: 117.54.114.35:80:Indonesia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Indonesia
+
+Protocol: http
+Proxy: 46.35.9.110:80:France
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: France
 
 Protocol: http
 Proxy: 203.89.8.107:80:China
@@ -120,19 +144,19 @@ Country: Argentina
 
 Protocol: http
 Proxy: 154.65.39.7:80:Senegal
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Senegal
-
-Protocol: http
-Proxy: 146.59.202.70:80:France
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: France
+Country: Senegal
+
+Protocol: http
+Proxy: 80.249.112.162:80:Iran
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Iran
 
 Protocol: http
 Proxy: 221.231.13.198:1080:China
@@ -143,12 +167,20 @@ Server: N/A
 Country: China
 
 Protocol: http
-Proxy: 135.181.154.225:80:Finland
+Proxy: 217.64.149.146:8118:Sweden
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Finland
+Country: Sweden
+
+Protocol: http
+Proxy: 103.118.47.243:8080:Cambodia
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Cambodia
 
 Protocol: http
 Proxy: 195.114.209.50:80:Spain
@@ -160,11 +192,19 @@ Country: Spain
 
 Protocol: http
 Proxy: 68.188.93.171:8080:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: http
+Proxy: 103.216.49.233:8080:Cambodia
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: United States
+Country: Cambodia
 
 Protocol: http
 Proxy: 31.148.207.153:80:Ukraine
@@ -175,12 +215,36 @@ Server: N/A
 Country: Ukraine
 
 Protocol: http
-Proxy: 78.28.152.111:80:Bosnia and Herzegovina
+Proxy: 103.216.50.11:8080:Cambodia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
+Country: Cambodia
+
+Protocol: http
+Proxy: 150.136.4.250:3128:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: http
+Proxy: 78.28.152.111:80:Bosnia and Herzegovina
+Status: working
+IP: None
+Anon: elite
+Server: None
 Country: Bosnia and Herzegovina
+
+Protocol: http
+Proxy: 110.12.211.140:80:South Korea
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: South Korea
 
 Protocol: http
 Proxy: 183.215.23.242:9091:China
@@ -223,12 +287,20 @@ Server: N/A
 Country: Ukraine
 
 Protocol: http
-Proxy: 70.90.138.109:8080:United States
+Proxy: 185.118.153.110:8080:Iran
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: United States
+Country: Iran
+
+Protocol: http
+Proxy: 103.83.178.222:8080:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
 
 Protocol: http
 Proxy: 103.49.114.195:8080:Bangladesh
@@ -247,12 +319,12 @@ Server: N/A
 Country: Colombia
 
 Protocol: http
-Proxy: 115.147.20.176:8082:Philippines
+Proxy: 213.149.182.98:8080:Cyprus
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Philippines
+Country: Cyprus
 
 Protocol: http
 Proxy: 200.63.107.118:8089:Ecuador
@@ -263,12 +335,36 @@ Server: N/A
 Country: Ecuador
 
 Protocol: http
-Proxy: 202.74.245.83:5020:Bangladesh
+Proxy: 103.13.204.89:8083:Indonesia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Bangladesh
+Country: Indonesia
+
+Protocol: http
+Proxy: 79.143.177.29:21972:Germany
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Germany
+
+Protocol: http
+Proxy: 177.55.247.174:8080:Brazil
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Brazil
+
+Protocol: http
+Proxy: 103.250.130.104:1111:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
 
 Protocol: http
 Proxy: 103.172.42.237:8080:Indonesia
@@ -276,6 +372,14 @@ Status: working
 IP: None
 Anon: transparent
 Server: mikrotik
+Country: Indonesia
+
+Protocol: http
+Proxy: 103.75.96.70:8080:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
 Country: Indonesia
 
 Protocol: http
@@ -287,12 +391,20 @@ Server: N/A
 Country: Indonesia
 
 Protocol: http
-Proxy: 103.54.36.90:8674:Bangladesh
+Proxy: 103.63.190.72:8080:Cambodia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Bangladesh
+Country: Cambodia
+
+Protocol: http
+Proxy: 191.37.4.218:8085:Brazil
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Brazil
 
 Protocol: http
 Proxy: 85.118.117.165:8080:Georgia
@@ -319,12 +431,20 @@ Server: N/A
 Country: Nepal
 
 Protocol: http
-Proxy: 61.79.73.225:80:South Korea
+Proxy: 198.74.51.79:8888:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: http
+Proxy: 203.95.198.35:8080:Cambodia
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: South Korea
+Country: Cambodia
 
 Protocol: http
 Proxy: 103.174.238.105:8090:Indonesia
@@ -333,46 +453,6 @@ IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Indonesia
-
-Protocol: http
-Proxy: 60.188.102.225:18080:China
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: China
-
-Protocol: http
-Proxy: 165.16.27.42:1981:Libya
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Libya
-
-Protocol: http
-Proxy: 122.151.54.147:80:Australia
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Australia
-
-Protocol: http
-Proxy: 103.145.149.36:8080:Indonesia
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Indonesia
-
-Protocol: http
-Proxy: 116.125.141.115:80:South Korea
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: South Korea
 
 Protocol: http
 Proxy: 103.144.18.108:9000:Indonesia
@@ -391,22 +471,6 @@ Server: N/A
 Country: India
 
 Protocol: http
-Proxy: 103.217.224.27:8085:Indonesia
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Indonesia
-
-Protocol: http
-Proxy: 159.224.232.194:8888:Ukraine
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Ukraine
-
-Protocol: http
 Proxy: 27.116.21.46:8080:India
 Status: not working
 IP: 127.0.0.1
@@ -415,12 +479,12 @@ Server: N/A
 Country: India
 
 Protocol: http
-Proxy: 167.99.124.118:80:United States
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: United States
+Proxy: 27.254.99.183:8118:Thailand
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Thailand
 
 Protocol: http
 Proxy: 187.251.222.69:8080:Mexico
@@ -429,14 +493,6 @@ IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Mexico
-
-Protocol: http
-Proxy: 47.242.47.64:8888:Hong Kong
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Hong Kong
 
 Protocol: http
 Proxy: 186.96.50.113:999:Mexico
@@ -453,6 +509,14 @@ IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Hungary
+
+Protocol: http
+Proxy: 103.56.205.84:8080:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
 
 Protocol: http
 Proxy: 47.91.104.88:3128:United Arab Emirates
@@ -479,22 +543,6 @@ Server: N/A
 Country: Iraq
 
 Protocol: http
-Proxy: 77.232.128.191:80:Russia
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Russia
-
-Protocol: http
-Proxy: 101.109.143.181:8080:Thailand
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Thailand
-
-Protocol: http
 Proxy: 38.45.46.2:6332:Dominican Republic
 Status: not working
 IP: 127.0.0.1
@@ -517,14 +565,6 @@ IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Indonesia
-
-Protocol: http
-Proxy: 47.88.18.204:8023:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
 
 Protocol: http
 Proxy: 89.221.215.128:80:Czechia
@@ -567,6 +607,14 @@ Server: N/A
 Country: Indonesia
 
 Protocol: http
+Proxy: 47.251.43.115:33333:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: http
 Proxy: 103.162.62.92:8080:Indonesia
 Status: not working
 IP: 127.0.0.1
@@ -591,31 +639,23 @@ Server: N/A
 Country: Libya
 
 Protocol: http
-Proxy: 187.19.200.217:8090:Brazil
+Proxy: 139.162.78.109:8080:Japan
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Brazil
+Country: Japan
 
 Protocol: http
-Proxy: 51.159.66.158:3128:France
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: France
-
-Protocol: http
-Proxy: 173.249.23.14:80:Germany
+Proxy: 27.147.185.219:8090:Bangladesh
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Germany
+Country: Bangladesh
 
 Protocol: http
-Proxy: 103.156.233.165:8080:Indonesia
+Proxy: 27.124.83.229:8080:Indonesia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -623,12 +663,12 @@ Server: N/A
 Country: Indonesia
 
 Protocol: http
-Proxy: 186.86.143.161:999:Colombia
+Proxy: 36.88.13.186:3129:Indonesia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Colombia
+Country: Indonesia
 
 Protocol: http
 Proxy: 47.90.205.231:33333:United States
@@ -639,19 +679,19 @@ Server: N/A
 Country: United States
 
 Protocol: http
-Proxy: 110.34.1.178:7777:Nepal
+Proxy: 78.130.246.65:1881:Bulgaria
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Nepal
+Country: Bulgaria
 
 Protocol: http
 Proxy: 62.210.15.199:80:France
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
+Status: working
+IP: None
+Anon: elite
+Server: None
 Country: France
 
 Protocol: http
@@ -669,6 +709,14 @@ IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Indonesia
+
+Protocol: http
+Proxy: 41.254.48.54:19333:Libya
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Libya
 
 Protocol: http
 Proxy: 51.89.255.67:80:United Kingdom
@@ -703,6 +751,22 @@ Server: N/A
 Country: Indonesia
 
 Protocol: http
+Proxy: 181.224.224.225:999:Peru
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Peru
+
+Protocol: http
+Proxy: 67.206.213.202:3120:Puerto Rico
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Puerto Rico
+
+Protocol: http
 Proxy: 45.174.191.19:20183:Brazil
 Status: not working
 IP: 127.0.0.1
@@ -727,12 +791,12 @@ Server: N/A
 Country: Indonesia
 
 Protocol: http
-Proxy: 181.64.75.158:999:Peru
+Proxy: 82.64.186.155:8080:France
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Peru
+Country: France
 
 Protocol: http
 Proxy: 27.67.54.178:8080:Vietnam
@@ -741,22 +805,6 @@ IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Vietnam
-
-Protocol: http
-Proxy: 91.107.196.144:3128:Germany
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Germany
-
-Protocol: http
-Proxy: 124.105.48.232:8082:Philippines
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Philippines
 
 Protocol: http
 Proxy: 103.163.134.95:8090:Indonesia
@@ -768,11 +816,19 @@ Country: Indonesia
 
 Protocol: http
 Proxy: 112.78.44.238:1111:Indonesia
+Status: working
+IP: None
+Anon: transparent
+Server: mikrotik
+Country: Indonesia
+
+Protocol: http
+Proxy: 84.255.40.228:8998:Malta
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Indonesia
+Country: Malta
 
 Protocol: http
 Proxy: 103.168.254.138:8086:Indonesia
@@ -791,20 +847,20 @@ Server: N/A
 Country: United Arab Emirates
 
 Protocol: http
-Proxy: 103.41.35.162:58080:India
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: India
-
-Protocol: http
 Proxy: 103.247.22.151:7777:Indonesia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Indonesia
+
+Protocol: http
+Proxy: 179.228.17.8:8080:Brazil
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Brazil
 
 Protocol: http
 Proxy: 119.18.149.147:5020:Bangladesh
@@ -831,36 +887,20 @@ Server: N/A
 Country: Indonesia
 
 Protocol: http
-Proxy: 36.91.15.241:8080:Indonesia
+Proxy: 181.192.2.23:8080:Argentina
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Indonesia
+Country: Argentina
 
 Protocol: http
-Proxy: 190.83.15.21:999:Ecuador
+Proxy: 119.235.112.42:3128:Turkmenistan
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Ecuador
-
-Protocol: http
-Proxy: 176.9.238.155:16379:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: http
-Proxy: 121.101.131.67:1111:Indonesia
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Indonesia
+Country: Turkmenistan
 
 Protocol: http
 Proxy: 103.70.93.77:8080:Indonesia
@@ -887,7 +927,7 @@ Server: N/A
 Country: Russia
 
 Protocol: http
-Proxy: 203.190.46.159:3127:Indonesia
+Proxy: 101.255.210.2:1111:Indonesia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -895,12 +935,36 @@ Server: N/A
 Country: Indonesia
 
 Protocol: http
-Proxy: 161.35.49.68:80:United States
+Proxy: 103.118.175.42:8080:Singapore
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Singapore
+
+Protocol: http
+Proxy: 183.88.214.44:8080:Thailand
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Thailand
+
+Protocol: http
+Proxy: 103.208.102.6:8080:Indonesia
 Status: working
 IP: None
-Anon: elite
-Server: None
-Country: United States
+Anon: transparent
+Server: mikrotik
+Country: Indonesia
+
+Protocol: http
+Proxy: 190.14.251.108:999:Colombia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Colombia
 
 Protocol: http
 Proxy: 103.186.204.52:8089:Indonesia
@@ -911,6 +975,14 @@ Server: N/A
 Country: Indonesia
 
 Protocol: http
+Proxy: 168.126.68.80:80:South Korea
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: South Korea
+
+Protocol: http
 Proxy: 116.254.99.14:8080:Indonesia
 Status: not working
 IP: 127.0.0.1
@@ -919,12 +991,28 @@ Server: N/A
 Country: Indonesia
 
 Protocol: http
-Proxy: 179.41.8.151:80:Argentina
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Argentina
+Proxy: 114.130.154.118:58080:Bangladesh
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Bangladesh
+
+Protocol: http
+Proxy: 210.79.146.82:8085:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
+
+Protocol: http
+Proxy: 118.175.30.26:8080:Thailand
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Thailand
 
 Protocol: http
 Proxy: 162.223.90.130:80:United States
@@ -959,12 +1047,12 @@ Server: N/A
 Country: Hungary
 
 Protocol: http
-Proxy: 119.47.90.221:8080:Indonesia
+Proxy: 200.10.29.129:9991:Colombia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Indonesia
+Country: Colombia
 
 Protocol: http
 Proxy: 82.102.10.253:80:United Kingdom
@@ -975,7 +1063,7 @@ Server: N/A
 Country: United Kingdom
 
 Protocol: http
-Proxy: 103.156.140.203:8080:Indonesia
+Proxy: 103.155.196.40:8080:Indonesia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -983,12 +1071,12 @@ Server: N/A
 Country: Indonesia
 
 Protocol: http
-Proxy: 75.128.125.149:8080:United States
+Proxy: 89.26.83.25:8080:Austria
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: United States
+Country: Austria
 
 Protocol: http
 Proxy: 103.88.90.129:8080:Indonesia
@@ -1031,6 +1119,14 @@ Server: N/A
 Country: Bangladesh
 
 Protocol: http
+Proxy: 187.190.127.212:8081:Mexico
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Mexico
+
+Protocol: http
 Proxy: 187.111.144.102:8080:Brazil
 Status: not working
 IP: 127.0.0.1
@@ -1055,14 +1151,6 @@ Server: N/A
 Country: India
 
 Protocol: http
-Proxy: 202.148.16.147:8080:Indonesia
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Indonesia
-
-Protocol: http
 Proxy: 103.26.110.125:84:India
 Status: not working
 IP: 127.0.0.1
@@ -1071,12 +1159,44 @@ Server: N/A
 Country: India
 
 Protocol: http
+Proxy: 182.253.39.242:8080:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
+
+Protocol: http
 Proxy: 176.36.190.253:8080:Ukraine
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Ukraine
+
+Protocol: http
+Proxy: 45.235.200.32:4000:Brazil
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Brazil
+
+Protocol: http
+Proxy: 103.158.121.66:1080:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
+
+Protocol: http
+Proxy: 27.147.139.225:58080:Bangladesh
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Bangladesh
 
 Protocol: http
 Proxy: 103.70.170.163:8080:Bangladesh
@@ -1095,12 +1215,36 @@ Server: N/A
 Country: Russia
 
 Protocol: http
-Proxy: 180.191.40.160:8082:Philippines
+Proxy: 103.139.126.31:8080:Indonesia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Philippines
+Country: Indonesia
+
+Protocol: http
+Proxy: 103.182.213.65:8080:Bangladesh
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Bangladesh
+
+Protocol: http
+Proxy: 41.254.56.34:1981:Libya
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Libya
+
+Protocol: http
+Proxy: 32.142.206.26:9081:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
 
 Protocol: http
 Proxy: 66.211.155.34:8080:United States
@@ -1127,20 +1271,20 @@ Server: N/A
 Country: Indonesia
 
 Protocol: http
-Proxy: 110.164.128.124:8080:Thailand
+Proxy: 103.199.139.14:83:India
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Thailand
+Country: India
 
 Protocol: http
-Proxy: 211.251.236.253:80:South Korea
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: South Korea
+Proxy: 182.155.254.159:80:Taiwan
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Taiwan
 
 Protocol: http
 Proxy: 177.93.48.43:999:Colombia
@@ -1159,12 +1303,20 @@ Server: N/A
 Country: Türkiye
 
 Protocol: http
-Proxy: 35.215.216.90:80:Brazil
+Proxy: 103.87.148.40:1111:Indonesia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Brazil
+Country: Indonesia
+
+Protocol: http
+Proxy: 193.105.123.195:8123:Azerbaijan
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Azerbaijan
 
 Protocol: http
 Proxy: 103.76.151.74:8089:Indonesia
@@ -1207,20 +1359,20 @@ Server: N/A
 Country: Indonesia
 
 Protocol: http
-Proxy: 185.139.56.133:6961:Georgia
+Proxy: 102.68.128.211:8080:Libya
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Georgia
+Country: Libya
 
 Protocol: http
-Proxy: 122.54.147.110:8082:Philippines
+Proxy: 103.70.93.70:8080:Indonesia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Philippines
+Country: Indonesia
 
 Protocol: http
 Proxy: 103.105.76.100:8080:Indonesia
@@ -1229,6 +1381,14 @@ IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Indonesia
+
+Protocol: http
+Proxy: 120.28.189.82:8181:Philippines
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Philippines
 
 Protocol: http
 Proxy: 103.173.139.22:8080:Indonesia
@@ -1247,6 +1407,14 @@ Server: N/A
 Country: Colombia
 
 Protocol: http
+Proxy: 38.45.32.131:999:Venezuela
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Venezuela
+
+Protocol: http
 Proxy: 223.25.110.227:8080:Indonesia
 Status: not working
 IP: 127.0.0.1
@@ -1261,6 +1429,14 @@ IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: China
+
+Protocol: http
+Proxy: 222.127.55.214:5050:Philippines
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Philippines
 
 Protocol: http
 Proxy: 58.147.186.226:3125:Indonesia
@@ -1311,15 +1487,7 @@ Server: N/A
 Country: Nigeria
 
 Protocol: http
-Proxy: 177.234.227.147:999:Ecuador
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Ecuador
-
-Protocol: http
-Proxy: 103.153.136.93:8080:Indonesia
+Proxy: 103.131.18.58:8080:Indonesia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -1327,11 +1495,19 @@ Server: N/A
 Country: Indonesia
 
 Protocol: http
-Proxy: 103.156.248.45:8080:Indonesia
-Status: working
-IP: None
-Anon: transparent
-Server: mikrotik
+Proxy: 179.125.51.54:27234:Brazil
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Brazil
+
+Protocol: http
+Proxy: 103.153.136.93:8080:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
 Country: Indonesia
 
 Protocol: http
@@ -1343,12 +1519,28 @@ Server: N/A
 Country: Indonesia
 
 Protocol: http
-Proxy: 183.88.231.188:34599:Thailand
+Proxy: 43.251.84.242:8080:Bangladesh
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Thailand
+Country: Bangladesh
+
+Protocol: http
+Proxy: 89.46.249.253:53018:United Kingdom
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United Kingdom
+
+Protocol: http
+Proxy: 177.152.94.37:8080:Brazil
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Brazil
 
 Protocol: http
 Proxy: 119.148.61.130:8080:Bangladesh
@@ -1357,6 +1549,14 @@ IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Bangladesh
+
+Protocol: http
+Proxy: 45.65.227.97:999:Argentina
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Argentina
 
 Protocol: http
 Proxy: 37.111.52.41:8080:Myanmar
@@ -1383,6 +1583,14 @@ Server: N/A
 Country: Montenegro
 
 Protocol: http
+Proxy: 158.178.203.159:3128:France
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: France
+
+Protocol: http
 Proxy: 207.244.254.27:7001:United States
 Status: not working
 IP: 127.0.0.1
@@ -1399,14 +1607,6 @@ Server: N/A
 Country: United States
 
 Protocol: http
-Proxy: 186.0.144.141:9595:Brazil
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Brazil
-
-Protocol: http
 Proxy: 180.190.200.77:8082:Philippines
 Status: not working
 IP: 127.0.0.1
@@ -1415,7 +1615,31 @@ Server: N/A
 Country: Philippines
 
 Protocol: http
-Proxy: 36.66.130.147:8080:Indonesia
+Proxy: 4.247.152.147:3128:India
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: India
+
+Protocol: http
+Proxy: 188.112.179.204:80:Latvia
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Latvia
+
+Protocol: http
+Proxy: 77.83.246.25:80:Poland
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Poland
+
+Protocol: http
+Proxy: 27.124.93.197:8080:Indonesia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -1429,14 +1653,6 @@ IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Libya
-
-Protocol: http
-Proxy: 185.89.156.2:44224:Albania
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Albania
 
 Protocol: http
 Proxy: 36.67.114.94:8187:Indonesia
@@ -1471,28 +1687,20 @@ Server: N/A
 Country: Cambodia
 
 Protocol: http
+Proxy: 122.54.105.109:8082:Philippines
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Philippines
+
+Protocol: http
 Proxy: 159.255.163.153:47193:Iraq
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Iraq
-
-Protocol: http
-Proxy: 103.136.82.252:83:India
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: India
-
-Protocol: http
-Proxy: 190.6.56.133:8080:Venezuela
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Venezuela
 
 Protocol: http
 Proxy: 109.238.181.53:8083:Iran
@@ -1503,36 +1711,12 @@ Server: N/A
 Country: Iran
 
 Protocol: http
-Proxy: 66.29.154.105:3128:United States
+Proxy: 183.234.215.11:8443:China
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: United States
-
-Protocol: http
-Proxy: 103.158.162.18:8080:Indonesia
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Indonesia
-
-Protocol: http
-Proxy: 103.88.239.178:84:India
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: India
-
-Protocol: http
-Proxy: 190.186.1.126:999:Bolivia
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Bolivia
+Country: China
 
 Protocol: http
 Proxy: 103.204.82.34:3212:Bangladesh
@@ -1541,14 +1725,6 @@ IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Bangladesh
-
-Protocol: http
-Proxy: 79.174.12.190:80:Russia
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Russia
 
 Protocol: http
 Proxy: 103.231.177.120:5020:Bangladesh
@@ -1575,12 +1751,36 @@ Server: N/A
 Country: Indonesia
 
 Protocol: http
-Proxy: 102.134.98.222:8081:Burundi
+Proxy: 170.150.209.40:8080:Brazil
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Burundi
+Country: Brazil
+
+Protocol: http
+Proxy: 190.95.132.189:999:Ecuador
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Ecuador
+
+Protocol: http
+Proxy: 177.93.40.57:999:Colombia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Colombia
+
+Protocol: http
+Proxy: 38.52.221.66:8080:Dominican Republic
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Dominican Republic
 
 Protocol: http
 Proxy: 102.164.252.150:8080:Equatorial Guinea
@@ -1600,10 +1800,10 @@ Country: Philippines
 
 Protocol: http
 Proxy: 89.117.130.19:80:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
+Status: working
+IP: None
+Anon: elite
+Server: None
 Country: United States
 
 Protocol: http
@@ -1615,12 +1815,20 @@ Server: N/A
 Country: Peru
 
 Protocol: http
-Proxy: 103.189.249.207:8090:Indonesia
+Proxy: 103.165.215.78:8080:Indonesia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Indonesia
+
+Protocol: http
+Proxy: 103.48.70.57:83:India
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: India
 
 Protocol: http
 Proxy: 43.132.219.102:80:Hong Kong
@@ -1639,6 +1847,14 @@ Server: N/A
 Country: Iraq
 
 Protocol: http
+Proxy: 189.193.225.10:999:Mexico
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Mexico
+
+Protocol: http
 Proxy: 27.147.175.115:8080:Bangladesh
 Status: not working
 IP: 127.0.0.1
@@ -1653,6 +1869,14 @@ IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Bangladesh
+
+Protocol: http
+Proxy: 38.253.126.18:8080:Brazil
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Brazil
 
 Protocol: http
 Proxy: 192.9.237.224:3128:United States
@@ -1671,20 +1895,12 @@ Server: N/A
 Country: Indonesia
 
 Protocol: http
-Proxy: 63.143.57.119:80:United States
+Proxy: 152.228.154.20:80:France
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: United States
-
-Protocol: http
-Proxy: 103.87.148.21:8080:Indonesia
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Indonesia
+Country: France
 
 Protocol: http
 Proxy: 103.168.149.3:8181:Indonesia
@@ -1695,20 +1911,20 @@ Server: N/A
 Country: Indonesia
 
 Protocol: http
+Proxy: 109.236.83.153:8888:The Netherlands
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: The Netherlands
+
+Protocol: http
 Proxy: 39.109.113.97:4090:Hong Kong
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Hong Kong
-
-Protocol: http
-Proxy: 103.180.123.93:8080:Indonesia
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Indonesia
 
 Protocol: http
 Proxy: 185.138.120.109:8080:Iraq
@@ -1727,31 +1943,7 @@ Server: N/A
 Country: Uganda
 
 Protocol: http
-Proxy: 182.253.7.146:8180:Indonesia
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Indonesia
-
-Protocol: http
 Proxy: 36.92.28.34:8080:Indonesia
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Indonesia
-
-Protocol: http
-Proxy: 223.25.110.226:8080:Indonesia
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Indonesia
-
-Protocol: http
-Proxy: 203.190.46.99:8080:Indonesia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -1767,20 +1959,20 @@ Server: N/A
 Country: Peru
 
 Protocol: http
-Proxy: 45.174.250.16:999:Mexico
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Mexico
-
-Protocol: http
 Proxy: 103.147.246.185:3127:Indonesia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Indonesia
+
+Protocol: http
+Proxy: 114.249.232.20:8000:China
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: China
 
 Protocol: http
 Proxy: 211.78.63.115:80:Taiwan
@@ -1791,12 +1983,12 @@ Server: N/A
 Country: Taiwan
 
 Protocol: http
-Proxy: 189.124.85.77:33333:Brazil
+Proxy: 180.89.56.240:3128:China
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Brazil
+Country: China
 
 Protocol: http
 Proxy: 103.144.147.18:8080:Indonesia
@@ -1815,6 +2007,22 @@ Server: N/A
 Country: Brazil
 
 Protocol: http
+Proxy: 177.200.80.6:11221:Brazil
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Brazil
+
+Protocol: http
+Proxy: 182.93.85.225:8080:Nepal
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Nepal
+
+Protocol: http
 Proxy: 23.122.184.9:8888:United States
 Status: not working
 IP: 127.0.0.1
@@ -1831,6 +2039,14 @@ Server: N/A
 Country: Georgia
 
 Protocol: http
+Proxy: 74.62.179.122:8080:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: http
 Proxy: 154.73.28.89:8080:Libya
 Status: not working
 IP: 127.0.0.1
@@ -1839,20 +2055,20 @@ Server: N/A
 Country: Libya
 
 Protocol: http
-Proxy: 189.195.139.178:999:Mexico
+Proxy: 103.191.58.60:8080:Indonesia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Mexico
+Country: Indonesia
 
 Protocol: http
-Proxy: 161.49.215.28:10101:Philippines
+Proxy: 103.81.115.210:8080:Myanmar
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Philippines
+Country: Myanmar
 
 Protocol: http
 Proxy: 103.76.151.90:8090:Indonesia
@@ -1863,27 +2079,51 @@ Server: N/A
 Country: Indonesia
 
 Protocol: http
-Proxy: 85.117.60.133:8080:Georgia
+Proxy: 103.177.235.133:84:India
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Georgia
+Country: India
 
 Protocol: http
-Proxy: 38.7.1.185:999:Venezuela
+Proxy: 103.147.250.198:83:India
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Venezuela
+Country: India
+
+Protocol: http
+Proxy: 183.196.80.217:8060:China
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: China
+
+Protocol: http
+Proxy: 103.174.237.67:8080:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
+
+Protocol: http
+Proxy: 187.32.246.82:3128:Brazil
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Brazil
 
 Protocol: http
 Proxy: 103.188.173.153:8080:Indonesia
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
+Status: working
+IP: None
+Anon: elite
+Server: mikrotik
 Country: Indonesia
 
 Protocol: http
@@ -1896,10 +2136,10 @@ Country: United Arab Emirates
 
 Protocol: http
 Proxy: 219.79.87.158:8080:Hong Kong
-Status: working
-IP: None
-Anon: elite
-Server: None
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
 Country: Hong Kong
 
 Protocol: http
@@ -1911,11 +2151,19 @@ Server: N/A
 Country: Guatemala
 
 Protocol: http
+Proxy: 45.4.194.230:8080:Brazil
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Brazil
+
+Protocol: http
 Proxy: 196.11.183.160:8080:South Africa
-Status: working
-IP: None
-Anon: elite
-Server: None
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
 Country: South Africa
 
 Protocol: http
@@ -1933,14 +2181,6 @@ IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: United States
-
-Protocol: http
-Proxy: 113.192.31.5:1111:Indonesia
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Indonesia
 
 Protocol: http
 Proxy: 23.82.137.157:80:United States
@@ -1967,14 +2207,6 @@ Server: N/A
 Country: Indonesia
 
 Protocol: http
-Proxy: 103.41.34.185:58080:India
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: India
-
-Protocol: http
 Proxy: 41.209.10.205:8080:Kenya
 Status: not working
 IP: 127.0.0.1
@@ -1991,12 +2223,20 @@ Server: N/A
 Country: Indonesia
 
 Protocol: http
-Proxy: 169.56.21.242:8080:United States
+Proxy: 103.63.190.107:8080:Cambodia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: United States
+Country: Cambodia
+
+Protocol: http
+Proxy: 103.191.218.75:8080:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
 
 Protocol: http
 Proxy: 181.13.53.38:8081:Argentina
@@ -2007,12 +2247,20 @@ Server: N/A
 Country: Argentina
 
 Protocol: http
-Proxy: 63.143.57.116:80:United States
+Proxy: 185.237.85.234:8080:Iran
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: United States
+Country: Iran
+
+Protocol: http
+Proxy: 103.167.4.10:8080:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
 
 Protocol: http
 Proxy: 103.191.218.255:8087:Indonesia
@@ -2031,28 +2279,12 @@ Server: N/A
 Country: Finland
 
 Protocol: http
-Proxy: 4.175.200.138:8080:The Netherlands
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: The Netherlands
-
-Protocol: http
 Proxy: 172.191.74.198:8080:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: United States
-
-Protocol: http
-Proxy: 129.18.210.10:8080:Nigeria
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Nigeria
 
 Protocol: http
 Proxy: 200.110.209.16:9080:Argentina
@@ -2071,20 +2303,12 @@ Server: N/A
 Country: Bangladesh
 
 Protocol: http
-Proxy: 103.244.170.61:8080:India
+Proxy: 103.166.158.33:8080:Indonesia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: India
-
-Protocol: http
-Proxy: 91.107.253.178:3128:Germany
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Germany
+Country: Indonesia
 
 Protocol: http
 Proxy: 222.127.153.184:8082:Philippines
@@ -2111,6 +2335,14 @@ Server: N/A
 Country: Venezuela
 
 Protocol: http
+Proxy: 126.209.3.250:8082:Philippines
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Philippines
+
+Protocol: http
 Proxy: 120.28.212.79:8080:Philippines
 Status: not working
 IP: 127.0.0.1
@@ -2127,28 +2359,60 @@ Server: N/A
 Country: Ecuador
 
 Protocol: http
-Proxy: 103.35.110.74:5020:Bangladesh
+Proxy: 181.79.234.90:999:Honduras
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Bangladesh
+Country: Honduras
 
 Protocol: http
-Proxy: 187.188.16.28:999:Mexico
+Proxy: 181.129.147.162:8080:Colombia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Mexico
+Country: Colombia
 
 Protocol: http
-Proxy: 180.74.171.206:8080:Malaysia
+Proxy: 105.174.40.54:8080:Angola
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Malaysia
+Country: Angola
+
+Protocol: http
+Proxy: 190.145.227.114:999:Colombia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Colombia
+
+Protocol: http
+Proxy: 103.53.28.61:8080:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
+
+Protocol: http
+Proxy: 103.165.155.161:1111:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
+
+Protocol: http
+Proxy: 203.128.80.178:8099:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
 
 Protocol: http
 Proxy: 116.212.140.118:8080:Cambodia
@@ -2159,12 +2423,12 @@ Server: N/A
 Country: Cambodia
 
 Protocol: http
-Proxy: 200.119.218.94:999:Bolivia
+Proxy: 188.125.169.100:8080:Türkiye
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Bolivia
+Country: Türkiye
 
 Protocol: http
 Proxy: 103.171.240.174:8080:Indonesia
@@ -2175,36 +2439,12 @@ Server: N/A
 Country: Indonesia
 
 Protocol: http
-Proxy: 192.145.173.101:8080:Somalia
+Proxy: 45.4.201.141:999:Ecuador
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Somalia
-
-Protocol: http
-Proxy: 131.100.48.105:999:Colombia
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Colombia
-
-Protocol: http
-Proxy: 103.175.202.182:8090:Indonesia
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Indonesia
-
-Protocol: http
-Proxy: 181.209.95.205:999:Argentina
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Argentina
+Country: Ecuador
 
 Protocol: http
 Proxy: 103.124.136.207:8080:Indonesia
@@ -2223,6 +2463,22 @@ Server: N/A
 Country: Bangladesh
 
 Protocol: http
+Proxy: 101.255.167.174:8080:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
+
+Protocol: http
+Proxy: 177.93.49.202:999:Colombia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Colombia
+
+Protocol: http
 Proxy: 103.75.84.237:8080:Indonesia
 Status: not working
 IP: 127.0.0.1
@@ -2239,12 +2495,12 @@ Server: N/A
 Country: Colombia
 
 Protocol: http
-Proxy: 177.93.39.75:999:Colombia
+Proxy: 103.216.50.223:8080:Cambodia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Colombia
+Country: Cambodia
 
 Protocol: http
 Proxy: 106.3.136.86:8118:China
@@ -2253,14 +2509,6 @@ IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: China
-
-Protocol: http
-Proxy: 103.156.161.193:8080:Indonesia
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Indonesia
 
 Protocol: http
 Proxy: 43.252.107.119:7777:Indonesia
@@ -2320,27 +2568,19 @@ Country: Colombia
 
 Protocol: http
 Proxy: 201.222.83.146:999:Bolivia
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Bolivia
-
-Protocol: http
-Proxy: 123.200.14.194:8080:Bangladesh
 Status: working
 IP: None
 Anon: transparent
 Server: mikrotik
-Country: Bangladesh
+Country: Bolivia
 
 Protocol: http
-Proxy: 36.93.8.34:11000:Indonesia
+Proxy: 123.200.14.194:8080:Bangladesh
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Indonesia
+Country: Bangladesh
 
 Protocol: http
 Proxy: 190.83.15.241:999:Ecuador
@@ -2359,6 +2599,22 @@ Server: N/A
 Country: Türkiye
 
 Protocol: http
+Proxy: 117.177.63.75:8118:China
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: China
+
+Protocol: http
+Proxy: 103.239.253.118:58080:Bangladesh
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Bangladesh
+
+Protocol: http
 Proxy: 116.97.240.147:4995:Vietnam
 Status: not working
 IP: 127.0.0.1
@@ -2367,12 +2623,20 @@ Server: N/A
 Country: Vietnam
 
 Protocol: http
-Proxy: 186.237.131.122:8080:Brazil
+Proxy: 45.70.202.160:999:Ecuador
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Brazil
+Country: Ecuador
+
+Protocol: http
+Proxy: 181.48.155.78:8003:Colombia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Colombia
 
 Protocol: http
 Proxy: 118.97.164.19:8080:Indonesia
@@ -2391,12 +2655,44 @@ Server: N/A
 Country: Indonesia
 
 Protocol: http
+Proxy: 91.236.156.30:8282:Ukraine
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Ukraine
+
+Protocol: http
 Proxy: 180.180.175.11:8080:Thailand
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Thailand
+
+Protocol: http
+Proxy: 160.248.80.91:8080:Poland
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Poland
+
+Protocol: http
+Proxy: 103.156.74.154:8080:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
+
+Protocol: http
+Proxy: 114.130.153.46:58080:Bangladesh
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Bangladesh
 
 Protocol: http
 Proxy: 167.249.29.218:999:Chile
@@ -2416,10 +2712,10 @@ Country: Puerto Rico
 
 Protocol: http
 Proxy: 183.88.212.129:8213:Thailand
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
+Status: working
+IP: None
+Anon: elite
+Server: None
 Country: Thailand
 
 Protocol: http
@@ -2463,6 +2759,22 @@ Server: N/A
 Country: Peru
 
 Protocol: http
+Proxy: 103.137.218.233:83:India
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: India
+
+Protocol: http
+Proxy: 103.123.235.42:8080:India
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: India
+
+Protocol: http
 Proxy: 103.118.46.176:8080:Cambodia
 Status: not working
 IP: 127.0.0.1
@@ -2479,7 +2791,15 @@ Server: N/A
 Country: Brazil
 
 Protocol: http
-Proxy: 103.48.71.70:83:India
+Proxy: 201.134.169.214:8205:Mexico
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Mexico
+
+Protocol: http
+Proxy: 103.125.160.178:83:India
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -2487,12 +2807,28 @@ Server: N/A
 Country: India
 
 Protocol: http
-Proxy: 103.153.246.141:8181:Indonesia
+Proxy: 45.123.142.5:8181:Indonesia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Indonesia
+
+Protocol: http
+Proxy: 103.156.221.212:8080:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
+
+Protocol: http
+Proxy: 103.159.46.14:83:India
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: India
 
 Protocol: http
 Proxy: 47.247.141.78:8080:India
@@ -2503,7 +2839,7 @@ Server: N/A
 Country: India
 
 Protocol: http
-Proxy: 103.153.246.54:8181:Indonesia
+Proxy: 103.164.235.18:8085:Indonesia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -2511,28 +2847,12 @@ Server: N/A
 Country: Indonesia
 
 Protocol: http
-Proxy: 94.43.164.242:8080:Georgia
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Georgia
-
-Protocol: http
-Proxy: 160.20.165.231:8587:Ecuador
+Proxy: 181.188.236.229:999:Ecuador
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Ecuador
-
-Protocol: http
-Proxy: 200.217.165.114:8080:Brazil
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Brazil
 
 Protocol: http
 Proxy: 157.20.244.77:8080:Indonesia
@@ -2541,14 +2861,6 @@ IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Indonesia
-
-Protocol: http
-Proxy: 196.251.195.157:8084:South Africa
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: South Africa
 
 Protocol: http
 Proxy: 103.234.27.194:8080:Bangladesh
@@ -2591,6 +2903,22 @@ Server: N/A
 Country: United States
 
 Protocol: http
+Proxy: 45.123.142.53:8181:Indonesia
+Status: working
+IP: None
+Anon: elite
+Server: mikrotik
+Country: Indonesia
+
+Protocol: http
+Proxy: 27.109.215.216:80:Macao
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Macao
+
+Protocol: http
 Proxy: 202.154.37.162:8080:Indonesia
 Status: not working
 IP: 127.0.0.1
@@ -2605,6 +2933,14 @@ IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: China
+
+Protocol: http
+Proxy: 177.93.49.203:999:Colombia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Colombia
 
 Protocol: http
 Proxy: 31.163.204.156:8080:Russia
@@ -2639,6 +2975,22 @@ Server: N/A
 Country: United States
 
 Protocol: http
+Proxy: 47.88.59.79:82:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: http
+Proxy: 103.88.239.118:82:India
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: India
+
+Protocol: http
 Proxy: 54.37.207.54:3128:France
 Status: not working
 IP: 127.0.0.1
@@ -2655,7 +3007,7 @@ Server: N/A
 Country: France
 
 Protocol: http
-Proxy: 181.198.64.115:999:Ecuador
+Proxy: 181.198.64.114:999:Ecuador
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -2663,12 +3015,20 @@ Server: N/A
 Country: Ecuador
 
 Protocol: http
-Proxy: 113.160.132.195:8080:Vietnam
+Proxy: 103.242.105.111:8080:Indonesia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Vietnam
+Country: Indonesia
+
+Protocol: http
+Proxy: 138.204.233.188:58080:Brazil
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Brazil
 
 Protocol: http
 Proxy: 200.34.227.28:8080:Brazil
@@ -2687,12 +3047,20 @@ Server: N/A
 Country: Colombia
 
 Protocol: http
-Proxy: 115.245.46.170:8080:India
+Proxy: 103.63.26.227:8080:Indonesia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: India
+Country: Indonesia
+
+Protocol: http
+Proxy: 203.210.85.215:3128:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
 
 Protocol: http
 Proxy: 63.143.57.120:80:United States
@@ -2703,12 +3071,12 @@ Server: N/A
 Country: United States
 
 Protocol: http
-Proxy: 63.143.57.115:80:United States
+Proxy: 85.30.219.207:8080:Russia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: United States
+Country: Russia
 
 Protocol: http
 Proxy: 176.9.239.181:80:Germany
@@ -2783,20 +3151,44 @@ Server: N/A
 Country: Indonesia
 
 Protocol: http
-Proxy: 189.85.82.38:3128:Brazil
+Proxy: 23.82.137.161:80:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Brazil
+Country: United States
 
 Protocol: http
-Proxy: 38.253.88.242:999:Dominican Republic
+Proxy: 23.82.137.156:80:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Dominican Republic
+Country: United States
+
+Protocol: http
+Proxy: 103.155.190.242:8080:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
+
+Protocol: http
+Proxy: 191.97.15.94:11201:Colombia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Colombia
+
+Protocol: http
+Proxy: 119.92.188.29:8080:Philippines
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Philippines
 
 Protocol: http
 Proxy: 103.228.119.77:3128:Indonesia
@@ -2823,14 +3215,6 @@ Server: N/A
 Country: Indonesia
 
 Protocol: http
-Proxy: 161.132.41.36:8080:Peru
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Peru
-
-Protocol: http
 Proxy: 79.106.108.132:8079:Albania
 Status: not working
 IP: 127.0.0.1
@@ -2847,12 +3231,28 @@ Server: N/A
 Country: Indonesia
 
 Protocol: http
-Proxy: 12.218.209.130:53281:United States
+Proxy: 36.67.99.31:7023:Indonesia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: United States
+Country: Indonesia
+
+Protocol: http
+Proxy: 38.52.208.3:999:Guatemala
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Guatemala
+
+Protocol: http
+Proxy: 79.175.138.142:3128:Iran
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Iran
 
 Protocol: http
 Proxy: 103.255.241.101:8080:Indonesia
@@ -2863,28 +3263,12 @@ Server: N/A
 Country: Indonesia
 
 Protocol: http
-Proxy: 80.78.68.87:8080:Albania
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Albania
-
-Protocol: http
 Proxy: 45.189.252.246:999:Mexico
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Mexico
-
-Protocol: http
-Proxy: 45.114.88.214:8080:Bangladesh
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Bangladesh
 
 Protocol: http
 Proxy: 181.209.82.203:999:Argentina
@@ -2912,11 +3296,19 @@ Country: Indonesia
 
 Protocol: http
 Proxy: 178.115.230.243:8080:Austria
+Status: working
+IP: None
+Anon: transparent
+Server: None
+Country: Austria
+
+Protocol: http
+Proxy: 208.163.39.218:53281:Jamaica
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Austria
+Country: Jamaica
 
 Protocol: http
 Proxy: 103.122.66.220:8080:Indonesia
@@ -2935,20 +3327,20 @@ Server: N/A
 Country: Indonesia
 
 Protocol: http
+Proxy: 61.118.38.234:60808:Japan
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Japan
+
+Protocol: http
 Proxy: 103.156.224.66:8080:Indonesia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Indonesia
-
-Protocol: http
-Proxy: 115.127.28.10:8674:Bangladesh
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Bangladesh
 
 Protocol: http
 Proxy: 103.122.1.69:8181:Indonesia
@@ -2991,6 +3383,14 @@ Server: N/A
 Country: Indonesia
 
 Protocol: http
+Proxy: 103.105.76.49:8080:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
+
+Protocol: http
 Proxy: 41.65.160.173:1976:Egypt
 Status: not working
 IP: 127.0.0.1
@@ -3013,6 +3413,30 @@ IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Nepal
+
+Protocol: http
+Proxy: 103.156.86.130:8080:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
+
+Protocol: http
+Proxy: 185.82.238.42:8888:Czechia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Czechia
+
+Protocol: http
+Proxy: 103.155.197.116:8080:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
 
 Protocol: http
 Proxy: 23.82.137.159:80:United States
@@ -3039,20 +3463,28 @@ Server: None
 Country: China
 
 Protocol: http
-Proxy: 113.160.133.32:8080:Vietnam
+Proxy: 103.169.189.202:9090:Indonesia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Vietnam
+Country: Indonesia
 
 Protocol: http
-Proxy: 45.249.122.54:8080:India
+Proxy: 181.174.228.186:999:Colombia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: India
+Country: Colombia
+
+Protocol: http
+Proxy: 192.203.0.70:999:Puerto Rico
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Puerto Rico
 
 Protocol: http
 Proxy: 103.139.98.67:8080:Indonesia
@@ -3087,14 +3519,6 @@ Server: N/A
 Country: Indonesia
 
 Protocol: http
-Proxy: 103.166.158.107:8080:Indonesia
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Indonesia
-
-Protocol: http
 Proxy: 103.144.18.55:1010:Indonesia
 Status: not working
 IP: 127.0.0.1
@@ -3119,14 +3543,6 @@ Server: N/A
 Country: Indonesia
 
 Protocol: http
-Proxy: 103.178.125.42:8080:Indonesia
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Indonesia
-
-Protocol: http
 Proxy: 187.94.248.32:15552:Brazil
 Status: not working
 IP: 127.0.0.1
@@ -3135,12 +3551,28 @@ Server: N/A
 Country: Brazil
 
 Protocol: http
+Proxy: 103.88.237.97:84:India
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: India
+
+Protocol: http
 Proxy: 38.183.146.125:8090:Indonesia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Indonesia
+
+Protocol: http
+Proxy: 201.47.88.19:3128:Brazil
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Brazil
 
 Protocol: http
 Proxy: 188.132.222.132:8080:Türkiye
@@ -3157,14 +3589,6 @@ IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Indonesia
-
-Protocol: http
-Proxy: 102.209.18.96:8080:Kenya
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Kenya
 
 Protocol: http
 Proxy: 157.15.66.108:8181:Indonesia
@@ -3191,7 +3615,7 @@ Server: N/A
 Country: Brazil
 
 Protocol: http
-Proxy: 103.76.108.90:8080:Indonesia
+Proxy: 157.66.16.48:8181:Indonesia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -3199,12 +3623,12 @@ Server: N/A
 Country: Indonesia
 
 Protocol: http
-Proxy: 157.66.16.48:8181:Indonesia
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Indonesia
+Proxy: 183.109.79.187:80:South Korea
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: South Korea
 
 Protocol: http
 Proxy: 170.81.242.234:999:Peru
@@ -3223,14 +3647,6 @@ Server: N/A
 Country: Singapore
 
 Protocol: http
-Proxy: 47.176.240.250:4228:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: http
 Proxy: 209.45.108.230:1011:Peru
 Status: not working
 IP: 127.0.0.1
@@ -3245,22 +3661,6 @@ IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: United States
-
-Protocol: http
-Proxy: 181.12.169.91:11201:Argentina
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Argentina
-
-Protocol: http
-Proxy: 159.89.208.15:4750:Singapore
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Singapore
 
 Protocol: http
 Proxy: 103.228.243.77:8080:Indonesia
@@ -3288,11 +3688,27 @@ Country: Indonesia
 
 Protocol: http
 Proxy: 103.39.51.156:8090:Indonesia
+Status: working
+IP: None
+Anon: transparent
+Server: mikrotik
+Country: Indonesia
+
+Protocol: http
+Proxy: 64.233.212.194:8080:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Indonesia
+Country: United States
+
+Protocol: http
+Proxy: 190.97.228.198:9999:Venezuela
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Venezuela
 
 Protocol: http
 Proxy: 5.30.176.207:8080:United Arab Emirates
@@ -3303,12 +3719,12 @@ Server: N/A
 Country: United Arab Emirates
 
 Protocol: http
-Proxy: 188.132.222.142:8080:Türkiye
+Proxy: 5.128.120.101:8181:Russia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Türkiye
+Country: Russia
 
 Protocol: http
 Proxy: 43.247.33.149:8080:Indonesia
@@ -3335,20 +3751,28 @@ Server: N/A
 Country: Indonesia
 
 Protocol: http
+Proxy: 103.130.80.50:8080:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
+
+Protocol: http
+Proxy: 103.242.104.195:8090:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
+
+Protocol: http
 Proxy: 188.132.150.66:8080:Türkiye
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Türkiye
-
-Protocol: http
-Proxy: 118.97.75.86:8080:Indonesia
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Indonesia
 
 Protocol: http
 Proxy: 118.99.96.174:8080:Indonesia
@@ -3360,11 +3784,35 @@ Country: Indonesia
 
 Protocol: http
 Proxy: 76.169.129.241:8080:United States
-Status: working
-IP: None
-Anon: elite
-Server: None
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
 Country: United States
+
+Protocol: http
+Proxy: 103.48.68.83:83:India
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: India
+
+Protocol: http
+Proxy: 190.211.172.182:999:Chile
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Chile
+
+Protocol: http
+Proxy: 37.98.219.183:8123:Poland
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Poland
 
 Protocol: http
 Proxy: 202.173.220.50:1122:Thailand
@@ -3383,12 +3831,36 @@ Server: N/A
 Country: United States
 
 Protocol: http
+Proxy: 43.224.116.125:8080:Bangladesh
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Bangladesh
+
+Protocol: http
 Proxy: 177.54.229.164:9292:Brazil
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Brazil
+
+Protocol: http
+Proxy: 103.112.212.57:82:India
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: India
+
+Protocol: http
+Proxy: 103.22.99.252:8080:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
 
 Protocol: http
 Proxy: 4.155.2.13:9400:United States
@@ -3399,14 +3871,6 @@ Server: N/A
 Country: United States
 
 Protocol: http
-Proxy: 103.41.88.6:83:India
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: India
-
-Protocol: http
 Proxy: 177.234.210.56:999:Ecuador
 Status: not working
 IP: 127.0.0.1
@@ -3415,12 +3879,20 @@ Server: N/A
 Country: Ecuador
 
 Protocol: http
-Proxy: 182.253.140.250:8080:Indonesia
+Proxy: 189.203.181.34:8080:Mexico
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Indonesia
+Country: Mexico
+
+Protocol: http
+Proxy: 185.32.6.131:8070:Poland
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Poland
 
 Protocol: http
 Proxy: 182.253.112.194:8080:Indonesia
@@ -3431,15 +3903,39 @@ Server: N/A
 Country: Indonesia
 
 Protocol: http
-Proxy: 196.20.125.149:8083:Algeria
+Proxy: 103.215.187.68:8080:Indonesia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Algeria
+Country: Indonesia
 
 Protocol: http
-Proxy: 119.82.242.200:8080:Indonesia
+Proxy: 4.155.2.13:9401:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: http
+Proxy: 103.36.11.246:8181:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
+
+Protocol: http
+Proxy: 113.161.59.136:8080:Vietnam
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Vietnam
+
+Protocol: http
+Proxy: 103.101.216.2:8080:Indonesia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -3455,12 +3951,20 @@ Server: N/A
 Country: Indonesia
 
 Protocol: http
-Proxy: 103.127.220.106:8181:Indonesia
+Proxy: 161.49.90.70:1337:Philippines
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Indonesia
+Country: Philippines
+
+Protocol: http
+Proxy: 103.181.92.250:83:India
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: India
 
 Protocol: http
 Proxy: 80.248.77.125:8081:Togo
@@ -3487,6 +3991,14 @@ Server: N/A
 Country: Brazil
 
 Protocol: http
+Proxy: 202.162.213.178:8080:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
+
+Protocol: http
 Proxy: 110.34.8.110:8080:Nepal
 Status: not working
 IP: 127.0.0.1
@@ -3495,12 +4007,20 @@ Server: N/A
 Country: Nepal
 
 Protocol: http
-Proxy: 157.119.222.22:8080:Indonesia
+Proxy: 170.81.242.235:999:Peru
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Indonesia
+Country: Peru
+
+Protocol: http
+Proxy: 186.215.87.194:10309:Brazil
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Brazil
 
 Protocol: http
 Proxy: 138.59.187.1:666:Brazil
@@ -3519,20 +4039,20 @@ Server: N/A
 Country: Pakistan
 
 Protocol: http
-Proxy: 186.148.181.69:999:Colombia
+Proxy: 188.132.221.189:8080:Türkiye
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Colombia
+Country: Türkiye
 
 Protocol: http
-Proxy: 188.132.221.189:8080:Türkiye
-Status: working
-IP: None
-Anon: transparent
-Server: mikrotik
-Country: Türkiye
+Proxy: 177.75.1.33:8080:Brazil
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Brazil
 
 Protocol: http
 Proxy: 190.186.216.60:999:Bolivia
@@ -3551,6 +4071,14 @@ Server: N/A
 Country: Bangladesh
 
 Protocol: http
+Proxy: 103.147.118.240:8080:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
+
+Protocol: http
 Proxy: 157.66.84.32:8181:Indonesia
 Status: not working
 IP: 127.0.0.1
@@ -3559,12 +4087,36 @@ Server: N/A
 Country: Indonesia
 
 Protocol: http
+Proxy: 103.35.109.205:58080:Bangladesh
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Bangladesh
+
+Protocol: http
 Proxy: 191.243.46.154:43241:Brazil
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Brazil
+
+Protocol: http
+Proxy: 45.133.107.246:81:Armenia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Armenia
+
+Protocol: http
+Proxy: 103.143.168.254:84:India
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: India
 
 Protocol: http
 Proxy: 103.148.45.60:8833:Indonesia
@@ -3591,6 +4143,22 @@ Server: N/A
 Country: Argentina
 
 Protocol: http
+Proxy: 45.179.193.167:999:Paraguay
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Paraguay
+
+Protocol: http
+Proxy: 103.22.99.235:8080:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
+
+Protocol: http
 Proxy: 103.122.1.172:8181:Indonesia
 Status: not working
 IP: 127.0.0.1
@@ -3599,15 +4167,55 @@ Server: N/A
 Country: Indonesia
 
 Protocol: http
-Proxy: 180.191.36.128:8181:Philippines
+Proxy: 148.66.6.212:80:Hong Kong
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Philippines
+Country: Hong Kong
+
+Protocol: http
+Proxy: 148.66.6.210:80:Hong Kong
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Hong Kong
 
 Protocol: http
 Proxy: 103.247.23.72:7777:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
+
+Protocol: http
+Proxy: 103.158.27.83:1212:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
+
+Protocol: http
+Proxy: 103.88.239.197:84:India
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: India
+
+Protocol: http
+Proxy: 188.134.91.83:8080:Russia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Russia
+
+Protocol: http
+Proxy: 157.15.66.100:8080:Indonesia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -3621,14 +4229,6 @@ IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Indonesia
-
-Protocol: http
-Proxy: 181.115.185.50:8080:Bolivia
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Bolivia
 
 Protocol: http
 Proxy: 223.130.23.18:8080:Indonesia
@@ -3647,28 +4247,12 @@ Server: N/A
 Country: France
 
 Protocol: http
-Proxy: 190.16.199.142:3128:Argentina
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Argentina
-
-Protocol: http
 Proxy: 102.222.62.111:8080:South Africa
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: South Africa
-
-Protocol: http
-Proxy: 187.61.98.7:8080:Brazil
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Brazil
 
 Protocol: http
 Proxy: 103.181.255.211:8080:Indonesia
@@ -3687,14 +4271,6 @@ Server: N/A
 Country: Vietnam
 
 Protocol: http
-Proxy: 188.132.150.78:8080:Türkiye
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Türkiye
-
-Protocol: http
 Proxy: 110.137.24.126:8080:Indonesia
 Status: not working
 IP: 127.0.0.1
@@ -3704,22 +4280,6 @@ Country: Indonesia
 
 Protocol: http
 Proxy: 203.190.46.27:8080:Indonesia
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Indonesia
-
-Protocol: http
-Proxy: 94.23.160.117:3128:Germany
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Germany
-
-Protocol: http
-Proxy: 103.247.23.28:9223:Indonesia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -3743,14 +4303,6 @@ Server: N/A
 Country: Indonesia
 
 Protocol: http
-Proxy: 124.158.190.132:64999:Indonesia
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Indonesia
-
-Protocol: http
 Proxy: 117.103.70.2:8715:Indonesia
 Status: not working
 IP: 127.0.0.1
@@ -3767,36 +4319,12 @@ Server: N/A
 Country: Indonesia
 
 Protocol: http
-Proxy: 103.226.232.197:8099:Indonesia
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Indonesia
-
-Protocol: http
-Proxy: 103.25.210.233:9191:Indonesia
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Indonesia
-
-Protocol: http
 Proxy: 103.169.255.201:6080:Indonesia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Indonesia
-
-Protocol: http
-Proxy: 79.137.194.94:3128:The Netherlands
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: The Netherlands
 
 Protocol: http
 Proxy: 104.37.102.45:8282:United States
@@ -3807,7 +4335,7 @@ Server: N/A
 Country: United States
 
 Protocol: http
-Proxy: 96.93.124.209:31060:United States
+Proxy: 68.225.17.237:4228:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -3815,7 +4343,7 @@ Server: N/A
 Country: United States
 
 Protocol: http
-Proxy: 24.72.215.236:8246:United States
+Proxy: 24.123.120.100:4228:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -3823,7 +4351,7 @@ Server: N/A
 Country: United States
 
 Protocol: http
-Proxy: 103.247.23.29:4317:Indonesia
+Proxy: 157.66.16.36:8070:Indonesia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -3855,14 +4383,6 @@ Server: N/A
 Country: Japan
 
 Protocol: http
-Proxy: 162.191.181.73:80:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: http
 Proxy: 103.247.23.231:1111:Indonesia
 Status: not working
 IP: 127.0.0.1
@@ -3879,12 +4399,12 @@ Server: N/A
 Country: Germany
 
 Protocol: http
-Proxy: 103.76.201.126:8080:Indonesia
+Proxy: 27.147.177.74:58080:Bangladesh
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Indonesia
+Country: Bangladesh
 
 Protocol: http
 Proxy: 103.191.165.146:8090:Indonesia
@@ -3895,7 +4415,7 @@ Server: N/A
 Country: Indonesia
 
 Protocol: http
-Proxy: 103.155.166.97:8181:Indonesia
+Proxy: 114.9.27.158:8080:Indonesia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -3927,6 +4447,14 @@ Server: N/A
 Country: Indonesia
 
 Protocol: http
+Proxy: 103.157.59.239:8090:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
+
+Protocol: http
 Proxy: 103.125.16.72:8080:Indonesia
 Status: not working
 IP: 127.0.0.1
@@ -3943,7 +4471,15 @@ Server: N/A
 Country: Türkiye
 
 Protocol: http
-Proxy: 103.189.197.117:3125:Indonesia
+Proxy: 103.167.23.139:8080:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
+
+Protocol: http
+Proxy: 103.156.16.144:1111:Indonesia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -3967,6 +4503,14 @@ Server: N/A
 Country: Indonesia
 
 Protocol: http
+Proxy: 157.66.50.39:8080:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
+
+Protocol: http
 Proxy: 103.235.152.170:57413:Indonesia
 Status: not working
 IP: 127.0.0.1
@@ -3983,7 +4527,15 @@ Server: N/A
 Country: Indonesia
 
 Protocol: http
-Proxy: 210.79.146.107:8085:Indonesia
+Proxy: 103.234.35.169:8080:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
+
+Protocol: http
+Proxy: 103.199.117.104:8080:Indonesia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -3999,12 +4551,12 @@ Server: N/A
 Country: Indonesia
 
 Protocol: http
-Proxy: 41.254.63.14:8080:Libya
+Proxy: 103.131.19.45:8080:Indonesia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Libya
+Country: Indonesia
 
 Protocol: http
 Proxy: 103.235.181.130:8080:Indonesia
@@ -4023,7 +4575,15 @@ Server: N/A
 Country: Finland
 
 Protocol: http
-Proxy: 20.222.243.172:443:Japan
+Proxy: 103.156.15.83:1111:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
+
+Protocol: http
+Proxy: 20.222.243.172:80:Japan
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -4031,12 +4591,20 @@ Server: N/A
 Country: Japan
 
 Protocol: http
-Proxy: 20.222.243.172:9443:Japan
+Proxy: 160.20.165.229:8587:Ecuador
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Japan
+Country: Ecuador
+
+Protocol: http
+Proxy: 103.246.79.14:1111:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
 
 Protocol: http
 Proxy: 45.235.252.46:8080:Mexico
@@ -4047,31 +4615,7 @@ Server: N/A
 Country: Mexico
 
 Protocol: http
-Proxy: 120.28.210.205:8080:Philippines
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Philippines
-
-Protocol: http
-Proxy: 103.46.10.27:7777:Indonesia
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Indonesia
-
-Protocol: http
-Proxy: 159.65.230.46:8888:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: http
-Proxy: 188.125.169.71:8080:Türkiye
+Proxy: 188.132.150.76:8080:Türkiye
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -4079,7 +4623,7 @@ Server: N/A
 Country: Türkiye
 
 Protocol: http
-Proxy: 103.158.252.79:8080:Indonesia
+Proxy: 103.181.255.209:8080:Indonesia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -4087,15 +4631,7 @@ Server: N/A
 Country: Indonesia
 
 Protocol: http
-Proxy: 163.47.210.73:8080:India
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: India
-
-Protocol: http
-Proxy: 103.181.255.209:8080:Indonesia
+Proxy: 103.76.108.96:8080:Indonesia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -4120,10 +4656,10 @@ Country: Indonesia
 
 Protocol: http
 Proxy: 113.160.184.87:8080:Vietnam
-Status: working
-IP: None
-Anon: transparent
-Server: mikrotik
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
 Country: Vietnam
 
 Protocol: http
@@ -4143,15 +4679,7 @@ Server: N/A
 Country: Indonesia
 
 Protocol: http
-Proxy: 115.178.49.111:8080:Indonesia
-Status: working
-IP: None
-Anon: transparent
-Server: mikrotik
-Country: Indonesia
-
-Protocol: http
-Proxy: 20.222.243.172:9480:Japan
+Proxy: 20.222.243.172:9400:Japan
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -4159,7 +4687,55 @@ Server: N/A
 Country: Japan
 
 Protocol: http
-Proxy: 189.51.34.116:8056:Brazil
+Proxy: 179.1.203.53:999:Colombia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Colombia
+
+Protocol: http
+Proxy: 115.178.49.111:8080:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
+
+Protocol: http
+Proxy: 103.164.223.54:8080:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
+
+Protocol: http
+Proxy: 200.24.157.121:999:Ecuador
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Ecuador
+
+Protocol: http
+Proxy: 45.236.215.111:60955:Brazil
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Brazil
+
+Protocol: http
+Proxy: 189.51.34.144:8056:Brazil
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Brazil
+
+Protocol: http
+Proxy: 189.89.186.178:44443:Brazil
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -4191,7 +4767,15 @@ Server: N/A
 Country: Brazil
 
 Protocol: http
-Proxy: 186.26.92.233:58339:Brazil
+Proxy: 191.37.41.142:42999:Brazil
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Brazil
+
+Protocol: http
+Proxy: 186.231.33.58:61804:Brazil
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -4231,6 +4815,14 @@ Server: N/A
 Country: United States
 
 Protocol: http
+Proxy: 205.164.220.5:8080:Brazil
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Brazil
+
+Protocol: http
 Proxy: 49.156.44.114:8080:Cambodia
 Status: not working
 IP: 127.0.0.1
@@ -4247,15 +4839,15 @@ Server: N/A
 Country: Indonesia
 
 Protocol: http
-Proxy: 165.16.58.124:8080:Libya
+Proxy: 203.175.102.80:8080:Indonesia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Libya
+Country: Indonesia
 
 Protocol: http
-Proxy: 103.153.190.218:8081:Indonesia
+Proxy: 103.180.123.217:8080:Indonesia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -4279,6 +4871,14 @@ Server: N/A
 Country: Indonesia
 
 Protocol: http
+Proxy: 103.172.197.235:8080:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
+
+Protocol: http
 Proxy: 1.10.225.23:8080:Thailand
 Status: not working
 IP: 127.0.0.1
@@ -4287,12 +4887,20 @@ Server: N/A
 Country: Thailand
 
 Protocol: http
-Proxy: 88.99.214.87:3128:Germany
+Proxy: 42.96.16.71:3128:Vietnam
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Germany
+Country: Vietnam
+
+Protocol: http
+Proxy: 124.158.146.171:8080:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
 
 Protocol: http
 Proxy: 103.101.216.244:8080:Indonesia
@@ -4301,6 +4909,14 @@ IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Indonesia
+
+Protocol: http
+Proxy: 49.145.50.38:8081:Philippines
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Philippines
 
 Protocol: http
 Proxy: 51.89.25.53:3128:France
@@ -4351,6 +4967,14 @@ Server: N/A
 Country: United States
 
 Protocol: http
+Proxy: 103.187.111.81:82:India
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: India
+
+Protocol: http
 Proxy: 103.160.202.180:8080:Indonesia
 Status: not working
 IP: 127.0.0.1
@@ -4359,7 +4983,15 @@ Server: N/A
 Country: Indonesia
 
 Protocol: http
-Proxy: 103.132.55.214:8080:Indonesia
+Proxy: 65.20.188.244:9090:Iraq
+Status: working
+IP: None
+Anon: elite
+Server: mikrotik
+Country: Iraq
+
+Protocol: http
+Proxy: 103.147.134.85:1111:Indonesia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -4367,15 +4999,7 @@ Server: N/A
 Country: Indonesia
 
 Protocol: http
-Proxy: 65.20.188.244:9090:Iraq
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Iraq
-
-Protocol: http
-Proxy: 103.147.134.85:1111:Indonesia
+Proxy: 103.155.169.201:8299:Indonesia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -4399,12 +5023,20 @@ Server: N/A
 Country: Indonesia
 
 Protocol: http
-Proxy: 103.155.168.90:8299:Indonesia
+Proxy: 103.169.133.46:8085:Indonesia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Indonesia
+
+Protocol: http
+Proxy: 103.106.240.34:8088:Bangladesh
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Bangladesh
 
 Protocol: http
 Proxy: 200.24.146.93:999:Ecuador
@@ -4413,14 +5045,6 @@ IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Ecuador
-
-Protocol: http
-Proxy: 103.136.162.130:8181:Indonesia
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Indonesia
 
 Protocol: http
 Proxy: 138.97.37.16:9393:Brazil
@@ -4447,7 +5071,23 @@ Server: N/A
 Country: Ukraine
 
 Protocol: http
+Proxy: 113.192.48.26:8181:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
+
+Protocol: http
 Proxy: 103.40.120.85:50000:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
+
+Protocol: http
+Proxy: 113.192.48.25:8181:Indonesia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -4471,14 +5111,6 @@ Server: N/A
 Country: Indonesia
 
 Protocol: http
-Proxy: 187.19.201.48:8080:Brazil
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Brazil
-
-Protocol: http
 Proxy: 49.249.83.13:8080:India
 Status: not working
 IP: 127.0.0.1
@@ -4487,20 +5119,20 @@ Server: N/A
 Country: India
 
 Protocol: http
-Proxy: 103.106.231.188:41891:United Kingdom
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United Kingdom
-
-Protocol: http
 Proxy: 20.222.243.172:9401:Japan
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Japan
+
+Protocol: http
+Proxy: 103.145.34.154:1111:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
 
 Protocol: http
 Proxy: 202.57.25.91:1111:Indonesia
@@ -4551,20 +5183,44 @@ Server: N/A
 Country: Germany
 
 Protocol: http
-Proxy: 216.229.112.25:8080:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: http
 Proxy: 103.142.60.188:8080:Indonesia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Indonesia
+
+Protocol: http
+Proxy: 116.254.98.244:8080:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
+
+Protocol: http
+Proxy: 103.253.19.14:8080:Pakistan
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Pakistan
+
+Protocol: http
+Proxy: 168.228.221.251:8080:Brazil
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Brazil
+
+Protocol: http
+Proxy: 197.248.231.91:8080:Kenya
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Kenya
 
 Protocol: http
 Proxy: 47.237.67.157:3128:Singapore
@@ -4575,28 +5231,12 @@ Server: N/A
 Country: Singapore
 
 Protocol: http
-Proxy: 115.42.67.186:8080:Pakistan
+Proxy: 147.45.233.250:3128:The Netherlands
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Pakistan
-
-Protocol: http
-Proxy: 157.66.84.17:8080:Indonesia
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Indonesia
-
-Protocol: http
-Proxy: 103.106.231.188:41877:France
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: France
+Country: The Netherlands
 
 Protocol: http
 Proxy: 103.175.157.74:3128:Indonesia
@@ -4605,6 +5245,22 @@ IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Indonesia
+
+Protocol: http
+Proxy: 113.160.204.229:8080:Vietnam
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Vietnam
+
+Protocol: http
+Proxy: 95.183.12.172:1080:Russia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Russia
 
 Protocol: http
 Proxy: 103.171.83.49:8080:Indonesia
@@ -4623,12 +5279,12 @@ Server: N/A
 Country: Germany
 
 Protocol: http
-Proxy: 103.106.231.188:41892:United Kingdom
+Proxy: 103.106.231.188:47036:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: United Kingdom
+Country: United States
 
 Protocol: http
 Proxy: 202.154.18.1:4995:Indonesia
@@ -4647,22 +5303,6 @@ Server: N/A
 Country: Brazil
 
 Protocol: http
-Proxy: 103.170.22.137:8089:Indonesia
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Indonesia
-
-Protocol: http
-Proxy: 103.174.152.222:3128:Bangladesh
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Bangladesh
-
-Protocol: http
 Proxy: 103.110.10.162:8080:Indonesia
 Status: not working
 IP: 127.0.0.1
@@ -4671,7 +5311,7 @@ Server: N/A
 Country: Indonesia
 
 Protocol: http
-Proxy: 103.81.64.85:8080:Indonesia
+Proxy: 157.15.62.99:8085:Indonesia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -4679,44 +5319,12 @@ Server: N/A
 Country: Indonesia
 
 Protocol: http
-Proxy: 190.12.21.146:3030:Ecuador
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Ecuador
-
-Protocol: http
-Proxy: 134.255.179.138:3128:Germany
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Germany
-
-Protocol: http
-Proxy: 200.24.228.194:3128:Chile
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Chile
-
-Protocol: http
-Proxy: 190.12.21.146:3128:Ecuador
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Ecuador
-
-Protocol: http
-Proxy: 203.177.237.138:8080:Philippines
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Philippines
+Proxy: 103.81.64.85:8080:Indonesia
+Status: working
+IP: None
+Anon: elite
+Server: mikrotik
+Country: Indonesia
 
 Protocol: http
 Proxy: 213.148.10.199:3128:Kazakhstan
@@ -4728,10 +5336,10 @@ Country: Kazakhstan
 
 Protocol: http
 Proxy: 103.76.150.206:8080:Indonesia
-Status: working
-IP: None
-Anon: transparent
-Server: mikrotik
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
 Country: Indonesia
 
 Protocol: http
@@ -4759,14 +5367,6 @@ Server: N/A
 Country: India
 
 Protocol: http
-Proxy: 121.8.215.106:9797:China
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: China
-
-Protocol: http
 Proxy: 41.85.8.226:8080:South Africa
 Status: not working
 IP: 127.0.0.1
@@ -4775,12 +5375,20 @@ Server: N/A
 Country: South Africa
 
 Protocol: http
-Proxy: 45.95.174.121:31280:France
+Proxy: 196.20.125.157:8083:Algeria
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: France
+Country: Algeria
+
+Protocol: http
+Proxy: 179.125.125.243:3128:Brazil
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Brazil
 
 Protocol: http
 Proxy: 103.177.235.133:82:India
@@ -4799,28 +5407,36 @@ Server: N/A
 Country: Indonesia
 
 Protocol: http
-Proxy: 62.255.223.195:8080:United Kingdom
+Proxy: 181.209.82.202:999:Argentina
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: United Kingdom
+Country: Argentina
 
 Protocol: http
-Proxy: 185.128.153.10:8080:Iran
+Proxy: 45.250.215.8:8080:India
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Iran
+Country: India
 
 Protocol: http
-Proxy: 212.127.93.185:8081:Poland
+Proxy: 27.147.139.241:58080:Bangladesh
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Poland
+Country: Bangladesh
+
+Protocol: http
+Proxy: 59.124.62.9:3128:Taiwan
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Taiwan
 
 Protocol: http
 Proxy: 177.234.240.124:1993:Ecuador
@@ -4847,20 +5463,20 @@ Server: N/A
 Country: Poland
 
 Protocol: http
-Proxy: 38.159.232.6:8080:Dominican Republic
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Dominican Republic
+Proxy: 104.243.46.122:3128:United States
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: United States
 
 Protocol: http
-Proxy: 104.243.46.122:3128:United States
+Proxy: 192.203.0.78:999:Puerto Rico
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: United States
+Country: Puerto Rico
 
 Protocol: http
 Proxy: 77.119.240.209:8080:Austria
@@ -4879,12 +5495,12 @@ Server: N/A
 Country: Bangladesh
 
 Protocol: http
-Proxy: 119.18.149.110:5020:Bangladesh
+Proxy: 103.159.46.2:83:India
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Bangladesh
+Country: India
 
 Protocol: http
 Proxy: 177.130.104.106:33333:Brazil
@@ -4903,6 +5519,14 @@ Server: N/A
 Country: Bulgaria
 
 Protocol: http
+Proxy: 69.75.140.157:8080:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: http
 Proxy: 113.160.234.147:57921:Vietnam
 Status: not working
 IP: 127.0.0.1
@@ -4919,15 +5543,23 @@ Server: N/A
 Country: India
 
 Protocol: http
-Proxy: 103.112.212.57:83:India
+Proxy: 38.7.20.137:999:Mexico
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: India
+Country: Mexico
 
 Protocol: http
 Proxy: 101.255.166.242:8080:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
+
+Protocol: http
+Proxy: 103.113.3.25:8080:Indonesia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -4943,20 +5575,12 @@ Server: N/A
 Country: Venezuela
 
 Protocol: http
-Proxy: 177.174.126.203:8080:Brazil
+Proxy: 94.139.204.51:8081:Bulgaria
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Brazil
-
-Protocol: http
-Proxy: 103.177.199.254:1111:Indonesia
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Indonesia
+Country: Bulgaria
 
 Protocol: http
 Proxy: 103.189.249.140:1111:Indonesia
@@ -4967,11 +5591,27 @@ Server: mikrotik
 Country: Indonesia
 
 Protocol: http
+Proxy: 124.105.79.237:8080:Philippines
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Philippines
+
+Protocol: http
+Proxy: 119.18.146.114:5020:Bangladesh
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Bangladesh
+
+Protocol: http
 Proxy: 112.109.16.51:8080:Indonesia
-Status: working
-IP: None
-Anon: transparent
-Server: mikrotik
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
 Country: Indonesia
 
 Protocol: http
@@ -5015,36 +5655,12 @@ Server: N/A
 Country: Libya
 
 Protocol: http
-Proxy: 196.20.125.121:8083:Algeria
+Proxy: 103.234.28.95:8181:Indonesia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Algeria
-
-Protocol: http
-Proxy: 191.97.68.42:8080:Argentina
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Argentina
-
-Protocol: http
-Proxy: 213.212.204.206:1976:Egypt
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Egypt
-
-Protocol: http
-Proxy: 102.0.12.224:8080:Kenya
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Kenya
+Country: Indonesia
 
 Protocol: http
 Proxy: 210.79.146.106:8085:Indonesia
@@ -5071,14 +5687,6 @@ Server: N/A
 Country: Colombia
 
 Protocol: http
-Proxy: 190.26.27.130:999:Colombia
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Colombia
-
-Protocol: http
 Proxy: 185.44.65.171:3128:Canada
 Status: not working
 IP: 127.0.0.1
@@ -5095,12 +5703,12 @@ Server: N/A
 Country: Indonesia
 
 Protocol: http
-Proxy: 24.116.218.204:8080:United States
+Proxy: 38.183.146.171:8080:Indonesia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: United States
+Country: Indonesia
 
 Protocol: http
 Proxy: 103.175.46.218:3125:Indonesia
@@ -5111,28 +5719,20 @@ Server: N/A
 Country: Indonesia
 
 Protocol: http
-Proxy: 186.148.175.118:999:Colombia
+Proxy: 41.254.48.66:1976:Libya
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Colombia
+Country: Libya
 
 Protocol: http
-Proxy: 45.184.103.113:999:Venezuela
+Proxy: 51.15.241.34:3128:France
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Venezuela
-
-Protocol: http
-Proxy: 138.117.84.105:999:Colombia
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Colombia
+Country: France
 
 Protocol: http
 Proxy: 103.191.250.133:8083:Indonesia
@@ -5151,6 +5751,14 @@ Server: N/A
 Country: Algeria
 
 Protocol: http
+Proxy: 181.209.72.174:999:Argentina
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Argentina
+
+Protocol: http
 Proxy: 45.184.103.114:999:Venezuela
 Status: not working
 IP: 127.0.0.1
@@ -5167,28 +5775,28 @@ Server: N/A
 Country: Venezuela
 
 Protocol: http
+Proxy: 45.184.103.119:999:Venezuela
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Venezuela
+
+Protocol: http
+Proxy: 45.184.155.221:999:Argentina
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Argentina
+
+Protocol: http
 Proxy: 131.100.49.109:999:Colombia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Colombia
-
-Protocol: http
-Proxy: 95.174.102.131:53281:Russia
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Russia
-
-Protocol: http
-Proxy: 198.7.116.47:3128:Germany
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Germany
 
 Protocol: http
 Proxy: 213.6.78.21:8080:Palestine
@@ -5207,6 +5815,14 @@ Server: N/A
 Country: Ecuador
 
 Protocol: http
+Proxy: 143.202.83.164:8080:Brazil
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Brazil
+
+Protocol: http
 Proxy: 181.80.25.203:999:Argentina
 Status: not working
 IP: 127.0.0.1
@@ -5215,12 +5831,12 @@ Server: N/A
 Country: Argentina
 
 Protocol: http
-Proxy: 187.63.156.102:999:Dominican Republic
+Proxy: 45.167.126.105:999:Colombia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Dominican Republic
+Country: Colombia
 
 Protocol: http
 Proxy: 190.186.33.250:8080:Bolivia
@@ -5231,12 +5847,20 @@ Server: N/A
 Country: Bolivia
 
 Protocol: http
-Proxy: 118.137.29.52:8080:Indonesia
+Proxy: 149.113.84.36:8080:Indonesia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Indonesia
+
+Protocol: http
+Proxy: 141.237.241.186:80:Greece
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Greece
 
 Protocol: http
 Proxy: 103.179.182.211:8080:Indonesia
@@ -5271,15 +5895,23 @@ Server: N/A
 Country: Venezuela
 
 Protocol: http
-Proxy: 114.218.77.214:8089:China
+Proxy: 103.139.126.234:8080:Indonesia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: China
+Country: Indonesia
 
 Protocol: http
 Proxy: 103.180.122.116:9090:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
+
+Protocol: http
+Proxy: 157.66.16.54:8989:Indonesia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -5295,20 +5927,28 @@ Server: N/A
 Country: Indonesia
 
 Protocol: http
-Proxy: 103.82.37.151:13134:Vietnam
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Vietnam
-
-Protocol: http
 Proxy: 203.144.144.146:8080:Thailand
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Thailand
+
+Protocol: http
+Proxy: 102.50.248.123:9172:Morocco
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Morocco
+
+Protocol: http
+Proxy: 108.142.108.255:8070:The Netherlands
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: The Netherlands
 
 Protocol: http
 Proxy: 103.213.218.9:22375:Vietnam
@@ -5327,7 +5967,7 @@ Server: N/A
 Country: Indonesia
 
 Protocol: http
-Proxy: 103.190.60.26:9090:Indonesia
+Proxy: 103.16.119.19:8080:Indonesia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -5335,7 +5975,7 @@ Server: N/A
 Country: Indonesia
 
 Protocol: http
-Proxy: 103.16.119.19:8080:Indonesia
+Proxy: 103.152.238.115:1080:Indonesia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -5359,7 +5999,31 @@ Server: N/A
 Country: Indonesia
 
 Protocol: http
+Proxy: 103.11.152.158:8085:India
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: India
+
+Protocol: http
 Proxy: 103.161.62.29:8078:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
+
+Protocol: http
+Proxy: 102.209.191.10:8080:South Africa
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: South Africa
+
+Protocol: http
+Proxy: 103.156.141.172:8081:Indonesia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -5373,22 +6037,6 @@ IP: None
 Anon: elite
 Server: None
 Country: United States
-
-Protocol: http
-Proxy: 103.86.117.53:1080:Indonesia
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Indonesia
-
-Protocol: http
-Proxy: 103.222.255.161:8055:Indonesia
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Indonesia
 
 Protocol: http
 Proxy: 103.155.116.247:1080:Indonesia
@@ -5415,6 +6063,14 @@ Server: N/A
 Country: India
 
 Protocol: http
+Proxy: 103.162.62.43:8080:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
+
+Protocol: http
 Proxy: 103.245.205.226:6969:Bangladesh
 Status: not working
 IP: 127.0.0.1
@@ -5423,20 +6079,20 @@ Server: N/A
 Country: Bangladesh
 
 Protocol: http
-Proxy: 45.77.43.200:45613:Singapore
+Proxy: 114.130.39.169:8080:Bangladesh
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Singapore
+Country: Bangladesh
 
 Protocol: http
-Proxy: 38.159.232.203:999:Dominican Republic
+Proxy: 94.159.110.4:3128:Russia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Dominican Republic
+Country: Russia
 
 Protocol: http
 Proxy: 38.159.226.211:999:Dominican Republic
@@ -5455,12 +6111,28 @@ Server: N/A
 Country: Vietnam
 
 Protocol: http
-Proxy: 27.189.131.56:8089:China
+Proxy: 43.248.8.70:3128:Hong Kong
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: China
+Country: Hong Kong
+
+Protocol: http
+Proxy: 103.59.44.33:8181:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
+
+Protocol: http
+Proxy: 200.174.198.86:8888:Brazil
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Brazil
 
 Protocol: http
 Proxy: 14.241.39.169:8080:Vietnam
@@ -5471,7 +6143,7 @@ Server: N/A
 Country: Vietnam
 
 Protocol: http
-Proxy: 103.157.116.213:8088:Indonesia
+Proxy: 103.162.54.117:2233:Indonesia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -5479,7 +6151,7 @@ Server: N/A
 Country: Indonesia
 
 Protocol: http
-Proxy: 36.91.148.36:8080:Indonesia
+Proxy: 103.120.76.34:8080:Indonesia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -5487,28 +6159,12 @@ Server: N/A
 Country: Indonesia
 
 Protocol: http
-Proxy: 217.24.245.58:8079:Albania
+Proxy: 103.247.242.22:8080:Indonesia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Albania
-
-Protocol: http
-Proxy: 38.7.31.229:999:Honduras
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Honduras
-
-Protocol: http
-Proxy: 185.73.103.23:3128:Czechia
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Czechia
+Country: Indonesia
 
 Protocol: http
 Proxy: 176.241.143.197:8080:Ukraine
@@ -5519,6 +6175,14 @@ Server: N/A
 Country: Ukraine
 
 Protocol: http
+Proxy: 102.68.131.31:8080:Libya
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Libya
+
+Protocol: http
 Proxy: 50.235.247.114:8085:United States
 Status: not working
 IP: 127.0.0.1
@@ -5527,12 +6191,44 @@ Server: N/A
 Country: United States
 
 Protocol: http
+Proxy: 159.192.138.170:8080:Thailand
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Thailand
+
+Protocol: http
 Proxy: 103.169.238.25:8080:Indonesia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Indonesia
+
+Protocol: http
+Proxy: 188.132.222.41:8080:Türkiye
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Türkiye
+
+Protocol: http
+Proxy: 212.87.222.80:3128:Bulgaria
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Bulgaria
+
+Protocol: http
+Proxy: 190.97.238.62:999:Venezuela
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Venezuela
 
 Protocol: http
 Proxy: 38.7.23.197:999:Mexico
@@ -5551,12 +6247,36 @@ Server: N/A
 Country: Indonesia
 
 Protocol: http
-Proxy: 177.93.35.50:999:Colombia
+Proxy: 45.174.250.2:999:Mexico
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Mexico
+
+Protocol: http
+Proxy: 38.159.232.148:999:Dominican Republic
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Dominican Republic
+
+Protocol: http
+Proxy: 204.199.72.162:999:Colombia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Colombia
+
+Protocol: http
+Proxy: 190.97.228.65:999:Venezuela
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Venezuela
 
 Protocol: http
 Proxy: 190.120.252.81:999:Venezuela
@@ -5565,6 +6285,38 @@ IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Venezuela
+
+Protocol: http
+Proxy: 45.190.197.234:999:Mexico
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Mexico
+
+Protocol: http
+Proxy: 36.64.162.194:8080:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
+
+Protocol: http
+Proxy: 119.93.43.16:8082:Philippines
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Philippines
+
+Protocol: http
+Proxy: 103.112.54.21:58080:Bangladesh
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Bangladesh
 
 Protocol: http
 Proxy: 122.54.135.155:8080:Philippines
@@ -5583,20 +6335,20 @@ Server: N/A
 Country: Chile
 
 Protocol: http
-Proxy: 102.68.128.217:8080:Libya
+Proxy: 188.125.167.67:8080:Türkiye
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Libya
+Country: Türkiye
 
 Protocol: http
-Proxy: 181.57.131.122:8080:Colombia
+Proxy: 41.217.220.214:32650:Kenya
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Colombia
+Country: Kenya
 
 Protocol: http
 Proxy: 177.87.15.141:8081:Brazil
@@ -5607,7 +6359,7 @@ Server: N/A
 Country: Brazil
 
 Protocol: http
-Proxy: 188.163.170.130:41209:Ukraine
+Proxy: 185.19.4.22:3128:Ukraine
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -5615,12 +6367,28 @@ Server: N/A
 Country: Ukraine
 
 Protocol: http
-Proxy: 194.163.149.123:1111:Germany
+Proxy: 188.132.222.230:8080:Türkiye
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Germany
+Country: Türkiye
+
+Protocol: http
+Proxy: 190.94.212.244:999:Venezuela
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Venezuela
+
+Protocol: http
+Proxy: 103.81.254.249:8080:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
 
 Protocol: http
 Proxy: 103.127.220.130:8080:Indonesia
@@ -5631,36 +6399,12 @@ Server: N/A
 Country: Indonesia
 
 Protocol: http
-Proxy: 5.28.35.226:9812:Cambodia
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Cambodia
-
-Protocol: http
 Proxy: 58.64.12.11:8081:Thailand
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Thailand
-
-Protocol: http
-Proxy: 195.93.172.32:3128:Ukraine
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Ukraine
-
-Protocol: http
-Proxy: 102.213.223.46:82:Gambia
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Gambia
 
 Protocol: http
 Proxy: 181.10.160.155:8080:Argentina
@@ -5671,20 +6415,36 @@ Server: N/A
 Country: Argentina
 
 Protocol: http
-Proxy: 161.97.131.23:8899:Germany
+Proxy: 45.229.56.64:999:Panama
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Germany
+Country: Panama
 
 Protocol: http
-Proxy: 115.127.139.91:58080:Bangladesh
+Proxy: 97.76.251.138:8080:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Bangladesh
+Country: United States
+
+Protocol: http
+Proxy: 36.94.8.160:8080:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
+
+Protocol: http
+Proxy: 101.128.87.83:8282:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
 
 Protocol: http
 Proxy: 36.64.184.2:8080:Indonesia
@@ -5695,6 +6455,14 @@ Server: N/A
 Country: Indonesia
 
 Protocol: http
+Proxy: 82.218.176.25:32650:Austria
+Status: working
+IP: None
+Anon: transparent
+Server: mikrotik
+Country: Austria
+
+Protocol: http
 Proxy: 185.49.170.20:43626:Spain
 Status: not working
 IP: 127.0.0.1
@@ -5703,12 +6471,12 @@ Server: N/A
 Country: Spain
 
 Protocol: http
-Proxy: 103.42.161.9:8080:India
+Proxy: 103.229.185.154:8080:Indonesia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: India
+Country: Indonesia
 
 Protocol: http
 Proxy: 103.133.27.247:8181:Indonesia
@@ -5719,20 +6487,20 @@ Server: N/A
 Country: Indonesia
 
 Protocol: http
+Proxy: 154.73.111.153:1976:Libya
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Libya
+
+Protocol: http
 Proxy: 102.213.223.46:83:Gambia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Gambia
-
-Protocol: http
-Proxy: 103.215.187.66:8080:Indonesia
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Indonesia
 
 Protocol: http
 Proxy: 103.152.101.22:1122:Pakistan
@@ -5751,6 +6519,14 @@ Server: N/A
 Country: Germany
 
 Protocol: http
+Proxy: 177.234.192.231:999:Ecuador
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Ecuador
+
+Protocol: http
 Proxy: 200.76.28.202:999:Mexico
 Status: not working
 IP: 127.0.0.1
@@ -5767,11 +6543,19 @@ Server: N/A
 Country: Chile
 
 Protocol: http
-Proxy: 158.140.172.246:8080:Indonesia
+Proxy: 147.78.169.80:800:Slovakia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
+Country: Slovakia
+
+Protocol: http
+Proxy: 158.140.172.246:8080:Indonesia
+Status: working
+IP: None
+Anon: elite
+Server: mikrotik
 Country: Indonesia
 
 Protocol: http
@@ -5783,12 +6567,28 @@ Server: N/A
 Country: India
 
 Protocol: http
+Proxy: 179.189.236.201:20183:Brazil
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Brazil
+
+Protocol: http
 Proxy: 103.130.167.25:8080:Indonesia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Indonesia
+
+Protocol: http
+Proxy: 46.36.123.60:81:Armenia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Armenia
 
 Protocol: http
 Proxy: 38.7.20.203:999:Mexico
@@ -5816,10 +6616,10 @@ Country: Vietnam
 
 Protocol: http
 Proxy: 185.17.153.178:8080:Russia
-Status: working
-IP: None
-Anon: elite
-Server: None
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
 Country: Russia
 
 Protocol: http
@@ -5855,12 +6655,20 @@ Server: N/A
 Country: Indonesia
 
 Protocol: http
-Proxy: 103.190.78.12:8082:Indonesia
+Proxy: 103.133.26.7:8080:Indonesia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Indonesia
+
+Protocol: http
+Proxy: 103.106.231.188:47042:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
 
 Protocol: http
 Proxy: 103.184.50.43:9898:Indonesia
@@ -5871,12 +6679,36 @@ Server: N/A
 Country: Indonesia
 
 Protocol: http
+Proxy: 103.190.60.33:9090:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
+
+Protocol: http
+Proxy: 58.69.177.231:8082:Philippines
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Philippines
+
+Protocol: http
 Proxy: 188.72.6.153:8083:Iraq
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Iraq
+
+Protocol: http
+Proxy: 141.11.103.136:8080:The Netherlands
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: The Netherlands
 
 Protocol: http
 Proxy: 186.167.80.234:8090:Venezuela
@@ -5887,7 +6719,7 @@ Server: N/A
 Country: Venezuela
 
 Protocol: http
-Proxy: 103.159.92.147:3125:Indonesia
+Proxy: 103.146.184.134:8080:Indonesia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -5903,12 +6735,20 @@ Server: N/A
 Country: Indonesia
 
 Protocol: http
-Proxy: 103.186.96.26:8080:Indonesia
+Proxy: 103.173.138.190:8080:Indonesia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Indonesia
+
+Protocol: http
+Proxy: 119.93.64.216:8082:Philippines
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Philippines
 
 Protocol: http
 Proxy: 103.106.231.188:47267:United Kingdom
@@ -5919,12 +6759,36 @@ Server: N/A
 Country: United Kingdom
 
 Protocol: http
+Proxy: 102.0.16.224:8080:Kenya
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Kenya
+
+Protocol: http
+Proxy: 170.233.146.182:8080:Peru
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Peru
+
+Protocol: http
 Proxy: 103.76.149.162:8080:Indonesia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Indonesia
+
+Protocol: http
+Proxy: 102.66.113.9:8002:South Africa
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: South Africa
 
 Protocol: http
 Proxy: 103.11.99.126:8080:Indonesia
@@ -5935,12 +6799,36 @@ Server: N/A
 Country: Indonesia
 
 Protocol: http
+Proxy: 114.9.26.202:8080:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
+
+Protocol: http
+Proxy: 49.49.57.113:8080:Thailand
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Thailand
+
+Protocol: http
 Proxy: 109.123.230.204:8000:Japan
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Japan
+
+Protocol: http
+Proxy: 27.77.79.174:8080:Vietnam
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Vietnam
 
 Protocol: http
 Proxy: 190.7.138.78:8080:Colombia
@@ -5951,12 +6839,28 @@ Server: N/A
 Country: Colombia
 
 Protocol: http
+Proxy: 65.21.24.174:33:Finland
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Finland
+
+Protocol: http
 Proxy: 103.51.53.221:8080:Bangladesh
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Bangladesh
+
+Protocol: http
+Proxy: 91.225.79.220:8088:Russia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Russia
 
 Protocol: http
 Proxy: 41.169.135.242:8080:South Africa
@@ -5983,12 +6887,20 @@ Server: N/A
 Country: Finland
 
 Protocol: http
-Proxy: 165.255.22.2:8080:South Africa
+Proxy: 108.129.139.196:8081:Ireland
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Ireland
+
+Protocol: http
+Proxy: 103.220.23.211:8080:Indonesia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: South Africa
+Country: Indonesia
 
 Protocol: http
 Proxy: 175.143.201.44:3128:Malaysia
@@ -5999,6 +6911,14 @@ Server: N/A
 Country: Malaysia
 
 Protocol: http
+Proxy: 49.49.37.113:8080:Thailand
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Thailand
+
+Protocol: http
 Proxy: 27.65.59.238:8083:Vietnam
 Status: not working
 IP: 127.0.0.1
@@ -6007,7 +6927,7 @@ Server: N/A
 Country: Vietnam
 
 Protocol: http
-Proxy: 157.10.182.233:8080:Indonesia
+Proxy: 103.230.81.20:8080:Indonesia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -6040,10 +6960,10 @@ Country: Switzerland
 
 Protocol: http
 Proxy: 211.202.167.56:80:South Korea
-Status: working
-IP: None
-Anon: elite
-Server: None
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
 Country: South Korea
 
 Protocol: http
@@ -6053,14 +6973,6 @@ IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: India
-
-Protocol: http
-Proxy: 223.205.180.73:8080:Thailand
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Thailand
 
 Protocol: http
 Proxy: 193.233.75.92:3128:Germany
@@ -6093,6 +7005,30 @@ IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: India
+
+Protocol: http
+Proxy: 47.51.51.190:8080:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: http
+Proxy: 58.147.186.31:3125:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
+
+Protocol: http
+Proxy: 12.133.53.17:83:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
 
 Protocol: http
 Proxy: 2.179.193.146:3128:Iran
@@ -6135,12 +7071,36 @@ Server: N/A
 Country: Kazakhstan
 
 Protocol: http
-Proxy: 47.56.110.204:8990:Hong Kong
+Proxy: 14.99.215.106:1111:India
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Hong Kong
+Country: India
+
+Protocol: http
+Proxy: 103.156.74.186:8080:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
+
+Protocol: http
+Proxy: 103.48.70.185:83:India
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: India
+
+Protocol: http
+Proxy: 88.80.103.9:6888:Bulgaria
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Bulgaria
 
 Protocol: http
 Proxy: 14.241.111.97:8080:Vietnam
@@ -6159,12 +7119,12 @@ Server: N/A
 Country: Brazil
 
 Protocol: http
-Proxy: 103.48.68.30:83:India
+Proxy: 168.181.87.49:8080:Brazil
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: India
+Country: Brazil
 
 Protocol: http
 Proxy: 46.4.176.185:3333:Germany
@@ -6191,12 +7151,28 @@ Server: N/A
 Country: Colombia
 
 Protocol: http
-Proxy: 103.154.230.117:8080:Indonesia
+Proxy: 190.97.233.36:999:Venezuela
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Indonesia
+Country: Venezuela
+
+Protocol: http
+Proxy: 177.93.60.170:999:Colombia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Colombia
+
+Protocol: http
+Proxy: 47.84.41.186:10002:United Kingdom
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United Kingdom
 
 Protocol: http
 Proxy: 47.251.122.81:8888:United States
@@ -6205,22 +7181,6 @@ IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: United States
-
-Protocol: http
-Proxy: 49.236.212.134:8888:Nepal
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Nepal
-
-Protocol: http
-Proxy: 117.5.74.186:10006:Vietnam
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Vietnam
 
 Protocol: http
 Proxy: 95.217.120.110:8001:Finland
@@ -6247,12 +7207,20 @@ Server: N/A
 Country: Indonesia
 
 Protocol: http
-Proxy: 43.251.133.179:8080:Hong Kong
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Hong Kong
+Proxy: 49.48.100.175:8080:Thailand
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Thailand
+
+Protocol: http
+Proxy: 41.139.233.13:8080:Kenya
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Kenya
 
 Protocol: http
 Proxy: 36.50.115.180:8081:Indonesia
@@ -6263,14 +7231,6 @@ Server: N/A
 Country: Indonesia
 
 Protocol: http
-Proxy: 46.245.69.171:8080:Iran
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Iran
-
-Protocol: http
 Proxy: 37.210.38.160:8080:Qatar
 Status: not working
 IP: 127.0.0.1
@@ -6279,11 +7239,43 @@ Server: N/A
 Country: Qatar
 
 Protocol: http
+Proxy: 171.240.89.128:10012:Vietnam
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Vietnam
+
+Protocol: http
+Proxy: 204.10.194.63:10134:Ukraine
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Ukraine
+
+Protocol: http
 Proxy: 157.20.253.187:8080:Indonesia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
+Country: Indonesia
+
+Protocol: http
+Proxy: 72.10.164.178:24021:South Korea
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: South Korea
+
+Protocol: http
+Proxy: 36.93.206.35:8080:Indonesia
+Status: working
+IP: None
+Anon: transparent
+Server: mikrotik
 Country: Indonesia
 
 Protocol: http
@@ -6295,28 +7287,52 @@ Server: N/A
 Country: Mexico
 
 Protocol: http
-Proxy: 185.49.31.207:8081:Poland
+Proxy: 200.39.139.65:999:Chile
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Poland
+Country: Chile
 
 Protocol: http
-Proxy: 170.81.242.238:999:Peru
+Proxy: 80.194.38.106:3333:United Kingdom
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Peru
+Country: United Kingdom
 
 Protocol: http
-Proxy: 103.106.240.18:96:Bangladesh
+Proxy: 218.255.90.106:8002:Hong Kong
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Bangladesh
+Country: Hong Kong
+
+Protocol: http
+Proxy: 121.200.48.58:8080:India
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: India
+
+Protocol: http
+Proxy: 154.73.111.153:1981:Libya
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Libya
+
+Protocol: http
+Proxy: 36.37.224.125:8080:Cambodia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Cambodia
 
 Protocol: http
 Proxy: 191.37.66.225:8080:Brazil
@@ -6325,6 +7341,14 @@ IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Brazil
+
+Protocol: http
+Proxy: 103.129.3.246:83:India
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: India
 
 Protocol: http
 Proxy: 201.77.108.72:999:Mexico
@@ -6343,6 +7367,14 @@ Server: N/A
 Country: Venezuela
 
 Protocol: http
+Proxy: 110.34.13.4:8080:Nepal
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Nepal
+
+Protocol: http
 Proxy: 200.37.252.122:8080:Peru
 Status: not working
 IP: 127.0.0.1
@@ -6351,7 +7383,23 @@ Server: N/A
 Country: Peru
 
 Protocol: http
+Proxy: 103.72.89.194:8080:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
+
+Protocol: http
 Proxy: 103.217.216.70:8080:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
+
+Protocol: http
+Proxy: 103.151.246.18:7777:Indonesia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -6365,6 +7413,22 @@ IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: India
+
+Protocol: http
+Proxy: 103.151.30.25:6969:Bangladesh
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Bangladesh
+
+Protocol: http
+Proxy: 103.188.252.65:1234:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
 
 Protocol: http
 Proxy: 117.5.74.186:10002:Vietnam
@@ -6399,6 +7463,22 @@ Server: N/A
 Country: Russia
 
 Protocol: http
+Proxy: 95.154.124.114:58000:Russia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Russia
+
+Protocol: http
+Proxy: 137.59.161.177:8080:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
+
+Protocol: http
 Proxy: 92.124.99.130:8080:Russia
 Status: not working
 IP: 127.0.0.1
@@ -6423,6 +7503,14 @@ Server: N/A
 Country: France
 
 Protocol: http
+Proxy: 89.135.59.71:8090:Hungary
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Hungary
+
+Protocol: http
 Proxy: 103.138.14.170:8080:Indonesia
 Status: not working
 IP: 127.0.0.1
@@ -6431,20 +7519,12 @@ Server: N/A
 Country: Indonesia
 
 Protocol: http
-Proxy: 103.48.70.161:83:India
+Proxy: 103.203.173.134:84:India
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: India
-
-Protocol: http
-Proxy: 43.252.237.241:3125:Indonesia
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Indonesia
 
 Protocol: http
 Proxy: 116.101.241.63:10009:Vietnam
@@ -6455,12 +7535,36 @@ Server: N/A
 Country: Vietnam
 
 Protocol: http
+Proxy: 38.52.212.20:999:Guatemala
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Guatemala
+
+Protocol: http
 Proxy: 206.233.199.40:3128:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: United States
+
+Protocol: http
+Proxy: 121.227.109.5:8089:China
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: China
+
+Protocol: http
+Proxy: 121.227.109.12:8089:China
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: China
 
 Protocol: http
 Proxy: 45.225.206.18:999:Chile
@@ -6479,6 +7583,30 @@ Server: N/A
 Country: Serbia
 
 Protocol: http
+Proxy: 103.179.252.81:8181:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
+
+Protocol: http
+Proxy: 113.192.31.89:8080:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
+
+Protocol: http
+Proxy: 204.10.194.63:10038:Ukraine
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Ukraine
+
+Protocol: http
 Proxy: 204.10.194.63:10087:Ukraine
 Status: not working
 IP: 127.0.0.1
@@ -6495,14 +7623,6 @@ Server: N/A
 Country: Thailand
 
 Protocol: http
-Proxy: 103.106.231.188:47292:France
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: France
-
-Protocol: http
 Proxy: 103.106.231.188:47078:United States
 Status: not working
 IP: 127.0.0.1
@@ -6511,12 +7631,68 @@ Server: N/A
 Country: United States
 
 Protocol: http
+Proxy: 103.106.231.188:47037:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: http
+Proxy: 162.249.171.248:4016:India
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: India
+
+Protocol: http
+Proxy: 103.106.231.188:47313:Germany
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Germany
+
+Protocol: http
 Proxy: 38.51.232.145:999:Colombia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Colombia
+
+Protocol: http
+Proxy: 204.10.194.63:10102:Ukraine
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Ukraine
+
+Protocol: http
+Proxy: 103.106.231.188:47255:United Arab Emirates
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United Arab Emirates
+
+Protocol: http
+Proxy: 165.255.22.244:8080:South Africa
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: South Africa
+
+Protocol: http
+Proxy: 162.249.171.248:4039:Singapore
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Singapore
 
 Protocol: http
 Proxy: 171.5.35.150:8080:Thailand
@@ -6533,6 +7709,22 @@ IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: United States
+
+Protocol: http
+Proxy: 72.10.160.90:6349:India
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: India
+
+Protocol: http
+Proxy: 45.236.105.114:999:Ecuador
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Ecuador
 
 Protocol: http
 Proxy: 148.206.32.3:8080:Mexico
@@ -6559,12 +7751,28 @@ Server: N/A
 Country: Indonesia
 
 Protocol: http
-Proxy: 38.255.23.131:999:Ecuador
+Proxy: 103.172.23.86:1111:Indonesia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Ecuador
+Country: Indonesia
+
+Protocol: http
+Proxy: 80.91.116.145:8082:Albania
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Albania
+
+Protocol: http
+Proxy: 102.209.78.147:8080:Kenya
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Kenya
 
 Protocol: http
 Proxy: 171.228.175.141:10089:Vietnam
@@ -6575,15 +7783,15 @@ Server: N/A
 Country: Vietnam
 
 Protocol: http
-Proxy: 103.190.171.41:8090:Indonesia
+Proxy: 103.106.231.188:47265:United Kingdom
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Indonesia
+Country: United Kingdom
 
 Protocol: http
-Proxy: 72.10.164.178:8625:Indonesia
+Proxy: 103.190.171.41:8090:Indonesia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -6597,6 +7805,14 @@ IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Indonesia
+
+Protocol: http
+Proxy: 171.240.89.128:10006:Vietnam
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Vietnam
 
 Protocol: http
 Proxy: 47.90.211.55:10008:Germany
@@ -6631,6 +7847,38 @@ Server: N/A
 Country: Thailand
 
 Protocol: http
+Proxy: 181.236.247.8:9897:Colombia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Colombia
+
+Protocol: http
+Proxy: 103.106.231.188:47317:Germany
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Germany
+
+Protocol: http
+Proxy: 119.235.220.194:3128:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
+
+Protocol: http
+Proxy: 116.101.241.63:10020:Vietnam
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Vietnam
+
+Protocol: http
 Proxy: 45.137.206.17:8888:United States
 Status: not working
 IP: 127.0.0.1
@@ -6655,6 +7903,14 @@ Server: N/A
 Country: Ecuador
 
 Protocol: http
+Proxy: 181.198.120.212:999:Ecuador
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Ecuador
+
+Protocol: http
 Proxy: 41.59.82.154:3128:Tanzania
 Status: not working
 IP: 127.0.0.1
@@ -6669,6 +7925,22 @@ IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Russia
+
+Protocol: http
+Proxy: 181.114.7.114:999:Guatemala
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Guatemala
+
+Protocol: http
+Proxy: 103.84.177.30:8083:Philippines
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Philippines
 
 Protocol: http
 Proxy: 101.255.166.134:1111:Indonesia
@@ -6687,6 +7959,14 @@ Server: N/A
 Country: Singapore
 
 Protocol: http
+Proxy: 38.156.72.15:9999:Türkiye
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Türkiye
+
+Protocol: http
 Proxy: 45.5.118.177:999:Guatemala
 Status: not working
 IP: 127.0.0.1
@@ -6703,7 +7983,47 @@ Server: N/A
 Country: Guatemala
 
 Protocol: http
+Proxy: 95.167.29.50:8080:Russia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Russia
+
+Protocol: http
+Proxy: 103.155.196.109:8080:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
+
+Protocol: http
+Proxy: 102.219.231.22:8080:South Africa
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: South Africa
+
+Protocol: http
 Proxy: 209.14.115.33:999:Colombia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Colombia
+
+Protocol: http
+Proxy: 45.164.150.122:999:Guatemala
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Guatemala
+
+Protocol: http
+Proxy: 181.236.247.8:8820:Colombia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -6727,12 +8047,44 @@ Server: N/A
 Country: France
 
 Protocol: http
+Proxy: 54.38.35.209:3128:France
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: France
+
+Protocol: http
+Proxy: 103.171.255.93:8080:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
+
+Protocol: http
+Proxy: 103.48.69.73:83:India
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: India
+
+Protocol: http
 Proxy: 222.165.205.156:8089:Indonesia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Indonesia
+
+Protocol: http
+Proxy: 95.0.168.62:1976:Türkiye
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Türkiye
 
 Protocol: http
 Proxy: 157.100.57.184:999:Ecuador
@@ -6743,7 +8095,7 @@ Server: N/A
 Country: Ecuador
 
 Protocol: http
-Proxy: 103.163.135.53:7777:Indonesia
+Proxy: 103.73.75.126:8085:Indonesia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -6751,12 +8103,20 @@ Server: N/A
 Country: Indonesia
 
 Protocol: http
-Proxy: 190.94.212.247:999:Venezuela
+Proxy: 66.70.235.23:5454:Canada
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Venezuela
+Country: Canada
+
+Protocol: http
+Proxy: 103.163.135.53:7777:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
 
 Protocol: http
 Proxy: 72.10.160.173:14761:Indonesia
@@ -6791,20 +8151,20 @@ Server: N/A
 Country: Philippines
 
 Protocol: http
-Proxy: 112.109.20.106:6060:Indonesia
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Indonesia
+Proxy: 109.206.203.79:3128:Poland
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Poland
 
 Protocol: http
-Proxy: 109.206.203.79:3128:Poland
+Proxy: 200.125.170.21:999:Dominican Republic
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Poland
+Country: Dominican Republic
 
 Protocol: http
 Proxy: 103.21.144.138:8080:Australia
@@ -6823,15 +8183,15 @@ Server: N/A
 Country: Indonesia
 
 Protocol: http
-Proxy: 222.127.132.8:8080:Philippines
+Proxy: 27.79.217.45:16000:Vietnam
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Philippines
+Country: Vietnam
 
 Protocol: http
-Proxy: 27.79.217.45:16000:Vietnam
+Proxy: 115.72.40.211:10001:Vietnam
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -6847,22 +8207,6 @@ Server: N/A
 Country: China
 
 Protocol: http
-Proxy: 49.73.4.182:8089:China
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: China
-
-Protocol: http
-Proxy: 38.51.232.181:999:Colombia
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Colombia
-
-Protocol: http
 Proxy: 200.37.187.62:999:Peru
 Status: not working
 IP: 127.0.0.1
@@ -6871,7 +8215,7 @@ Server: N/A
 Country: Peru
 
 Protocol: http
-Proxy: 45.177.16.134:999:Paraguay
+Proxy: 45.177.16.137:999:Paraguay
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -6903,6 +8247,14 @@ Server: N/A
 Country: Paraguay
 
 Protocol: http
+Proxy: 201.77.98.131:999:Mexico
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Mexico
+
+Protocol: http
 Proxy: 186.96.97.205:999:Colombia
 Status: not working
 IP: 127.0.0.1
@@ -6917,22 +8269,6 @@ IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Malaysia
-
-Protocol: http
-Proxy: 38.52.221.42:999:Dominican Republic
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Dominican Republic
-
-Protocol: http
-Proxy: 67.43.228.250:30219:Thailand
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Thailand
 
 Protocol: http
 Proxy: 72.10.160.170:24355:Pakistan
@@ -6967,6 +8303,22 @@ Server: N/A
 Country: Ecuador
 
 Protocol: http
+Proxy: 192.69.221.19:3128:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: http
+Proxy: 114.223.62.74:8089:China
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: China
+
+Protocol: http
 Proxy: 72.10.164.178:28843:Mexico
 Status: not working
 IP: 127.0.0.1
@@ -6991,6 +8343,22 @@ Server: N/A
 Country: Paraguay
 
 Protocol: http
+Proxy: 190.121.153.68:999:Colombia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Colombia
+
+Protocol: http
+Proxy: 27.189.131.241:8089:China
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: China
+
+Protocol: http
 Proxy: 171.228.146.37:10089:Vietnam
 Status: not working
 IP: 127.0.0.1
@@ -7007,20 +8375,12 @@ Server: N/A
 Country: China
 
 Protocol: http
-Proxy: 72.10.164.178:24447:India
+Proxy: 190.235.185.67:999:Peru
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: India
-
-Protocol: http
-Proxy: 186.97.138.66:999:Colombia
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Colombia
+Country: Peru
 
 Protocol: http
 Proxy: 72.10.164.178:24493:Thailand
@@ -7087,28 +8447,12 @@ Server: N/A
 Country: Paraguay
 
 Protocol: http
-Proxy: 72.10.164.178:14605:Taiwan
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Taiwan
-
-Protocol: http
 Proxy: 67.43.227.227:25087:Australia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Australia
-
-Protocol: http
-Proxy: 185.86.81.27:8080:Türkiye
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Türkiye
 
 Protocol: http
 Proxy: 192.154.244.39:8000:United States
@@ -7119,14 +8463,6 @@ Server: N/A
 Country: United States
 
 Protocol: http
-Proxy: 67.43.227.227:29039:Australia
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Australia
-
-Protocol: http
 Proxy: 67.43.236.19:17477:Pakistan
 Status: not working
 IP: 127.0.0.1
@@ -7135,12 +8471,12 @@ Server: N/A
 Country: Pakistan
 
 Protocol: http
-Proxy: 103.242.105.241:8080:Indonesia
+Proxy: 31.210.50.227:8084:Türkiye
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Indonesia
+Country: Türkiye
 
 Protocol: http
 Proxy: 103.106.231.188:47083:United States
@@ -7151,12 +8487,12 @@ Server: N/A
 Country: United States
 
 Protocol: http
-Proxy: 67.43.227.226:31979:South Korea
+Proxy: 67.43.227.228:20049:Philippines
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: South Korea
+Country: Philippines
 
 Protocol: http
 Proxy: 72.10.160.173:27497:United Arab Emirates
@@ -7176,38 +8512,22 @@ Country: United Kingdom
 
 Protocol: http
 Proxy: 192.248.95.1:3128:Sri Lanka
-Status: working
-IP: None
-Anon: elite
-Server: None
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
 Country: Sri Lanka
 
 Protocol: http
-Proxy: 72.10.160.92:13389:India
+Proxy: 67.43.236.19:8871:Iraq
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: India
+Country: Iraq
 
 Protocol: http
-Proxy: 67.43.228.252:16591:Indonesia
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Indonesia
-
-Protocol: http
-Proxy: 101.255.210.85:8090:Indonesia
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Indonesia
-
-Protocol: http
-Proxy: 27.79.252.18:16000:Vietnam
+Proxy: 117.1.248.149:10006:Vietnam
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -7215,12 +8535,28 @@ Server: N/A
 Country: Vietnam
 
 Protocol: http
-Proxy: 67.43.228.253:1055:Mongolia
+Proxy: 103.152.238.179:1080:Indonesia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Mongolia
+Country: Indonesia
+
+Protocol: http
+Proxy: 223.206.141.156:8080:Thailand
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Thailand
+
+Protocol: http
+Proxy: 188.0.154.140:8080:Kazakhstan
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Kazakhstan
 
 Protocol: http
 Proxy: 14.248.231.240:8080:Vietnam
@@ -7231,28 +8567,20 @@ Server: N/A
 Country: Vietnam
 
 Protocol: http
-Proxy: 149.86.159.4:8080:Türkiye
+Proxy: 185.206.83.246:8080:Iraq
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Türkiye
+Country: Iraq
 
 Protocol: http
-Proxy: 72.10.164.178:18773:Pakistan
+Proxy: 72.10.160.91:21627:Saudi Arabia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Pakistan
-
-Protocol: http
-Proxy: 41.60.238.165:8080:Kenya
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Kenya
+Country: Saudi Arabia
 
 Protocol: http
 Proxy: 67.43.236.20:8919:Kenya
@@ -7263,15 +8591,39 @@ Server: N/A
 Country: Kenya
 
 Protocol: http
-Proxy: 67.43.227.228:24477:United States
+Proxy: 117.1.248.149:10005:Vietnam
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: United States
+Country: Vietnam
+
+Protocol: http
+Proxy: 122.166.206.148:3127:India
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: India
 
 Protocol: http
 Proxy: 27.131.250.150:8080:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
+
+Protocol: http
+Proxy: 117.5.74.186:10005:Vietnam
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Vietnam
+
+Protocol: http
+Proxy: 103.155.198.161:8037:Indonesia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -7288,14 +8640,6 @@ Country: Seychelles
 
 Protocol: http
 Proxy: 103.59.44.213:8083:Indonesia
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Indonesia
-
-Protocol: http
-Proxy: 103.245.16.241:7878:Indonesia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -7320,10 +8664,10 @@ Country: Indonesia
 
 Protocol: http
 Proxy: 103.133.61.163:8182:Indonesia
-Status: working
-IP: None
-Anon: elite
-Server: mikrotik
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
 Country: Indonesia
 
 Protocol: http
@@ -7335,7 +8679,7 @@ Server: N/A
 Country: Indonesia
 
 Protocol: http
-Proxy: 202.154.18.17:1122:Indonesia
+Proxy: 203.194.112.177:8008:Indonesia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -7343,28 +8687,12 @@ Server: N/A
 Country: Indonesia
 
 Protocol: http
-Proxy: 103.162.54.158:8066:Indonesia
+Proxy: 103.155.197.125:2024:Indonesia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Indonesia
-
-Protocol: http
-Proxy: 45.232.77.157:8085:Brazil
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Brazil
-
-Protocol: http
-Proxy: 90.156.194.75:8026:Uzbekistan
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Uzbekistan
 
 Protocol: http
 Proxy: 103.231.236.122:8182:Indonesia
@@ -7383,14 +8711,6 @@ Server: N/A
 Country: Indonesia
 
 Protocol: http
-Proxy: 103.231.236.26:8182:Indonesia
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Indonesia
-
-Protocol: http
 Proxy: 103.167.87.48:39045:Vietnam
 Status: not working
 IP: 127.0.0.1
@@ -7399,28 +8719,12 @@ Server: N/A
 Country: Vietnam
 
 Protocol: http
-Proxy: 203.175.103.55:8060:Indonesia
+Proxy: 114.9.53.90:8085:Indonesia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Indonesia
-
-Protocol: http
-Proxy: 202.154.18.131:8088:Indonesia
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Indonesia
-
-Protocol: http
-Proxy: 102.209.78.179:8080:Kenya
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Kenya
 
 Protocol: http
 Proxy: 59.152.104.193:8080:Bangladesh
@@ -7439,20 +8743,44 @@ Server: N/A
 Country: Thailand
 
 Protocol: http
-Proxy: 102.0.3.234:8083:Kenya
+Proxy: 67.43.227.226:2783:New Zealand
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Kenya
+Country: New Zealand
 
 Protocol: http
-Proxy: 103.85.117.17:8080:Indonesia
+Proxy: 51.13.60.244:3128:Norway
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Norway
+
+Protocol: http
+Proxy: 103.130.116.39:8090:Indonesia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Indonesia
+
+Protocol: http
+Proxy: 116.101.241.63:10017:Vietnam
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Vietnam
+
+Protocol: http
+Proxy: 45.201.216.141:8080:Canada
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Canada
 
 Protocol: http
 Proxy: 45.201.216.126:8080:Brazil
@@ -7479,15 +8807,15 @@ Server: N/A
 Country: China
 
 Protocol: http
-Proxy: 18.136.86.182:3128:Singapore
+Proxy: 175.215.54.42:3129:South Korea
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Singapore
+Country: South Korea
 
 Protocol: http
-Proxy: 223.206.121.70:8080:Thailand
+Proxy: 171.7.129.103:8080:Thailand
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -7495,12 +8823,20 @@ Server: N/A
 Country: Thailand
 
 Protocol: http
-Proxy: 175.215.54.42:3129:South Korea
+Proxy: 119.95.227.213:8082:Philippines
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: South Korea
+Country: Philippines
+
+Protocol: http
+Proxy: 181.236.247.8:8810:Colombia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Colombia
 
 Protocol: http
 Proxy: 184.82.58.213:8080:Thailand
@@ -7519,12 +8855,36 @@ Server: N/A
 Country: Indonesia
 
 Protocol: http
-Proxy: 101.255.165.62:8090:Indonesia
+Proxy: 203.190.44.233:8080:Indonesia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Indonesia
+
+Protocol: http
+Proxy: 80.87.192.7:3128:Russia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Russia
+
+Protocol: http
+Proxy: 103.106.231.188:41872:Seychelles
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Seychelles
+
+Protocol: http
+Proxy: 103.106.231.188:47269:United Kingdom
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United Kingdom
 
 Protocol: http
 Proxy: 103.247.23.43:1111:Indonesia
@@ -7535,12 +8895,12 @@ Server: N/A
 Country: Indonesia
 
 Protocol: http
-Proxy: 1.202.174.38:49080:China
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: China
+Proxy: 157.10.182.229:8080:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
 
 Protocol: http
 Proxy: 72.10.160.91:18089:Nepal
@@ -7551,12 +8911,12 @@ Server: N/A
 Country: Nepal
 
 Protocol: http
-Proxy: 181.78.6.75:999:Colombia
+Proxy: 38.159.229.84:999:Ecuador
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Colombia
+Country: Ecuador
 
 Protocol: http
 Proxy: 45.232.77.148:8085:Brazil
@@ -7575,7 +8935,15 @@ Server: N/A
 Country: China
 
 Protocol: http
-Proxy: 27.79.236.153:16000:Vietnam
+Proxy: 27.189.132.91:8089:China
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: China
+
+Protocol: http
+Proxy: 27.79.217.84:16000:Vietnam
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -7583,12 +8951,20 @@ Server: N/A
 Country: Vietnam
 
 Protocol: http
-Proxy: 186.96.74.147:999:Venezuela
+Proxy: 116.104.211.253:10089:Vietnam
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Venezuela
+Country: Vietnam
+
+Protocol: http
+Proxy: 1.52.203.187:8080:Vietnam
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Vietnam
 
 Protocol: http
 Proxy: 61.7.168.21:8080:Thailand
@@ -7597,6 +8973,14 @@ IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Thailand
+
+Protocol: http
+Proxy: 131.0.234.101:55555:Argentina
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Argentina
 
 Protocol: http
 Proxy: 72.10.160.90:11249:Germany
@@ -7623,12 +9007,36 @@ Server: N/A
 Country: Hong Kong
 
 Protocol: http
+Proxy: 67.43.227.227:10067:Vietnam
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Vietnam
+
+Protocol: http
+Proxy: 58.209.139.144:8089:China
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: China
+
+Protocol: http
 Proxy: 208.87.243.199:7878:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: United States
+
+Protocol: http
+Proxy: 43.245.249.22:7878:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
 
 Protocol: http
 Proxy: 117.1.248.149:10015:Vietnam
@@ -7639,12 +9047,12 @@ Server: N/A
 Country: Vietnam
 
 Protocol: http
-Proxy: 103.106.231.188:47049:United States
+Proxy: 72.10.160.93:5055:India
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: United States
+Country: India
 
 Protocol: http
 Proxy: 217.52.247.73:1981:Egypt
@@ -7663,6 +9071,46 @@ Server: N/A
 Country: Vietnam
 
 Protocol: http
+Proxy: 27.79.195.227:16000:Vietnam
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Vietnam
+
+Protocol: http
+Proxy: 27.189.128.97:8089:China
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: China
+
+Protocol: http
+Proxy: 84.42.26.24:8080:Russia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Russia
+
+Protocol: http
+Proxy: 27.79.191.187:16000:Vietnam
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Vietnam
+
+Protocol: http
+Proxy: 114.223.62.93:8089:China
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: China
+
+Protocol: http
 Proxy: 27.79.168.106:16000:Vietnam
 Status: not working
 IP: 127.0.0.1
@@ -7672,6 +9120,14 @@ Country: Vietnam
 
 Protocol: http
 Proxy: 117.1.196.7:10015:Vietnam
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Vietnam
+
+Protocol: http
+Proxy: 27.79.145.199:16000:Vietnam
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -7695,14 +9151,6 @@ Server: N/A
 Country: Egypt
 
 Protocol: http
-Proxy: 124.217.39.154:8080:Philippines
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Philippines
-
-Protocol: http
 Proxy: 103.156.15.23:8080:Indonesia
 Status: not working
 IP: 127.0.0.1
@@ -7719,6 +9167,22 @@ Server: N/A
 Country: Sweden
 
 Protocol: http
+Proxy: 117.1.250.139:10009:Vietnam
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Vietnam
+
+Protocol: http
+Proxy: 131.72.89.53:9500:Brazil
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Brazil
+
+Protocol: http
 Proxy: 203.150.113.159:8080:Thailand
 Status: not working
 IP: 127.0.0.1
@@ -7727,15 +9191,7 @@ Server: N/A
 Country: Thailand
 
 Protocol: http
-Proxy: 124.121.2.233:8080:Thailand
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Thailand
-
-Protocol: http
-Proxy: 117.1.248.149:10009:Vietnam
+Proxy: 103.161.118.36:3128:Vietnam
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -7767,20 +9223,12 @@ Server: N/A
 Country: Thailand
 
 Protocol: http
-Proxy: 179.61.132.156:10007:Russia
+Proxy: 72.10.160.90:31413:Hong Kong
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Russia
-
-Protocol: http
-Proxy: 67.43.227.228:24025:Indonesia
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Indonesia
+Country: Hong Kong
 
 Protocol: http
 Proxy: 67.43.227.226:24025:Indonesia
@@ -7799,7 +9247,23 @@ Server: N/A
 Country: Hungary
 
 Protocol: http
-Proxy: 27.79.157.233:16000:Vietnam
+Proxy: 72.10.160.92:8673:India
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: India
+
+Protocol: http
+Proxy: 114.216.205.228:8089:China
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: China
+
+Protocol: http
+Proxy: 27.79.169.100:16000:Vietnam
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -7823,6 +9287,14 @@ Server: N/A
 Country: Vietnam
 
 Protocol: http
+Proxy: 41.128.148.71:1981:Egypt
+Status: working
+IP: None
+Anon: transparent
+Server: mikrotik
+Country: Egypt
+
+Protocol: http
 Proxy: 54.224.215.61:8888:United States
 Status: not working
 IP: 127.0.0.1
@@ -7831,12 +9303,20 @@ Server: N/A
 Country: United States
 
 Protocol: http
-Proxy: 102.214.106.86:1984:Libya
+Proxy: 101.109.122.5:8080:Thailand
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Libya
+Country: Thailand
+
+Protocol: http
+Proxy: 1.2.218.158:8080:Thailand
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Thailand
 
 Protocol: http
 Proxy: 1.2.218.138:8080:Thailand
@@ -7879,6 +9359,14 @@ Server: N/A
 Country: Indonesia
 
 Protocol: http
+Proxy: 182.253.179.29:3128:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
+
+Protocol: http
 Proxy: 154.70.152.201:3128:South Africa
 Status: not working
 IP: 127.0.0.1
@@ -7893,6 +9381,14 @@ IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Vietnam
+
+Protocol: http
+Proxy: 223.204.93.81:8080:Thailand
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Thailand
 
 Protocol: http
 Proxy: 159.192.206.127:8080:Thailand
@@ -7917,6 +9413,22 @@ IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Thailand
+
+Protocol: http
+Proxy: 220.167.232.13:8118:China
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: China
+
+Protocol: http
+Proxy: 27.79.188.196:16000:Vietnam
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Vietnam
 
 Protocol: http
 Proxy: 136.243.207.58:8080:Germany
@@ -7967,20 +9479,20 @@ Server: N/A
 Country: Thailand
 
 Protocol: http
-Proxy: 67.43.236.20:19013:Pakistan
+Proxy: 180.242.171.87:8080:Indonesia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Pakistan
+Country: Indonesia
 
 Protocol: http
-Proxy: 223.205.36.6:8080:Thailand
+Proxy: 117.1.248.149:10023:Vietnam
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Thailand
+Country: Vietnam
 
 Protocol: http
 Proxy: 103.156.17.93:8080:Indonesia
@@ -8007,12 +9519,12 @@ Server: N/A
 Country: Thailand
 
 Protocol: http
-Proxy: 27.79.176.252:16000:Vietnam
+Proxy: 109.165.193.188:8181:Bosnia and Herzegovina
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Vietnam
+Country: Bosnia and Herzegovina
 
 Protocol: http
 Proxy: 191.81.192.233:8080:Argentina
@@ -8023,12 +9535,52 @@ Server: N/A
 Country: Argentina
 
 Protocol: http
+Proxy: 67.43.236.20:25941:Philippines
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Philippines
+
+Protocol: http
 Proxy: 3.71.48.139:8090:Germany
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Germany
+
+Protocol: http
+Proxy: 103.179.252.74:8181:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
+
+Protocol: http
+Proxy: 14.248.231.40:8080:Vietnam
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Vietnam
+
+Protocol: http
+Proxy: 179.61.132.156:10008:Russia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Russia
+
+Protocol: http
+Proxy: 180.242.151.77:8080:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
 
 Protocol: http
 Proxy: 179.61.132.156:10001:Russia
@@ -8039,12 +9591,28 @@ Server: N/A
 Country: Russia
 
 Protocol: http
-Proxy: 67.43.227.226:1383:India
+Proxy: 72.10.160.170:19075:Indonesia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: India
+Country: Indonesia
+
+Protocol: http
+Proxy: 67.43.227.230:25511:Nepal
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Nepal
+
+Protocol: http
+Proxy: 35.200.0.214:80:Japan
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Japan
 
 Protocol: http
 Proxy: 45.229.158.106:80:Brazil
@@ -8071,6 +9639,14 @@ Server: N/A
 Country: China
 
 Protocol: http
+Proxy: 116.107.127.150:10086:Vietnam
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Vietnam
+
+Protocol: http
 Proxy: 27.79.199.150:16000:Vietnam
 Status: not working
 IP: 127.0.0.1
@@ -8080,14 +9656,6 @@ Country: Vietnam
 
 Protocol: http
 Proxy: 27.79.204.153:16000:Vietnam
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Vietnam
-
-Protocol: http
-Proxy: 27.79.199.236:16000:Vietnam
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -8144,14 +9712,22 @@ Country: Vietnam
 
 Protocol: http
 Proxy: 176.226.153.6:8081:Russia
-Status: working
-IP: None
-Anon: elite
-Server: None
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
 Country: Russia
 
 Protocol: http
 Proxy: 27.79.186.65:16000:Vietnam
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Vietnam
+
+Protocol: http
+Proxy: 27.79.211.184:16000:Vietnam
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -8191,6 +9767,14 @@ Server: N/A
 Country: United States
 
 Protocol: http
+Proxy: 27.79.163.108:16000:Vietnam
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Vietnam
+
+Protocol: http
 Proxy: 27.79.249.230:16000:Vietnam
 Status: not working
 IP: 127.0.0.1
@@ -8200,6 +9784,22 @@ Country: Vietnam
 
 Protocol: http
 Proxy: 27.79.215.213:16000:Vietnam
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Vietnam
+
+Protocol: http
+Proxy: 27.79.186.243:16000:Vietnam
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Vietnam
+
+Protocol: http
+Proxy: 27.79.253.2:16000:Vietnam
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -8272,19 +9872,19 @@ Country: Vietnam
 
 Protocol: http
 Proxy: 165.255.71.225:3128:South Africa
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
+Status: working
+IP: None
+Anon: transparent
+Server: mikrotik
 Country: South Africa
 
 Protocol: http
-Proxy: 72.10.160.174:21875:Macao
+Proxy: 45.201.216.137:8080:Brazil
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Macao
+Country: Brazil
 
 Protocol: http
 Proxy: 211.50.5.170:61804:South Korea
@@ -8295,14 +9895,6 @@ Server: N/A
 Country: South Korea
 
 Protocol: http
-Proxy: 72.10.160.90:14551:Taiwan
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Taiwan
-
-Protocol: http
 Proxy: 67.43.227.226:32283:Indonesia
 Status: not working
 IP: 127.0.0.1
@@ -8311,52 +9903,68 @@ Server: N/A
 Country: Indonesia
 
 Protocol: http
-Proxy: 67.43.227.227:27537:Hong Kong
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Hong Kong
-
-Protocol: http
-Proxy: 72.10.160.90:8265:Pakistan
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Pakistan
-
-Protocol: http
-Proxy: 67.43.236.19:23557:Philippines
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Philippines
-
-Protocol: http
-Proxy: 72.10.160.170:31145:India
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: India
-
-Protocol: http
-Proxy: 72.10.164.178:23447:United Arab Emirates
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United Arab Emirates
-
-Protocol: http
 Proxy: 72.10.160.172:11555:Philippines
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Philippines
+
+Protocol: http
+Proxy: 49.73.4.152:8089:China
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: China
+
+Protocol: http
+Proxy: 171.228.148.9:10089:Vietnam
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Vietnam
+
+Protocol: http
+Proxy: 116.107.127.46:10093:Vietnam
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Vietnam
+
+Protocol: http
+Proxy: 72.10.164.178:10411:Brazil
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Brazil
+
+Protocol: http
+Proxy: 72.10.164.178:4189:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
+
+Protocol: http
+Proxy: 72.10.164.178:21027:Philippines
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Philippines
+
+Protocol: http
+Proxy: 67.43.228.254:13103:India
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: India
 
 Protocol: https
 Proxy: 5.161.108.56:8888:United States
@@ -8743,22 +10351,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 206.188.208.12:8443:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 206.188.208.83:8443:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 206.188.208.84:8443:United States
 Status: not working
 IP: 127.0.0.1
@@ -8784,14 +10376,6 @@ Country: United Kingdom
 
 Protocol: https
 Proxy: 206.188.208.148:8443:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 206.188.208.174:8443:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -8863,6 +10447,22 @@ Server: N/A
 Country: United States
 
 Protocol: https
+Proxy: 206.188.209.96:8443:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: https
+Proxy: 206.188.209.101:8443:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: https
 Proxy: 206.188.209.106:8443:United States
 Status: not working
 IP: 127.0.0.1
@@ -8871,7 +10471,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 206.188.209.129:8443:United States
+Proxy: 206.188.209.132:8443:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -8895,7 +10495,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 206.188.209.154:8443:United States
+Proxy: 206.188.209.148:8443:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -8903,7 +10503,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 206.188.209.173:8443:United States
+Proxy: 206.188.209.174:8443:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -8935,7 +10535,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 206.188.209.182:8443:United States
+Proxy: 206.188.209.185:8443:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -8943,7 +10543,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 206.188.209.183:8443:United States
+Proxy: 206.188.209.191:8443:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -8951,15 +10551,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 206.188.209.186:8443:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 206.188.209.192:8443:United States
+Proxy: 206.188.209.195:8443:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -8975,7 +10567,15 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 206.188.209.221:8443:United States
+Proxy: 206.188.209.206:8443:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: https
+Proxy: 206.188.209.224:8443:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -9007,7 +10607,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 206.188.212.6:8443:United States
+Proxy: 206.188.212.4:8443:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -9023,7 +10623,15 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 206.188.212.48:8443:United States
+Proxy: 206.188.212.12:8443:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: https
+Proxy: 206.188.212.56:8443:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -9032,14 +10640,6 @@ Country: United States
 
 Protocol: https
 Proxy: 206.188.212.65:8443:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 206.188.212.67:8443:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -9063,7 +10663,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 206.188.212.76:8443:United States
+Proxy: 206.188.212.103:8443:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -9071,23 +10671,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 206.188.212.86:8443:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 206.188.212.87:8443:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 206.188.212.101:8443:United States
+Proxy: 206.188.212.104:8443:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -9096,6 +10680,14 @@ Country: United States
 
 Protocol: https
 Proxy: 206.188.212.107:8443:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: https
+Proxy: 206.188.212.123:8443:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -9135,7 +10727,23 @@ Server: N/A
 Country: United States
 
 Protocol: https
+Proxy: 206.188.212.157:8443:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: https
 Proxy: 206.188.212.160:8443:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: https
+Proxy: 206.188.212.163:8443:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -9167,14 +10775,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 206.188.212.176:8443:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 206.188.212.178:8443:United States
 Status: not working
 IP: 127.0.0.1
@@ -9191,7 +10791,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 206.188.212.192:8443:United States
+Proxy: 206.188.212.196:8443:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -9200,14 +10800,6 @@ Country: United States
 
 Protocol: https
 Proxy: 206.188.212.200:8443:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 206.188.212.206:8443:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -9224,6 +10816,14 @@ Country: United States
 
 Protocol: https
 Proxy: 206.188.212.213:8443:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: https
+Proxy: 206.188.212.220:8443:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -9263,23 +10863,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 206.188.212.235:8443:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 206.188.212.236:8443:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 206.188.212.247:8443:United States
+Proxy: 206.188.212.251:8443:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -9295,7 +10879,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 206.188.207.239:8443:United States
+Proxy: 206.188.207.196:8443:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -9304,6 +10888,30 @@ Country: United States
 
 Protocol: https
 Proxy: 206.188.207.172:8443:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: https
+Proxy: 206.188.207.139:8443:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: https
+Proxy: 206.188.207.112:8443:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: https
+Proxy: 206.188.207.91:8443:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -9351,7 +10959,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 206.188.207.10:8443:United States
+Proxy: 206.188.206.230:8443:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -9391,7 +10999,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 206.188.206.34:8443:United States
+Proxy: 206.188.206.44:8443:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -9400,6 +11008,22 @@ Country: United States
 
 Protocol: https
 Proxy: 206.188.205.157:8443:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: https
+Proxy: 206.188.205.85:8443:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: https
+Proxy: 206.188.204.209:8443:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -9447,22 +11071,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 206.188.204.115:8443:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 206.188.204.99:8443:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 206.188.204.64:8443:United States
 Status: not working
 IP: 127.0.0.1
@@ -9480,6 +11088,14 @@ Country: United States
 
 Protocol: https
 Proxy: 206.188.204.26:8443:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: https
+Proxy: 206.188.204.19:8443:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -10351,7 +11967,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 205.178.136.30:8443:United States
+Proxy: 205.178.136.21:8443:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -10359,7 +11975,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 205.178.136.32:8443:United States
+Proxy: 205.178.136.30:8443:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -10375,7 +11991,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 205.178.136.37:8443:United States
+Proxy: 205.178.136.38:8443:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -10407,14 +12023,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 205.178.136.57:8443:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 205.178.136.58:8443:United States
 Status: not working
 IP: 127.0.0.1
@@ -10424,14 +12032,6 @@ Country: United States
 
 Protocol: https
 Proxy: 205.178.136.68:8443:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 205.178.136.69:8443:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -10471,22 +12071,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 205.178.136.100:8443:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 205.178.136.118:8443:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 205.178.136.127:8443:United States
 Status: not working
 IP: 127.0.0.1
@@ -10495,7 +12079,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 205.178.136.137:8443:United States
+Proxy: 205.178.136.129:8443:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -10511,23 +12095,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 205.178.136.146:8443:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 205.178.136.149:8443:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 205.178.136.154:8443:United States
+Proxy: 205.178.136.155:8443:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -10551,23 +12119,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 205.178.136.159:8443:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 205.178.136.162:8443:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 205.178.136.167:8443:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -10599,6 +12151,14 @@ Server: N/A
 Country: United States
 
 Protocol: https
+Proxy: 205.178.136.191:8443:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: https
 Proxy: 205.178.136.193:8443:United States
 Status: not working
 IP: 127.0.0.1
@@ -10623,6 +12183,22 @@ Server: N/A
 Country: United States
 
 Protocol: https
+Proxy: 205.178.136.202:8443:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: https
+Proxy: 205.178.136.208:8443:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: https
 Proxy: 205.178.136.219:8443:United States
 Status: not working
 IP: 127.0.0.1
@@ -10631,7 +12207,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 205.178.136.231:8443:United States
+Proxy: 205.178.136.221:8443:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -10639,15 +12215,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 205.178.136.246:8443:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 205.178.136.248:8443:United States
+Proxy: 205.178.136.236:8443:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -10672,14 +12240,6 @@ Country: United States
 
 Protocol: https
 Proxy: 205.178.137.7:8443:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 205.178.137.11:8443:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -10727,7 +12287,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 205.178.137.51:8443:United States
+Proxy: 205.178.137.42:8443:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -10735,7 +12295,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 205.178.137.53:8443:United States
+Proxy: 205.178.137.51:8443:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -10759,23 +12319,15 @@ Server: N/A
 Country: United States
 
 Protocol: https
+Proxy: 205.178.137.70:8443:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: https
 Proxy: 205.178.137.73:8443:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 205.178.137.78:8443:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 205.178.137.84:8443:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -10791,7 +12343,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 205.178.137.88:8443:United States
+Proxy: 205.178.137.87:8443:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -10799,7 +12351,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 205.178.137.99:8443:United States
+Proxy: 205.178.137.90:8443:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -10839,7 +12391,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 205.178.137.123:8443:United States
+Proxy: 205.178.137.121:8443:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -10847,7 +12399,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 205.178.137.126:8443:United States
+Proxy: 205.178.137.123:8443:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -10863,22 +12415,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 205.178.137.137:8443:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 205.178.137.138:8443:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 205.178.137.140:8443:United States
 Status: not working
 IP: 127.0.0.1
@@ -10887,23 +12423,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 205.178.137.141:8443:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 205.178.137.145:8443:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 205.178.137.148:8443:United States
+Proxy: 205.178.137.142:8443:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -10912,22 +12432,6 @@ Country: United States
 
 Protocol: https
 Proxy: 205.178.137.155:8443:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 205.178.137.158:8443:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 205.178.137.160:8443:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -10983,15 +12487,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 205.178.137.187:8443:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 205.178.137.203:8443:United States
+Proxy: 205.178.137.198:8443:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -11015,7 +12511,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 205.178.137.209:8443:United States
+Proxy: 205.178.137.211:8443:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -11023,15 +12519,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 205.178.137.210:8443:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 205.178.137.213:8443:United States
+Proxy: 205.178.137.215:8443:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -11048,6 +12536,14 @@ Country: United States
 
 Protocol: https
 Proxy: 205.178.137.217:8443:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: https
+Proxy: 205.178.137.218:8443:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -11079,14 +12575,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 205.178.137.228:8443:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 205.178.137.232:8443:United States
 Status: not working
 IP: 127.0.0.1
@@ -11096,14 +12584,6 @@ Country: United States
 
 Protocol: https
 Proxy: 205.178.137.233:8443:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 205.178.137.234:8443:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -11127,7 +12607,15 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 205.178.137.238:8443:United States
+Proxy: 205.178.137.242:8443:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: https
+Proxy: 205.178.137.246:8443:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -11136,14 +12624,6 @@ Country: United States
 
 Protocol: https
 Proxy: 205.178.137.251:8443:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 205.178.144.64:8443:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -11191,7 +12671,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 205.178.144.94:8443:United States
+Proxy: 205.178.144.91:8443:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -11223,7 +12703,15 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 205.178.144.110:8443:United States
+Proxy: 205.178.144.114:8443:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: https
+Proxy: 205.178.144.123:8443:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -11247,7 +12735,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 205.178.144.139:8443:United States
+Proxy: 205.178.144.147:8443:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -11255,7 +12743,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 205.178.144.147:8443:United States
+Proxy: 205.178.144.148:8443:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -11279,7 +12767,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 205.178.144.161:8443:United States
+Proxy: 205.178.144.160:8443:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -11295,7 +12783,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 205.178.144.171:8443:United States
+Proxy: 205.178.144.173:8443:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -11303,7 +12791,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 205.178.144.174:8443:United States
+Proxy: 205.178.144.190:8443:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -11311,7 +12799,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 205.178.144.194:8443:United States
+Proxy: 205.178.144.226:8443:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -11319,23 +12807,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 205.178.144.206:8443:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 205.178.144.210:8443:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 205.178.144.230:8443:United States
+Proxy: 205.178.144.235:8443:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -11383,7 +12855,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 205.178.186.66:8443:United States
+Proxy: 205.178.186.7:8443:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -11391,7 +12863,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 205.178.186.3:8443:United States
+Proxy: 205.178.186.8:8443:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -11415,7 +12887,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 205.178.186.15:8443:United States
+Proxy: 205.178.186.17:8443:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -11439,6 +12911,22 @@ Server: N/A
 Country: United States
 
 Protocol: https
+Proxy: 205.178.186.24:8443:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: https
+Proxy: 205.178.186.26:8443:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: https
 Proxy: 205.178.186.27:8443:United States
 Status: not working
 IP: 127.0.0.1
@@ -11455,23 +12943,15 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 205.178.186.29:8443:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 205.178.186.31:8443:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 205.178.186.32:8443:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: https
+Proxy: 205.178.186.33:8443:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -11487,7 +12967,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 205.178.186.44:8443:United States
+Proxy: 205.178.186.41:8443:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -11495,7 +12975,15 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 205.178.186.45:8443:United States
+Proxy: 205.178.186.43:8443:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: https
+Proxy: 205.178.186.44:8443:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -11527,14 +13015,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 205.178.186.63:8443:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 205.178.186.65:8443:United States
 Status: not working
 IP: 127.0.0.1
@@ -11551,7 +13031,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 205.178.186.69:8443:United States
+Proxy: 205.178.186.77:8443:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -11559,15 +13039,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 205.178.186.84:8443:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 205.178.186.109:8443:United States
+Proxy: 205.178.186.103:8443:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -11591,7 +13063,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 205.178.186.118:8443:United States
+Proxy: 205.178.186.128:8443:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -11615,7 +13087,31 @@ Server: N/A
 Country: United States
 
 Protocol: https
+Proxy: 205.178.186.137:8443:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: https
+Proxy: 205.178.186.138:8443:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: https
 Proxy: 205.178.186.148:8443:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: https
+Proxy: 205.178.186.163:8443:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -11639,31 +13135,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 205.178.186.177:8443:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 205.178.186.178:8443:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 205.178.186.183:8443:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 205.178.186.185:8443:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -11679,6 +13151,30 @@ Server: N/A
 Country: United States
 
 Protocol: https
+Proxy: 205.178.186.207:8443:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: https
+Proxy: 205.178.186.213:8443:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: https
+Proxy: 205.178.186.217:8443:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: https
 Proxy: 205.178.186.223:8443:United States
 Status: not working
 IP: 127.0.0.1
@@ -11687,7 +13183,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 205.178.186.237:8443:United States
+Proxy: 205.178.186.225:8443:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -11695,7 +13191,23 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 205.178.186.49:8443:United States
+Proxy: 205.178.186.232:8443:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: https
+Proxy: 205.178.144.146:8443:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: https
+Proxy: 205.178.144.224:8443:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -11719,28 +13231,12 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 205.178.186.208:8443:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 43.143.223.96:8899:China
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: China
-
-Protocol: https
-Proxy: 85.239.61.185:443:United Kingdom
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United Kingdom
 
 Protocol: https
 Proxy: 156.146.59.28:9002:United States
@@ -11815,30 +13311,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 205.178.137.11:8447:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 205.178.137.21:8447:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 205.178.137.24:8447:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 205.178.137.32:8447:United States
 Status: not working
 IP: 127.0.0.1
@@ -11847,7 +13319,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 205.178.137.42:8447:United States
+Proxy: 205.178.137.50:8447:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -11855,7 +13327,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 205.178.137.50:8447:United States
+Proxy: 205.178.137.53:8447:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -11911,15 +13383,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 205.178.137.87:8447:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 205.178.137.88:8447:United States
+Proxy: 205.178.137.90:8447:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -11951,7 +13415,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 205.178.137.121:8447:United States
+Proxy: 205.178.137.119:8447:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -11959,7 +13423,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 205.178.137.123:8447:United States
+Proxy: 205.178.137.121:8447:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -11975,7 +13439,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 205.178.137.140:8447:United States
+Proxy: 205.178.137.132:8447:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -11983,7 +13447,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 205.178.137.141:8447:United States
+Proxy: 205.178.137.137:8447:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -11991,7 +13455,31 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 205.178.137.151:8447:United States
+Proxy: 205.178.137.138:8447:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: https
+Proxy: 205.178.137.145:8447:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: https
+Proxy: 205.178.137.148:8447:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: https
+Proxy: 205.178.137.160:8447:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -12007,6 +13495,14 @@ Server: N/A
 Country: United States
 
 Protocol: https
+Proxy: 205.178.137.169:8447:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: https
 Proxy: 205.178.137.170:8447:United States
 Status: not working
 IP: 127.0.0.1
@@ -12015,7 +13511,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 205.178.137.176:8447:United States
+Proxy: 205.178.137.173:8447:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -12023,7 +13519,15 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 205.178.137.181:8447:United States
+Proxy: 205.178.137.174:8447:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: https
+Proxy: 205.178.137.183:8447:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -12039,7 +13543,15 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 205.178.137.186:8447:United States
+Proxy: 205.178.137.193:8447:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: https
+Proxy: 205.178.137.201:8447:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -12048,14 +13560,6 @@ Country: United States
 
 Protocol: https
 Proxy: 205.178.137.203:8447:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 205.178.137.205:8447:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -12087,7 +13591,47 @@ Server: N/A
 Country: United States
 
 Protocol: https
+Proxy: 205.178.137.211:8447:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: https
+Proxy: 205.178.137.213:8447:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: https
 Proxy: 205.178.137.217:8447:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: https
+Proxy: 205.178.137.218:8447:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: https
+Proxy: 205.178.137.221:8447:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: https
+Proxy: 205.178.137.222:8447:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -12111,7 +13655,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 205.178.137.232:8447:United States
+Proxy: 205.178.137.228:8447:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -12136,6 +13680,30 @@ Country: United States
 
 Protocol: https
 Proxy: 205.178.137.236:8447:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: https
+Proxy: 205.178.137.238:8447:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: https
+Proxy: 205.178.137.242:8447:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: https
+Proxy: 205.178.137.246:8447:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -12191,23 +13759,15 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 205.178.144.91:8447:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 205.178.144.94:8447:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 205.178.144.95:8447:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: https
+Proxy: 205.178.144.96:8447:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -12239,15 +13799,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 205.178.144.114:8447:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 205.178.144.123:8447:United States
+Proxy: 205.178.144.129:8447:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -12264,14 +13816,6 @@ Country: United States
 
 Protocol: https
 Proxy: 205.178.144.133:8447:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 205.178.144.134:8447:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -12311,7 +13855,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 205.178.144.160:8447:United States
+Proxy: 205.178.144.161:8447:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -12335,47 +13879,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 205.178.144.173:8447:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 205.178.144.174:8447:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 205.178.144.179:8447:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 205.178.144.187:8447:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 205.178.144.194:8447:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 205.178.144.196:8447:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -12423,22 +13927,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 205.178.144.218:8447:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 205.178.144.232:8447:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 205.178.144.247:8447:United States
 Status: not working
 IP: 127.0.0.1
@@ -12463,6 +13951,14 @@ Server: N/A
 Country: United States
 
 Protocol: https
+Proxy: 205.178.136.221:8447:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: https
 Proxy: 205.178.136.215:8447:United States
 Status: not working
 IP: 127.0.0.1
@@ -12479,14 +13975,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 205.178.136.199:8447:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 205.178.136.194:8447:United States
 Status: not working
 IP: 127.0.0.1
@@ -12495,7 +13983,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 205.178.136.191:8447:United States
+Proxy: 205.178.136.189:8447:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -12503,7 +13991,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 205.178.136.189:8447:United States
+Proxy: 205.178.136.175:8447:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -12543,7 +14031,31 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 205.178.136.154:8447:United States
+Proxy: 205.178.136.155:8447:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: https
+Proxy: 205.178.136.151:8447:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: https
+Proxy: 205.178.136.146:8447:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: https
+Proxy: 205.178.136.141:8447:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -12567,7 +14079,31 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 205.178.136.118:8447:United States
+Proxy: 205.178.136.123:8447:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: https
+Proxy: 205.178.136.99:8447:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: https
+Proxy: 205.178.136.88:8447:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: https
+Proxy: 205.178.136.80:8447:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -12583,7 +14119,23 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 205.178.136.71:8447:United States
+Proxy: 205.178.136.69:8447:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: https
+Proxy: 205.178.136.68:8447:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: https
+Proxy: 205.178.136.58:8447:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -12623,31 +14175,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 205.178.136.37:8447:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 205.178.136.34:8447:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 205.178.136.30:8447:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 205.178.136.17:8447:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -12671,14 +14199,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 205.178.136.6:8447:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 205.178.136.2:8447:United States
 Status: not working
 IP: 127.0.0.1
@@ -12695,7 +14215,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 205.178.186.245:8447:United States
+Proxy: 205.178.186.26:8447:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -12703,7 +14223,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 205.178.186.26:8447:United States
+Proxy: 205.178.186.60:8447:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -12719,14 +14239,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 205.178.186.29:8447:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 206.188.208.201:8447:United States
 Status: not working
 IP: 127.0.0.1
@@ -12735,15 +14247,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 205.178.186.2:8447:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 206.188.212.3:8447:United States
+Proxy: 205.178.186.3:8447:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -12752,6 +14256,14 @@ Country: United States
 
 Protocol: https
 Proxy: 205.178.186.7:8447:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: https
+Proxy: 205.178.186.8:8447:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -12799,39 +14311,23 @@ Server: N/A
 Country: United States
 
 Protocol: https
+Proxy: 205.178.186.19:8447:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: https
+Proxy: 206.188.212.16:8447:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: https
 Proxy: 206.188.208.12:8447:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 206.188.208.13:8447:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 205.178.186.24:8447:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 205.178.186.25:8447:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 205.178.186.27:8447:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -12855,7 +14351,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 205.178.186.33:8447:United States
+Proxy: 205.178.186.31:8447:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -12895,6 +14391,14 @@ Server: N/A
 Country: United States
 
 Protocol: https
+Proxy: 205.178.186.45:8447:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: https
 Proxy: 205.178.186.46:8447:United States
 Status: not working
 IP: 127.0.0.1
@@ -12911,23 +14415,15 @@ Server: N/A
 Country: United States
 
 Protocol: https
+Proxy: 205.178.186.49:8447:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: https
 Proxy: 205.178.136.33:8447:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 205.178.186.57:8447:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 205.178.186.58:8447:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -12943,7 +14439,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 205.178.186.63:8447:United States
+Proxy: 205.178.186.65:8447:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -12951,31 +14447,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 205.178.186.66:8447:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 205.178.186.70:8447:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 205.178.186.72:8447:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 205.178.186.73:8447:United States
+Proxy: 205.178.186.69:8447:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -12984,6 +14456,30 @@ Country: United States
 
 Protocol: https
 Proxy: 205.178.186.75:8447:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: https
+Proxy: 206.188.212.48:8447:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: https
+Proxy: 205.178.186.98:8447:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: https
+Proxy: 205.178.186.103:8447:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -13047,14 +14543,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 205.178.137.106:8447:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 206.188.212.76:8447:United States
 Status: not working
 IP: 127.0.0.1
@@ -13063,39 +14551,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 205.178.186.118:8447:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 205.178.186.121:8447:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 206.188.212.86:8447:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 206.188.212.87:8447:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 205.178.186.128:8447:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -13119,7 +14575,23 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 206.188.208.83:8447:United States
+Proxy: 205.178.186.134:8447:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: https
+Proxy: 205.178.186.137:8447:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: https
+Proxy: 206.188.208.84:8447:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -13143,31 +14615,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 205.178.186.148:8447:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 206.188.212.116:8447:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 206.188.208.101:8447:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 206.188.206.101:8447:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -13183,31 +14631,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 206.188.212.130:8447:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 205.178.186.174:8447:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 205.178.186.178:8447:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 205.178.136.167:8447:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -13223,7 +14647,15 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 205.178.186.190:8447:United States
+Proxy: 206.188.212.149:8447:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: https
+Proxy: 206.188.212.155:8447:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -13271,22 +14703,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 205.178.186.203:8447:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 206.188.212.169:8447:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 205.178.186.208:8447:United States
 Status: not working
 IP: 127.0.0.1
@@ -13296,6 +14712,14 @@ Country: United States
 
 Protocol: https
 Proxy: 206.188.206.141:8447:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: https
+Proxy: 205.178.186.213:8447:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -13327,15 +14751,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 205.178.136.209:8447:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 205.178.186.219:8447:United States
+Proxy: 206.188.208.155:8447:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -13351,14 +14767,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 206.188.212.183:8447:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 205.178.186.225:8447:United States
 Status: not working
 IP: 127.0.0.1
@@ -13367,7 +14775,15 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 206.188.208.159:8447:United States
+Proxy: 206.188.212.185:8447:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: https
+Proxy: 206.188.212.192:8447:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -13376,14 +14792,6 @@ Country: United States
 
 Protocol: https
 Proxy: 206.188.212.196:8447:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 205.178.186.237:8447:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -13407,7 +14815,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 206.188.208.174:8447:United States
+Proxy: 206.188.206.170:8447:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -13415,7 +14823,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 206.188.206.170:8447:United States
+Proxy: 205.178.186.247:8447:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -13431,7 +14839,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 205.178.136.242:8447:United States
+Proxy: 206.188.208.181:8447:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -13479,7 +14887,31 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 206.188.212.222:8447:United States
+Proxy: 206.188.212.220:8447:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: https
+Proxy: 206.188.212.226:8447:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: https
+Proxy: 206.188.212.229:8447:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: https
+Proxy: 206.188.212.230:8447:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -13503,39 +14935,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 206.188.212.249:8447:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 206.188.212.251:8447:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 206.188.206.205:8447:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 206.188.208.224:8447:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 206.188.208.235:8447:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -13591,22 +14991,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 206.188.209.96:8447:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 206.188.207.77:8447:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 206.188.209.100:8447:United States
 Status: not working
 IP: 127.0.0.1
@@ -13615,23 +14999,15 @@ Server: N/A
 Country: United States
 
 Protocol: https
+Proxy: 206.188.209.101:8447:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: https
 Proxy: 206.188.207.81:8447:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 206.188.209.106:8447:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 206.188.207.86:8447:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -13679,14 +15055,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 206.188.209.141:8447:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 206.188.209.146:8447:United States
 Status: not working
 IP: 127.0.0.1
@@ -13711,7 +15079,39 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 206.188.209.183:8447:United States
+Proxy: 206.188.209.173:8447:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: https
+Proxy: 206.188.209.174:8447:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: https
+Proxy: 206.188.209.178:8447:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: https
+Proxy: 206.188.209.180:8447:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: https
+Proxy: 206.188.209.181:8447:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -13727,6 +15127,14 @@ Server: N/A
 Country: United States
 
 Protocol: https
+Proxy: 206.188.209.186:8447:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: https
 Proxy: 206.188.209.188:8447:United States
 Status: not working
 IP: 127.0.0.1
@@ -13735,31 +15143,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 206.188.209.190:8447:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 206.188.209.191:8447:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 206.188.207.172:8447:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 206.188.209.224:8447:United States
+Proxy: 206.188.209.195:8447:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -13775,7 +15159,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 206.188.209.253:8447:United States
+Proxy: 206.188.207.196:8447:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -13783,7 +15167,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 206.188.207.239:8447:United States
+Proxy: 206.188.209.253:8447:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -13799,7 +15183,23 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 206.188.205.5:8447:United States
+Proxy: 206.188.205.157:8447:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: https
+Proxy: 206.188.205.6:8447:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: https
+Proxy: 206.188.204.209:8447:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -13808,14 +15208,6 @@ Country: United States
 
 Protocol: https
 Proxy: 206.188.204.115:8447:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 206.188.204.66:8447:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -13847,7 +15239,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 205.178.186.14:8447:United States
+Proxy: 206.188.212.235:8447:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -13855,7 +15247,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 206.188.212.235:8447:United States
+Proxy: 206.188.212.132:8447:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -13871,7 +15263,47 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 205.178.186.163:8447:United States
+Proxy: 205.178.186.44:8447:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: https
+Proxy: 205.178.186.67:8447:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: https
+Proxy: 206.188.212.56:8447:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: https
+Proxy: 206.188.212.57:8447:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: https
+Proxy: 206.188.212.104:8447:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: https
+Proxy: 205.178.186.177:8447:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -13880,6 +15312,22 @@ Country: United States
 
 Protocol: https
 Proxy: 205.178.186.183:8447:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: https
+Proxy: 206.188.212.168:8447:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: https
+Proxy: 206.188.207.229:8447:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -13920,6 +15368,14 @@ Country: United States
 
 Protocol: https
 Proxy: 206.188.204.145:8447:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: https
+Proxy: 206.188.204.128:8447:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -14927,14 +16383,6 @@ Server: N/A
 Country: India
 
 Protocol: https
-Proxy: 51.158.200.73:80:The Netherlands
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: The Netherlands
-
-Protocol: https
 Proxy: 162.210.194.4:80:United States
 Status: not working
 IP: 127.0.0.1
@@ -15568,14 +17016,6 @@ Country: Romania
 
 Protocol: https
 Proxy: 193.176.84.8:9002:Romania
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Romania
-
-Protocol: https
-Proxy: 5.252.178.95:443:Romania
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -16303,14 +17743,6 @@ Server: N/A
 Country: Germany
 
 Protocol: https
-Proxy: 77.246.108.113:443:The Netherlands
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: The Netherlands
-
-Protocol: https
 Proxy: 84.239.49.155:9002:Romania
 Status: not working
 IP: 127.0.0.1
@@ -16480,14 +17912,6 @@ Country: Romania
 
 Protocol: https
 Proxy: 47.88.35.91:3128:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 181.215.52.2:9443:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -17023,14 +18447,6 @@ Server: N/A
 Country: The Netherlands
 
 Protocol: https
-Proxy: 91.107.230.61:8888:Germany
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Germany
-
-Protocol: https
 Proxy: 136.60.0.212:443:United States
 Status: not working
 IP: 127.0.0.1
@@ -17047,7 +18463,15 @@ Server: N/A
 Country: Sweden
 
 Protocol: https
-Proxy: 211.144.19.13:11143:China
+Proxy: 220.243.154.27:10878:China
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: China
+
+Protocol: https
+Proxy: 220.243.154.23:11143:China
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -17095,12 +18519,12 @@ Server: N/A
 Country: The Netherlands
 
 Protocol: https
-Proxy: 58.220.95.11:11143:China
+Proxy: 122.151.54.147:443:Australia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: China
+Country: Australia
 
 Protocol: https
 Proxy: 82.223.246.196:443:Spain
@@ -17133,14 +18557,6 @@ IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Indonesia
-
-Protocol: https
-Proxy: 104.129.194.38:10228:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
 
 Protocol: https
 Proxy: 45.32.144.46:8888:France
@@ -17709,14 +19125,6 @@ IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Germany
-
-Protocol: https
-Proxy: 182.155.254.159:443:Taiwan
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Taiwan
 
 Protocol: https
 Proxy: 51.158.253.120:1015:France
@@ -18623,14 +20031,6 @@ Server: N/A
 Country: United Kingdom
 
 Protocol: https
-Proxy: 51.158.252.181:80:France
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: France
-
-Protocol: https
 Proxy: 51.158.252.181:443:France
 Status: not working
 IP: 127.0.0.1
@@ -19263,14 +20663,6 @@ Server: N/A
 Country: France
 
 Protocol: https
-Proxy: 51.158.252.160:80:France
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: France
-
-Protocol: https
 Proxy: 51.158.252.160:436:France
 Status: not working
 IP: 127.0.0.1
@@ -19445,6 +20837,14 @@ IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: France
+
+Protocol: https
+Proxy: 45.144.233.95:443:Germany
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Germany
 
 Protocol: https
 Proxy: 23.106.56.22:431:United Kingdom
@@ -21935,28 +23335,12 @@ Server: N/A
 Country: The Netherlands
 
 Protocol: https
-Proxy: 45.86.229.93:143:Spain
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Spain
-
-Protocol: https
 Proxy: 23.106.56.35:726:United Kingdom
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: United Kingdom
-
-Protocol: https
-Proxy: 77.246.108.113:143:The Netherlands
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: The Netherlands
 
 Protocol: https
 Proxy: 85.239.61.185:143:United Kingdom
@@ -21967,12 +23351,12 @@ Server: N/A
 Country: United Kingdom
 
 Protocol: https
-Proxy: 51.77.106.6:143:France
+Proxy: 45.144.233.95:143:Germany
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: France
+Country: Germany
 
 Protocol: https
 Proxy: 135.125.169.81:143:France
@@ -21991,28 +23375,12 @@ Server: N/A
 Country: United Kingdom
 
 Protocol: https
-Proxy: 77.73.69.221:143:Russia
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Russia
-
-Protocol: https
 Proxy: 212.118.37.238:143:The Netherlands
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: The Netherlands
-
-Protocol: https
-Proxy: 5.252.178.95:143:Romania
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Romania
 
 Protocol: https
 Proxy: 208.104.211.63:443:United States
@@ -22941,22 +24309,6 @@ IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: United Kingdom
-
-Protocol: https
-Proxy: 77.73.69.57:143:Russia
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Russia
-
-Protocol: https
-Proxy: 77.73.68.159:143:Russia
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Russia
 
 Protocol: https
 Proxy: 207.244.71.81:955:United States
@@ -23981,6 +25333,14 @@ IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: The Netherlands
+
+Protocol: https
+Proxy: 51.89.157.175:143:United Kingdom
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United Kingdom
 
 Protocol: https
 Proxy: 51.158.200.73:838:The Netherlands
@@ -25911,14 +27271,6 @@ Server: N/A
 Country: Germany
 
 Protocol: https
-Proxy: 31.24.253.244:143:Germany
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Germany
-
-Protocol: https
 Proxy: 51.158.200.82:905:The Netherlands
 Status: not working
 IP: 127.0.0.1
@@ -26079,6 +27431,14 @@ Server: N/A
 Country: France
 
 Protocol: https
+Proxy: 207.244.89.161:80:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: https
 Proxy: 51.158.200.82:955:The Netherlands
 Status: not working
 IP: 127.0.0.1
@@ -26103,14 +27463,6 @@ Server: N/A
 Country: United Kingdom
 
 Protocol: https
-Proxy: 181.215.52.30:443:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 51.158.200.82:443:The Netherlands
 Status: not working
 IP: 127.0.0.1
@@ -26128,6 +27480,14 @@ Country: The Netherlands
 
 Protocol: https
 Proxy: 51.158.200.84:1015:The Netherlands
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: The Netherlands
+
+Protocol: https
+Proxy: 51.158.200.84:80:The Netherlands
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -26271,6 +27631,14 @@ Server: N/A
 Country: The Netherlands
 
 Protocol: https
+Proxy: 51.158.200.82:80:The Netherlands
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: The Netherlands
+
+Protocol: https
 Proxy: 51.158.200.82:436:The Netherlands
 Status: not working
 IP: 127.0.0.1
@@ -26333,14 +27701,6 @@ IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: The Netherlands
-
-Protocol: https
-Proxy: 104.129.194.46:11263:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
 
 Protocol: https
 Proxy: 207.244.71.80:80:United States
@@ -26511,6 +27871,14 @@ Server: N/A
 Country: Germany
 
 Protocol: https
+Proxy: 51.158.253.78:80:France
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: France
+
+Protocol: https
 Proxy: 196.1.95.124:443:Senegal
 Status: not working
 IP: 127.0.0.1
@@ -26575,14 +27943,6 @@ Server: N/A
 Country: The Netherlands
 
 Protocol: https
-Proxy: 207.244.71.79:80:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 193.3.23.179:443:Russia
 Status: not working
 IP: 127.0.0.1
@@ -26615,6 +27975,14 @@ Server: N/A
 Country: Germany
 
 Protocol: https
+Proxy: 80.76.42.46:443:Russia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Russia
+
+Protocol: https
 Proxy: 65.49.68.84:51327:United States
 Status: not working
 IP: 127.0.0.1
@@ -26632,22 +28000,6 @@ Country: United States
 
 Protocol: https
 Proxy: 65.49.68.84:10878:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:10035:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:10005:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -26687,15 +28039,7 @@ Server: N/A
 Country: Germany
 
 Protocol: https
-Proxy: 65.49.68.84:60606:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:33333:United States
+Proxy: 65.49.68.84:33333:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -26719,30 +28063,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:51080:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:10800:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:10800:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.68.84:10800:United States
 Status: not working
 IP: 127.0.0.1
@@ -26752,14 +28072,6 @@ Country: United States
 
 Protocol: https
 Proxy: 65.49.14.154:33333:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:10003:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -26815,23 +28127,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:10086:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:18080:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:18080:United States
+Proxy: 65.49.68.84:26689:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -26847,47 +28143,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:54321:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:60606:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 64.62.219.84:41890:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:53281:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:41401:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:10005:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -26903,23 +28159,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:41890:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 64.62.219.84:32650:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:32650:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -26959,23 +28199,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:10742:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.2.84:10742:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:10086:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -26991,55 +28215,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:14609:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:10011:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 64.62.219.84:34409:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:31337:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:41304:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:64312:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:41401:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -27079,14 +28255,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:11195:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 64.62.219.84:11201:United States
 Status: not working
 IP: 127.0.0.1
@@ -27103,31 +28271,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:11093:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:20081:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 64.62.219.84:10010:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:10945:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -27159,14 +28303,6 @@ Server: N/A
 Country: Singapore
 
 Protocol: https
-Proxy: 65.49.2.84:10004:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.68.84:27234:United States
 Status: not working
 IP: 127.0.0.1
@@ -27191,39 +28327,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:14888:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:11143:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 64.62.219.84:41706:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:41405:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:41706:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -27239,15 +28343,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:58080:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:55443:United States
+Proxy: 64.62.219.84:41304:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -27256,22 +28352,6 @@ Country: United States
 
 Protocol: https
 Proxy: 65.49.2.84:10005:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:41304:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:39593:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -27295,22 +28375,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 146.185.233.9:443:Germany
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Germany
-
-Protocol: https
-Proxy: 94.159.108.148:443:Russia
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Russia
-
-Protocol: https
 Proxy: 65.49.14.154:11143:United States
 Status: not working
 IP: 127.0.0.1
@@ -27320,14 +28384,6 @@ Country: United States
 
 Protocol: https
 Proxy: 65.49.14.154:48324:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:60606:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -27359,31 +28415,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:47193:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:31509:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:48324:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:10013:United States
+Proxy: 65.49.14.154:64312:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -27431,55 +28463,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:10057:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:39593:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.14.154:39593:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:20081:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:13979:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:41399:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:10230:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -27495,23 +28479,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:10057:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.14.154:11201:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:13128:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -27551,7 +28519,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:51327:United States
+Proxy: 65.49.14.154:13979:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -27567,79 +28535,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:10011:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:51327:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.14.154:55582:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:55555:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:55555:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:20183:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:16379:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:34411:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:34411:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:55582:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -27663,14 +28559,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:11093:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.2.84:10729:United States
 Status: not working
 IP: 127.0.0.1
@@ -27687,7 +28575,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:10729:United States
+Proxy: 65.49.2.84:11066:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -27695,7 +28583,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:26689:United States
+Proxy: 64.62.219.84:11700:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -27727,47 +28615,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:11700:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.14.154:10000:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:11080:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:11080:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:11080:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:19333:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -27784,14 +28632,6 @@ Country: United States
 
 Protocol: https
 Proxy: 65.49.14.154:58090:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:10800:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -27855,23 +28695,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:58081:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 64.62.219.84:11743:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:24019:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -27919,30 +28743,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:14344:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:14344:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:14344:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.2.84:18573:United States
 Status: not working
 IP: 127.0.0.1
@@ -27952,22 +28752,6 @@ Country: United States
 
 Protocol: https
 Proxy: 65.49.68.84:30531:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:30531:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:54486:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -27999,22 +28783,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:30001:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:30001:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.68.84:16593:United States
 Status: not working
 IP: 127.0.0.1
@@ -28031,14 +28799,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:30407:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.2.84:20733:United States
 Status: not working
 IP: 127.0.0.1
@@ -28047,23 +28807,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:59245:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.2.84:59245:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:38897:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -28087,22 +28831,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:18573:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:59245:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.2.84:16593:United States
 Status: not working
 IP: 127.0.0.1
@@ -28119,60 +28847,12 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 23.106.249.54:80:Singapore
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Singapore
-
-Protocol: https
-Proxy: 64.62.219.84:20733:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:20733:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:20733:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:19835:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 201.238.248.135:443:Chile
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Chile
-
-Protocol: https
-Proxy: 65.49.68.84:30407:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
 
 Protocol: https
 Proxy: 64.62.219.84:58090:United States
@@ -28207,15 +28887,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:24019:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:25413:United States
+Proxy: 65.49.2.84:20500:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -28231,7 +28903,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 104.129.194.45:11700:United States
+Proxy: 104.129.194.46:11700:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -28239,15 +28911,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 94.228.164.248:143:Poland
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Poland
-
-Protocol: https
-Proxy: 65.49.68.84:10092:United States
+Proxy: 104.129.194.45:11700:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -28263,15 +28927,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:16219:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:11399:United States
+Proxy: 104.129.194.45:10228:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -28280,14 +28936,6 @@ Country: United States
 
 Protocol: https
 Proxy: 64.62.219.84:31269:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:31269:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -28319,7 +28967,15 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:15633:United States
+Proxy: 65.49.14.154:15633:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: https
+Proxy: 104.129.194.44:11743:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -28343,23 +28999,7 @@ Server: N/A
 Country: The Netherlands
 
 Protocol: https
-Proxy: 64.62.219.84:20500:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 64.62.219.84:40000:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:27675:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -28375,22 +29015,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:16219:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:10228:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.2.84:16219:United States
 Status: not working
 IP: 127.0.0.1
@@ -28399,23 +29023,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:25413:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 64.62.219.84:27391:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:27391:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -28439,14 +29047,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:10228:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.2.84:10810:United States
 Status: not working
 IP: 127.0.0.1
@@ -28456,6 +29056,14 @@ Country: United States
 
 Protocol: https
 Proxy: 65.49.14.154:10810:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: https
+Proxy: 64.62.219.84:10810:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -28479,55 +29087,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:59245:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:30023:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 104.129.194.43:11743:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:28326:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:28361:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:29072:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:22347:United States
+Proxy: 65.49.68.84:10228:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -28536,14 +29096,6 @@ Country: United States
 
 Protocol: https
 Proxy: 65.49.14.154:12075:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:28080:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -28560,46 +29112,6 @@ Country: United States
 
 Protocol: https
 Proxy: 65.49.2.84:15495:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:28080:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:28080:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:10127:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:27675:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:12003:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -28639,23 +29151,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:20743:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.14.154:25591:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:11241:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -28672,14 +29168,6 @@ Country: United States
 
 Protocol: https
 Proxy: 65.49.68.84:59246:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:10007:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -28719,7 +29207,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:10009:United States
+Proxy: 65.49.2.84:10009:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -28727,7 +29215,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:10009:United States
+Proxy: 64.62.219.84:10008:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -28791,7 +29279,7 @@ Server: N/A
 Country: Germany
 
 Protocol: https
-Proxy: 65.49.68.84:49571:United States
+Proxy: 65.49.14.154:49506:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -28799,15 +29287,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:26545:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:22347:United States
+Proxy: 65.49.2.84:29464:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -28823,23 +29303,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:38140:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 64.62.219.84:38412:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:51947:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -28903,14 +29367,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:34343:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.68.84:34343:United States
 Status: not working
 IP: 127.0.0.1
@@ -28951,14 +29407,6 @@ Server: N/A
 Country: United Kingdom
 
 Protocol: https
-Proxy: 65.49.2.84:63128:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.2.84:12269:United States
 Status: not working
 IP: 127.0.0.1
@@ -28968,14 +29416,6 @@ Country: United States
 
 Protocol: https
 Proxy: 64.62.219.84:12269:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:12269:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -28999,14 +29439,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:48976:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 64.62.219.84:11263:United States
 Status: not working
 IP: 127.0.0.1
@@ -29023,7 +29455,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:25591:United States
+Proxy: 65.49.2.84:60292:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -29031,12 +29463,12 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:60292:United States
+Proxy: 165.225.72.38:11263:Germany
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: United States
+Country: Germany
 
 Protocol: https
 Proxy: 104.129.194.43:11263:United States
@@ -29071,12 +29503,12 @@ Server: N/A
 Country: Singapore
 
 Protocol: https
-Proxy: 65.49.14.154:30681:United States
+Proxy: 165.225.72.38:11743:Germany
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: United States
+Country: Germany
 
 Protocol: https
 Proxy: 165.225.72.38:10228:Germany
@@ -29127,14 +29559,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:60444:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.14.154:11461:United States
 Status: not working
 IP: 127.0.0.1
@@ -29159,39 +29583,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:11813:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.68.84:11813:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:59311:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:29182:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:29182:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -29207,23 +29599,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:64009:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.2.84:28326:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:49668:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -29263,54 +29639,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:52101:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:30681:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:14885:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:61604:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:11461:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:10973:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.14.154:26251:United States
 Status: not working
 IP: 127.0.0.1
@@ -29335,14 +29663,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:20743:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.68.84:29182:United States
 Status: not working
 IP: 127.0.0.1
@@ -29359,14 +29679,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:16269:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.14.154:16269:United States
 Status: not working
 IP: 127.0.0.1
@@ -29376,14 +29688,6 @@ Country: United States
 
 Protocol: https
 Proxy: 65.49.2.84:25427:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:60588:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -29415,23 +29719,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:60588:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.68.84:28326:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:13441:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -29447,39 +29735,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:11241:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:29464:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:51947:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.68.84:59311:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:51947:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -29495,39 +29751,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:49571:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.14.154:50003:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:50003:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:50003:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:38140:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -29543,12 +29767,12 @@ Server: N/A
 Country: Türkiye
 
 Protocol: https
-Proxy: 65.49.2.84:11183:United States
+Proxy: 47.243.181.85:41419:Japan
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: United States
+Country: Japan
 
 Protocol: https
 Proxy: 65.49.68.84:25427:United States
@@ -29591,14 +29815,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:60967:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.2.84:10069:United States
 Status: not working
 IP: 127.0.0.1
@@ -29623,71 +29839,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:12187:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:26117:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:25513:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.68.84:60179:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:60179:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:60179:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:11711:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:21173:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:11711:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -29703,22 +29855,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:60638:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:60638:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.68.84:60638:United States
 Status: not working
 IP: 127.0.0.1
@@ -29727,55 +29863,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:60945:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:12413:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 64.62.219.84:22123:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:17249:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:17249:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:52015:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:20199:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -29799,14 +29887,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:49915:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.68.84:50143:United States
 Status: not working
 IP: 127.0.0.1
@@ -29815,55 +29895,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:63235:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:63454:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:60868:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.2.84:60787:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:49506:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:31147:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:60868:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -29887,14 +29919,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:27481:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.68.84:31601:United States
 Status: not working
 IP: 127.0.0.1
@@ -29903,7 +29927,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:31147:United States
+Proxy: 64.62.219.84:28361:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -29911,7 +29935,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:31147:United States
+Proxy: 65.49.2.84:38140:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -29920,30 +29944,6 @@ Country: United States
 
 Protocol: https
 Proxy: 65.49.68.84:49506:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:60354:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:60951:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:60951:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -29975,28 +29975,12 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:19000:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 47.243.181.85:55001:Taiwan
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Taiwan
-
-Protocol: https
-Proxy: 64.62.219.84:63123:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
 
 Protocol: https
 Proxy: 65.49.68.84:33033:United States
@@ -30023,7 +30007,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:11298:United States
+Proxy: 65.49.14.154:11298:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -30031,7 +30015,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:52227:United States
+Proxy: 65.49.2.84:11298:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -30055,14 +30039,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:22365:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.14.154:22365:United States
 Status: not working
 IP: 127.0.0.1
@@ -30072,22 +30048,6 @@ Country: United States
 
 Protocol: https
 Proxy: 34.42.220.72:3129:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:30119:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:11755:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -30111,14 +30071,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:52217:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 64.62.219.84:51301:United States
 Status: not working
 IP: 127.0.0.1
@@ -30127,7 +30079,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:51301:United States
+Proxy: 64.62.219.84:38020:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -30159,31 +30111,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:10508:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:10638:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.2.84:19208:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:19230:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -30215,22 +30143,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:51826:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:60760:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 64.62.219.84:60760:United States
 Status: not working
 IP: 127.0.0.1
@@ -30255,23 +30167,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:45555:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.68.84:43188:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:11461:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -30303,23 +30199,7 @@ Server: N/A
 Country: Mexico
 
 Protocol: https
-Proxy: 65.49.68.84:30119:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.2.84:63228:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:63228:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -30335,71 +30215,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:12281:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:12187:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:49922:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:41419:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:60655:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:60635:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.2.84:60635:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:20199:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:60635:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -30415,14 +30231,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:60635:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 133.167.65.66:443:Japan
 Status: not working
 IP: 127.0.0.1
@@ -30431,23 +30239,7 @@ Server: N/A
 Country: Japan
 
 Protocol: https
-Proxy: 65.49.14.154:49571:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 64.62.219.84:60655:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:63235:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -30463,23 +30255,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:55011:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.68.84:41788:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:21633:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -30503,23 +30279,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:49915:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:21633:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:41788:United States
+Proxy: 65.49.2.84:49915:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -30543,7 +30303,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:10973:United States
+Proxy: 64.62.219.84:63235:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -30575,23 +30335,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:19458:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.68.84:60967:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:60967:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -30615,39 +30359,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:56990:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:56990:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:41419:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.14.154:60495:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:10500:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -30663,22 +30375,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:38412:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:11712:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.14.154:60525:United States
 Status: not working
 IP: 127.0.0.1
@@ -30687,7 +30383,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:60525:United States
+Proxy: 64.62.219.84:50143:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -30695,7 +30391,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:49915:United States
+Proxy: 65.49.68.84:60525:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -30719,47 +30415,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:15703:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:41288:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.68.84:10425:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:60756:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:60756:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:60756:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -31255,14 +30911,6 @@ Server: N/A
 Country: Singapore
 
 Protocol: https
-Proxy: 65.49.68.84:60615:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 64.62.219.84:18301:United States
 Status: not working
 IP: 127.0.0.1
@@ -31271,7 +30919,15 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:60615:United States
+Proxy: 64.62.219.84:60615:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: https
+Proxy: 65.49.14.154:22513:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -31287,22 +30943,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:41402:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:26117:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.2.84:18301:United States
 Status: not working
 IP: 127.0.0.1
@@ -31311,63 +30951,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:63166:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:55001:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:55001:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:55001:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:55001:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 64.62.219.84:60684:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:60684:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:15703:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -31407,31 +30991,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:15703:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:15703:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.2.84:60804:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:60804:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -31455,47 +31015,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:10638:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:14351:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:13955:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:19268:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.14.154:41402:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:23267:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -31511,23 +31031,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:25099:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.14.154:31469:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:11734:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -31551,22 +31055,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:49922:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:11493:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 64.62.219.84:16009:United States
 Status: not working
 IP: 127.0.0.1
@@ -31575,39 +31063,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:11755:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:60559:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.14.154:60559:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:60559:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:60559:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -31631,47 +31087,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:19077:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:34599:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:60967:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.14.154:20285:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:29623:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:29623:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -31727,30 +31143,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:11734:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:11734:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:21081:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.14.154:31280:United States
 Status: not working
 IP: 127.0.0.1
@@ -31759,23 +31151,15 @@ Server: N/A
 Country: United States
 
 Protocol: https
+Proxy: 65.49.68.84:48128:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: https
 Proxy: 65.49.2.84:22513:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:49850:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:61804:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -31823,14 +31207,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:32138:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.14.154:54000:United States
 Status: not working
 IP: 127.0.0.1
@@ -31853,22 +31229,6 @@ IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: United States
-
-Protocol: https
-Proxy: 165.225.72.38:11747:Germany
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Germany
-
-Protocol: https
-Proxy: 165.225.72.38:11742:Germany
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Germany
 
 Protocol: https
 Proxy: 165.225.72.38:11480:Germany
@@ -31895,20 +31255,12 @@ Server: N/A
 Country: Germany
 
 Protocol: https
-Proxy: 165.225.72.38:11655:Germany
+Proxy: 165.225.72.38:11691:Germany
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Germany
-
-Protocol: https
-Proxy: 65.49.68.84:42513:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
 
 Protocol: https
 Proxy: 65.49.2.84:13955:United States
@@ -31927,39 +31279,7 @@ Server: N/A
 Country: Germany
 
 Protocol: https
-Proxy: 65.49.2.84:10111:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.14.154:16096:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 165.225.72.38:11265:Germany
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Germany
-
-Protocol: https
-Proxy: 65.49.14.154:21837:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:17561:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -31975,30 +31295,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:11493:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:19208:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:60389:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.2.84:21081:United States
 Status: not working
 IP: 127.0.0.1
@@ -32007,15 +31303,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:44700:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:30025:United States
+Proxy: 65.49.68.84:10111:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -32024,22 +31312,6 @@ Country: United States
 
 Protocol: https
 Proxy: 65.49.14.154:30025:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:12117:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:20285:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -32072,14 +31344,6 @@ Country: United States
 
 Protocol: https
 Proxy: 64.62.219.84:12117:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:31972:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -32135,55 +31399,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:20285:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:17561:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:31377:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:23745:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.68.84:32371:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:20285:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:13955:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -32199,7 +31415,15 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:15497:United States
+Proxy: 65.49.14.154:32371:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: https
+Proxy: 64.62.219.84:24955:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -32223,14 +31447,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:38080:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 64.62.219.84:11707:United States
 Status: not working
 IP: 127.0.0.1
@@ -32239,7 +31455,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:31469:United States
+Proxy: 64.62.219.84:10425:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -32255,47 +31471,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:32117:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:10015:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:10015:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.68.84:34599:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:34599:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:50001:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -32319,7 +31495,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:24955:United States
+Proxy: 65.49.2.84:10017:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -32327,7 +31503,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:10017:United States
+Proxy: 65.49.14.154:11655:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -32343,14 +31519,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:32502:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 64.62.219.84:21081:United States
 Status: not working
 IP: 127.0.0.1
@@ -32359,23 +31527,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:10012:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:10012:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:64999:United States
+Proxy: 65.49.14.154:10012:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -32391,23 +31543,15 @@ Server: N/A
 Country: United States
 
 Protocol: https
+Proxy: 64.62.219.84:30539:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: https
 Proxy: 65.49.14.154:15497:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:23267:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:11715:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -32423,7 +31567,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:25269:United States
+Proxy: 65.49.68.84:64999:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -32447,22 +31591,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:32593:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:25099:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.68.84:24581:United States
 Status: not working
 IP: 127.0.0.1
@@ -32479,14 +31607,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:52113:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.2.84:18815:United States
 Status: not working
 IP: 127.0.0.1
@@ -32495,20 +31615,12 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:10543:United States
+Proxy: 64.62.219.84:10019:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: United States
-
-Protocol: https
-Proxy: 94.228.164.248:443:Poland
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Poland
 
 Protocol: https
 Proxy: 64.62.219.84:36612:United States
@@ -32527,7 +31639,15 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:31377:United States
+Proxy: 65.49.68.84:25269:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: https
+Proxy: 64.62.219.84:18158:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -32544,30 +31664,6 @@ Country: Germany
 
 Protocol: https
 Proxy: 64.62.219.84:19493:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:16405:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:23745:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:11707:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -32599,22 +31695,6 @@ Server: N/A
 Country: Germany
 
 Protocol: https
-Proxy: 65.49.14.154:19493:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:52113:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.14.154:38080:United States
 Status: not working
 IP: 127.0.0.1
@@ -32631,7 +31711,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:30539:United States
+Proxy: 65.49.2.84:27081:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -32640,22 +31720,6 @@ Country: United States
 
 Protocol: https
 Proxy: 65.49.2.84:30539:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:30539:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:14063:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -32672,14 +31736,6 @@ Country: United States
 
 Protocol: https
 Proxy: 64.62.219.84:10543:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:64441:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -32711,7 +31767,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:19077:United States
+Proxy: 65.49.68.84:22527:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -32719,7 +31775,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:35956:United States
+Proxy: 65.49.14.154:19077:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -32743,22 +31799,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:61337:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:17111:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.14.154:61337:United States
 Status: not working
 IP: 127.0.0.1
@@ -32768,14 +31808,6 @@ Country: United States
 
 Protocol: https
 Proxy: 65.49.14.154:32497:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:60151:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -32807,14 +31839,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:15309:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.68.84:32502:United States
 Status: not working
 IP: 127.0.0.1
@@ -32824,22 +31848,6 @@ Country: United States
 
 Protocol: https
 Proxy: 65.49.14.154:60151:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:45278:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:47538:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -32863,14 +31871,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:10028:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.2.84:10028:United States
 Status: not working
 IP: 127.0.0.1
@@ -32887,23 +31887,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:37149:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.2.84:37401:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:17111:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -32967,31 +31951,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:20017:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 64.62.219.84:20017:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:49768:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:32371:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -33047,38 +32007,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:37401:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:48049:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:15831:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:11693:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 64.62.219.84:49918:United States
 Status: not working
 IP: 127.0.0.1
@@ -33087,23 +32015,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:44557:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.14.154:37401:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:17737:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -33127,38 +32039,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:17111:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:19077:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:20012:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:20012:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.2.84:20002:United States
 Status: not working
 IP: 127.0.0.1
@@ -33167,55 +32047,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:18047:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:20002:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:14447:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:42344:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:42344:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.68.84:28379:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:34270:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -33240,14 +32072,6 @@ Country: United States
 
 Protocol: https
 Proxy: 65.49.14.154:44557:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:18092:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -33287,30 +32111,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:20011:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:49918:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:11742:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.14.154:31745:United States
 Status: not working
 IP: 127.0.0.1
@@ -33319,39 +32119,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:59417:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:17737:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.14.154:61332:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:61442:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:62279:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -33423,39 +32191,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:10014:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:23500:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.2.84:62885:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:62967:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:64261:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -33487,30 +32223,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:10018:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:10018:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:30127:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.68.84:20005:United States
 Status: not working
 IP: 127.0.0.1
@@ -33519,39 +32231,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:20005:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:14713:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 64.62.219.84:20005:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:31377:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:64441:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -33583,14 +32263,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:24677:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.68.84:24665:United States
 Status: not working
 IP: 127.0.0.1
@@ -33607,23 +32279,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:61332:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.2.84:61332:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:28317:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -33639,6 +32295,14 @@ Server: N/A
 Country: United States
 
 Protocol: https
+Proxy: 65.49.68.84:15831:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: https
 Proxy: 65.49.68.84:27081:United States
 Status: not working
 IP: 127.0.0.1
@@ -33647,31 +32311,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:23219:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:15831:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:43825:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:44122:United States
+Proxy: 65.49.14.154:45278:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -33680,38 +32320,6 @@ Country: United States
 
 Protocol: https
 Proxy: 64.62.219.84:45278:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:35578:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:35578:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:32497:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:13825:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -33735,47 +32343,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:28248:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:30821:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:20008:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:28379:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.14.154:14153:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:26971:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -33823,30 +32391,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:20007:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:20007:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:20007:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 64.62.219.84:59417:United States
 Status: not working
 IP: 127.0.0.1
@@ -33856,14 +32400,6 @@ Country: United States
 
 Protocol: https
 Proxy: 65.49.14.154:28248:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:59417:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -33903,6 +32439,14 @@ Server: N/A
 Country: United States
 
 Protocol: https
+Proxy: 64.62.219.84:17737:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: https
 Proxy: 65.49.68.84:11742:United States
 Status: not working
 IP: 127.0.0.1
@@ -33912,14 +32456,6 @@ Country: United States
 
 Protocol: https
 Proxy: 65.49.2.84:11742:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:46478:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -33951,55 +32487,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:13271:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.68.84:42759:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:59661:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:59684:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:59964:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:11302:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:11758:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -34023,30 +32511,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:26267:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 86.38.156.174:443:Germany
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Germany
-
-Protocol: https
-Proxy: 213.176.73.48:443:Iran
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Iran
-
-Protocol: https
 Proxy: 65.49.68.84:20018:United States
 Status: not working
 IP: 127.0.0.1
@@ -34056,6 +32520,14 @@ Country: United States
 
 Protocol: https
 Proxy: 64.62.219.84:55715:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: https
+Proxy: 65.49.14.154:20018:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -34079,14 +32551,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:32142:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.2.84:28776:United States
 Status: not working
 IP: 127.0.0.1
@@ -34103,7 +32567,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:28272:United States
+Proxy: 65.49.14.154:42759:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -34111,7 +32575,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:42759:United States
+Proxy: 65.49.68.84:46157:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -34135,23 +32599,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:26971:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.2.84:11693:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:64441:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -34167,39 +32615,15 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:55571:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:42526:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:48049:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:48049:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 64.62.219.84:31133:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: https
+Proxy: 64.62.219.84:45116:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -34223,31 +32647,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:28542:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.68.84:28248:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:15309:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:49251:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -34287,7 +32687,23 @@ Server: N/A
 Country: United States
 
 Protocol: https
+Proxy: 65.49.68.84:34270:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: https
 Proxy: 65.49.14.154:61442:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: https
+Proxy: 65.49.2.84:30901:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -34319,7 +32735,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:13858:United States
+Proxy: 64.62.219.84:30127:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -34327,7 +32743,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:36612:United States
+Proxy: 64.62.219.84:55136:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -34367,39 +32783,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:53972:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:19593:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.14.154:53972:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:12825:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:45793:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -34439,22 +32823,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:24665:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:10869:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.14.154:55684:United States
 Status: not working
 IP: 127.0.0.1
@@ -34479,14 +32847,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:20001:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.68.84:20001:United States
 Status: not working
 IP: 127.0.0.1
@@ -34503,14 +32863,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:21959:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.14.154:15309:United States
 Status: not working
 IP: 127.0.0.1
@@ -34519,15 +32871,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:30901:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:30127:United States
+Proxy: 65.49.68.84:42456:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -34567,54 +32911,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:20003:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:17729:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:46478:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:45793:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:20601:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:35143:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 64.62.219.84:35255:United States
 Status: not working
 IP: 127.0.0.1
@@ -34631,55 +32927,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:35873:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:52485:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:52676:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:55116:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:56811:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 64.62.219.84:30034:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:11693:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -34711,63 +32959,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:47538:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:55684:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:31745:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:35143:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:45793:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:42179:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:27105:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:31805:United States
+Proxy: 65.49.2.84:55116:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -34799,23 +32991,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:26800:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 64.62.219.84:20601:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:61736:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -34863,30 +33039,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:42479:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:35143:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:15634:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 64.62.219.84:46157:United States
 Status: not working
 IP: 127.0.0.1
@@ -34911,22 +33063,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:55136:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:55136:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.2.84:63299:United States
 Status: not working
 IP: 127.0.0.1
@@ -34935,23 +33071,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:56811:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.14.154:46478:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:62967:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -34975,23 +33095,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:44122:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.68.84:59684:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:44945:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -35023,23 +33127,15 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:14153:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:14153:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.14.154:19593:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: https
+Proxy: 65.49.2.84:19593:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -35063,14 +33159,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:35287:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.2.84:31745:United States
 Status: not working
 IP: 127.0.0.1
@@ -35087,31 +33175,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:32142:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:29397:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.68.84:33036:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:30939:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -35151,22 +33215,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:52485:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:18431:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.2.84:13837:United States
 Status: not working
 IP: 127.0.0.1
@@ -35199,46 +33247,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:11574:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:52676:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:42409:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:10869:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:10869:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.68.84:56811:United States
 Status: not working
 IP: 127.0.0.1
@@ -35263,63 +33271,7 @@ Server: N/A
 Country: Singapore
 
 Protocol: https
-Proxy: 104.129.194.45:11691:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:28776:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:42543:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:20601:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:10975:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 64.62.219.84:55116:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:21543:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:10975:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -35335,14 +33287,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:13858:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.2.84:59684:United States
 Status: not working
 IP: 127.0.0.1
@@ -35351,31 +33295,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:56811:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:31835:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.68.84:59661:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:21483:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -35415,7 +33335,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:20491:United States
+Proxy: 64.62.219.84:56955:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -35431,23 +33351,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:11563:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.14.154:63299:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:64643:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -35463,31 +33367,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:11716:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 104.129.194.45:11711:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:34270:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:59341:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -35551,14 +33431,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:11703:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.2.84:17108:United States
 Status: not working
 IP: 127.0.0.1
@@ -35583,22 +33455,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:17108:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:59964:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 64.62.219.84:59964:United States
 Status: not working
 IP: 127.0.0.1
@@ -35615,14 +33471,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:16466:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 64.62.219.84:11758:United States
 Status: not working
 IP: 127.0.0.1
@@ -35632,30 +33480,6 @@ Country: United States
 
 Protocol: https
 Proxy: 65.49.14.154:17108:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:43825:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:17711:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:31557:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -35687,14 +33511,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:35255:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 64.62.219.84:32231:United States
 Status: not working
 IP: 127.0.0.1
@@ -35703,15 +33519,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:20016:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:20016:United States
+Proxy: 64.62.219.84:20016:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -35743,47 +33551,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:15359:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:12345:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:13989:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.2.84:17284:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:64261:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:11714:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -35799,23 +33567,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:46263:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.68.84:18100:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:11714:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -35831,46 +33583,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:11714:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:25635:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:13435:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:18579:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:45005:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 64.62.219.84:23091:United States
 Status: not working
 IP: 127.0.0.1
@@ -35879,7 +33591,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:13135:United States
+Proxy: 65.49.2.84:13435:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -35895,7 +33607,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:32853:United States
+Proxy: 64.62.219.84:20009:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -35919,31 +33631,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:11053:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:18912:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.68.84:20330:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:20390:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -35975,14 +33663,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:23549:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 165.225.113.220:11714:Singapore
 Status: not working
 IP: 127.0.0.1
@@ -36007,14 +33687,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:59731:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 64.62.219.84:62885:United States
 Status: not working
 IP: 127.0.0.1
@@ -36024,46 +33696,6 @@ Country: United States
 
 Protocol: https
 Proxy: 64.62.219.84:19355:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:27265:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:15055:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:17101:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:17101:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:17860:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -36111,23 +33743,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:20020:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.2.84:20020:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:29285:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -36144,30 +33760,6 @@ Country: United States
 
 Protocol: https
 Proxy: 65.49.2.84:12854:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:12854:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:13135:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:13135:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -36199,31 +33791,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:15899:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 64.62.219.84:15899:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:16363:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:16363:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -36263,31 +33831,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:12867:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:12867:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.68.84:14218:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:18076:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -36335,22 +33879,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:19644:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:17125:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 64.62.219.84:17125:United States
 Status: not working
 IP: 127.0.0.1
@@ -36367,31 +33895,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:17754:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.14.154:15842:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:16967:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:11703:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -36408,14 +33912,6 @@ Country: United States
 
 Protocol: https
 Proxy: 65.49.14.154:11303:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:19507:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -36447,31 +33943,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:16207:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 64.62.219.84:16466:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:47758:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:58172:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -36527,30 +33999,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:39674:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:40307:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:11716:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 64.62.219.84:52118:United States
 Status: not working
 IP: 127.0.0.1
@@ -36583,7 +34031,23 @@ Server: N/A
 Country: United States
 
 Protocol: https
+Proxy: 65.49.2.84:14278:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: https
 Proxy: 64.62.219.84:29607:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: https
+Proxy: 104.129.194.46:11703:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -36599,15 +34063,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 104.129.194.43:11703:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:10391:United States
+Proxy: 104.129.194.38:11703:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -36631,7 +34087,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:25559:United States
+Proxy: 65.49.14.154:25644:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -36639,23 +34095,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:26047:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:41206:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:30547:United States
+Proxy: 65.49.68.84:30332:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -36677,30 +34117,6 @@ IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Taiwan
-
-Protocol: https
-Proxy: 65.49.68.84:31835:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:39811:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:39811:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
 
 Protocol: https
 Proxy: 65.49.2.84:31557:United States
@@ -36727,14 +34143,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:46263:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 173.249.23.14:443:Germany
 Status: not working
 IP: 127.0.0.1
@@ -36751,7 +34159,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:25789:United States
+Proxy: 65.49.2.84:24983:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -36775,22 +34183,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:20055:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:20055:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 23.106.56.35:80:United Kingdom
 Status: not working
 IP: 127.0.0.1
@@ -36800,14 +34192,6 @@ Country: United Kingdom
 
 Protocol: https
 Proxy: 64.62.219.84:14634:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:20149:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -36839,23 +34223,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:63299:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.14.154:38232:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:38346:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -36871,39 +34239,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:18464:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:18478:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:30182:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.2.84:42078:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:53278:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -36951,6 +34287,14 @@ Server: N/A
 Country: United States
 
 Protocol: https
+Proxy: 65.49.14.154:21977:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: https
 Proxy: 64.62.219.84:22179:United States
 Status: not working
 IP: 127.0.0.1
@@ -36960,22 +34304,6 @@ Country: United States
 
 Protocol: https
 Proxy: 65.49.14.154:33582:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:54345:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:54543:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -36999,14 +34327,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:15523:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 64.62.219.84:25680:United States
 Status: not working
 IP: 127.0.0.1
@@ -37023,22 +34343,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:37086:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:48606:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.68.84:48630:United States
 Status: not working
 IP: 127.0.0.1
@@ -37048,14 +34352,6 @@ Country: United States
 
 Protocol: https
 Proxy: 65.49.68.84:59877:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:26427:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -37111,14 +34407,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:21977:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.2.84:21977:United States
 Status: not working
 IP: 127.0.0.1
@@ -37152,14 +34440,6 @@ Country: United States
 
 Protocol: https
 Proxy: 104.129.194.45:11723:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:10779:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -37223,15 +34503,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:58555:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:59869:United States
+Proxy: 65.49.2.84:58678:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -37271,6 +34543,14 @@ Server: N/A
 Country: United States
 
 Protocol: https
+Proxy: 65.49.68.84:22003:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: https
 Proxy: 65.49.2.84:39705:United States
 Status: not working
 IP: 127.0.0.1
@@ -37279,23 +34559,15 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:48789:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:10568:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.2.84:16393:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: https
+Proxy: 65.49.68.84:56609:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -37319,14 +34591,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:18802:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.14.154:22306:United States
 Status: not working
 IP: 127.0.0.1
@@ -37343,38 +34607,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:51340:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:21820:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:17152:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:17594:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.14.154:18041:United States
 Status: not working
 IP: 127.0.0.1
@@ -37383,31 +34615,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:43391:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.2.84:44073:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:33298:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:42208:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -37431,39 +34639,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:16669:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 64.62.219.84:22126:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:22086:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:22199:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:32152:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -37479,14 +34655,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:32335:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.68.84:20030:United States
 Status: not working
 IP: 127.0.0.1
@@ -37495,23 +34663,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:20030:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.2.84:20030:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:58035:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -37535,14 +34687,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:26291:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.2.84:49591:United States
 Status: not working
 IP: 127.0.0.1
@@ -37551,47 +34695,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:49810:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:49972:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:59866:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:60427:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:11078:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:11359:United States
+Proxy: 65.49.2.84:59377:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -37600,14 +34704,6 @@ Country: United States
 
 Protocol: https
 Proxy: 65.49.68.84:19522:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:25790:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -37639,23 +34735,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:37894:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:46977:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:48161:United States
+Proxy: 65.49.14.154:39093:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -37664,14 +34744,6 @@ Country: United States
 
 Protocol: https
 Proxy: 64.62.219.84:52522:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:53110:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -37735,23 +34807,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:62357:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.2.84:29397:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:20021:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -37767,7 +34823,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:61667:United States
+Proxy: 64.62.219.84:61251:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -37775,7 +34831,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:41071:United States
+Proxy: 65.49.2.84:61667:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -37791,14 +34847,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:41532:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.2.84:41483:United States
 Status: not working
 IP: 127.0.0.1
@@ -37807,31 +34855,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:59750:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.68.84:23335:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:10022:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:10033:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -37855,23 +34879,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:10030:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.14.154:10030:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:44945:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -37887,47 +34895,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:14930:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:15074:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:13011:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:13030:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.68.84:13099:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:13365:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -37951,71 +34919,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:41210:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:43526:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:20025:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:48509:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:49936:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 64.62.219.84:50030:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:58760:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:59791:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:20025:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -38032,14 +34936,6 @@ Country: United States
 
 Protocol: https
 Proxy: 65.49.14.154:11796:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:11889:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -38071,23 +34967,15 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:20025:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:10021:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.2.84:16226:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: https
+Proxy: 104.129.194.46:11715:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -38103,39 +34991,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:25802:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:34147:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.2.84:15540:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:24482:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:36221:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -38175,14 +35031,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:14745:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.68.84:22035:United States
 Status: not working
 IP: 127.0.0.1
@@ -38199,31 +35047,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:33223:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:51548:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:52780:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:11337:United States
+Proxy: 64.62.219.84:51477:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -38255,7 +35079,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:19625:United States
+Proxy: 64.62.219.84:10423:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -38279,14 +35103,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:45771:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 64.62.219.84:55420:United States
 Status: not working
 IP: 127.0.0.1
@@ -38295,7 +35111,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:17308:United States
+Proxy: 65.49.14.154:16955:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -38312,6 +35128,14 @@ Country: United States
 
 Protocol: https
 Proxy: 65.49.14.154:26438:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: https
+Proxy: 65.49.2.84:26788:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -38343,31 +35167,15 @@ Server: N/A
 Country: United States
 
 Protocol: https
+Proxy: 64.62.219.84:37498:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: https
 Proxy: 65.49.14.154:45368:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:55792:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:57050:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:18201:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -38423,14 +35231,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:52512:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.14.154:59413:United States
 Status: not working
 IP: 127.0.0.1
@@ -38439,31 +35239,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:60874:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 64.62.219.84:61121:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:18450:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:20842:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -38480,14 +35256,6 @@ Country: United States
 
 Protocol: https
 Proxy: 65.49.68.84:60535:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:11882:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -38519,14 +35287,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:26018:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.68.84:45150:United States
 Status: not working
 IP: 127.0.0.1
@@ -38543,23 +35303,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:62953:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.2.84:20451:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:20471:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -38584,14 +35328,6 @@ Country: United States
 
 Protocol: https
 Proxy: 65.49.68.84:39331:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:48564:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -38647,14 +35383,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:10772:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.14.154:11268:United States
 Status: not working
 IP: 127.0.0.1
@@ -38679,23 +35407,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:19937:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 64.62.219.84:28562:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:28972:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -38711,14 +35423,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:38460:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.14.154:47421:United States
 Status: not working
 IP: 127.0.0.1
@@ -38727,15 +35431,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:49190:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:11576:United States
+Proxy: 65.49.2.84:57264:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -38751,14 +35447,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:29056:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.68.84:30383:United States
 Status: not working
 IP: 127.0.0.1
@@ -38767,63 +35455,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:37883:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:37915:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:37884:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 64.62.219.84:54162:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:55770:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:61292:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:61393:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:61399:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -38847,39 +35479,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:24290:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.2.84:35750:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:36966:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:62026:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:63826:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -38896,14 +35496,6 @@ Country: United States
 
 Protocol: https
 Proxy: 65.49.2.84:12910:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:47277:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -38943,30 +35535,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:59772:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:59812:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:59805:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.2.84:48278:United States
 Status: not working
 IP: 127.0.0.1
@@ -38976,14 +35544,6 @@ Country: United States
 
 Protocol: https
 Proxy: 65.49.68.84:20031:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:20031:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -39015,47 +35575,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:23040:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:62456:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:62558:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:62795:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 64.62.219.84:26536:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:28795:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -39103,31 +35623,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:15355:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:57600:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.2.84:58616:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:32644:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -39143,39 +35639,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:33278:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.2.84:62156:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:14840:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:15167:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:24139:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -39199,23 +35663,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:41689:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 64.62.219.84:51623:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:52582:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -39255,14 +35703,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:22745:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.68.84:32159:United States
 Status: not working
 IP: 127.0.0.1
@@ -39272,22 +35712,6 @@ Country: United States
 
 Protocol: https
 Proxy: 65.49.2.84:32183:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:37901:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:41495:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -39311,23 +35735,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:13827:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 64.62.219.84:19030:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:23424:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -39351,23 +35759,7 @@ Server: N/A
 Country: India
 
 Protocol: https
-Proxy: 65.49.68.84:34940:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 64.62.219.84:44260:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:20217:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -39383,23 +35775,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:51408:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 64.62.219.84:51504:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:60998:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -39416,6 +35792,14 @@ Country: United States
 
 Protocol: https
 Proxy: 65.49.14.154:63050:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: https
+Proxy: 64.62.219.84:63305:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -39448,46 +35832,6 @@ Country: United States
 
 Protocol: https
 Proxy: 65.49.68.84:43433:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:43890:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:53965:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:61247:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:14954:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:16433:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -39543,14 +35887,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:42786:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.68.84:42897:United States
 Status: not working
 IP: 127.0.0.1
@@ -39560,22 +35896,6 @@ Country: United States
 
 Protocol: https
 Proxy: 64.62.219.84:42919:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:52833:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:53400:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -39599,14 +35919,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:14864:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 64.62.219.84:24103:United States
 Status: not working
 IP: 127.0.0.1
@@ -39616,14 +35928,6 @@ Country: United States
 
 Protocol: https
 Proxy: 64.62.219.84:20049:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:33625:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -39671,23 +35975,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:25565:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.14.154:27164:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:48630:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -39735,14 +36023,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:62103:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.2.84:64440:United States
 Status: not working
 IP: 127.0.0.1
@@ -39775,14 +36055,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:27258:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 64.62.219.84:27355:United States
 Status: not working
 IP: 127.0.0.1
@@ -39808,14 +36080,6 @@ Country: United States
 
 Protocol: https
 Proxy: 65.49.14.154:20032:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:60304:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -39856,14 +36120,6 @@ Country: United States
 
 Protocol: https
 Proxy: 65.49.14.154:29841:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:33016:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -39919,39 +36175,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:12489:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:12727:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.14.154:22146:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:22380:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:31433:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -40063,38 +36287,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:20046:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:64046:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:64864:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:15689:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 64.62.219.84:16065:United States
 Status: not working
 IP: 127.0.0.1
@@ -40111,30 +36303,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:57929:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:42798:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:43038:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 64.62.219.84:48973:United States
 Status: not working
 IP: 127.0.0.1
@@ -40143,7 +36311,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:12004:United States
+Proxy: 65.49.2.84:58423:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -40152,22 +36320,6 @@ Country: United States
 
 Protocol: https
 Proxy: 65.49.2.84:14097:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:21458:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:31832:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -40191,14 +36343,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:41254:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 64.62.219.84:43265:United States
 Status: not working
 IP: 127.0.0.1
@@ -40207,31 +36351,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:53137:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 64.62.219.84:63015:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:63504:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:63881:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -40280,6 +36400,14 @@ Country: United States
 
 Protocol: https
 Proxy: 65.49.2.84:36583:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: https
+Proxy: 65.49.14.154:36957:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -40351,47 +36479,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:44492:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:53856:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:53973:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.14.154:63428:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:63532:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:16920:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -40463,39 +36551,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:15437:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:21690:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.14.154:21902:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:25376:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:31472:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -40535,31 +36591,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:18458:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:27936:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.14.154:27888:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:28066:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -40576,14 +36608,6 @@ Country: United States
 
 Protocol: https
 Proxy: 65.49.68.84:46613:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:46684:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -40615,28 +36639,12 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:12390:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 47.243.181.85:8081:Taiwan
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Taiwan
-
-Protocol: https
-Proxy: 65.49.14.154:31162:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
 
 Protocol: https
 Proxy: 64.62.219.84:31671:United States
@@ -40663,31 +36671,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:41106:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:44515:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.14.154:50144:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:50148:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -40703,31 +36687,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:54072:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:18138:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.2.84:18191:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:19828:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -40751,39 +36711,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:19492:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:64436:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:17952:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.68.84:36898:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:36994:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -40807,22 +36735,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:33144:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:42863:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.2.84:30768:United States
 Status: not working
 IP: 127.0.0.1
@@ -40831,31 +36743,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:31036:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.14.154:45234:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:27637:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:62908:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -40887,14 +36775,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:46591:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.2.84:56003:United States
 Status: not working
 IP: 127.0.0.1
@@ -40903,63 +36783,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:20026:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.14.154:10911:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:18650:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:20652:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:39664:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:47568:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:49054:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:57034:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -40991,71 +36815,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:63173:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 64.62.219.84:20026:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:10886:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:11624:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:12365:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:21365:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:22492:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:31616:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:40197:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -41079,22 +36839,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:41547:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:49978:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.14.154:50211:United States
 Status: not working
 IP: 127.0.0.1
@@ -41104,14 +36848,6 @@ Country: United States
 
 Protocol: https
 Proxy: 65.49.2.84:51407:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:11290:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -41151,14 +36887,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:19767:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.14.154:47566:United States
 Status: not working
 IP: 127.0.0.1
@@ -41167,47 +36895,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:48032:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:19336:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 64.62.219.84:37568:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:47151:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:61605:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:62592:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -41239,23 +36927,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:27567:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 64.62.219.84:28864:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:29822:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -41271,39 +36943,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:22921:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 64.62.219.84:22921:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:22921:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:47133:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:48216:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -41327,14 +36967,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:16071:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.14.154:16478:United States
 Status: not working
 IP: 127.0.0.1
@@ -41351,39 +36983,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:27132:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:45944:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.14.154:46409:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:47100:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:55422:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -41415,14 +37015,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:17239:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.68.84:26754:United States
 Status: not working
 IP: 127.0.0.1
@@ -41447,23 +37039,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:24712:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.68.84:14370:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:14551:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -41487,6 +37063,14 @@ Server: N/A
 Country: United States
 
 Protocol: https
+Proxy: 65.49.14.154:26795:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: https
 Proxy: 65.49.2.84:43858:United States
 Status: not working
 IP: 127.0.0.1
@@ -41496,22 +37080,6 @@ Country: United States
 
 Protocol: https
 Proxy: 65.49.14.154:37779:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:18288:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:18614:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -41583,14 +37151,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:38152:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.14.154:38322:United States
 Status: not working
 IP: 127.0.0.1
@@ -41615,38 +37175,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:47784:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:57059:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:57155:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:57220:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.2.84:10320:United States
 Status: not working
 IP: 127.0.0.1
@@ -41655,7 +37183,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:19682:United States
+Proxy: 65.49.14.154:19865:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -41687,14 +37215,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:59420:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.14.154:28375:United States
 Status: not working
 IP: 127.0.0.1
@@ -41719,31 +37239,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:61828:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:15402:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.14.154:24457:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:24603:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -41767,22 +37263,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:33768:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:43644:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.2.84:52527:United States
 Status: not working
 IP: 127.0.0.1
@@ -41791,7 +37271,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:52750:United States
+Proxy: 65.49.68.84:53034:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -41800,46 +37280,6 @@ Country: United States
 
 Protocol: https
 Proxy: 65.49.2.84:62230:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:62315:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:62461:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:62761:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:37481:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:45781:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -41903,46 +37343,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:38654:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:48179:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:57722:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:11496:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:21000:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 64.62.219.84:21000:United States
 Status: not working
 IP: 127.0.0.1
@@ -41959,22 +37359,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:54715:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:64517:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.68.84:64552:United States
 Status: not working
 IP: 127.0.0.1
@@ -41984,14 +37368,6 @@ Country: United States
 
 Protocol: https
 Proxy: 65.49.14.154:64881:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:18309:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -42031,38 +37407,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:40098:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:22771:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:22812:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:46476:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.2.84:56221:United States
 Status: not working
 IP: 127.0.0.1
@@ -42079,22 +37423,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:24032:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:24165:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.68.84:31736:United States
 Status: not working
 IP: 127.0.0.1
@@ -42103,47 +37431,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:33350:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:33630:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:33663:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:53899:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:60715:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:64107:United States
+Proxy: 65.49.68.84:41583:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -42160,14 +37448,6 @@ Country: United States
 
 Protocol: https
 Proxy: 65.49.2.84:25515:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:25788:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -42207,7 +37487,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:57381:United States
+Proxy: 64.62.219.84:64559:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -42231,23 +37511,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:13377:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.68.84:32390:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:42094:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -42271,31 +37535,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:14503:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:24535:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.68.84:43654:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:53398:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -42319,14 +37559,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:63103:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.2.84:17957:United States
 Status: not working
 IP: 127.0.0.1
@@ -42335,31 +37567,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:18293:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 64.62.219.84:28496:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:29400:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:42370:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -42383,14 +37591,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:19992:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.68.84:30557:United States
 Status: not working
 IP: 127.0.0.1
@@ -42400,22 +37600,6 @@ Country: United States
 
 Protocol: https
 Proxy: 65.49.14.154:30989:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:49310:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:49354:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -42440,22 +37624,6 @@ Country: United States
 
 Protocol: https
 Proxy: 64.62.219.84:12671:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:22666:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:22750:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -42519,7 +37687,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:17513:United States
+Proxy: 64.62.219.84:32482:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -42528,14 +37696,6 @@ Country: United States
 
 Protocol: https
 Proxy: 64.62.219.84:32345:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:32505:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -42559,22 +37719,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:42153:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:42314:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.14.154:52735:United States
 Status: not working
 IP: 127.0.0.1
@@ -42591,7 +37735,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:62507:United States
+Proxy: 65.49.2.84:63117:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -42600,14 +37744,6 @@ Country: United States
 
 Protocol: https
 Proxy: 64.62.219.84:13705:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:13676:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -42639,23 +37775,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:33830:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.68.84:43686:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:43787:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -42703,14 +37823,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:36945:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.14.154:38209:United States
 Status: not working
 IP: 127.0.0.1
@@ -42727,7 +37839,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:64344:United States
+Proxy: 65.49.14.154:20460:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -42736,14 +37848,6 @@ Country: United States
 
 Protocol: https
 Proxy: 65.49.2.84:20463:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:31229:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -42767,7 +37871,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:14953:United States
+Proxy: 65.49.68.84:61023:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -42775,7 +37879,15 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:24607:United States
+Proxy: 65.49.68.84:24893:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: https
+Proxy: 64.62.219.84:38998:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -42823,22 +37935,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:38163:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:47749:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.14.154:48063:United States
 Status: not working
 IP: 127.0.0.1
@@ -42863,14 +37959,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:11379:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 64.62.219.84:13021:United States
 Status: not working
 IP: 127.0.0.1
@@ -42879,39 +37967,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:21176:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:23203:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:29982:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:30862:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:36396:United States
+Proxy: 65.49.68.84:47121:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -42920,14 +37976,6 @@ Country: United States
 
 Protocol: https
 Proxy: 64.62.219.84:56040:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:56088:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -42951,7 +37999,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:31019:United States
+Proxy: 65.49.14.154:40803:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -42983,79 +38031,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:16625:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:22189:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:27083:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.14.154:27471:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:21497:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:39680:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:47347:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:51005:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:51969:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:52218:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -43087,22 +38063,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:26062:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:28114:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 64.62.219.84:37955:United States
 Status: not working
 IP: 127.0.0.1
@@ -43112,30 +38072,6 @@ Country: United States
 
 Protocol: https
 Proxy: 65.49.68.84:37998:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:47877:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:57678:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:57721:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -43159,30 +38095,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:21111:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:22243:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:32798:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.14.154:34423:United States
 Status: not working
 IP: 127.0.0.1
@@ -43191,31 +38103,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:35123:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.68.84:35738:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:60604:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:16018:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -43232,6 +38120,14 @@ Country: United States
 
 Protocol: https
 Proxy: 65.49.14.154:17934:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: https
+Proxy: 64.62.219.84:25913:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -43303,7 +38199,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:62893:United States
+Proxy: 64.62.219.84:24957:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -43359,30 +38255,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:57201:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:57142:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:57606:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.2.84:11127:United States
 Status: not working
 IP: 127.0.0.1
@@ -43392,30 +38264,6 @@ Country: United States
 
 Protocol: https
 Proxy: 65.49.2.84:20810:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:20796:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:30512:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:30499:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -43447,14 +38295,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:50530:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.2.84:14667:United States
 Status: not working
 IP: 127.0.0.1
@@ -43479,14 +38319,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:24442:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.68.84:24572:United States
 Status: not working
 IP: 127.0.0.1
@@ -43496,14 +38328,6 @@ Country: United States
 
 Protocol: https
 Proxy: 65.49.2.84:34348:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:34470:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -43543,22 +38367,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:48484:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:48583:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 64.62.219.84:58474:United States
 Status: not working
 IP: 127.0.0.1
@@ -43583,30 +38391,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:31390:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:41071:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:46834:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.68.84:47029:United States
 Status: not working
 IP: 127.0.0.1
@@ -43623,31 +38407,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:47145:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:14310:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.14.154:14375:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:24009:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -43671,7 +38431,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:10062:United States
+Proxy: 65.49.14.154:34241:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -43703,30 +38463,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:51985:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:62536:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:63354:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.68.84:43477:United States
 Status: not working
 IP: 127.0.0.1
@@ -43743,22 +38479,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:49134:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:58801:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 64.62.219.84:62615:United States
 Status: not working
 IP: 127.0.0.1
@@ -43767,7 +38487,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:25412:United States
+Proxy: 65.49.2.84:25170:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -43791,23 +38511,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:48440:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.2.84:35975:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:36061:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -43831,39 +38535,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:55865:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.2.84:32261:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:18991:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:28674:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:29222:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -43879,22 +38551,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:38954:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:48658:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 64.62.219.84:48744:United States
 Status: not working
 IP: 127.0.0.1
@@ -43903,47 +38559,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:49011:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 64.62.219.84:58864:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:58973:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:12833:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:12949:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:22687:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -43960,14 +38576,6 @@ Country: United States
 
 Protocol: https
 Proxy: 64.62.219.84:32626:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:32738:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -44031,39 +38639,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:58713:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 64.62.219.84:18366:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:19987:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:17055:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:27397:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -44111,38 +38687,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:41202:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:47571:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:29362:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:32601:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.68.84:39372:United States
 Status: not working
 IP: 127.0.0.1
@@ -44152,22 +38696,6 @@ Country: United States
 
 Protocol: https
 Proxy: 65.49.2.84:39531:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:42800:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:49523:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -44215,7 +38743,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:17905:United States
+Proxy: 65.49.2.84:34255:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -44247,38 +38775,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:54423:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:54507:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:54798:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:64576:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.2.84:64661:United States
 Status: not working
 IP: 127.0.0.1
@@ -44295,7 +38791,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:54445:United States
+Proxy: 64.62.219.84:64487:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -44303,7 +38799,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:64487:United States
+Proxy: 65.49.68.84:20050:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -44367,30 +38863,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:26654:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:28312:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:37164:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 64.62.219.84:47766:United States
 Status: not working
 IP: 127.0.0.1
@@ -44407,14 +38879,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:49539:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 64.62.219.84:58272:United States
 Status: not working
 IP: 127.0.0.1
@@ -44423,31 +38887,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:58427:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:60054:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 64.62.219.84:13630:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:13686:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -44464,22 +38904,6 @@ Country: United States
 
 Protocol: https
 Proxy: 65.49.14.154:48426:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:52862:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:52881:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -44511,7 +38935,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:56495:United States
+Proxy: 65.49.14.154:58242:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -44519,7 +38943,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:22035:United States
+Proxy: 64.62.219.84:38886:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -44559,39 +38983,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:16252:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.14.154:42283:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:29976:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:61454:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:13827:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -44615,39 +39007,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:62687:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 104.129.194.43:11700:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.2.84:14726:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:14878:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:32777:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -44663,7 +39023,23 @@ Server: N/A
 Country: United States
 
 Protocol: https
+Proxy: 65.49.68.84:22463:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: https
 Proxy: 64.62.219.84:38307:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: https
+Proxy: 104.129.194.38:11682:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -44680,14 +39056,6 @@ Country: United States
 
 Protocol: https
 Proxy: 64.62.219.84:61004:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:22236:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -44727,23 +39095,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:26707:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.2.84:26729:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:36907:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -44791,7 +39143,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:41864:United States
+Proxy: 65.49.14.154:33995:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -44799,7 +39151,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:41957:United States
+Proxy: 65.49.68.84:41864:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -44815,7 +39167,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:44042:United States
+Proxy: 64.62.219.84:52967:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -44823,15 +39175,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:50838:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:52723:United States
+Proxy: 65.49.68.84:59694:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -44847,23 +39191,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:61580:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:11838:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:13663:United States
+Proxy: 64.62.219.84:61825:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -44887,23 +39215,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:11116:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.2.84:19903:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:19896:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -44927,55 +39239,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:41041:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:41164:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.68.84:47660:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:26695:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:50005:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:50131:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:59021:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -45015,14 +39279,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:38355:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.14.154:46563:United States
 Status: not working
 IP: 127.0.0.1
@@ -45031,23 +39287,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:47278:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.2.84:56195:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:17302:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -45087,23 +39327,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:20027:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:36997:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:20027:United States
+Proxy: 64.62.219.84:36418:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -45127,47 +39351,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:32914:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:34773:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:37209:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.2.84:44628:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:46170:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:54122:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -45183,23 +39367,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:17248:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 64.62.219.84:19290:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:24254:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -45215,39 +39383,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:33952:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:35149:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:41787:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.2.84:43864:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:45825:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -45263,22 +39399,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:52748:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:54735:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.14.154:59740:United States
 Status: not working
 IP: 127.0.0.1
@@ -45287,7 +39407,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:61961:United States
+Proxy: 65.49.68.84:60706:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -45296,22 +39416,6 @@ Country: United States
 
 Protocol: https
 Proxy: 65.49.2.84:47137:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:49562:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:20507:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -45328,22 +39432,6 @@ Country: United States
 
 Protocol: https
 Proxy: 65.49.14.154:20774:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:23234:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:29624:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -45375,14 +39463,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:20034:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.68.84:20034:United States
 Status: not working
 IP: 127.0.0.1
@@ -45391,7 +39471,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:57288:United States
+Proxy: 65.49.2.84:20034:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -45400,14 +39480,6 @@ Country: United States
 
 Protocol: https
 Proxy: 65.49.68.84:57311:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:57322:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -45431,31 +39503,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:20052:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.68.84:14518:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:14741:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:14780:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -45487,39 +39535,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:24413:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.2.84:34571:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:34638:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:34705:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:43659:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -45551,38 +39567,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:57882:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:24098:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:24212:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:33063:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 64.62.219.84:33182:United States
 Status: not working
 IP: 127.0.0.1
@@ -45600,6 +39584,14 @@ Country: United States
 
 Protocol: https
 Proxy: 65.49.2.84:46107:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: https
+Proxy: 65.49.68.84:46120:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -45639,23 +39631,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:64725:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 64.62.219.84:57722:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:17836:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -45671,39 +39647,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:18484:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.2.84:26792:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:26985:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:35936:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:36060:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -45743,7 +39687,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:42475:United States
+Proxy: 65.49.2.84:42115:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -45767,22 +39711,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:13018:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:13150:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.14.154:19123:United States
 Status: not working
 IP: 127.0.0.1
@@ -45791,7 +39719,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:23644:United States
+Proxy: 65.49.2.84:19161:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -45815,39 +39743,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:36391:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.2.84:44952:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:50687:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:59686:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:12871:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -45863,14 +39759,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:22137:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.68.84:22651:United States
 Status: not working
 IP: 127.0.0.1
@@ -45879,39 +39767,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:40356:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:40434:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.68.84:40941:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:49480:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:49737:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -45943,14 +39799,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:59191:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 104.129.194.44:11265:United States
 Status: not working
 IP: 127.0.0.1
@@ -45959,7 +39807,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 104.129.194.46:11265:United States
+Proxy: 104.129.194.43:11265:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -45976,6 +39824,14 @@ Country: United States
 
 Protocol: https
 Proxy: 65.49.2.84:61183:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: https
+Proxy: 65.49.14.154:63364:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -46023,14 +39879,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:56809:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 64.62.219.84:18722:United States
 Status: not working
 IP: 127.0.0.1
@@ -46040,30 +39888,6 @@ Country: United States
 
 Protocol: https
 Proxy: 65.49.2.84:28009:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:28046:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:37400:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:37403:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -46095,14 +39919,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:61205:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.2.84:11033:United States
 Status: not working
 IP: 127.0.0.1
@@ -46111,31 +39927,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:14738:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.68.84:16416:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:24258:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:27811:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -46175,39 +39967,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:39373:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.68.84:39371:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:39405:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:48885:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:29924:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -46231,14 +39991,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:39442:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 64.62.219.84:49139:United States
 Status: not working
 IP: 127.0.0.1
@@ -46255,14 +40007,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:21516:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.14.154:40714:United States
 Status: not working
 IP: 127.0.0.1
@@ -46272,14 +40016,6 @@ Country: United States
 
 Protocol: https
 Proxy: 65.49.68.84:40692:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:20054:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -46319,30 +40055,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:22591:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:20054:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:20054:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.2.84:35925:United States
 Status: not working
 IP: 127.0.0.1
@@ -46359,31 +40071,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:55283:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:55396:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.2.84:13437:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:22203:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -46415,14 +40103,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:33621:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.68.84:37256:United States
 Status: not working
 IP: 127.0.0.1
@@ -46439,14 +40119,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:56284:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.14.154:18811:United States
 Status: not working
 IP: 127.0.0.1
@@ -46455,7 +40127,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:18835:United States
+Proxy: 65.49.14.154:38060:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -46463,7 +40135,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:38060:United States
+Proxy: 65.49.2.84:38403:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -46487,23 +40159,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:15040:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.2.84:25869:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:26305:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -46535,14 +40191,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:53666:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.14.154:53928:United States
 Status: not working
 IP: 127.0.0.1
@@ -46559,14 +40207,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:10418:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 64.62.219.84:11511:United States
 Status: not working
 IP: 127.0.0.1
@@ -46575,31 +40215,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:19861:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:20871:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.14.154:29378:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:29450:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -46623,55 +40239,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:12587:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:14337:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:40445:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:40505:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:42221:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.68.84:49879:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:59583:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -46687,55 +40255,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:10435:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:20040:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:20040:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:57775:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.14.154:29861:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:20040:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:63808:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -46799,55 +40319,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:30368:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:36700:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:15792:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.2.84:15858:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:15990:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:19690:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:35314:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -46871,14 +40343,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:45669:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 64.62.219.84:47956:United States
 Status: not working
 IP: 127.0.0.1
@@ -46888,30 +40352,6 @@ Country: United States
 
 Protocol: https
 Proxy: 64.62.219.84:57198:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:59040:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:59990:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:17977:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -46959,14 +40399,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:61221:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.2.84:13688:United States
 Status: not working
 IP: 127.0.0.1
@@ -46983,55 +40415,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:14677:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:23105:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:32623:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:51983:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:53126:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:62130:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:13307:United States
+Proxy: 65.49.68.84:42578:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -47047,31 +40431,15 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:22907:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:31542:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:51282:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.14.154:12885:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: https
+Proxy: 65.49.68.84:14266:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -47103,31 +40471,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:23667:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:23926:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 64.62.219.84:29335:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:29847:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -47167,14 +40511,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:19662:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.14.154:20324:United States
 Status: not working
 IP: 127.0.0.1
@@ -47191,30 +40527,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:49183:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:45721:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:45721:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 64.62.219.84:45721:United States
 Status: not working
 IP: 127.0.0.1
@@ -47223,39 +40535,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:12625:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:12623:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.2.84:25573:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:30197:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:30596:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -47287,14 +40567,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:59766:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.68.84:60379:United States
 Status: not working
 IP: 127.0.0.1
@@ -47319,14 +40591,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:41244:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.14.154:50748:United States
 Status: not working
 IP: 127.0.0.1
@@ -47335,31 +40599,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:20041:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:18667:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:20491:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:30936:United States
+Proxy: 65.49.2.84:20491:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -47383,7 +40623,15 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:10027:United States
+Proxy: 165.225.113.220:11742:Singapore
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Singapore
+
+Protocol: https
+Proxy: 104.129.194.43:11742:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -47391,12 +40639,20 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 165.225.113.220:11742:Singapore
+Proxy: 104.129.194.38:11742:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Singapore
+Country: United States
+
+Protocol: https
+Proxy: 104.129.194.46:11742:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
 
 Protocol: https
 Proxy: 104.129.194.44:11742:United States
@@ -47415,30 +40671,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:30936:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:31315:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:40156:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.14.154:40461:United States
 Status: not working
 IP: 127.0.0.1
@@ -47447,23 +40679,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:53160:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.14.154:62921:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:63093:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -47495,14 +40711,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:20044:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.68.84:31869:United States
 Status: not working
 IP: 127.0.0.1
@@ -47519,31 +40727,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:19084:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:28156:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.2.84:37090:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:47588:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -47575,22 +40759,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:20045:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:37730:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 64.62.219.84:16437:United States
 Status: not working
 IP: 127.0.0.1
@@ -47600,22 +40768,6 @@ Country: United States
 
 Protocol: https
 Proxy: 65.49.68.84:16694:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:16898:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:17091:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -47655,6 +40807,14 @@ Server: N/A
 Country: United States
 
 Protocol: https
+Proxy: 65.49.68.84:43104:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: https
 Proxy: 64.62.219.84:10039:United States
 Status: not working
 IP: 127.0.0.1
@@ -47663,31 +40823,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:52579:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:53066:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 64.62.219.84:60122:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:10039:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -47759,14 +40895,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:62517:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.14.154:14689:United States
 Status: not working
 IP: 127.0.0.1
@@ -47791,14 +40919,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:58687:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.14.154:58651:United States
 Status: not working
 IP: 127.0.0.1
@@ -47807,31 +40927,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:58669:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:20096:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 64.62.219.84:29500:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:39949:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -47848,14 +40944,6 @@ Country: United States
 
 Protocol: https
 Proxy: 65.49.68.84:59133:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:59344:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -47887,31 +40975,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:27842:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:49188:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 64.62.219.84:55111:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:55127:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -47927,31 +40991,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:17126:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:17994:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.68.84:26226:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:27084:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -47975,23 +41015,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:35169:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:36029:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:45393:United States
+Proxy: 65.49.68.84:44504:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -48000,54 +41024,6 @@ Country: United States
 
 Protocol: https
 Proxy: 65.49.2.84:45628:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:46037:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:52723:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:15551:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:28408:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:28559:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:28608:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -48079,23 +41055,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:55244:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 64.62.219.84:64734:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:22919:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -48135,63 +41095,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:47373:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:38477:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.2.84:46197:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:64244:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:16567:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:22959:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:25408:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:35142:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -48207,14 +41111,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:49623:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.14.154:49626:United States
 Status: not working
 IP: 127.0.0.1
@@ -48223,23 +41119,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:58422:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.14.154:16090:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:16791:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -48263,31 +41143,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:43068:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 64.62.219.84:60662:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:60693:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:17926:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -48311,31 +41167,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:41345:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:47669:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.14.154:20048:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:64921:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -48351,39 +41183,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:31433:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:24992:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:33816:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:51202:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:20381:United States
+Proxy: 65.49.68.84:51169:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -48400,22 +41200,6 @@ Country: United States
 
 Protocol: https
 Proxy: 65.49.2.84:38681:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:57104:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:21543:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -48447,22 +41231,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:17544:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:16075:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.68.84:19288:United States
 Status: not working
 IP: 127.0.0.1
@@ -48471,23 +41239,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:28566:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.68.84:28648:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:24060:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -48535,38 +41287,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:53050:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:13043:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:13922:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:21927:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.14.154:22819:United States
 Status: not working
 IP: 127.0.0.1
@@ -48583,31 +41303,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:32148:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 64.62.219.84:32310:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:12843:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:12962:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -48647,47 +41343,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:38934:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.68.84:13365:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:29786:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:47236:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:22772:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:32415:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -48711,30 +41367,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:52048:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:61701:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:11969:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.2.84:12292:United States
 Status: not working
 IP: 127.0.0.1
@@ -48751,31 +41383,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:16100:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.2.84:24549:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:24610:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:25058:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -48792,30 +41400,6 @@ Country: United States
 
 Protocol: https
 Proxy: 64.62.219.84:34100:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:34556:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:44247:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:52944:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -48847,23 +41431,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:15577:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 64.62.219.84:15639:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:26837:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -48895,23 +41463,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:46310:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 64.62.219.84:46484:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:56327:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -48927,15 +41479,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:32139:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:18357:United States
+Proxy: 65.49.14.154:18349:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -48959,6 +41503,14 @@ Server: N/A
 Country: United States
 
 Protocol: https
+Proxy: 65.49.14.154:28617:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: https
 Proxy: 65.49.2.84:46639:United States
 Status: not working
 IP: 127.0.0.1
@@ -48967,23 +41519,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:46933:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.68.84:47608:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:20059:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -49015,23 +41551,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:28632:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.2.84:47631:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:47639:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -49079,14 +41599,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:51313:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.68.84:14715:United States
 Status: not working
 IP: 127.0.0.1
@@ -49096,22 +41608,6 @@ Country: United States
 
 Protocol: https
 Proxy: 64.62.219.84:20546:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:20688:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:21917:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -49175,23 +41671,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:48855:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.14.154:49840:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:58353:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -49208,14 +41688,6 @@ Country: United States
 
 Protocol: https
 Proxy: 65.49.68.84:58624:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:59351:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -49240,30 +41712,6 @@ Country: United States
 
 Protocol: https
 Proxy: 65.49.68.84:11792:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:51313:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:10330:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:19474:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -49359,14 +41807,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:48400:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 64.62.219.84:55739:United States
 Status: not working
 IP: 127.0.0.1
@@ -49375,39 +41815,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:62432:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:19100:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:34422:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.68.84:41749:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:43099:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -49424,30 +41832,6 @@ Country: United States
 
 Protocol: https
 Proxy: 64.62.219.84:52320:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:60851:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:16000:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:25071:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -49487,15 +41871,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:38016:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:39626:United States
+Proxy: 65.49.14.154:13365:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -49504,14 +41880,6 @@ Country: United States
 
 Protocol: https
 Proxy: 65.49.68.84:47395:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:49204:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -49535,22 +41903,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:31040:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:31213:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.68.84:31211:United States
 Status: not working
 IP: 127.0.0.1
@@ -49567,39 +41919,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:55099:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:55164:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:55086:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.14.154:64780:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:64790:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -49615,23 +41935,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:36999:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:46593:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:10959:United States
+Proxy: 65.49.68.84:46602:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -49640,14 +41944,6 @@ Country: United States
 
 Protocol: https
 Proxy: 65.49.68.84:10967:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:11009:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -49679,6 +41975,14 @@ Server: N/A
 Country: United States
 
 Protocol: https
+Proxy: 65.49.68.84:30670:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: https
 Proxy: 65.49.68.84:40351:United States
 Status: not working
 IP: 127.0.0.1
@@ -49703,71 +42007,7 @@ Server: N/A
 Country: France
 
 Protocol: https
-Proxy: 64.62.219.84:34815:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 64.62.219.84:44736:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:18833:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:54514:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:27470:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:18727:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:22020:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:22098:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:22138:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -49783,31 +42023,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:47833:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.68.84:49392:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:49757:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:14278:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -49823,47 +42039,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:43828:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:43835:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:53849:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.14.154:16242:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:37209:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:27131:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -49879,22 +42055,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:45145:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:46448:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.68.84:55762:United States
 Status: not working
 IP: 127.0.0.1
@@ -49903,31 +42063,15 @@ Server: N/A
 Country: United States
 
 Protocol: https
+Proxy: 65.49.2.84:60853:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: https
 Proxy: 65.49.14.154:64919:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:26607:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:36180:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:35805:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -49951,31 +42095,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:54782:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 64.62.219.84:54832:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:63249:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:63570:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -50007,14 +42127,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:36180:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.68.84:26943:United States
 Status: not working
 IP: 127.0.0.1
@@ -50039,22 +42151,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:13333:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:31693:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.2.84:27476:United States
 Status: not working
 IP: 127.0.0.1
@@ -50064,14 +42160,6 @@ Country: United States
 
 Protocol: https
 Proxy: 65.49.68.84:28509:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:29460:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -50095,23 +42183,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:48420:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.68.84:51602:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:52035:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -50135,23 +42207,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:10848:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.68.84:11854:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:11995:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -50207,14 +42263,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:22025:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.2.84:52579:United States
 Status: not working
 IP: 127.0.0.1
@@ -50223,31 +42271,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:52733:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:52815:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 64.62.219.84:53022:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:32825:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -50295,39 +42319,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:32490:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:15521:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:21397:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:21445:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:31065:United States
+Proxy: 64.62.219.84:26804:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -50336,14 +42328,6 @@ Country: United States
 
 Protocol: https
 Proxy: 65.49.2.84:31067:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:50641:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -50367,31 +42351,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:13593:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 64.62.219.84:40755:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:40831:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:40944:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -50407,23 +42367,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:50707:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.2.84:51329:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:56084:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -50448,14 +42392,6 @@ Country: United States
 
 Protocol: https
 Proxy: 64.62.219.84:34490:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:34701:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -50503,22 +42439,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:36302:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:37041:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.68.84:26701:United States
 Status: not working
 IP: 127.0.0.1
@@ -50535,14 +42455,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:26701:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.2.84:25363:United States
 Status: not working
 IP: 127.0.0.1
@@ -50552,14 +42464,6 @@ Country: United States
 
 Protocol: https
 Proxy: 64.62.219.84:25507:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:25529:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -50591,14 +42495,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:55316:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 64.62.219.84:55527:United States
 Status: not working
 IP: 127.0.0.1
@@ -50615,14 +42511,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:10931:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.68.84:20333:United States
 Status: not working
 IP: 127.0.0.1
@@ -50631,31 +42519,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:20557:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.2.84:22355:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:30552:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:32289:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -50679,30 +42543,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:15945:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:25883:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:25925:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.68.84:53104:United States
 Status: not working
 IP: 127.0.0.1
@@ -50711,7 +42551,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:53194:United States
+Proxy: 65.49.68.84:27937:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -50719,7 +42559,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:53200:United States
+Proxy: 65.49.2.84:38204:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -50728,22 +42568,6 @@ Country: United States
 
 Protocol: https
 Proxy: 65.49.14.154:38208:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:38243:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:48334:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -50783,38 +42607,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:58348:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:12941:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:13201:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:23158:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 64.62.219.84:23380:United States
 Status: not working
 IP: 127.0.0.1
@@ -50839,39 +42631,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:44439:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:56016:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:12092:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.2.84:22120:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:22170:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -50895,14 +42655,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:32600:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.2.84:42463:United States
 Status: not working
 IP: 127.0.0.1
@@ -50919,23 +42671,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:52847:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.14.154:63165:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:17981:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -50975,22 +42711,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:24353:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:34543:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.2.84:34545:United States
 Status: not working
 IP: 127.0.0.1
@@ -50999,15 +42719,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:34584:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:44885:United States
+Proxy: 64.62.219.84:44922:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -51039,14 +42751,6 @@ Server: N/A
 Country: Paraguay
 
 Protocol: https
-Proxy: 65.49.2.84:64387:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.2.84:48497:United States
 Status: not working
 IP: 127.0.0.1
@@ -51063,23 +42767,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:57717:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.2.84:58234:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:58456:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -51141,6 +42829,14 @@ IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Singapore
+
+Protocol: https
+Proxy: 64.62.219.84:17074:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
 
 Protocol: https
 Proxy: 51.158.252.96:1287:France
@@ -51208,14 +42904,6 @@ Country: United Kingdom
 
 Protocol: https
 Proxy: 64.62.219.84:27912:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:28717:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -51511,36 +43199,12 @@ Server: N/A
 Country: United Kingdom
 
 Protocol: https
-Proxy: 65.49.2.84:23145:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 23.106.56.35:1287:United Kingdom
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: United Kingdom
-
-Protocol: https
-Proxy: 65.49.14.154:28057:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:28218:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
 
 Protocol: https
 Proxy: 51.158.252.252:1287:France
@@ -51671,7 +43335,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:60713:United States
+Proxy: 65.49.2.84:12586:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -51679,7 +43343,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:61042:United States
+Proxy: 65.49.14.154:25487:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -51703,14 +43367,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:10753:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.68.84:43909:United States
 Status: not working
 IP: 127.0.0.1
@@ -51719,31 +43375,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:45486:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:45816:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 64.62.219.84:52705:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:52894:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -51767,22 +43399,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:43627:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:47627:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 64.62.219.84:47792:United States
 Status: not working
 IP: 127.0.0.1
@@ -51791,23 +43407,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:47924:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.68.84:58059:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:58156:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -51831,39 +43431,15 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:12517:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:22118:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:22257:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:33250:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.14.154:35161:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: https
+Proxy: 65.49.68.84:53552:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -51903,7 +43479,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:64457:United States
+Proxy: 65.49.2.84:18730:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -51911,7 +43487,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:18730:United States
+Proxy: 64.62.219.84:28917:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -51927,31 +43503,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:46647:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 64.62.219.84:58351:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:58923:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:12532:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -51983,31 +43535,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:25820:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:34724:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 64.62.219.84:35241:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:35906:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -52047,31 +43575,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:55700:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:64418:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 64.62.219.84:64920:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:10388:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -52087,47 +43591,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:21401:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:33954:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 64.62.219.84:40065:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:41524:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:41579:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:41648:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -52143,23 +43607,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:51762:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.14.154:62260:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:17596:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -52191,14 +43639,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:45836:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.68.84:61096:United States
 Status: not working
 IP: 127.0.0.1
@@ -52208,14 +43648,6 @@ Country: United States
 
 Protocol: https
 Proxy: 64.62.219.84:62043:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:15536:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -52247,14 +43679,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:58283:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.68.84:16968:United States
 Status: not working
 IP: 127.0.0.1
@@ -52279,15 +43703,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:26901:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:27201:United States
+Proxy: 64.62.219.84:37087:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -52311,14 +43727,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:48046:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.2.84:48272:United States
 Status: not working
 IP: 127.0.0.1
@@ -52328,30 +43736,6 @@ Country: United States
 
 Protocol: https
 Proxy: 65.49.68.84:56345:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:31971:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:19552:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:19681:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -52375,23 +43759,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:25977:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.68.84:26362:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:41299:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -52407,14 +43775,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:41328:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 47.243.181.85:41696:United States
 Status: not working
 IP: 127.0.0.1
@@ -52423,15 +43783,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:49824:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:49827:United States
+Proxy: 65.49.2.84:49396:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -52447,23 +43799,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:27364:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 64.62.219.84:46537:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:46824:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -52479,14 +43815,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:55878:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.14.154:23017:United States
 Status: not working
 IP: 127.0.0.1
@@ -52495,23 +43823,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:23087:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 64.62.219.84:23223:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:33184:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -52543,7 +43855,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:50810:United States
+Proxy: 64.62.219.84:59510:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -52575,14 +43887,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:15140:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 64.62.219.84:15226:United States
 Status: not working
 IP: 127.0.0.1
@@ -52592,14 +43896,6 @@ Country: United States
 
 Protocol: https
 Proxy: 65.49.14.154:39238:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:18155:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -52623,14 +43919,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:56456:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.2.84:33685:United States
 Status: not working
 IP: 127.0.0.1
@@ -52639,23 +43927,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:42573:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:42866:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:58626:United States
+Proxy: 64.62.219.84:33949:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -52679,23 +43951,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:23673:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 64.62.219.84:32262:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:40844:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -52711,31 +43967,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:16137:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:33345:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 64.62.219.84:33362:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:45263:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -52767,14 +43999,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:12148:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 64.62.219.84:12856:United States
 Status: not working
 IP: 127.0.0.1
@@ -52791,7 +44015,15 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:38702:United States
+Proxy: 65.49.14.154:39804:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: https
+Proxy: 64.62.219.84:47255:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -52815,14 +44047,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:23490:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.2.84:38006:United States
 Status: not working
 IP: 127.0.0.1
@@ -52831,39 +44055,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:46026:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:47333:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:49226:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.14.154:49323:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:55209:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -52895,31 +44087,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:27315:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.14.154:27337:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:35787:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:36027:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -52935,6 +44103,14 @@ Server: N/A
 Country: United States
 
 Protocol: https
+Proxy: 64.62.219.84:63246:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: https
 Proxy: 65.49.14.154:13667:United States
 Status: not working
 IP: 127.0.0.1
@@ -52943,23 +44119,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:13782:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.2.84:13804:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:22233:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -52983,7 +44143,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:30912:United States
+Proxy: 65.49.14.154:30742:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -52991,7 +44151,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:57054:United States
+Proxy: 65.49.14.154:57449:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -53007,14 +44167,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:17569:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.68.84:35148:United States
 Status: not working
 IP: 127.0.0.1
@@ -53023,55 +44175,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:44453:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:45091:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:52975:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:62129:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.68.84:63790:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:23321:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:32566:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -53095,30 +44199,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:48078:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:48228:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:48341:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.14.154:56796:United States
 Status: not working
 IP: 127.0.0.1
@@ -53128,38 +44208,6 @@ Country: United States
 
 Protocol: https
 Proxy: 65.49.68.84:59887:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:10439:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:19367:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:33007:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:40841:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -53184,22 +44232,6 @@ Country: United States
 
 Protocol: https
 Proxy: 65.49.68.84:14300:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:16728:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:16785:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -53239,55 +44271,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:41627:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:15161:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:15125:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:23028:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:31196:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:47624:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:47647:United States
+Proxy: 65.49.68.84:23048:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -53303,30 +44287,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:64354:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:64313:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:64460:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 104.129.194.44:11274:United States
 Status: not working
 IP: 127.0.0.1
@@ -53335,23 +44295,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:22974:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.68.84:23154:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:31351:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -53383,22 +44327,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:46557:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:46557:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.2.84:48853:United States
 Status: not working
 IP: 127.0.0.1
@@ -53407,23 +44335,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:48813:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.14.154:57155:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:57399:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -53447,14 +44359,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:40016:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.2.84:40244:United States
 Status: not working
 IP: 127.0.0.1
@@ -53464,22 +44368,6 @@ Country: United States
 
 Protocol: https
 Proxy: 65.49.2.84:56874:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:16104:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:24130:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -53511,14 +44399,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:41375:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.14.154:56114:United States
 Status: not working
 IP: 127.0.0.1
@@ -53527,31 +44407,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:15302:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.68.84:15534:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:23781:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 104.129.194.43:11714:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -53575,7 +44431,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:40082:United States
+Proxy: 64.62.219.84:46825:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -53583,7 +44439,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:46825:United States
+Proxy: 104.129.194.44:11714:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -53615,46 +44471,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:21801:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:22023:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:29928:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:29935:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:29961:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.14.154:37792:United States
 Status: not working
 IP: 127.0.0.1
@@ -53671,7 +44487,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:45665:United States
+Proxy: 64.62.219.84:45678:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -53679,7 +44495,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:45678:United States
+Proxy: 65.49.14.154:45908:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -53695,22 +44511,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:53760:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:12198:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.2.84:13767:United States
 Status: not working
 IP: 127.0.0.1
@@ -53719,7 +44519,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:27705:United States
+Proxy: 65.49.2.84:28526:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -53743,14 +44543,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:51446:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.14.154:60053:United States
 Status: not working
 IP: 127.0.0.1
@@ -53767,31 +44559,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:19417:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 64.62.219.84:26750:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:27309:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:42274:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -53815,22 +44583,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:51177:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:59131:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.2.84:25629:United States
 Status: not working
 IP: 127.0.0.1
@@ -53847,39 +44599,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:41868:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.2.84:41955:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:50110:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:59429:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:17113:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -53903,14 +44623,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:25128:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 64.62.219.84:25534:United States
 Status: not working
 IP: 127.0.0.1
@@ -53927,14 +44639,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:40991:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.14.154:49023:United States
 Status: not working
 IP: 127.0.0.1
@@ -53944,14 +44648,6 @@ Country: United States
 
 Protocol: https
 Proxy: 65.49.2.84:24946:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:48728:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -53991,38 +44687,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:48361:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:48317:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:56489:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:56537:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 64.62.219.84:64919:United States
 Status: not working
 IP: 127.0.0.1
@@ -54047,39 +44711,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:24017:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 64.62.219.84:24064:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:31999:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:32045:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:32066:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -54119,39 +44751,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:23103:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.14.154:31259:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:31388:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:39137:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:39215:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -54167,22 +44767,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:47020:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:47154:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.68.84:54913:United States
 Status: not working
 IP: 127.0.0.1
@@ -54191,39 +44775,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:63144:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:22968:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 64.62.219.84:43042:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:44188:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:46053:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -54287,30 +44839,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:35636:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:38770:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:50705:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 64.62.219.84:59673:United States
 Status: not working
 IP: 127.0.0.1
@@ -54319,79 +44847,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:14089:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:15344:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:25602:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:50809:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:51748:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:57595:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:58283:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:58442:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 64.62.219.84:20094:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:20152:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -54415,22 +44871,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:51859:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:55952:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.14.154:55990:United States
 Status: not working
 IP: 127.0.0.1
@@ -54447,22 +44887,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:63794:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:64107:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.14.154:14763:United States
 Status: not working
 IP: 127.0.0.1
@@ -54471,7 +44895,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:22259:United States
+Proxy: 64.62.219.84:22357:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -54480,14 +44904,6 @@ Country: United States
 
 Protocol: https
 Proxy: 65.49.14.154:22610:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:30010:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -54567,23 +44983,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:60813:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.68.84:18805:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:19053:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -54599,31 +44999,7 @@ Server: N/A
 Country: Sweden
 
 Protocol: https
-Proxy: 65.49.68.84:26958:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.2.84:35164:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:35440:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:42591:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -54663,14 +45039,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:51544:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 64.62.219.84:58509:United States
 Status: not working
 IP: 127.0.0.1
@@ -54695,23 +45063,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:17891:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.68.84:30986:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:34385:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -54743,14 +45095,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:61938:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.14.154:62168:United States
 Status: not working
 IP: 127.0.0.1
@@ -54760,38 +45104,6 @@ Country: United States
 
 Protocol: https
 Proxy: 65.49.68.84:62418:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:17909:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:25861:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:26077:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:63433:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -54815,7 +45127,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:21947:United States
+Proxy: 64.62.219.84:44109:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -54832,30 +45144,6 @@ Country: United States
 
 Protocol: https
 Proxy: 64.62.219.84:45083:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:53002:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:53088:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:61086:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -54887,7 +45175,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:11163:United States
+Proxy: 65.49.14.154:17002:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -54896,38 +45184,6 @@ Country: United States
 
 Protocol: https
 Proxy: 65.49.14.154:34603:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:34635:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:34691:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:43106:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:43235:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -54951,39 +45207,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:51352:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 64.62.219.84:64661:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:59362:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:16973:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:18011:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -55008,14 +45232,6 @@ Country: United States
 
 Protocol: https
 Proxy: 65.49.2.84:37712:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:41839:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -55063,22 +45279,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:60791:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:10850:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 64.62.219.84:16863:United States
 Status: not working
 IP: 127.0.0.1
@@ -55088,6 +45288,14 @@ Country: United States
 
 Protocol: https
 Proxy: 65.49.2.84:16962:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: https
+Proxy: 104.129.194.43:10227:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -55111,14 +45319,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:32271:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.68.84:40057:United States
 Status: not working
 IP: 127.0.0.1
@@ -55127,31 +45327,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:47973:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.68.84:56187:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:33570:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:33582:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -55168,14 +45344,6 @@ Country: United States
 
 Protocol: https
 Proxy: 65.49.2.84:11163:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:24383:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -55207,30 +45375,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:22583:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:22644:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:22809:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.68.84:39618:United States
 Status: not working
 IP: 127.0.0.1
@@ -55255,60 +45399,12 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:64354:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 62.210.15.199:443:France
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: France
-
-Protocol: https
-Proxy: 65.49.2.84:15248:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:23459:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:53022:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:16645:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:16645:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
 
 Protocol: https
 Proxy: 65.49.2.84:40230:United States
@@ -55320,38 +45416,6 @@ Country: United States
 
 Protocol: https
 Proxy: 64.62.219.84:40244:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:48629:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:25328:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:25383:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:53893:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -55399,14 +45463,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:23332:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 64.62.219.84:23514:United States
 Status: not working
 IP: 127.0.0.1
@@ -55431,14 +45487,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:39195:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.2.84:54739:United States
 Status: not working
 IP: 127.0.0.1
@@ -55447,39 +45495,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:63090:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:63127:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:44443:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.2.84:21811:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:45638:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -55503,22 +45519,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:12750:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:15761:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 64.62.219.84:20527:United States
 Status: not working
 IP: 127.0.0.1
@@ -55535,14 +45535,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:33128:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 64.62.219.84:28380:United States
 Status: not working
 IP: 127.0.0.1
@@ -55551,15 +45543,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:36404:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:36660:United States
+Proxy: 65.49.68.84:28439:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -55575,31 +45559,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:53390:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.2.84:11946:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:11988:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:12309:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -55615,7 +45575,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:20198:United States
+Proxy: 65.49.68.84:20465:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -55647,31 +45607,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:59298:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.14.154:49269:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:49348:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:49379:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -55695,14 +45631,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:30935:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.14.154:30013:United States
 Status: not working
 IP: 127.0.0.1
@@ -55719,47 +45647,15 @@ Server: N/A
 Country: United States
 
 Protocol: https
+Proxy: 65.49.2.84:18383:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: https
 Proxy: 65.49.68.84:19217:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:51672:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:59765:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:19175:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:19160:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:19276:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -55775,39 +45671,15 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:26466:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:26396:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:34951:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:50691:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.68.84:50669:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: https
+Proxy: 64.62.219.84:59825:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -55823,22 +45695,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:17537:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:17611:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 64.62.219.84:33383:United States
 Status: not working
 IP: 127.0.0.1
@@ -55847,23 +45703,15 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:33328:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:33489:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.68.84:49638:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: https
+Proxy: 65.49.68.84:58112:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -55887,14 +45735,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:24683:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.2.84:25731:United States
 Status: not working
 IP: 127.0.0.1
@@ -55911,55 +45751,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:33251:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:40447:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:40476:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:40461:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 64.62.219.84:57273:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:57226:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:24543:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -55976,14 +45768,6 @@ Country: United States
 
 Protocol: https
 Proxy: 65.49.68.84:32751:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:40801:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -56023,30 +45807,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:50099:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:58824:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:58830:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 64.62.219.84:58968:United States
 Status: not working
 IP: 127.0.0.1
@@ -56055,39 +45815,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:59017:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:10066:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.2.84:13063:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:20514:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:21224:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -56111,38 +45839,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:42849:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:50662:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:51770:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:59046:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 64.62.219.84:60106:United States
 Status: not working
 IP: 127.0.0.1
@@ -56151,7 +45847,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:61526:United States
+Proxy: 65.49.68.84:10743:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -56167,31 +45863,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:18615:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.2.84:26949:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:27220:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:27534:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -56207,7 +45879,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:35542:United States
+Proxy: 65.49.2.84:35248:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -56215,7 +45887,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:43698:United States
+Proxy: 65.49.68.84:35542:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -56247,39 +45919,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:20504:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:29214:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:29199:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.14.154:30709:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:32566:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -56311,47 +45951,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:41521:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:52921:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.2.84:52916:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:60933:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:60928:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:61099:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -56383,23 +45983,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:50141:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:62566:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:62622:United States
+Proxy: 65.49.2.84:62773:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -56415,22 +45999,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:22284:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:22341:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 64.62.219.84:22608:United States
 Status: not working
 IP: 127.0.0.1
@@ -56439,7 +46007,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:30376:United States
+Proxy: 65.49.2.84:30529:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -56479,39 +46047,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:63060:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 64.62.219.84:63108:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:14304:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:22423:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:30575:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -56535,30 +46071,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:52916:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:17720:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:17665:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.2.84:25732:United States
 Status: not working
 IP: 127.0.0.1
@@ -56575,23 +46087,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:50348:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.2.84:58927:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:15371:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -56607,22 +46103,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:10498:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:10535:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.14.154:25634:United States
 Status: not working
 IP: 127.0.0.1
@@ -56631,7 +46111,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:26351:United States
+Proxy: 65.49.2.84:48666:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -56695,46 +46175,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:20570:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:28728:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:28830:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:36901:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:61823:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.2.84:13990:United States
 Status: not working
 IP: 127.0.0.1
@@ -56744,14 +46184,6 @@ Country: United States
 
 Protocol: https
 Proxy: 64.62.219.84:22613:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:30939:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -56776,14 +46208,6 @@ Country: United States
 
 Protocol: https
 Proxy: 65.49.68.84:47616:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:47817:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -56823,30 +46247,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:49782:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:19980:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:37407:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.2.84:37448:United States
 Status: not working
 IP: 127.0.0.1
@@ -56863,22 +46263,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:55612:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:55792:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.14.154:55821:United States
 Status: not working
 IP: 127.0.0.1
@@ -56888,14 +46272,6 @@ Country: United States
 
 Protocol: https
 Proxy: 65.49.68.84:64722:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:64750:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -56927,14 +46303,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:33016:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.68.84:41710:United States
 Status: not working
 IP: 127.0.0.1
@@ -56959,15 +46327,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:32566:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:18265:United States
+Proxy: 65.49.68.84:26380:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -57015,22 +46375,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:30107:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:61950:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 104.129.194.43:11724:United States
 Status: not working
 IP: 127.0.0.1
@@ -57039,31 +46383,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:47595:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 104.129.194.44:11724:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:16851:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:25235:United States
+Proxy: 64.62.219.84:16894:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -57095,7 +46415,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:33764:United States
+Proxy: 65.49.14.154:50982:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -57111,14 +46431,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:11875:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.68.84:32566:United States
 Status: not working
 IP: 127.0.0.1
@@ -57127,39 +46439,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:28751:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.14.154:36948:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:37067:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:45322:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:45512:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -57199,6 +46479,14 @@ Server: N/A
 Country: United States
 
 Protocol: https
+Proxy: 64.62.219.84:14271:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: https
 Proxy: 64.62.219.84:22543:United States
 Status: not working
 IP: 127.0.0.1
@@ -57207,79 +46495,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:47744:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:47776:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:56844:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:17022:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:17667:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:25567:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.2.84:26085:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:33642:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:34002:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:42050:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -57296,46 +46512,6 @@ Country: United States
 
 Protocol: https
 Proxy: 65.49.14.154:58885:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:11213:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:20277:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:20351:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:28865:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:28907:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -57375,14 +46551,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:54245:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.68.84:54365:United States
 Status: not working
 IP: 127.0.0.1
@@ -57415,14 +46583,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:56330:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.2.84:64804:United States
 Status: not working
 IP: 127.0.0.1
@@ -57440,14 +46600,6 @@ Country: Singapore
 
 Protocol: https
 Proxy: 64.62.219.84:34154:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:42859:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -57479,23 +46631,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:11621:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 64.62.219.84:20671:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:55847:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -57535,22 +46671,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:10957:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:28177:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.68.84:36559:United States
 Status: not working
 IP: 127.0.0.1
@@ -57575,22 +46695,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:39478:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:49359:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 64.62.219.84:53329:United States
 Status: not working
 IP: 127.0.0.1
@@ -57599,23 +46703,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 165.225.113.220:11703:Singapore
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Singapore
-
-Protocol: https
 Proxy: 65.49.14.154:62271:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:33922:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -57639,7 +46727,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:42300:United States
+Proxy: 65.49.2.84:50902:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -57647,7 +46735,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:50902:United States
+Proxy: 65.49.2.84:10048:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -57663,23 +46751,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:18218:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:43489:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:43607:United States
+Proxy: 64.62.219.84:18254:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -57695,7 +46767,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:19639:United States
+Proxy: 64.62.219.84:19885:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -57703,7 +46775,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:19885:United States
+Proxy: 65.49.68.84:28175:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -57719,47 +46791,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:48818:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:51436:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:56992:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 64.62.219.84:59692:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:18993:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:27783:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -57783,39 +46815,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:60889:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 64.62.219.84:24632:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:25215:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:53155:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:62534:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -57839,55 +46839,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:42595:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:51506:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:52892:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:53741:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.14.154:62112:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:10968:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:13350:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -57903,55 +46855,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:21790:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.14.154:27687:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:27703:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:59095:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:18819:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:18888:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:28915:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -57967,7 +46871,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:29406:United States
+Proxy: 65.49.2.84:28999:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -57991,39 +46895,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:45906:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.68.84:46331:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:54209:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:54673:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:62513:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -58071,14 +46943,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:32074:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 64.62.219.84:32078:United States
 Status: not working
 IP: 127.0.0.1
@@ -58087,7 +46951,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:40225:United States
+Proxy: 64.62.219.84:40229:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -58095,7 +46959,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:40229:United States
+Proxy: 65.49.14.154:48192:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -58135,7 +46999,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:24128:United States
+Proxy: 65.49.2.84:29993:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -58151,14 +47015,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:36856:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.2.84:39869:United States
 Status: not working
 IP: 127.0.0.1
@@ -58167,15 +47023,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:56573:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:13311:United States
+Proxy: 64.62.219.84:29993:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -58192,46 +47040,6 @@ Country: United States
 
 Protocol: https
 Proxy: 64.62.219.84:36829:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:39303:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:13239:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:13480:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:21825:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:30378:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -58256,14 +47064,6 @@ Country: United States
 
 Protocol: https
 Proxy: 65.49.2.84:40738:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:40795:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -58319,7 +47119,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:44443:United States
+Proxy: 65.49.68.84:49582:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -58399,14 +47199,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:64211:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 64.62.219.84:64508:United States
 Status: not working
 IP: 127.0.0.1
@@ -58431,6 +47223,14 @@ Server: N/A
 Country: United States
 
 Protocol: https
+Proxy: 64.62.219.84:36527:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: https
 Proxy: 64.62.219.84:44951:United States
 Status: not working
 IP: 127.0.0.1
@@ -58439,7 +47239,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:60018:United States
+Proxy: 64.62.219.84:53431:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -58479,7 +47279,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:60906:United States
+Proxy: 64.62.219.84:59991:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -58487,7 +47287,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:16633:United States
+Proxy: 65.49.14.154:60906:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -58503,23 +47303,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:28887:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 64.62.219.84:34292:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:43037:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -58543,14 +47327,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:55364:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.14.154:63452:United States
 Status: not working
 IP: 127.0.0.1
@@ -58567,15 +47343,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:47285:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:51481:United States
+Proxy: 65.49.14.154:15341:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -58599,22 +47367,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:10042:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:55008:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 64.62.219.84:15592:United States
 Status: not working
 IP: 127.0.0.1
@@ -58631,14 +47383,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:16224:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 64.62.219.84:45613:United States
 Status: not working
 IP: 127.0.0.1
@@ -58648,14 +47392,6 @@ Country: United States
 
 Protocol: https
 Proxy: 65.49.14.154:24841:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:39238:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -58727,22 +47463,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:12326:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:45613:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.2.84:26588:United States
 Status: not working
 IP: 127.0.0.1
@@ -58783,23 +47503,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:55927:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:64031:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:64042:United States
+Proxy: 65.49.14.154:57163:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -58816,6 +47520,14 @@ Country: United States
 
 Protocol: https
 Proxy: 65.49.2.84:42874:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: https
+Proxy: 64.62.219.84:42974:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -58847,23 +47559,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:28408:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.2.84:35579:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:43959:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -58879,39 +47575,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:53184:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:27601:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:27819:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.2.84:40880:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:41001:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -58959,47 +47623,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:59694:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:12252:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.14.154:12411:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:12432:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:12486:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:15824:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -59023,39 +47647,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:43011:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:52084:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.14.154:52487:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:13221:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:13891:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -59071,31 +47663,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:22227:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:22609:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 64.62.219.84:31044:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:41723:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -59111,7 +47679,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:43342:United States
+Proxy: 65.49.2.84:60083:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -59119,31 +47687,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:46061:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:60091:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:10703:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:26008:United States
+Proxy: 64.62.219.84:17263:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -59167,31 +47711,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:35051:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.2.84:52421:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:52461:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:61201:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -59205,6 +47725,22 @@ IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: United States
+
+Protocol: https
+Proxy: 104.129.194.43:11716:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: https
+Proxy: 165.225.113.220:11716:Singapore
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Singapore
 
 Protocol: https
 Proxy: 65.49.14.154:17501:United States
@@ -59239,23 +47775,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:38139:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:41488:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:41576:United States
+Proxy: 65.49.2.84:11021:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -59264,14 +47784,6 @@ Country: United States
 
 Protocol: https
 Proxy: 64.62.219.84:11245:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:22584:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -59303,47 +47815,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:47625:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 64.62.219.84:56451:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:17011:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:17114:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:17358:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:17458:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -59367,14 +47839,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:45018:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.14.154:47196:United States
 Status: not working
 IP: 127.0.0.1
@@ -59383,31 +47847,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:48988:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:54023:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.2.84:24557:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:22357:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -59463,38 +47903,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:21897:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:31800:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:34025:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:53163:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.68.84:47292:United States
 Status: not working
 IP: 127.0.0.1
@@ -59512,6 +47920,14 @@ Country: United States
 
 Protocol: https
 Proxy: 65.49.68.84:55575:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: https
+Proxy: 65.49.2.84:55663:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -59543,14 +47959,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:26437:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.14.154:35566:United States
 Status: not working
 IP: 127.0.0.1
@@ -59575,23 +47983,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:45955:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.14.154:49485:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:49781:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -59623,31 +48015,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:63845:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:16856:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.68.84:16858:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:16864:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -59679,38 +48047,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:63469:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:63555:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:16669:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:33039:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 64.62.219.84:33751:United States
 Status: not working
 IP: 127.0.0.1
@@ -59720,14 +48056,6 @@ Country: United States
 
 Protocol: https
 Proxy: 65.49.14.154:42745:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:41907:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -59783,14 +48111,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:59643:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.68.84:59713:United States
 Status: not working
 IP: 127.0.0.1
@@ -59800,14 +48120,6 @@ Country: United States
 
 Protocol: https
 Proxy: 65.49.14.154:59746:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:47255:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -59847,22 +48159,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:53533:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:17828:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 64.62.219.84:26757:United States
 Status: not working
 IP: 127.0.0.1
@@ -59872,30 +48168,6 @@ Country: United States
 
 Protocol: https
 Proxy: 64.62.219.84:35379:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:35427:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:35461:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:43958:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -59927,22 +48199,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:61789:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:61916:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.68.84:62093:United States
 Status: not working
 IP: 127.0.0.1
@@ -59959,47 +48215,7 @@ Server: N/A
 Country: France
 
 Protocol: https
-Proxy: 65.49.14.154:14445:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:23304:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:24334:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:40511:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.14.154:48946:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:49130:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -60016,14 +48232,6 @@ Country: United States
 
 Protocol: https
 Proxy: 65.49.14.154:57715:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:18346:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -60055,7 +48263,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:44272:United States
+Proxy: 64.62.219.84:44317:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -60063,7 +48271,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:44317:United States
+Proxy: 65.49.68.84:10231:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -60080,14 +48288,6 @@ Country: United States
 
 Protocol: https
 Proxy: 64.62.219.84:53187:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:62052:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -60135,31 +48335,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:48625:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:48648:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:57547:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:18540:United States
+Proxy: 65.49.2.84:57556:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -60168,22 +48344,6 @@ Country: United States
 
 Protocol: https
 Proxy: 64.62.219.84:18596:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:27425:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:36267:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -60207,7 +48367,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:36326:United States
+Proxy: 65.49.68.84:55422:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -60215,7 +48375,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:55422:United States
+Proxy: 64.62.219.84:55655:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -60239,38 +48399,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:14655:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:23129:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:23328:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:23432:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.68.84:33538:United States
 Status: not working
 IP: 127.0.0.1
@@ -60280,22 +48408,6 @@ Country: United States
 
 Protocol: https
 Proxy: 65.49.2.84:35241:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:35353:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:44230:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -60343,6 +48455,14 @@ Server: N/A
 Country: United States
 
 Protocol: https
+Proxy: 65.49.68.84:36756:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: https
 Proxy: 65.49.2.84:37086:United States
 Status: not working
 IP: 127.0.0.1
@@ -60367,23 +48487,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:46044:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.2.84:54962:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:62629:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -60431,31 +48535,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:48238:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:12208:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:45612:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:20538:United States
+Proxy: 65.49.14.154:29097:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -60487,14 +48567,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:42395:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 104.129.194.43:11712:United States
 Status: not working
 IP: 127.0.0.1
@@ -60511,23 +48583,15 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:60686:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:60658:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.14.154:60929:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: https
+Proxy: 104.129.194.44:11712:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -60543,23 +48607,15 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:18259:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:28113:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 104.129.194.46:11712:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: https
+Proxy: 65.49.14.154:35654:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -60575,22 +48631,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:40028:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:47666:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 165.225.113.220:11712:Singapore
 Status: not working
 IP: 127.0.0.1
@@ -60599,23 +48639,7 @@ Server: N/A
 Country: Singapore
 
 Protocol: https
-Proxy: 64.62.219.84:57289:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 104.129.194.45:11712:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:16971:United States
+Proxy: 104.129.194.38:11712:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -60647,63 +48671,15 @@ Server: N/A
 Country: United States
 
 Protocol: https
+Proxy: 65.49.2.84:25688:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: https
 Proxy: 65.49.2.84:35046:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:42917:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:51612:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:51596:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:31315:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:60430:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:60436:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:60446:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -60727,38 +48703,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:12105:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:29792:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:39039:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:38999:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 64.62.219.84:48034:United States
 Status: not working
 IP: 127.0.0.1
@@ -60775,15 +48719,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:17788:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:17822:United States
+Proxy: 65.49.2.84:26990:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -60799,14 +48735,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:36252:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.2.84:45268:United States
 Status: not working
 IP: 127.0.0.1
@@ -60815,15 +48743,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:45277:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:54120:United States
+Proxy: 65.49.2.84:54035:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -60832,14 +48752,6 @@ Country: United States
 
 Protocol: https
 Proxy: 65.49.2.84:62989:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:63071:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -60871,14 +48783,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:25033:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.14.154:22357:United States
 Status: not working
 IP: 127.0.0.1
@@ -60888,14 +48792,6 @@ Country: United States
 
 Protocol: https
 Proxy: 65.49.14.154:53514:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:50402:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -60919,31 +48815,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:59413:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:59662:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.14.154:61303:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:61329:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -60967,7 +48839,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:40157:United States
+Proxy: 65.49.14.154:31438:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -60991,14 +48863,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:10312:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.68.84:31641:United States
 Status: not working
 IP: 127.0.0.1
@@ -61015,15 +48879,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:49000:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:50339:United States
+Proxy: 64.62.219.84:55886:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -61047,31 +48903,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:12791:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 64.62.219.84:21349:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:21470:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:30719:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -61095,6 +48927,14 @@ Server: N/A
 Country: United States
 
 Protocol: https
+Proxy: 65.49.14.154:53440:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: https
 Proxy: 65.49.68.84:62157:United States
 Status: not working
 IP: 127.0.0.1
@@ -61111,39 +48951,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:62178:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:13944:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.2.84:13947:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:22866:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:22863:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -61159,6 +48967,14 @@ Server: N/A
 Country: United States
 
 Protocol: https
+Proxy: 65.49.14.154:49793:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: https
 Proxy: 65.49.2.84:49800:United States
 Status: not working
 IP: 127.0.0.1
@@ -61167,23 +48983,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:49846:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.2.84:58575:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:58592:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -61200,22 +49000,6 @@ Country: United States
 
 Protocol: https
 Proxy: 65.49.2.84:19949:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:19965:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:19997:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -61255,31 +49039,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:59763:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.14.154:14973:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:14998:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:15366:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -61295,7 +49055,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:20518:United States
+Proxy: 64.62.219.84:24110:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -61303,7 +49063,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:24110:United States
+Proxy: 64.62.219.84:37845:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -61351,14 +49111,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:42566:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 64.62.219.84:42602:United States
 Status: not working
 IP: 127.0.0.1
@@ -61368,14 +49120,6 @@ Country: United States
 
 Protocol: https
 Proxy: 65.49.14.154:51791:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:51803:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -61399,46 +49143,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:60599:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:12807:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:12904:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:12866:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:30305:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 64.62.219.84:30418:United States
 Status: not working
 IP: 127.0.0.1
@@ -61455,7 +49159,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:39734:United States
+Proxy: 65.49.68.84:48762:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -61464,14 +49168,6 @@ Country: United States
 
 Protocol: https
 Proxy: 65.49.14.154:19967:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:28576:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -61503,7 +49199,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:15611:United States
+Proxy: 65.49.14.154:15579:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -61511,7 +49207,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:32768:United States
+Proxy: 65.49.14.154:24137:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -61527,14 +49223,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:52503:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.2.84:52552:United States
 Status: not working
 IP: 127.0.0.1
@@ -61543,7 +49231,15 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:10116:United States
+Proxy: 64.62.219.84:18610:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: https
+Proxy: 65.49.14.154:18565:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -61559,31 +49255,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:39129:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.14.154:53183:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:62328:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:13510:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -61599,23 +49271,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:31903:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:31966:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:15289:United States
+Proxy: 65.49.2.84:15073:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -61629,14 +49285,6 @@ IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: France
-
-Protocol: https
-Proxy: 65.49.14.154:25779:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
 
 Protocol: https
 Proxy: 64.62.219.84:64338:United States
@@ -61671,31 +49319,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:41293:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.68.84:49598:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:49657:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:58563:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -61735,23 +49359,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:30654:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.68.84:38220:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:39347:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -61799,31 +49407,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:57600:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.68.84:64622:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:11034:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:13702:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -61855,14 +49439,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:36767:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.68.84:41847:United States
 Status: not working
 IP: 127.0.0.1
@@ -61879,14 +49455,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:45587:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.14.154:46247:United States
 Status: not working
 IP: 127.0.0.1
@@ -61895,39 +49463,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:54504:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:55168:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 64.62.219.84:63479:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:63537:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:64118:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -61959,22 +49495,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:40593:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:40806:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.14.154:42329:United States
 Status: not working
 IP: 127.0.0.1
@@ -61984,14 +49504,6 @@ Country: United States
 
 Protocol: https
 Proxy: 65.49.2.84:49435:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:49665:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -62015,14 +49527,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:14551:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 64.62.219.84:50075:United States
 Status: not working
 IP: 127.0.0.1
@@ -62039,14 +49543,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:56875:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.14.154:56897:United States
 Status: not working
 IP: 127.0.0.1
@@ -62056,22 +49552,6 @@ Country: United States
 
 Protocol: https
 Proxy: 65.49.68.84:56833:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:18061:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:18619:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -62103,23 +49583,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:35375:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.14.154:35700:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:51672:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -62136,14 +49600,6 @@ Country: United States
 
 Protocol: https
 Proxy: 65.49.14.154:44628:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:55436:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -62191,47 +49647,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:14898:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:14948:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:33487:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.2.84:24645:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:21825:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:21910:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -62247,103 +49663,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:30605:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:16968:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:17080:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:17133:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:30742:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:30685:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:42331:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:49904:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:12066:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:12906:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:19452:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 64.62.219.84:21080:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:21950:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -62383,39 +49703,7 @@ Server: N/A
 Country: Japan
 
 Protocol: https
-Proxy: 65.49.14.154:48825:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.2.84:53566:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:53604:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:62478:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:23735:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -62431,7 +49719,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:24111:United States
+Proxy: 64.62.219.84:24191:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -62463,7 +49751,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:19016:United States
+Proxy: 65.49.68.84:57991:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -62471,23 +49759,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:36851:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:36944:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:45669:United States
+Proxy: 65.49.68.84:47701:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -62528,14 +49800,6 @@ Country: United States
 
 Protocol: https
 Proxy: 65.49.68.84:44088:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:44418:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -62615,22 +49879,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:36688:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:36732:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 64.62.219.84:36868:United States
 Status: not working
 IP: 127.0.0.1
@@ -62655,14 +49903,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:56022:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 64.62.219.84:56022:United States
 Status: not working
 IP: 127.0.0.1
@@ -62671,7 +49911,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:13688:United States
+Proxy: 64.62.219.84:31628:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -62687,23 +49927,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:32157:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.14.154:40860:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:49474:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -62775,23 +49999,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:47601:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.2.84:56246:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:62355:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -62823,47 +50031,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:23351:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.68.84:28928:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:56109:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:49048:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:63959:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:63948:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -62887,31 +50055,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:25701:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:25746:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.2.84:34681:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:43969:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -62927,22 +50071,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:62181:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:62475:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.2.84:15179:United States
 Status: not working
 IP: 127.0.0.1
@@ -62951,31 +50079,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:15474:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.2.84:48769:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:49048:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:49048:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -62999,14 +50103,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:12303:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.14.154:21192:United States
 Status: not working
 IP: 127.0.0.1
@@ -63015,7 +50111,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:48331:United States
+Proxy: 64.62.219.84:21241:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -63031,23 +50127,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:28412:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.68.84:29036:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:37427:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -63071,31 +50151,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:18817:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:37348:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.68.84:38236:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:47286:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -63127,31 +50183,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:48829:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.68.84:48917:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:53952:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:24542:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -63183,7 +50215,15 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:42731:United States
+Proxy: 65.49.68.84:42699:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: https
+Proxy: 64.62.219.84:32042:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -63215,14 +50255,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:17011:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.68.84:27690:United States
 Status: not working
 IP: 127.0.0.1
@@ -63239,55 +50271,15 @@ Server: N/A
 Country: United States
 
 Protocol: https
+Proxy: 64.62.219.84:36493:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: https
 Proxy: 65.49.68.84:36563:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:37602:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:54911:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:54987:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:51067:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:51067:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:11959:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -63303,7 +50295,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:51067:United States
+Proxy: 65.49.14.154:12814:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -63319,22 +50311,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:22370:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:22772:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 64.62.219.84:22775:United States
 Status: not working
 IP: 127.0.0.1
@@ -63343,23 +50319,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:31815:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:31818:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:39435:United States
+Proxy: 65.49.68.84:39724:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -63375,7 +50335,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:57584:United States
+Proxy: 65.49.68.84:57887:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -63415,23 +50375,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:36317:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.68.84:36401:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:45299:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -63455,23 +50399,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:45497:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.14.154:54586:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:54648:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -63487,30 +50415,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:63555:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:63616:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:63662:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 64.62.219.84:63751:United States
 Status: not working
 IP: 127.0.0.1
@@ -63519,39 +50423,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:16353:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:16461:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:25615:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.68.84:25662:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:25752:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -63575,14 +50447,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:55589:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.68.84:48838:United States
 Status: not working
 IP: 127.0.0.1
@@ -63599,47 +50463,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:58221:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.2.84:58363:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:11227:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:11150:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:11197:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:21615:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -63719,31 +50543,7 @@ Server: N/A
 Country: France
 
 Protocol: https
-Proxy: 65.49.68.84:30812:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 64.62.219.84:30926:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:31260:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:49064:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -63775,22 +50575,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:58641:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:20515:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.14.154:44891:United States
 Status: not working
 IP: 127.0.0.1
@@ -63800,14 +50584,6 @@ Country: United States
 
 Protocol: https
 Proxy: 65.49.68.84:53567:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:53565:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -63829,22 +50605,6 @@ IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: France
-
-Protocol: https
-Proxy: 65.49.68.84:44366:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:53961:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
 
 Protocol: https
 Proxy: 65.49.68.84:63791:United States
@@ -63871,79 +50631,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:27088:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:36481:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:36537:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:36714:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:46139:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:46512:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.14.154:55216:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:55297:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:30147:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:30155:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -63967,31 +50655,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:58130:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:28307:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.68.84:28341:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:28366:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -64007,30 +50671,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:39533:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:47879:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:48200:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.68.84:49059:United States
 Status: not working
 IP: 127.0.0.1
@@ -64039,55 +50679,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:58351:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.2.84:59412:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:11133:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:11165:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:20701:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:29935:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:29969:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -64119,22 +50711,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:34846:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:34989:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.68.84:43782:United States
 Status: not working
 IP: 127.0.0.1
@@ -64151,7 +50727,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:48079:United States
+Proxy: 65.49.14.154:16189:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -64159,7 +50735,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:16189:United States
+Proxy: 65.49.2.84:16231:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -64176,22 +50752,6 @@ Country: United States
 
 Protocol: https
 Proxy: 65.49.68.84:25342:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:34467:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:34496:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -64231,14 +50791,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:51995:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 64.62.219.84:52062:United States
 Status: not working
 IP: 127.0.0.1
@@ -64263,31 +50815,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:22785:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:22816:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.2.84:41057:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:41143:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -64303,39 +50831,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:50108:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:11814:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.2.84:20873:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:30201:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:30266:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -64351,23 +50847,15 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:48660:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:57426:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.2.84:57437:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: https
+Proxy: 65.49.2.84:10306:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -64391,55 +50879,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:38672:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:38674:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.14.154:48018:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:57333:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:10196:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:19475:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:28801:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -64456,14 +50896,6 @@ Country: United States
 
 Protocol: https
 Proxy: 64.62.219.84:48031:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:60828:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -64495,55 +50927,7 @@ Server: N/A
 Country: Chile
 
 Protocol: https
-Proxy: 64.62.219.84:15678:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:15640:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:15641:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:25438:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.14.154:25442:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:44024:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:53033:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -64575,46 +50959,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:15074:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:24503:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:24540:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:24509:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:52663:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.68.84:62064:United States
 Status: not working
 IP: 127.0.0.1
@@ -64623,7 +50967,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:32623:United States
+Proxy: 64.62.219.84:41486:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -64655,47 +50999,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:61557:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.14.154:27489:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:27495:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:27473:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:36412:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:36427:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -64727,39 +51031,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:16627:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:16796:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 64.62.219.84:53238:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:53383:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:15316:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -64815,30 +51087,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:42505:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:42649:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:52060:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.2.84:52071:United States
 Status: not working
 IP: 127.0.0.1
@@ -64855,14 +51103,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:10876:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.14.154:20263:United States
 Status: not working
 IP: 127.0.0.1
@@ -64871,39 +51111,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:26886:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:48731:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 64.62.219.84:14025:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:13988:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:23277:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -65007,14 +51215,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:11487:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.2.84:14558:United States
 Status: not working
 IP: 127.0.0.1
@@ -65031,23 +51231,15 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:41442:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:41403:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.68.84:41404:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: https
+Proxy: 64.62.219.84:50776:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -65079,14 +51271,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:26905:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.14.154:31718:United States
 Status: not working
 IP: 127.0.0.1
@@ -65111,14 +51295,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:59518:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.68.84:21419:United States
 Status: not working
 IP: 127.0.0.1
@@ -65127,7 +51303,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:30669:United States
+Proxy: 65.49.68.84:58299:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -65135,7 +51311,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:58299:United States
+Proxy: 65.49.2.84:12130:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -65152,38 +51328,6 @@ Country: United States
 
 Protocol: https
 Proxy: 65.49.68.84:61885:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:22128:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:22352:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:22422:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:23192:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -65215,62 +51359,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:41150:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:41370:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:50571:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:50777:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:50850:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:60135:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:60351:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.14.154:60418:United States
 Status: not working
 IP: 127.0.0.1
@@ -65295,6 +51383,14 @@ Server: N/A
 Country: United States
 
 Protocol: https
+Proxy: 65.49.14.154:20224:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: https
 Proxy: 65.49.2.84:20233:United States
 Status: not working
 IP: 127.0.0.1
@@ -65311,47 +51407,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:29849:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:29906:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:49600:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.14.154:49633:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:14402:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:36288:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -65439,30 +51495,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:64695:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:64678:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:18801:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.68.84:19182:United States
 Status: not working
 IP: 127.0.0.1
@@ -65471,23 +51503,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:37923:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 64.62.219.84:37960:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:47525:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -65511,39 +51527,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:47696:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:10722:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:10714:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:39536:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:39584:United States
+Proxy: 64.62.219.84:10901:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -65559,31 +51543,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:59426:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 64.62.219.84:60221:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:14323:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:14901:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -65599,14 +51559,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:42085:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.2.84:42149:United States
 Status: not working
 IP: 127.0.0.1
@@ -65615,7 +51567,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:54336:United States
+Proxy: 65.49.2.84:63945:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -65671,71 +51623,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:46532:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:46611:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:46639:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.14.154:56281:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:56350:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:56377:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:56468:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:12030:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:12540:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -65751,38 +51639,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:21647:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:22111:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:31273:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:31624:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.68.84:31688:United States
 Status: not working
 IP: 127.0.0.1
@@ -65791,7 +51647,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:13195:United States
+Proxy: 65.49.2.84:49143:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -65799,7 +51655,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:13290:United States
+Proxy: 65.49.14.154:13195:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -65831,14 +51687,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:49943:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 51.158.61.253:436:France
 Status: not working
 IP: 127.0.0.1
@@ -65847,23 +51695,7 @@ Server: N/A
 Country: France
 
 Protocol: https
-Proxy: 64.62.219.84:59388:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.14.154:59421:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:32262:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -65887,31 +51719,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:40021:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:49200:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.2.84:51270:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:51271:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -65935,7 +51743,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:24331:United States
+Proxy: 64.62.219.84:33854:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -65943,7 +51751,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:33854:United States
+Proxy: 65.49.2.84:33806:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -65967,39 +51775,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:58261:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:29940:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:33157:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.2.84:37223:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:54120:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -66031,23 +51807,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:14001:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:15985:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:58793:United States
+Proxy: 65.49.2.84:58690:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -66087,23 +51847,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:50707:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.14.154:38460:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:59643:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -66135,14 +51879,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:36267:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.14.154:26607:United States
 Status: not working
 IP: 127.0.0.1
@@ -66167,23 +51903,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:35331:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:51548:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:34571:United States
+Proxy: 65.49.14.154:35002:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -66192,62 +51912,6 @@ Country: United States
 
 Protocol: https
 Proxy: 65.49.14.154:19098:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:17055:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:15292:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:20515:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:36228:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:25989:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:16998:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:39584:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -66295,15 +51959,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:20876:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:15292:United States
+Proxy: 65.49.14.154:63402:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -66312,14 +51968,6 @@ Country: United States
 
 Protocol: https
 Proxy: 65.49.2.84:25502:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:61038:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -66367,14 +52015,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.14.154:15027:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.2.84:33284:United States
 Status: not working
 IP: 127.0.0.1
@@ -66399,14 +52039,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:50698:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 64.62.219.84:60713:United States
 Status: not working
 IP: 127.0.0.1
@@ -66416,22 +52048,6 @@ Country: United States
 
 Protocol: https
 Proxy: 65.49.2.84:47816:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:18794:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:25392:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -66479,30 +52095,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:41943:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:15681:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:23245:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.2.84:39480:United States
 Status: not working
 IP: 127.0.0.1
@@ -66528,6 +52120,14 @@ Country: United States
 
 Protocol: https
 Proxy: 65.49.2.84:47669:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: https
+Proxy: 65.49.68.84:49725:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -66615,23 +52215,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:59362:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 64.62.219.84:57721:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.68.84:59362:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -66647,23 +52231,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.68.84:21710:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.14.154:22170:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:58781:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -66687,31 +52255,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:26036:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:26076:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.68.84:26037:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:26025:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -66727,14 +52271,6 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:52084:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.2.84:42974:United States
 Status: not working
 IP: 127.0.0.1
@@ -66743,31 +52279,7 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 64.62.219.84:51725:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 64.62.219.84:36020:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.14.154:36068:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.2.84:37573:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -66807,31 +52319,47 @@ Server: N/A
 Country: United States
 
 Protocol: https
-Proxy: 65.49.2.84:46131:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:56231:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
-Proxy: 65.49.14.154:20303:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: https
 Proxy: 65.49.2.84:20718:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: https
+Proxy: 65.49.2.84:45955:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: https
+Proxy: 65.49.68.84:33772:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: https
+Proxy: 65.49.14.154:53893:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: https
+Proxy: 65.49.68.84:11796:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: https
+Proxy: 65.49.14.154:17781:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -66847,28 +52375,12 @@ Server: N/A
 Country: Georgia
 
 Protocol: socks4
-Proxy: 31.43.63.70:4145:Ukraine
+Proxy: 186.211.199.118:4145:Brazil
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Ukraine
-
-Protocol: socks4
-Proxy: 43.248.25.6:4145:Indonesia
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Indonesia
-
-Protocol: socks4
-Proxy: 38.133.200.94:31596:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
+Country: Brazil
 
 Protocol: socks4
 Proxy: 213.16.81.182:35559:Hungary
@@ -66975,12 +52487,12 @@ Server: N/A
 Country: United States
 
 Protocol: socks4
-Proxy: 103.204.54.50:1080:India
+Proxy: 201.48.62.65:4145:Brazil
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: India
+Country: Brazil
 
 Protocol: socks4
 Proxy: 98.170.57.231:4145:United States
@@ -66989,14 +52501,6 @@ IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: United States
-
-Protocol: socks4
-Proxy: 212.31.100.138:4153:Cyprus
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Cyprus
 
 Protocol: socks4
 Proxy: 193.158.12.138:4153:Germany
@@ -67023,12 +52527,20 @@ Server: N/A
 Country: Canada
 
 Protocol: socks4
-Proxy: 190.184.144.222:5678:Colombia
+Proxy: 201.221.134.74:5678:Colombia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Colombia
+
+Protocol: socks4
+Proxy: 118.174.14.65:44336:Thailand
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Thailand
 
 Protocol: socks4
 Proxy: 176.120.32.135:5678:Ukraine
@@ -67045,6 +52557,14 @@ IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Bolivia
+
+Protocol: socks4
+Proxy: 103.17.90.6:5678:Vietnam
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Vietnam
 
 Protocol: socks4
 Proxy: 185.190.90.2:4145:Albania
@@ -67079,14 +52599,6 @@ Server: N/A
 Country: India
 
 Protocol: socks4
-Proxy: 70.60.132.130:5678:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: socks4
 Proxy: 83.218.186.22:5678:Austria
 Status: not working
 IP: 127.0.0.1
@@ -67101,6 +52613,14 @@ IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Honduras
+
+Protocol: socks4
+Proxy: 109.69.0.179:5678:Albania
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Albania
 
 Protocol: socks4
 Proxy: 98.175.31.195:4145:United States
@@ -67127,20 +52647,20 @@ Server: N/A
 Country: Cambodia
 
 Protocol: socks4
-Proxy: 170.244.0.179:4145:Brazil
+Proxy: 195.219.98.27:5678:Spain
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Brazil
+Country: Spain
 
 Protocol: socks4
-Proxy: 96.36.50.99:39593:United States
+Proxy: 74.56.228.180:4145:Canada
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: United States
+Country: Canada
 
 Protocol: socks4
 Proxy: 64.124.191.98:32688:United States
@@ -67151,12 +52671,12 @@ Server: N/A
 Country: United States
 
 Protocol: socks4
-Proxy: 190.14.224.244:3629:Colombia
+Proxy: 189.201.187.3:4145:Mexico
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Colombia
+Country: Mexico
 
 Protocol: socks4
 Proxy: 98.188.47.132:4145:United States
@@ -67199,15 +52719,15 @@ Server: N/A
 Country: United States
 
 Protocol: socks4
-Proxy: 46.160.90.81:5678:Ukraine
+Proxy: 184.178.172.3:4145:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Ukraine
+Country: United States
 
 Protocol: socks4
-Proxy: 184.178.172.3:4145:United States
+Proxy: 184.178.172.11:4145:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -67263,15 +52783,7 @@ Server: N/A
 Country: Canada
 
 Protocol: socks4
-Proxy: 192.111.139.162:4145:Canada
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Canada
-
-Protocol: socks4
-Proxy: 192.111.130.2:4145:Canada
+Proxy: 192.111.137.35:4145:Canada
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -67303,6 +52815,14 @@ Server: N/A
 Country: United States
 
 Protocol: socks4
+Proxy: 201.93.159.234:4145:Brazil
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Brazil
+
+Protocol: socks4
 Proxy: 184.178.172.28:15294:United States
 Status: not working
 IP: 127.0.0.1
@@ -67319,6 +52839,14 @@ Server: N/A
 Country: Brazil
 
 Protocol: socks4
+Proxy: 190.96.97.202:4153:Ecuador
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Ecuador
+
+Protocol: socks4
 Proxy: 72.195.34.41:4145:United States
 Status: not working
 IP: 127.0.0.1
@@ -67333,6 +52861,14 @@ IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Bangladesh
+
+Protocol: socks4
+Proxy: 184.178.172.23:4145:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
 
 Protocol: socks4
 Proxy: 198.8.94.170:4145:Canada
@@ -67359,6 +52895,14 @@ Server: N/A
 Country: United States
 
 Protocol: socks4
+Proxy: 181.209.103.98:5678:Argentina
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Argentina
+
+Protocol: socks4
 Proxy: 181.236.221.138:4145:Colombia
 Status: not working
 IP: 127.0.0.1
@@ -67381,22 +52925,6 @@ IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Bulgaria
-
-Protocol: socks4
-Proxy: 170.254.92.198:4153:Argentina
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Argentina
-
-Protocol: socks4
-Proxy: 91.147.235.99:4145:Hungary
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Hungary
 
 Protocol: socks4
 Proxy: 184.185.2.12:4145:United States
@@ -67447,7 +52975,7 @@ Server: N/A
 Country: United States
 
 Protocol: socks4
-Proxy: 74.119.144.60:4145:United States
+Proxy: 74.119.147.209:4145:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -67511,14 +53039,6 @@ Server: N/A
 Country: United States
 
 Protocol: socks4
-Proxy: 46.107.230.122:1080:Hungary
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Hungary
-
-Protocol: socks4
 Proxy: 103.102.141.39:4145:Indonesia
 Status: not working
 IP: 127.0.0.1
@@ -67551,14 +53071,6 @@ Server: N/A
 Country: Spain
 
 Protocol: socks4
-Proxy: 185.186.17.57:5678:Poland
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Poland
-
-Protocol: socks4
 Proxy: 136.228.160.250:5678:Myanmar
 Status: not working
 IP: 127.0.0.1
@@ -67567,12 +53079,12 @@ Server: N/A
 Country: Myanmar
 
 Protocol: socks4
-Proxy: 181.115.75.102:5678:Honduras
+Proxy: 98.103.88.158:46104:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Honduras
+Country: United States
 
 Protocol: socks4
 Proxy: 103.166.39.233:3629:Bangladesh
@@ -67583,7 +53095,7 @@ Server: N/A
 Country: Bangladesh
 
 Protocol: socks4
-Proxy: 185.32.4.65:4153:Poland
+Proxy: 185.79.243.153:38431:Poland
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -67591,12 +53103,12 @@ Server: N/A
 Country: Poland
 
 Protocol: socks4
-Proxy: 185.79.243.153:38431:Poland
+Proxy: 186.145.192.251:5678:Colombia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Poland
+Country: Colombia
 
 Protocol: socks4
 Proxy: 180.250.159.49:4153:Indonesia
@@ -67607,22 +53119,6 @@ Server: N/A
 Country: Indonesia
 
 Protocol: socks4
-Proxy: 217.145.199.47:56746:Slovakia
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Slovakia
-
-Protocol: socks4
-Proxy: 202.69.38.42:5678:Pakistan
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Pakistan
-
-Protocol: socks4
 Proxy: 103.110.10.154:4153:Indonesia
 Status: not working
 IP: 127.0.0.1
@@ -67631,20 +53127,12 @@ Server: N/A
 Country: Indonesia
 
 Protocol: socks4
-Proxy: 179.97.193.250:4153:Brazil
+Proxy: 201.46.29.115:5678:Brazil
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Brazil
-
-Protocol: socks4
-Proxy: 115.85.86.114:5678:Indonesia
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Indonesia
 
 Protocol: socks4
 Proxy: 187.252.154.90:4153:Mexico
@@ -67655,23 +53143,7 @@ Server: N/A
 Country: Mexico
 
 Protocol: socks4
-Proxy: 183.88.212.167:4153:Thailand
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Thailand
-
-Protocol: socks4
-Proxy: 168.232.213.9:4153:Brazil
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Brazil
-
-Protocol: socks4
-Proxy: 177.234.192.47:32213:Ecuador
+Proxy: 177.234.192.45:32213:Ecuador
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -67687,6 +53159,14 @@ Server: N/A
 Country: South Africa
 
 Protocol: socks4
+Proxy: 212.50.19.150:4153:Bulgaria
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Bulgaria
+
+Protocol: socks4
 Proxy: 205.177.85.130:39593:Japan
 Status: not working
 IP: 127.0.0.1
@@ -67695,12 +53175,36 @@ Server: N/A
 Country: Japan
 
 Protocol: socks4
-Proxy: 185.79.241.34:42756:Poland
+Proxy: 200.29.109.112:14888:Colombia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Poland
+Country: Colombia
+
+Protocol: socks4
+Proxy: 187.62.89.252:4153:Brazil
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Brazil
+
+Protocol: socks4
+Proxy: 181.209.82.154:14888:Argentina
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Argentina
+
+Protocol: socks4
+Proxy: 49.156.42.186:5678:Cambodia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Cambodia
 
 Protocol: socks4
 Proxy: 100.1.53.24:5678:United States
@@ -67711,12 +53215,12 @@ Server: N/A
 Country: United States
 
 Protocol: socks4
-Proxy: 45.6.101.98:4153:Brazil
+Proxy: 50.238.47.86:32100:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Brazil
+Country: United States
 
 Protocol: socks4
 Proxy: 136.228.163.150:5678:Myanmar
@@ -67783,22 +53287,6 @@ Server: N/A
 Country: Chile
 
 Protocol: socks4
-Proxy: 78.83.237.146:4153:Bulgaria
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Bulgaria
-
-Protocol: socks4
-Proxy: 103.148.130.5:1080:Indonesia
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Indonesia
-
-Protocol: socks4
 Proxy: 177.136.124.36:3629:Brazil
 Status: not working
 IP: 127.0.0.1
@@ -67823,12 +53311,12 @@ Server: N/A
 Country: Indonesia
 
 Protocol: socks4
-Proxy: 62.85.224.217:5678:Italy
+Proxy: 212.39.114.139:5678:Bosnia and Herzegovina
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Italy
+Country: Bosnia and Herzegovina
 
 Protocol: socks4
 Proxy: 41.169.151.154:4153:South Africa
@@ -67847,46 +53335,6 @@ Server: N/A
 Country: Argentina
 
 Protocol: socks4
-Proxy: 185.32.4.102:4153:Poland
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Poland
-
-Protocol: socks4
-Proxy: 201.148.125.126:4153:Brazil
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Brazil
-
-Protocol: socks4
-Proxy: 200.81.127.113:4153:Argentina
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Argentina
-
-Protocol: socks4
-Proxy: 62.201.212.198:4673:Iraq
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Iraq
-
-Protocol: socks4
-Proxy: 193.105.62.11:58973:Ukraine
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Ukraine
-
-Protocol: socks4
 Proxy: 46.214.153.223:5678:Romania
 Status: not working
 IP: 127.0.0.1
@@ -67903,12 +53351,36 @@ Server: N/A
 Country: Thailand
 
 Protocol: socks4
+Proxy: 89.42.70.1:8899:Spain
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Spain
+
+Protocol: socks4
+Proxy: 190.4.205.226:4153:Chile
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Chile
+
+Protocol: socks4
 Proxy: 36.64.27.123:5678:Indonesia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Indonesia
+
+Protocol: socks4
+Proxy: 88.213.214.254:4145:Bulgaria
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Bulgaria
 
 Protocol: socks4
 Proxy: 187.210.136.88:4153:Mexico
@@ -67925,22 +53397,6 @@ IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Colombia
-
-Protocol: socks4
-Proxy: 187.216.144.170:5678:Mexico
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Mexico
-
-Protocol: socks4
-Proxy: 183.80.130.9:4145:Vietnam
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Vietnam
 
 Protocol: socks4
 Proxy: 103.127.23.10:5678:India
@@ -67991,20 +53447,28 @@ Server: N/A
 Country: Bolivia
 
 Protocol: socks4
-Proxy: 185.130.219.10:4153:Spain
+Proxy: 121.200.60.198:8010:Bangladesh
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Spain
+Country: Bangladesh
 
 Protocol: socks4
-Proxy: 95.178.108.189:5678:France
+Proxy: 195.138.73.54:31145:Ukraine
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: France
+Country: Ukraine
+
+Protocol: socks4
+Proxy: 67.206.213.202:55555:Puerto Rico
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Puerto Rico
 
 Protocol: socks4
 Proxy: 183.80.130.10:4145:Vietnam
@@ -68015,15 +53479,15 @@ Server: N/A
 Country: Vietnam
 
 Protocol: socks4
-Proxy: 189.50.138.10:5678:Brazil
+Proxy: 181.78.23.170:4153:Colombia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Brazil
+Country: Colombia
 
 Protocol: socks4
-Proxy: 181.78.23.170:4153:Colombia
+Proxy: 201.184.239.75:5678:Colombia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -68037,14 +53501,6 @@ IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: United States
-
-Protocol: socks4
-Proxy: 181.48.243.194:4153:Colombia
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Colombia
 
 Protocol: socks4
 Proxy: 85.89.184.87:5678:Poland
@@ -68079,12 +53535,20 @@ Server: N/A
 Country: Malaysia
 
 Protocol: socks4
-Proxy: 213.14.32.67:4153:Türkiye
+Proxy: 103.134.180.241:4153:India
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Türkiye
+Country: India
+
+Protocol: socks4
+Proxy: 103.197.32.205:5678:India
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: India
 
 Protocol: socks4
 Proxy: 103.174.236.98:8080:Indonesia
@@ -68111,20 +53575,12 @@ Server: N/A
 Country: Nepal
 
 Protocol: socks4
-Proxy: 181.143.21.146:4153:Colombia
+Proxy: 177.104.87.23:5678:Brazil
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Colombia
-
-Protocol: socks4
-Proxy: 154.79.248.156:5678:Kenya
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Kenya
+Country: Brazil
 
 Protocol: socks4
 Proxy: 121.139.218.165:43295:South Korea
@@ -68143,14 +53599,6 @@ Server: N/A
 Country: Bangladesh
 
 Protocol: socks4
-Proxy: 177.101.135.89:5678:Brazil
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Brazil
-
-Protocol: socks4
 Proxy: 185.32.4.110:4153:Poland
 Status: not working
 IP: 127.0.0.1
@@ -68167,12 +53615,28 @@ Server: N/A
 Country: Indonesia
 
 Protocol: socks4
+Proxy: 187.103.74.137:5678:Brazil
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Brazil
+
+Protocol: socks4
 Proxy: 174.75.211.222:4145:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: United States
+
+Protocol: socks4
+Proxy: 182.253.140.250:5678:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
 
 Protocol: socks4
 Proxy: 202.162.219.10:1080:Indonesia
@@ -68191,46 +53655,6 @@ Server: N/A
 Country: Georgia
 
 Protocol: socks4
-Proxy: 176.88.166.190:5678:Türkiye
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Türkiye
-
-Protocol: socks4
-Proxy: 31.43.33.55:4153:Ukraine
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Ukraine
-
-Protocol: socks4
-Proxy: 46.219.1.5:5678:Ukraine
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Ukraine
-
-Protocol: socks4
-Proxy: 185.95.227.244:4145:Italy
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Italy
-
-Protocol: socks4
-Proxy: 45.115.1.14:5678:India
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: India
-
-Protocol: socks4
 Proxy: 77.65.50.118:34159:Poland
 Status: not working
 IP: 127.0.0.1
@@ -68245,14 +53669,6 @@ IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Brazil
-
-Protocol: socks4
-Proxy: 103.65.214.166:4145:Indonesia
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Indonesia
 
 Protocol: socks4
 Proxy: 12.11.59.114:1080:United States
@@ -68271,12 +53687,20 @@ Server: N/A
 Country: Italy
 
 Protocol: socks4
-Proxy: 119.148.23.210:9990:Bangladesh
+Proxy: 103.146.170.65:5678:India
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Bangladesh
+Country: India
+
+Protocol: socks4
+Proxy: 200.43.231.16:4153:Argentina
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Argentina
 
 Protocol: socks4
 Proxy: 103.87.81.86:5678:Indonesia
@@ -68287,28 +53711,12 @@ Server: N/A
 Country: Indonesia
 
 Protocol: socks4
-Proxy: 103.146.170.233:5678:India
+Proxy: 169.255.189.105:4145:DR Congo
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: India
-
-Protocol: socks4
-Proxy: 103.146.137.61:1081:Pakistan
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Pakistan
-
-Protocol: socks4
-Proxy: 202.74.243.182:228:Bangladesh
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Bangladesh
+Country: DR Congo
 
 Protocol: socks4
 Proxy: 103.111.219.154:4145:Indonesia
@@ -68319,20 +53727,12 @@ Server: N/A
 Country: Indonesia
 
 Protocol: socks4
-Proxy: 85.117.56.146:4145:Georgia
+Proxy: 45.117.228.97:4145:Malaysia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Georgia
-
-Protocol: socks4
-Proxy: 189.203.181.34:1080:Mexico
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Mexico
+Country: Malaysia
 
 Protocol: socks4
 Proxy: 36.94.110.49:5678:Indonesia
@@ -68343,28 +53743,12 @@ Server: N/A
 Country: Indonesia
 
 Protocol: socks4
-Proxy: 200.108.190.6:9800:Venezuela
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Venezuela
-
-Protocol: socks4
 Proxy: 72.195.101.99:4145:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: United States
-
-Protocol: socks4
-Proxy: 103.144.209.104:3629:Indonesia
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Indonesia
 
 Protocol: socks4
 Proxy: 37.52.50.28:5678:Ukraine
@@ -68375,12 +53759,36 @@ Server: N/A
 Country: Ukraine
 
 Protocol: socks4
-Proxy: 50.235.117.234:39593:United States
+Proxy: 181.204.4.74:5678:Colombia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: United States
+Country: Colombia
+
+Protocol: socks4
+Proxy: 124.29.249.56:5678:Pakistan
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Pakistan
+
+Protocol: socks4
+Proxy: 103.120.202.53:5678:Bangladesh
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Bangladesh
+
+Protocol: socks4
+Proxy: 82.193.103.54:5678:Ukraine
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Ukraine
 
 Protocol: socks4
 Proxy: 37.52.13.164:5678:Ukraine
@@ -68407,20 +53815,20 @@ Server: N/A
 Country: Ghana
 
 Protocol: socks4
-Proxy: 200.125.40.38:5678:Uruguay
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Uruguay
-
-Protocol: socks4
 Proxy: 117.54.113.35:4145:Indonesia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Indonesia
+
+Protocol: socks4
+Proxy: 107.180.90.88:4756:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
 
 Protocol: socks4
 Proxy: 91.203.165.23:5678:Ukraine
@@ -68439,6 +53847,14 @@ Server: N/A
 Country: Bulgaria
 
 Protocol: socks4
+Proxy: 190.57.131.158:1080:Ecuador
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Ecuador
+
+Protocol: socks4
 Proxy: 178.220.148.82:10801:Serbia
 Status: not working
 IP: 127.0.0.1
@@ -68447,20 +53863,20 @@ Server: N/A
 Country: Serbia
 
 Protocol: socks4
+Proxy: 216.155.93.238:5678:Chile
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Chile
+
+Protocol: socks4
 Proxy: 197.251.236.226:5678:Ghana
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Ghana
-
-Protocol: socks4
-Proxy: 107.180.90.88:32168:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
 
 Protocol: socks4
 Proxy: 103.53.110.45:10801:India
@@ -68527,14 +53943,6 @@ Server: N/A
 Country: Nepal
 
 Protocol: socks4
-Proxy: 178.212.51.145:4145:Poland
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Poland
-
-Protocol: socks4
 Proxy: 72.214.108.67:4145:United States
 Status: not working
 IP: 127.0.0.1
@@ -68551,20 +53959,12 @@ Server: N/A
 Country: Armenia
 
 Protocol: socks4
-Proxy: 45.6.15.119:5678:Brazil
+Proxy: 208.109.14.49:6426:Singapore
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Brazil
-
-Protocol: socks4
-Proxy: 61.7.147.227:4145:Thailand
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Thailand
+Country: Singapore
 
 Protocol: socks4
 Proxy: 85.239.121.172:4145:Germany
@@ -68573,6 +53973,14 @@ IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Germany
+
+Protocol: socks4
+Proxy: 103.165.238.114:4145:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
 
 Protocol: socks4
 Proxy: 102.165.125.102:5678:Nigeria
@@ -68591,12 +53999,28 @@ Server: N/A
 Country: Thailand
 
 Protocol: socks4
-Proxy: 103.51.205.92:5678:Indonesia
+Proxy: 45.191.13.241:4153:Brazil
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Indonesia
+Country: Brazil
+
+Protocol: socks4
+Proxy: 141.105.107.152:5678:Spain
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Spain
+
+Protocol: socks4
+Proxy: 181.143.61.124:4153:Colombia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Colombia
 
 Protocol: socks4
 Proxy: 161.97.163.52:51368:Germany
@@ -68663,12 +54087,44 @@ Server: N/A
 Country: Germany
 
 Protocol: socks4
+Proxy: 91.228.245.196:60606:Slovakia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Slovakia
+
+Protocol: socks4
 Proxy: 161.97.163.52:61478:Germany
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Germany
+
+Protocol: socks4
+Proxy: 208.109.14.49:31302:Singapore
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Singapore
+
+Protocol: socks4
+Proxy: 155.254.9.107:5678:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: socks4
+Proxy: 103.76.172.230:4153:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
 
 Protocol: socks4
 Proxy: 51.158.105.157:16379:The Netherlands
@@ -68695,14 +54151,6 @@ Server: N/A
 Country: Ukraine
 
 Protocol: socks4
-Proxy: 116.118.98.10:5678:Vietnam
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Vietnam
-
-Protocol: socks4
 Proxy: 91.226.79.220:5678:Hungary
 Status: not working
 IP: 127.0.0.1
@@ -68711,28 +54159,12 @@ Server: N/A
 Country: Hungary
 
 Protocol: socks4
-Proxy: 185.78.148.189:5678:Poland
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Poland
-
-Protocol: socks4
 Proxy: 36.95.245.81:5678:Indonesia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Indonesia
-
-Protocol: socks4
-Proxy: 185.130.219.12:4153:Spain
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Spain
 
 Protocol: socks4
 Proxy: 104.128.103.32:64312:United States
@@ -68759,12 +54191,12 @@ Server: N/A
 Country: Colombia
 
 Protocol: socks4
-Proxy: 45.162.225.114:59341:Brazil
+Proxy: 103.112.234.33:5678:India
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Brazil
+Country: India
 
 Protocol: socks4
 Proxy: 103.43.128.123:5678:Indonesia
@@ -68789,22 +54221,6 @@ IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Indonesia
-
-Protocol: socks4
-Proxy: 82.223.165.28:4836:Spain
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Spain
-
-Protocol: socks4
-Proxy: 103.69.243.162:4153:India
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: India
 
 Protocol: socks4
 Proxy: 69.49.234.59:54169:United States
@@ -68839,23 +54255,7 @@ Server: N/A
 Country: Germany
 
 Protocol: socks4
-Proxy: 200.108.190.110:9800:Venezuela
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Venezuela
-
-Protocol: socks4
 Proxy: 5.58.33.187:5678:Ukraine
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Ukraine
-
-Protocol: socks4
-Proxy: 91.202.133.37:4153:Ukraine
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -68911,28 +54311,28 @@ Server: N/A
 Country: Vietnam
 
 Protocol: socks4
-Proxy: 1.20.184.75:4153:Thailand
+Proxy: 80.78.64.70:4145:Albania
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Thailand
+Country: Albania
 
 Protocol: socks4
-Proxy: 202.40.177.94:5678:Bangladesh
+Proxy: 69.36.63.128:1080:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Bangladesh
+Country: United States
 
 Protocol: socks4
-Proxy: 201.76.179.249:31337:Brazil
+Proxy: 190.0.15.18:5678:Colombia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Brazil
+Country: Colombia
 
 Protocol: socks4
 Proxy: 180.250.91.50:5678:Indonesia
@@ -68941,6 +54341,22 @@ IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Indonesia
+
+Protocol: socks4
+Proxy: 202.97.173.152:5678:China
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: China
+
+Protocol: socks4
+Proxy: 188.124.15.13:3629:Türkiye
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Türkiye
 
 Protocol: socks4
 Proxy: 186.189.66.18:4153:Argentina
@@ -68959,12 +54375,20 @@ Server: N/A
 Country: Czechia
 
 Protocol: socks4
-Proxy: 103.220.205.162:4673:Bangladesh
+Proxy: 200.159.146.184:4153:Brazil
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Bangladesh
+Country: Brazil
+
+Protocol: socks4
+Proxy: 190.220.25.42:4153:Argentina
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Argentina
 
 Protocol: socks4
 Proxy: 103.196.7.38:4153:India
@@ -68975,7 +54399,7 @@ Server: N/A
 Country: India
 
 Protocol: socks4
-Proxy: 161.97.163.52:63264:Germany
+Proxy: 161.97.163.52:52778:Germany
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -68983,20 +54407,12 @@ Server: N/A
 Country: Germany
 
 Protocol: socks4
-Proxy: 190.13.147.93:5678:Chile
+Proxy: 161.97.163.52:63264:Germany
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Chile
-
-Protocol: socks4
-Proxy: 64.124.145.1:1080:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
+Country: Germany
 
 Protocol: socks4
 Proxy: 175.139.201.193:4153:Malaysia
@@ -69007,28 +54423,12 @@ Server: N/A
 Country: Malaysia
 
 Protocol: socks4
-Proxy: 201.184.159.28:5678:Colombia
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Colombia
-
-Protocol: socks4
 Proxy: 190.4.209.58:4153:Chile
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Chile
-
-Protocol: socks4
-Proxy: 45.238.57.1:3629:Ecuador
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Ecuador
 
 Protocol: socks4
 Proxy: 129.126.99.254:4153:Singapore
@@ -69045,6 +54445,14 @@ IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Paraguay
+
+Protocol: socks4
+Proxy: 189.39.118.210:5678:Brazil
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Brazil
 
 Protocol: socks4
 Proxy: 201.204.47.67:5678:Costa Rica
@@ -69071,12 +54479,36 @@ Server: N/A
 Country: Thailand
 
 Protocol: socks4
+Proxy: 138.0.207.18:38328:Brazil
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Brazil
+
+Protocol: socks4
 Proxy: 58.65.167.165:4145:Pakistan
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Pakistan
+
+Protocol: socks4
+Proxy: 201.174.239.28:4153:Mexico
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Mexico
+
+Protocol: socks4
+Proxy: 34.124.190.108:8080:Poland
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Poland
 
 Protocol: socks4
 Proxy: 197.156.240.66:5678:Nigeria
@@ -69159,20 +54591,20 @@ Server: N/A
 Country: United States
 
 Protocol: socks4
-Proxy: 129.126.65.78:4153:Singapore
+Proxy: 190.119.167.154:5678:Peru
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Singapore
+Country: Peru
 
 Protocol: socks4
-Proxy: 118.71.99.233:5678:Vietnam
+Proxy: 103.58.16.106:4145:Malaysia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Vietnam
+Country: Malaysia
 
 Protocol: socks4
 Proxy: 197.232.47.122:5678:Kenya
@@ -69191,12 +54623,36 @@ Server: N/A
 Country: Kazakhstan
 
 Protocol: socks4
+Proxy: 103.116.174.125:5678:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
+
+Protocol: socks4
 Proxy: 85.117.63.200:4145:Georgia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Georgia
+
+Protocol: socks4
+Proxy: 63.239.150.226:5678:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: socks4
+Proxy: 103.102.142.98:4145:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
 
 Protocol: socks4
 Proxy: 178.210.130.89:5678:Ukraine
@@ -69231,14 +54687,6 @@ Server: N/A
 Country: Germany
 
 Protocol: socks4
-Proxy: 41.21.182.179:5678:South Africa
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: South Africa
-
-Protocol: socks4
 Proxy: 45.181.88.146:4153:Brazil
 Status: not working
 IP: 127.0.0.1
@@ -69255,12 +54703,12 @@ Server: N/A
 Country: Indonesia
 
 Protocol: socks4
-Proxy: 45.65.233.229:4145:Colombia
+Proxy: 161.97.163.52:61937:Germany
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Colombia
+Country: Germany
 
 Protocol: socks4
 Proxy: 78.111.112.118:4145:Czechia
@@ -69271,12 +54719,28 @@ Server: N/A
 Country: Czechia
 
 Protocol: socks4
+Proxy: 45.236.152.21:4145:Brazil
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Brazil
+
+Protocol: socks4
 Proxy: 89.46.249.145:9876:United Kingdom
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: United Kingdom
+
+Protocol: socks4
+Proxy: 136.233.136.41:43314:India
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: India
 
 Protocol: socks4
 Proxy: 46.105.105.223:51869:France
@@ -69287,6 +54751,14 @@ Server: N/A
 Country: France
 
 Protocol: socks4
+Proxy: 31.146.73.192:4153:Georgia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Georgia
+
+Protocol: socks4
 Proxy: 61.245.27.146:8081:Philippines
 Status: not working
 IP: 127.0.0.1
@@ -69295,12 +54767,12 @@ Server: N/A
 Country: Philippines
 
 Protocol: socks4
-Proxy: 181.57.184.46:1080:Colombia
+Proxy: 49.207.177.65:5678:India
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Colombia
+Country: India
 
 Protocol: socks4
 Proxy: 27.71.45.94:5678:Vietnam
@@ -69327,12 +54799,12 @@ Server: N/A
 Country: Austria
 
 Protocol: socks4
-Proxy: 41.190.69.38:60606:Ghana
+Proxy: 170.245.248.45:60606:Brazil
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Ghana
+Country: Brazil
 
 Protocol: socks4
 Proxy: 103.206.129.150:60606:India
@@ -69359,7 +54831,23 @@ Server: N/A
 Country: Vietnam
 
 Protocol: socks4
+Proxy: 202.166.211.89:60606:Nepal
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Nepal
+
+Protocol: socks4
 Proxy: 103.95.97.179:60606:Bangladesh
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Bangladesh
+
+Protocol: socks4
+Proxy: 115.127.28.19:6969:Bangladesh
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -69463,14 +54951,6 @@ Server: N/A
 Country: Bulgaria
 
 Protocol: socks4
-Proxy: 177.234.217.231:4153:Ecuador
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Ecuador
-
-Protocol: socks4
 Proxy: 189.127.35.50:60606:Brazil
 Status: not working
 IP: 127.0.0.1
@@ -69479,20 +54959,36 @@ Server: N/A
 Country: Brazil
 
 Protocol: socks4
-Proxy: 39.152.180.22:10800:China
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: China
-
-Protocol: socks4
 Proxy: 190.12.95.170:37209:Peru
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Peru
+
+Protocol: socks4
+Proxy: 36.95.231.205:5678:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
+
+Protocol: socks4
+Proxy: 91.192.2.100:60606:Poland
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Poland
+
+Protocol: socks4
+Proxy: 194.44.74.118:1080:Ukraine
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Ukraine
 
 Protocol: socks4
 Proxy: 202.51.103.154:5678:Indonesia
@@ -69511,12 +55007,12 @@ Server: N/A
 Country: Laos
 
 Protocol: socks4
-Proxy: 27.147.137.90:2005:Bangladesh
+Proxy: 125.25.57.57:4153:Thailand
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Bangladesh
+Country: Thailand
 
 Protocol: socks4
 Proxy: 98.170.57.241:4145:United States
@@ -69535,14 +55031,6 @@ Server: N/A
 Country: Colombia
 
 Protocol: socks4
-Proxy: 103.146.185.82:1081:Indonesia
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Indonesia
-
-Protocol: socks4
 Proxy: 177.85.75.124:1088:Brazil
 Status: not working
 IP: 127.0.0.1
@@ -69559,12 +55047,12 @@ Server: N/A
 Country: Indonesia
 
 Protocol: socks4
-Proxy: 82.137.250.156:4145:Syria
+Proxy: 185.236.46.221:5678:Ukraine
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Syria
+Country: Ukraine
 
 Protocol: socks4
 Proxy: 183.88.240.139:4153:Thailand
@@ -69575,14 +55063,6 @@ Server: N/A
 Country: Thailand
 
 Protocol: socks4
-Proxy: 103.81.117.122:4153:India
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: India
-
-Protocol: socks4
 Proxy: 216.154.201.132:54321:United States
 Status: not working
 IP: 127.0.0.1
@@ -69591,12 +55071,44 @@ Server: N/A
 Country: United States
 
 Protocol: socks4
-Proxy: 181.114.43.74:5678:Argentina
+Proxy: 187.19.127.246:8011:Brazil
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Argentina
+Country: Brazil
+
+Protocol: socks4
+Proxy: 110.77.135.70:4145:Thailand
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Thailand
+
+Protocol: socks4
+Proxy: 186.211.6.137:4145:Brazil
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Brazil
+
+Protocol: socks4
+Proxy: 51.83.190.248:19050:Germany
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Germany
+
+Protocol: socks4
+Proxy: 139.255.86.226:5678:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
 
 Protocol: socks4
 Proxy: 109.86.228.165:5678:Ukraine
@@ -69605,22 +55117,6 @@ IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Ukraine
-
-Protocol: socks4
-Proxy: 165.0.100.149:5678:South Africa
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: South Africa
-
-Protocol: socks4
-Proxy: 187.190.99.229:1080:Mexico
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Mexico
 
 Protocol: socks4
 Proxy: 163.172.172.161:16379:United States
@@ -69639,28 +55135,12 @@ Server: N/A
 Country: Ukraine
 
 Protocol: socks4
-Proxy: 163.172.187.22:16379:The Netherlands
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: The Netherlands
-
-Protocol: socks4
 Proxy: 43.252.106.114:1080:Indonesia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Indonesia
-
-Protocol: socks4
-Proxy: 91.211.177.37:3629:Ukraine
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Ukraine
 
 Protocol: socks4
 Proxy: 185.89.156.130:5678:Albania
@@ -69671,12 +55151,12 @@ Server: N/A
 Country: Albania
 
 Protocol: socks4
-Proxy: 169.239.223.136:52178:South Africa
+Proxy: 64.64.152.248:39593:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: South Africa
+Country: United States
 
 Protocol: socks4
 Proxy: 180.211.193.18:4153:Bangladesh
@@ -69693,14 +55173,6 @@ IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Ukraine
-
-Protocol: socks4
-Proxy: 125.27.10.84:4153:Thailand
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Thailand
 
 Protocol: socks4
 Proxy: 202.40.178.34:2930:Bangladesh
@@ -69743,7 +55215,7 @@ Server: N/A
 Country: Canada
 
 Protocol: socks4
-Proxy: 116.118.98.21:5678:Vietnam
+Proxy: 116.118.98.26:5678:Vietnam
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -69759,12 +55231,12 @@ Server: N/A
 Country: Taiwan
 
 Protocol: socks4
-Proxy: 200.70.34.22:4153:Argentina
+Proxy: 138.117.116.30:44009:Brazil
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Argentina
+Country: Brazil
 
 Protocol: socks4
 Proxy: 208.65.90.21:4145:United States
@@ -69775,14 +55247,6 @@ Server: N/A
 Country: United States
 
 Protocol: socks4
-Proxy: 41.223.108.13:1080:Somalia
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Somalia
-
-Protocol: socks4
 Proxy: 24.172.34.114:60133:United States
 Status: not working
 IP: 127.0.0.1
@@ -69791,12 +55255,12 @@ Server: N/A
 Country: United States
 
 Protocol: socks4
-Proxy: 218.26.101.226:53813:China
+Proxy: 180.180.124.248:49992:Thailand
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: China
+Country: Thailand
 
 Protocol: socks4
 Proxy: 45.115.115.37:9090:Bangladesh
@@ -69847,23 +55311,23 @@ Server: N/A
 Country: Poland
 
 Protocol: socks4
-Proxy: 41.174.152.29:12391:DR Congo
+Proxy: 45.189.108.161:8899:Peru
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: DR Congo
+Country: Peru
 
 Protocol: socks4
-Proxy: 202.79.47.159:10800:Nepal
+Proxy: 196.0.111.194:48009:Uganda
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Nepal
+Country: Uganda
 
 Protocol: socks4
-Proxy: 45.125.222.125:47239:Bangladesh
+Proxy: 163.53.180.115:60606:Bangladesh
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -69887,14 +55351,6 @@ Server: N/A
 Country: Indonesia
 
 Protocol: socks4
-Proxy: 169.239.45.51:4153:South Africa
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: South Africa
-
-Protocol: socks4
 Proxy: 103.111.185.155:1080:Indonesia
 Status: not working
 IP: 127.0.0.1
@@ -69911,14 +55367,6 @@ Server: N/A
 Country: Thailand
 
 Protocol: socks4
-Proxy: 103.14.251.16:4153:Cambodia
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Cambodia
-
-Protocol: socks4
 Proxy: 203.210.235.91:5678:Vietnam
 Status: not working
 IP: 127.0.0.1
@@ -69933,6 +55381,14 @@ IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Indonesia
+
+Protocol: socks4
+Proxy: 119.93.123.229:4145:Philippines
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Philippines
 
 Protocol: socks4
 Proxy: 124.158.149.66:4153:Indonesia
@@ -69959,14 +55415,6 @@ Server: N/A
 Country: Vietnam
 
 Protocol: socks4
-Proxy: 45.166.26.81:53695:Brazil
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Brazil
-
-Protocol: socks4
 Proxy: 202.70.80.153:5678:Nepal
 Status: not working
 IP: 127.0.0.1
@@ -69983,12 +55431,28 @@ Server: N/A
 Country: Uganda
 
 Protocol: socks4
+Proxy: 41.139.147.86:5678:Kenya
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Kenya
+
+Protocol: socks4
 Proxy: 103.97.94.22:4153:India
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: India
+
+Protocol: socks4
+Proxy: 103.217.224.129:1080:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
 
 Protocol: socks4
 Proxy: 80.26.56.66:4153:Spain
@@ -70007,12 +55471,12 @@ Server: N/A
 Country: Spain
 
 Protocol: socks4
-Proxy: 131.221.182.14:4153:Brazil
+Proxy: 36.66.170.25:4153:Indonesia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Brazil
+Country: Indonesia
 
 Protocol: socks4
 Proxy: 122.248.46.26:4145:Indonesia
@@ -70023,20 +55487,12 @@ Server: N/A
 Country: Indonesia
 
 Protocol: socks4
-Proxy: 115.75.99.65:4153:Vietnam
+Proxy: 111.90.177.100:60606:Cambodia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Vietnam
-
-Protocol: socks4
-Proxy: 12.7.109.1:8899:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
+Country: Cambodia
 
 Protocol: socks4
 Proxy: 79.7.101.98:5678:Italy
@@ -70047,6 +55503,22 @@ Server: N/A
 Country: Italy
 
 Protocol: socks4
+Proxy: 211.174.99.161:4153:South Korea
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: South Korea
+
+Protocol: socks4
+Proxy: 103.248.14.178:30058:Bangladesh
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Bangladesh
+
+Protocol: socks4
 Proxy: 112.221.46.117:4153:South Korea
 Status: not working
 IP: 127.0.0.1
@@ -70055,12 +55527,12 @@ Server: N/A
 Country: South Korea
 
 Protocol: socks4
-Proxy: 203.174.15.50:60606:Indonesia
+Proxy: 202.40.177.186:1088:Bangladesh
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Indonesia
+Country: Bangladesh
 
 Protocol: socks4
 Proxy: 103.1.105.10:4153:Malaysia
@@ -70079,12 +55551,28 @@ Server: N/A
 Country: Indonesia
 
 Protocol: socks4
-Proxy: 200.125.44.242:4145:Uruguay
+Proxy: 110.78.82.70:5678:Thailand
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Uruguay
+Country: Thailand
+
+Protocol: socks4
+Proxy: 103.200.135.228:4145:Myanmar
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Myanmar
+
+Protocol: socks4
+Proxy: 168.194.75.98:8888:Guatemala
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Guatemala
 
 Protocol: socks4
 Proxy: 103.166.32.130:11080:Indonesia
@@ -70101,6 +55589,14 @@ IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Singapore
+
+Protocol: socks4
+Proxy: 91.199.93.32:4153:Ukraine
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Ukraine
 
 Protocol: socks4
 Proxy: 161.97.163.52:61370:Germany
@@ -70143,6 +55639,14 @@ Server: N/A
 Country: Botswana
 
 Protocol: socks4
+Proxy: 117.102.115.158:4153:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
+
+Protocol: socks4
 Proxy: 154.79.246.18:9898:Kenya
 Status: not working
 IP: 127.0.0.1
@@ -70151,7 +55655,23 @@ Server: N/A
 Country: Kenya
 
 Protocol: socks4
-Proxy: 123.108.98.89:5678:Indonesia
+Proxy: 115.127.23.138:1088:Bangladesh
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Bangladesh
+
+Protocol: socks4
+Proxy: 121.200.62.246:4153:Bangladesh
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Bangladesh
+
+Protocol: socks4
+Proxy: 203.160.61.102:4145:Indonesia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -70159,20 +55679,12 @@ Server: N/A
 Country: Indonesia
 
 Protocol: socks4
-Proxy: 45.6.95.66:4153:Brazil
+Proxy: 123.108.98.89:5678:Indonesia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Brazil
-
-Protocol: socks4
-Proxy: 74.62.23.242:39593:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
+Country: Indonesia
 
 Protocol: socks4
 Proxy: 203.170.146.146:4153:Thailand
@@ -70199,12 +55711,12 @@ Server: N/A
 Country: United States
 
 Protocol: socks4
-Proxy: 115.85.74.114:5678:Indonesia
+Proxy: 154.66.110.78:60606:South Africa
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Indonesia
+Country: South Africa
 
 Protocol: socks4
 Proxy: 176.236.37.132:1080:Türkiye
@@ -70239,22 +55751,6 @@ Server: N/A
 Country: United States
 
 Protocol: socks4
-Proxy: 27.147.169.66:1080:Bangladesh
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Bangladesh
-
-Protocol: socks4
-Proxy: 213.165.185.211:4153:Malta
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Malta
-
-Protocol: socks4
 Proxy: 202.180.20.114:1080:Indonesia
 Status: not working
 IP: 127.0.0.1
@@ -70271,12 +55767,28 @@ Server: N/A
 Country: Thailand
 
 Protocol: socks4
-Proxy: 31.179.162.78:4153:Poland
+Proxy: 181.129.74.58:30431:Colombia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Poland
+Country: Colombia
+
+Protocol: socks4
+Proxy: 82.130.202.219:43429:Spain
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Spain
+
+Protocol: socks4
+Proxy: 37.17.53.108:3629:Belarus
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Belarus
 
 Protocol: socks4
 Proxy: 103.118.47.74:4145:Cambodia
@@ -70303,12 +55815,28 @@ Server: N/A
 Country: United States
 
 Protocol: socks4
-Proxy: 103.169.188.14:8080:Indonesia
+Proxy: 45.116.230.79:4673:India
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Indonesia
+Country: India
+
+Protocol: socks4
+Proxy: 118.174.143.38:4153:Thailand
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Thailand
+
+Protocol: socks4
+Proxy: 190.211.161.212:32410:Chile
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Chile
 
 Protocol: socks4
 Proxy: 122.3.139.85:1080:Philippines
@@ -70319,20 +55847,12 @@ Server: N/A
 Country: Philippines
 
 Protocol: socks4
-Proxy: 45.120.38.246:1088:Bangladesh
+Proxy: 120.50.1.126:1088:Bangladesh
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Bangladesh
-
-Protocol: socks4
-Proxy: 179.57.254.39:4145:Chile
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Chile
 
 Protocol: socks4
 Proxy: 120.50.13.38:40308:Bangladesh
@@ -70343,12 +55863,28 @@ Server: N/A
 Country: Bangladesh
 
 Protocol: socks4
+Proxy: 103.84.178.2:4153:India
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: India
+
+Protocol: socks4
 Proxy: 169.239.236.201:10801:Nigeria
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Nigeria
+
+Protocol: socks4
+Proxy: 186.103.143.214:4153:Chile
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Chile
 
 Protocol: socks4
 Proxy: 118.179.198.226:1088:Bangladesh
@@ -70359,12 +55895,20 @@ Server: N/A
 Country: Bangladesh
 
 Protocol: socks4
-Proxy: 110.78.82.233:5678:Thailand
+Proxy: 103.253.153.242:41762:India
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Thailand
+Country: India
+
+Protocol: socks4
+Proxy: 157.10.67.236:1080:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
 
 Protocol: socks4
 Proxy: 192.163.200.82:17071:United States
@@ -70391,6 +55935,14 @@ Server: N/A
 Country: Bangladesh
 
 Protocol: socks4
+Proxy: 103.140.188.155:2121:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
+
+Protocol: socks4
 Proxy: 184.168.121.153:52630:Singapore
 Status: not working
 IP: 127.0.0.1
@@ -70407,12 +55959,12 @@ Server: N/A
 Country: Poland
 
 Protocol: socks4
-Proxy: 105.214.79.197:5678:South Africa
+Proxy: 184.168.121.153:19715:Singapore
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: South Africa
+Country: Singapore
 
 Protocol: socks4
 Proxy: 103.110.89.74:5678:Indonesia
@@ -70423,12 +55975,44 @@ Server: N/A
 Country: Indonesia
 
 Protocol: socks4
-Proxy: 186.226.58.189:46046:Brazil
+Proxy: 188.165.192.99:36219:France
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Brazil
+Country: France
+
+Protocol: socks4
+Proxy: 188.165.192.99:57905:France
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: France
+
+Protocol: socks4
+Proxy: 188.165.192.99:53171:France
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: France
+
+Protocol: socks4
+Proxy: 139.255.45.67:5678:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
+
+Protocol: socks4
+Proxy: 102.69.176.98:10081:South Africa
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: South Africa
 
 Protocol: socks4
 Proxy: 36.95.189.165:5678:Indonesia
@@ -70447,20 +56031,12 @@ Server: N/A
 Country: Poland
 
 Protocol: socks4
-Proxy: 131.161.68.41:35944:Brazil
+Proxy: 170.150.154.98:5678:Argentina
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Brazil
-
-Protocol: socks4
-Proxy: 181.48.193.42:2580:Colombia
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Colombia
+Country: Argentina
 
 Protocol: socks4
 Proxy: 183.88.219.206:34676:Thailand
@@ -70527,12 +56103,20 @@ Server: N/A
 Country: India
 
 Protocol: socks4
-Proxy: 192.141.232.12:33998:Brazil
+Proxy: 154.70.214.105:4145:South Africa
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Brazil
+Country: South Africa
+
+Protocol: socks4
+Proxy: 123.231.230.58:31196:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
 
 Protocol: socks4
 Proxy: 124.41.240.203:37704:Nepal
@@ -70559,7 +56143,7 @@ Server: N/A
 Country: Thailand
 
 Protocol: socks4
-Proxy: 186.216.195.1:4153:Brazil
+Proxy: 45.70.204.21:4145:Brazil
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -70631,12 +56215,12 @@ Server: N/A
 Country: Ukraine
 
 Protocol: socks4
-Proxy: 103.138.46.11:4145:Indonesia
+Proxy: 188.165.192.99:21407:France
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Indonesia
+Country: France
 
 Protocol: socks4
 Proxy: 65.49.82.7:55079:United States
@@ -70655,20 +56239,20 @@ Server: N/A
 Country: Singapore
 
 Protocol: socks4
-Proxy: 188.165.192.99:63053:France
+Proxy: 180.92.231.126:6969:Bangladesh
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: France
+Country: Bangladesh
 
 Protocol: socks4
-Proxy: 27.116.53.9:5678:India
+Proxy: 180.92.231.220:6969:Bangladesh
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: India
+Country: Bangladesh
 
 Protocol: socks4
 Proxy: 157.119.184.134:1080:Bangladesh
@@ -70679,12 +56263,12 @@ Server: N/A
 Country: Bangladesh
 
 Protocol: socks4
-Proxy: 51.91.56.222:44700:France
+Proxy: 192.252.211.193:4145:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: France
+Country: United States
 
 Protocol: socks4
 Proxy: 208.65.90.3:4145:United States
@@ -70695,12 +56279,12 @@ Server: N/A
 Country: United States
 
 Protocol: socks4
-Proxy: 103.144.18.34:1080:Indonesia
+Proxy: 192.252.210.233:4145:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Indonesia
+Country: United States
 
 Protocol: socks4
 Proxy: 85.27.155.106:5678:Denmark
@@ -70711,20 +56295,28 @@ Server: N/A
 Country: Denmark
 
 Protocol: socks4
+Proxy: 77.48.23.47:60606:Czechia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Czechia
+
+Protocol: socks4
+Proxy: 212.5.132.74:5678:Bulgaria
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Bulgaria
+
+Protocol: socks4
 Proxy: 110.77.149.50:5678:Thailand
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Thailand
-
-Protocol: socks4
-Proxy: 213.197.136.218:5678:Lithuania
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Lithuania
 
 Protocol: socks4
 Proxy: 36.67.88.77:4153:Indonesia
@@ -70759,14 +56351,6 @@ Server: N/A
 Country: Poland
 
 Protocol: socks4
-Proxy: 187.86.153.254:30660:Brazil
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Brazil
-
-Protocol: socks4
 Proxy: 94.232.125.200:5678:Lithuania
 Status: not working
 IP: 127.0.0.1
@@ -70775,20 +56359,20 @@ Server: N/A
 Country: Lithuania
 
 Protocol: socks4
-Proxy: 202.58.199.229:5678:Indonesia
+Proxy: 167.99.39.82:28140:The Netherlands
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Indonesia
+Country: The Netherlands
 
 Protocol: socks4
-Proxy: 181.10.235.27:56034:Argentina
+Proxy: 81.199.14.17:1088:South Sudan
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Argentina
+Country: South Sudan
 
 Protocol: socks4
 Proxy: 192.252.209.158:4145:United States
@@ -70797,6 +56381,14 @@ IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: United States
+
+Protocol: socks4
+Proxy: 188.6.164.138:5678:Hungary
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Hungary
 
 Protocol: socks4
 Proxy: 170.238.239.71:60606:Colombia
@@ -70831,12 +56423,20 @@ Server: N/A
 Country: Ukraine
 
 Protocol: socks4
-Proxy: 212.47.250.36:16379:Ukraine
+Proxy: 212.47.240.97:16379:Switzerland
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Ukraine
+Country: Switzerland
+
+Protocol: socks4
+Proxy: 212.47.249.56:16379:The Netherlands
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: The Netherlands
 
 Protocol: socks4
 Proxy: 212.47.226.225:16379:Ukraine
@@ -70855,20 +56455,12 @@ Server: N/A
 Country: Serbia
 
 Protocol: socks4
-Proxy: 202.40.188.2:1088:Bangladesh
+Proxy: 192.252.215.2:4145:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Bangladesh
-
-Protocol: socks4
-Proxy: 95.46.140.214:1081:Ukraine
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Ukraine
+Country: United States
 
 Protocol: socks4
 Proxy: 50.250.56.129:9898:United States
@@ -70895,14 +56487,6 @@ Server: N/A
 Country: Indonesia
 
 Protocol: socks4
-Proxy: 103.158.253.32:5678:Indonesia
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Indonesia
-
-Protocol: socks4
 Proxy: 170.81.108.45:4153:Brazil
 Status: not working
 IP: 127.0.0.1
@@ -70919,14 +56503,6 @@ Server: N/A
 Country: Argentina
 
 Protocol: socks4
-Proxy: 115.187.50.40:5678:India
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: India
-
-Protocol: socks4
 Proxy: 192.111.129.150:4145:Canada
 Status: not working
 IP: 127.0.0.1
@@ -70935,12 +56511,20 @@ Server: N/A
 Country: Canada
 
 Protocol: socks4
-Proxy: 103.121.195.12:61221:Bangladesh
+Proxy: 103.37.82.134:39873:India
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Bangladesh
+Country: India
+
+Protocol: socks4
+Proxy: 201.234.24.89:4153:Argentina
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Argentina
 
 Protocol: socks4
 Proxy: 103.111.54.148:1080:Indonesia
@@ -70967,12 +56551,12 @@ Server: N/A
 Country: Spain
 
 Protocol: socks4
-Proxy: 203.174.26.129:4153:Mongolia
+Proxy: 194.44.166.65:1080:Ukraine
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Mongolia
+Country: Ukraine
 
 Protocol: socks4
 Proxy: 181.129.62.2:47377:Colombia
@@ -70981,6 +56565,14 @@ IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Colombia
+
+Protocol: socks4
+Proxy: 103.23.41.110:30058:Bangladesh
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Bangladesh
 
 Protocol: socks4
 Proxy: 187.95.136.46:5678:Brazil
@@ -70999,6 +56591,14 @@ Server: N/A
 Country: India
 
 Protocol: socks4
+Proxy: 181.115.207.114:1080:Bolivia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Bolivia
+
+Protocol: socks4
 Proxy: 118.173.230.149:1080:Thailand
 Status: not working
 IP: 127.0.0.1
@@ -71013,14 +56613,6 @@ IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Brazil
-
-Protocol: socks4
-Proxy: 36.88.123.218:5678:Indonesia
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Indonesia
 
 Protocol: socks4
 Proxy: 118.97.107.65:5430:Indonesia
@@ -71039,12 +56631,20 @@ Server: N/A
 Country: Brazil
 
 Protocol: socks4
-Proxy: 110.74.195.152:1080:Cambodia
+Proxy: 12.158.87.26:39593:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Cambodia
+Country: United States
+
+Protocol: socks4
+Proxy: 43.228.95.138:5678:India
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: India
 
 Protocol: socks4
 Proxy: 186.224.225.26:42648:Brazil
@@ -71055,14 +56655,6 @@ Server: N/A
 Country: Brazil
 
 Protocol: socks4
-Proxy: 27.147.149.132:52596:Bangladesh
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Bangladesh
-
-Protocol: socks4
 Proxy: 115.243.142.185:5678:India
 Status: not working
 IP: 127.0.0.1
@@ -71071,12 +56663,12 @@ Server: N/A
 Country: India
 
 Protocol: socks4
-Proxy: 8.39.228.21:39593:United States
+Proxy: 124.109.44.126:4145:Pakistan
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: United States
+Country: Pakistan
 
 Protocol: socks4
 Proxy: 45.6.95.68:4153:Brazil
@@ -71093,22 +56685,6 @@ IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Indonesia
-
-Protocol: socks4
-Proxy: 103.158.253.33:5678:Indonesia
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Indonesia
-
-Protocol: socks4
-Proxy: 43.230.196.98:48200:India
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: India
 
 Protocol: socks4
 Proxy: 1.179.151.165:31948:Thailand
@@ -71135,12 +56711,36 @@ Server: N/A
 Country: Argentina
 
 Protocol: socks4
+Proxy: 31.42.6.125:5678:Poland
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Poland
+
+Protocol: socks4
 Proxy: 187.1.181.124:51327:Brazil
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Brazil
+
+Protocol: socks4
+Proxy: 146.56.96.179:14280:South Korea
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: South Korea
+
+Protocol: socks4
+Proxy: 150.107.207.137:57230:Nepal
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Nepal
 
 Protocol: socks4
 Proxy: 91.150.77.57:56921:Serbia
@@ -71151,12 +56751,20 @@ Server: N/A
 Country: Serbia
 
 Protocol: socks4
-Proxy: 103.134.180.185:4153:India
+Proxy: 36.89.218.67:1080:Indonesia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: India
+Country: Indonesia
+
+Protocol: socks4
+Proxy: 31.42.184.146:57752:Ukraine
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Ukraine
 
 Protocol: socks4
 Proxy: 49.229.36.213:4153:Thailand
@@ -71167,12 +56775,12 @@ Server: N/A
 Country: Thailand
 
 Protocol: socks4
-Proxy: 218.75.78.106:10800:China
+Proxy: 118.179.3.204:9090:Bangladesh
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: China
+Country: Bangladesh
 
 Protocol: socks4
 Proxy: 189.206.175.169:4153:Mexico
@@ -71199,12 +56807,28 @@ Server: N/A
 Country: France
 
 Protocol: socks4
-Proxy: 45.249.101.97:56457:Bangladesh
+Proxy: 217.15.149.192:8080:Russia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Bangladesh
+Country: Russia
+
+Protocol: socks4
+Proxy: 45.128.133.201:1080:Italy
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Italy
+
+Protocol: socks4
+Proxy: 95.182.78.8:5678:Ukraine
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Ukraine
 
 Protocol: socks4
 Proxy: 105.214.106.146:5678:South Africa
@@ -71215,12 +56839,12 @@ Server: N/A
 Country: South Africa
 
 Protocol: socks4
-Proxy: 188.132.150.247:1080:Türkiye
+Proxy: 103.189.123.246:1080:Indonesia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Türkiye
+Country: Indonesia
 
 Protocol: socks4
 Proxy: 181.205.230.62:4153:Colombia
@@ -71247,6 +56871,14 @@ Server: N/A
 Country: Ecuador
 
 Protocol: socks4
+Proxy: 41.207.251.154:60606:Nigeria
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Nigeria
+
+Protocol: socks4
 Proxy: 168.196.24.29:60606:Argentina
 Status: not working
 IP: 127.0.0.1
@@ -71255,28 +56887,20 @@ Server: N/A
 Country: Argentina
 
 Protocol: socks4
-Proxy: 41.186.174.167:1088:Rwanda
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Rwanda
-
-Protocol: socks4
-Proxy: 103.166.241.2:1080:Indonesia
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Indonesia
-
-Protocol: socks4
 Proxy: 160.22.6.107:1080:Indonesia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Indonesia
+
+Protocol: socks4
+Proxy: 77.87.100.22:60606:Russia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Russia
 
 Protocol: socks4
 Proxy: 151.237.6.139:60606:Bulgaria
@@ -71295,12 +56919,36 @@ Server: N/A
 Country: India
 
 Protocol: socks4
+Proxy: 103.166.159.125:1080:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
+
+Protocol: socks4
+Proxy: 182.48.93.129:8080:Bangladesh
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Bangladesh
+
+Protocol: socks4
 Proxy: 190.14.5.163:5678:Guatemala
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Guatemala
+
+Protocol: socks4
+Proxy: 103.236.190.1:1080:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
 
 Protocol: socks4
 Proxy: 163.53.150.137:1080:Bangladesh
@@ -71317,14 +56965,6 @@ IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Indonesia
-
-Protocol: socks4
-Proxy: 138.255.166.206:60606:Brazil
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Brazil
 
 Protocol: socks4
 Proxy: 105.234.156.105:60606:Malawi
@@ -71367,14 +57007,6 @@ Server: N/A
 Country: Pakistan
 
 Protocol: socks4
-Proxy: 103.205.128.109:4145:India
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: India
-
-Protocol: socks4
 Proxy: 174.75.211.193:4145:United States
 Status: not working
 IP: 127.0.0.1
@@ -71391,12 +57023,20 @@ Server: N/A
 Country: United States
 
 Protocol: socks4
-Proxy: 103.160.57.175:10101:Indonesia
+Proxy: 200.50.249.224:4153:Argentina
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Indonesia
+Country: Argentina
+
+Protocol: socks4
+Proxy: 72.205.0.67:4145:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
 
 Protocol: socks4
 Proxy: 177.21.100.156:60606:Brazil
@@ -71423,12 +57063,12 @@ Server: N/A
 Country: India
 
 Protocol: socks4
-Proxy: 163.172.163.128:16379:The Netherlands
+Proxy: 163.172.163.128:16379:Ukraine
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: The Netherlands
+Country: Ukraine
 
 Protocol: socks4
 Proxy: 186.226.58.189:6728:Brazil
@@ -71439,12 +57079,36 @@ Server: N/A
 Country: Brazil
 
 Protocol: socks4
-Proxy: 212.47.253.40:16379:Ukraine
+Proxy: 212.47.253.40:16379:Switzerland
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Ukraine
+Country: Switzerland
+
+Protocol: socks4
+Proxy: 212.47.232.197:16379:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: socks4
+Proxy: 109.123.254.43:24862:Germany
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Germany
+
+Protocol: socks4
+Proxy: 68.71.252.38:4145:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
 
 Protocol: socks4
 Proxy: 68.71.251.134:4145:United States
@@ -71503,14 +57167,6 @@ Server: N/A
 Country: United States
 
 Protocol: socks4
-Proxy: 68.71.243.14:4145:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: socks4
 Proxy: 91.187.121.211:2080:Kosovo
 Status: not working
 IP: 127.0.0.1
@@ -71519,12 +57175,12 @@ Server: N/A
 Country: Kosovo
 
 Protocol: socks4
-Proxy: 109.224.22.35:51372:Iraq
+Proxy: 192.252.220.89:4145:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Iraq
+Country: United States
 
 Protocol: socks4
 Proxy: 199.116.114.11:4145:United States
@@ -71535,14 +57191,6 @@ Server: N/A
 Country: United States
 
 Protocol: socks4
-Proxy: 101.96.123.21:1080:Vietnam
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Vietnam
-
-Protocol: socks4
 Proxy: 142.54.237.34:4145:United States
 Status: not working
 IP: 127.0.0.1
@@ -71551,31 +57199,7 @@ Server: N/A
 Country: United States
 
 Protocol: socks4
-Proxy: 68.71.247.130:4145:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: socks4
 Proxy: 68.71.254.6:4145:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: socks4
-Proxy: 142.54.235.9:4145:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: socks4
-Proxy: 142.54.236.97:4145:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -71597,14 +57221,6 @@ IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: United States
-
-Protocol: socks4
-Proxy: 31.169.65.90:1080:Türkiye
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Türkiye
 
 Protocol: socks4
 Proxy: 199.102.105.242:4145:United States
@@ -71663,22 +57279,6 @@ Server: N/A
 Country: United States
 
 Protocol: socks4
-Proxy: 103.197.48.49:9898:Bangladesh
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Bangladesh
-
-Protocol: socks4
-Proxy: 49.0.2.243:5430:Indonesia
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Indonesia
-
-Protocol: socks4
 Proxy: 104.37.135.145:4145:United States
 Status: not working
 IP: 127.0.0.1
@@ -71727,12 +57327,12 @@ Server: N/A
 Country: United States
 
 Protocol: socks4
-Proxy: 107.152.98.5:4145:United States
+Proxy: 117.186.40.30:1080:China
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: United States
+Country: China
 
 Protocol: socks4
 Proxy: 142.54.228.193:4145:United States
@@ -71751,20 +57351,20 @@ Server: N/A
 Country: United States
 
 Protocol: socks4
-Proxy: 181.115.207.115:1080:Bolivia
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Bolivia
-
-Protocol: socks4
 Proxy: 67.201.33.10:25283:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: United States
+
+Protocol: socks4
+Proxy: 49.229.36.210:4153:Thailand
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Thailand
 
 Protocol: socks4
 Proxy: 68.71.241.33:4145:United States
@@ -71791,7 +57391,7 @@ Server: N/A
 Country: Türkiye
 
 Protocol: socks4
-Proxy: 72.37.216.68:4145:United States
+Proxy: 142.54.229.249:4145:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -71823,28 +57423,12 @@ Server: N/A
 Country: Türkiye
 
 Protocol: socks4
-Proxy: 67.201.39.14:4145:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: socks4
 Proxy: 77.46.138.33:33608:Serbia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Serbia
-
-Protocol: socks4
-Proxy: 49.229.36.214:4153:Thailand
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Thailand
 
 Protocol: socks4
 Proxy: 124.67.67.17:5678:China
@@ -71855,12 +57439,12 @@ Server: N/A
 Country: China
 
 Protocol: socks4
-Proxy: 203.160.61.104:4145:Indonesia
+Proxy: 27.147.149.133:52596:Bangladesh
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Indonesia
+Country: Bangladesh
 
 Protocol: socks4
 Proxy: 103.118.127.222:4153:Indonesia
@@ -71869,14 +57453,6 @@ IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Indonesia
-
-Protocol: socks4
-Proxy: 103.161.31.41:5678:India
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: India
 
 Protocol: socks4
 Proxy: 203.153.125.14:65424:Indonesia
@@ -71893,6 +57469,14 @@ IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Latvia
+
+Protocol: socks4
+Proxy: 45.234.100.112:1080:Brazil
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Brazil
 
 Protocol: socks4
 Proxy: 187.44.211.118:4153:Brazil
@@ -71927,20 +57511,12 @@ Server: N/A
 Country: United States
 
 Protocol: socks4
-Proxy: 49.229.36.171:4153:Thailand
+Proxy: 8.39.228.33:39593:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Thailand
-
-Protocol: socks4
-Proxy: 217.27.149.190:4153:Ukraine
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Ukraine
+Country: United States
 
 Protocol: socks4
 Proxy: 170.79.181.188:60606:Argentina
@@ -71949,14 +57525,6 @@ IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Argentina
-
-Protocol: socks4
-Proxy: 118.91.175.146:5678:Nepal
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Nepal
 
 Protocol: socks4
 Proxy: 103.154.113.242:4153:Indonesia
@@ -71975,12 +57543,36 @@ Server: N/A
 Country: Vietnam
 
 Protocol: socks4
+Proxy: 188.165.220.50:62878:France
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: France
+
+Protocol: socks4
 Proxy: 186.224.225.30:42648:Brazil
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Brazil
+
+Protocol: socks4
+Proxy: 45.128.133.1:1080:Italy
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Italy
+
+Protocol: socks4
+Proxy: 103.82.11.233:4153:Bangladesh
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Bangladesh
 
 Protocol: socks4
 Proxy: 175.203.138.160:5678:South Korea
@@ -71991,20 +57583,28 @@ Server: N/A
 Country: South Korea
 
 Protocol: socks4
-Proxy: 8.42.71.226:39593:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: socks4
 Proxy: 193.243.154.146:4145:Poland
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Poland
+
+Protocol: socks4
+Proxy: 154.66.110.164:60606:South Africa
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: South Africa
+
+Protocol: socks4
+Proxy: 91.199.139.246:1111:Ukraine
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Ukraine
 
 Protocol: socks4
 Proxy: 187.1.166.214:4145:Brazil
@@ -72039,6 +57639,14 @@ Server: N/A
 Country: Germany
 
 Protocol: socks4
+Proxy: 103.146.137.201:1081:Pakistan
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Pakistan
+
+Protocol: socks4
 Proxy: 115.127.28.21:6969:Bangladesh
 Status: not working
 IP: 127.0.0.1
@@ -72047,12 +57655,12 @@ Server: N/A
 Country: Bangladesh
 
 Protocol: socks4
-Proxy: 103.146.137.157:1081:Pakistan
+Proxy: 190.216.69.228:4153:Argentina
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Pakistan
+Country: Argentina
 
 Protocol: socks4
 Proxy: 124.105.55.176:30906:Philippines
@@ -72071,6 +57679,14 @@ Server: N/A
 Country: Sweden
 
 Protocol: socks4
+Proxy: 51.158.70.223:16379:Germany
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Germany
+
+Protocol: socks4
 Proxy: 51.15.226.238:16379:Denmark
 Status: not working
 IP: 127.0.0.1
@@ -72087,12 +57703,12 @@ Server: N/A
 Country: France
 
 Protocol: socks4
-Proxy: 51.158.70.181:16379:United States
+Proxy: 51.158.70.181:16379:United Kingdom
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: United States
+Country: United Kingdom
 
 Protocol: socks4
 Proxy: 119.18.147.179:1080:Bangladesh
@@ -72109,6 +57725,22 @@ IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: France
+
+Protocol: socks4
+Proxy: 103.143.214.77:5678:India
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: India
+
+Protocol: socks4
+Proxy: 176.88.166.215:1080:Türkiye
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Türkiye
 
 Protocol: socks4
 Proxy: 49.156.23.90:1080:Indonesia
@@ -72141,6 +57773,14 @@ IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: India
+
+Protocol: socks4
+Proxy: 103.195.140.177:4153:Bangladesh
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Bangladesh
 
 Protocol: socks4
 Proxy: 92.119.74.188:5678:Spain
@@ -72231,22 +57871,6 @@ Server: N/A
 Country: Taiwan
 
 Protocol: socks4
-Proxy: 51.210.111.216:51550:France
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: France
-
-Protocol: socks4
-Proxy: 51.210.111.216:64861:France
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: France
-
-Protocol: socks4
 Proxy: 51.210.111.216:33123:France
 Status: not working
 IP: 127.0.0.1
@@ -72271,28 +57895,36 @@ Server: N/A
 Country: United States
 
 Protocol: socks4
-Proxy: 27.154.32.94:10800:China
+Proxy: 70.80.75.236:5678:Canada
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: China
+Country: Canada
 
 Protocol: socks4
-Proxy: 221.239.43.214:10800:China
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: China
-
-Protocol: socks4
-Proxy: 177.136.124.46:56113:Brazil
+Proxy: 170.78.94.198:5678:Brazil
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Brazil
+
+Protocol: socks4
+Proxy: 43.248.27.11:54730:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
+
+Protocol: socks4
+Proxy: 65.49.67.1:48324:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
 
 Protocol: socks4
 Proxy: 27.123.3.138:4145:Indonesia
@@ -72303,20 +57935,20 @@ Server: N/A
 Country: Indonesia
 
 Protocol: socks4
-Proxy: 45.249.101.65:56457:Bangladesh
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Bangladesh
-
-Protocol: socks4
 Proxy: 95.48.193.246:1080:Poland
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Poland
+
+Protocol: socks4
+Proxy: 45.128.133.197:1080:Italy
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Italy
 
 Protocol: socks4
 Proxy: 45.125.222.97:47239:Bangladesh
@@ -72327,12 +57959,12 @@ Server: N/A
 Country: Bangladesh
 
 Protocol: socks4
-Proxy: 192.141.236.3:5678:Brazil
+Proxy: 8.210.158.189:9062:France
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Brazil
+Country: France
 
 Protocol: socks4
 Proxy: 190.104.219.149:4153:Argentina
@@ -72343,22 +57975,6 @@ Server: N/A
 Country: Argentina
 
 Protocol: socks4
-Proxy: 51.210.111.216:39811:France
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: France
-
-Protocol: socks4
-Proxy: 41.242.69.196:5678:Nigeria
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Nigeria
-
-Protocol: socks4
 Proxy: 103.159.104.60:1088:India
 Status: not working
 IP: 127.0.0.1
@@ -72367,12 +57983,12 @@ Server: N/A
 Country: India
 
 Protocol: socks4
-Proxy: 171.221.174.230:10800:China
+Proxy: 135.125.245.4:55448:France
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: China
+Country: France
 
 Protocol: socks4
 Proxy: 51.75.121.63:32534:France
@@ -72381,14 +57997,6 @@ IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: France
-
-Protocol: socks4
-Proxy: 103.153.140.249:4153:India
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: India
 
 Protocol: socks4
 Proxy: 110.147.230.122:5678:Australia
@@ -72407,12 +58015,20 @@ Server: N/A
 Country: Iraq
 
 Protocol: socks4
-Proxy: 163.47.174.47:1080:Cambodia
+Proxy: 165.140.185.9:39593:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Cambodia
+Country: United States
+
+Protocol: socks4
+Proxy: 138.197.73.150:48143:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
 
 Protocol: socks4
 Proxy: 181.52.238.165:60542:Colombia
@@ -72421,6 +58037,14 @@ IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Colombia
+
+Protocol: socks4
+Proxy: 159.203.33.112:57222:Canada
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Canada
 
 Protocol: socks4
 Proxy: 51.210.111.216:26732:France
@@ -72471,14 +58095,6 @@ Server: N/A
 Country: France
 
 Protocol: socks4
-Proxy: 54.37.78.53:27606:France
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: France
-
-Protocol: socks4
 Proxy: 64.227.124.137:58283:Germany
 Status: not working
 IP: 127.0.0.1
@@ -72519,7 +58135,15 @@ Server: N/A
 Country: France
 
 Protocol: socks4
-Proxy: 162.19.107.54:53114:France
+Proxy: 97.74.81.253:50676:Singapore
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Singapore
+
+Protocol: socks4
+Proxy: 54.37.86.163:54849:France
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -72543,28 +58167,20 @@ Server: N/A
 Country: Germany
 
 Protocol: socks4
-Proxy: 37.187.154.14:59089:France
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: France
-
-Protocol: socks4
-Proxy: 115.178.49.67:8085:Indonesia
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Indonesia
-
-Protocol: socks4
 Proxy: 138.68.81.7:31795:Germany
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Germany
+
+Protocol: socks4
+Proxy: 202.92.6.70:32832:Vietnam
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Vietnam
 
 Protocol: socks4
 Proxy: 87.98.148.34:63036:France
@@ -72575,28 +58191,12 @@ Server: N/A
 Country: France
 
 Protocol: socks4
-Proxy: 69.49.234.59:58949:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: socks4
 Proxy: 97.74.81.253:40703:Singapore
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Singapore
-
-Protocol: socks4
-Proxy: 82.223.165.28:64094:Spain
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Spain
 
 Protocol: socks4
 Proxy: 51.75.206.235:54975:France
@@ -72607,7 +58207,15 @@ Server: N/A
 Country: France
 
 Protocol: socks4
-Proxy: 138.68.81.7:7849:Germany
+Proxy: 141.94.106.195:54165:France
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: France
+
+Protocol: socks4
+Proxy: 84.247.168.26:16363:Germany
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -72623,12 +58231,20 @@ Server: N/A
 Country: Germany
 
 Protocol: socks4
-Proxy: 104.131.77.66:22440:United States
+Proxy: 162.19.107.54:54170:France
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: United States
+Country: France
+
+Protocol: socks4
+Proxy: 64.227.124.137:52227:Germany
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Germany
 
 Protocol: socks4
 Proxy: 51.79.248.208:46923:Singapore
@@ -72669,14 +58285,6 @@ IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Singapore
-
-Protocol: socks4
-Proxy: 141.94.106.171:33107:France
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: France
 
 Protocol: socks4
 Proxy: 51.222.241.157:39234:Canada
@@ -72727,14 +58335,6 @@ Server: N/A
 Country: Germany
 
 Protocol: socks4
-Proxy: 88.202.230.103:8680:United Kingdom
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United Kingdom
-
-Protocol: socks4
 Proxy: 103.159.224.90:1080:Indonesia
 Status: not working
 IP: 127.0.0.1
@@ -72767,12 +58367,28 @@ Server: N/A
 Country: Argentina
 
 Protocol: socks4
+Proxy: 188.125.169.221:5678:Türkiye
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Türkiye
+
+Protocol: socks4
 Proxy: 62.24.109.53:60606:Kenya
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Kenya
+
+Protocol: socks4
+Proxy: 114.9.27.54:1080:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
 
 Protocol: socks4
 Proxy: 103.167.156.102:1080:Indonesia
@@ -72791,12 +58407,28 @@ Server: N/A
 Country: Indonesia
 
 Protocol: socks4
+Proxy: 182.253.40.33:4153:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
+
+Protocol: socks4
 Proxy: 103.170.160.177:5678:India
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: India
+
+Protocol: socks4
+Proxy: 115.85.72.204:5678:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
 
 Protocol: socks4
 Proxy: 105.214.5.202:5678:South Africa
@@ -72831,14 +58463,6 @@ Server: N/A
 Country: Brazil
 
 Protocol: socks4
-Proxy: 200.30.165.2:60606:Nicaragua
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Nicaragua
-
-Protocol: socks4
 Proxy: 68.185.253.190:5678:United States
 Status: not working
 IP: 127.0.0.1
@@ -72847,12 +58471,28 @@ Server: N/A
 Country: United States
 
 Protocol: socks4
+Proxy: 54.37.86.163:48991:France
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: France
+
+Protocol: socks4
 Proxy: 54.37.86.163:60468:France
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: France
+
+Protocol: socks4
+Proxy: 103.90.230.18:60612:Vietnam
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Vietnam
 
 Protocol: socks4
 Proxy: 51.68.70.54:59226:France
@@ -72879,12 +58519,28 @@ Server: N/A
 Country: Germany
 
 Protocol: socks4
-Proxy: 37.187.73.7:64415:France
+Proxy: 154.38.161.76:42543:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: France
+Country: United States
+
+Protocol: socks4
+Proxy: 51.83.141.136:45445:Poland
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Poland
+
+Protocol: socks4
+Proxy: 51.222.241.157:15975:Canada
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Canada
 
 Protocol: socks4
 Proxy: 51.79.51.174:63681:Canada
@@ -72893,22 +58549,6 @@ IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Canada
-
-Protocol: socks4
-Proxy: 178.33.162.89:55435:Spain
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Spain
-
-Protocol: socks4
-Proxy: 177.101.47.102:5678:Brazil
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Brazil
 
 Protocol: socks4
 Proxy: 198.12.249.249:30546:United States
@@ -72927,28 +58567,12 @@ Server: N/A
 Country: Bangladesh
 
 Protocol: socks4
-Proxy: 84.247.168.26:55104:Germany
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Germany
-
-Protocol: socks4
-Proxy: 54.36.115.169:56060:France
+Proxy: 46.105.124.216:4245:France
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: France
-
-Protocol: socks4
-Proxy: 207.180.253.143:64724:Germany
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Germany
 
 Protocol: socks4
 Proxy: 187.85.151.122:5678:Brazil
@@ -72975,14 +58599,6 @@ Server: N/A
 Country: Russia
 
 Protocol: socks4
-Proxy: 89.221.212.251:10092:Czechia
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Czechia
-
-Protocol: socks4
 Proxy: 54.37.86.163:33282:France
 Status: not working
 IP: 127.0.0.1
@@ -73007,12 +58623,12 @@ Server: N/A
 Country: Czechia
 
 Protocol: socks4
-Proxy: 103.90.230.14:20985:Vietnam
+Proxy: 54.37.86.163:13344:France
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Vietnam
+Country: France
 
 Protocol: socks4
 Proxy: 144.217.61.80:39234:Canada
@@ -73023,12 +58639,20 @@ Server: N/A
 Country: Canada
 
 Protocol: socks4
-Proxy: 5.166.101.194:1080:Russia
+Proxy: 89.221.212.251:39688:Czechia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Russia
+Country: Czechia
+
+Protocol: socks4
+Proxy: 148.72.209.174:49677:Singapore
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Singapore
 
 Protocol: socks4
 Proxy: 184.168.121.153:48636:Singapore
@@ -73047,12 +58671,28 @@ Server: N/A
 Country: China
 
 Protocol: socks4
+Proxy: 103.242.119.200:4272:India
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: India
+
+Protocol: socks4
 Proxy: 88.202.230.103:9497:United Kingdom
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: United Kingdom
+
+Protocol: socks4
+Proxy: 74.208.26.199:54817:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
 
 Protocol: socks4
 Proxy: 207.180.253.143:59149:Germany
@@ -73071,7 +58711,7 @@ Server: N/A
 Country: United States
 
 Protocol: socks4
-Proxy: 149.56.13.7:8788:Canada
+Proxy: 51.222.241.157:20958:Canada
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -73103,14 +58743,6 @@ Server: N/A
 Country: China
 
 Protocol: socks4
-Proxy: 162.19.107.54:39461:France
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: France
-
-Protocol: socks4
 Proxy: 69.49.234.59:61753:United States
 Status: not working
 IP: 127.0.0.1
@@ -73119,20 +58751,12 @@ Server: N/A
 Country: United States
 
 Protocol: socks4
-Proxy: 64.227.124.137:6628:Germany
+Proxy: 51.75.126.150:19064:France
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Germany
-
-Protocol: socks4
-Proxy: 157.230.191.76:58661:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
+Country: France
 
 Protocol: socks4
 Proxy: 54.37.86.163:19867:France
@@ -73159,14 +58783,6 @@ Server: N/A
 Country: Singapore
 
 Protocol: socks4
-Proxy: 51.75.126.150:18788:France
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: France
-
-Protocol: socks4
 Proxy: 97.74.81.253:17986:Singapore
 Status: not working
 IP: 127.0.0.1
@@ -73176,6 +58792,14 @@ Country: Singapore
 
 Protocol: socks4
 Proxy: 37.187.73.7:55570:France
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: France
+
+Protocol: socks4
+Proxy: 51.75.126.150:6712:France
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -73207,28 +58831,12 @@ Server: N/A
 Country: France
 
 Protocol: socks4
-Proxy: 105.214.71.14:5678:South Africa
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: South Africa
-
-Protocol: socks4
 Proxy: 103.242.119.200:62285:India
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: India
-
-Protocol: socks4
-Proxy: 51.79.248.237:17535:Singapore
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Singapore
 
 Protocol: socks4
 Proxy: 162.19.107.54:31702:France
@@ -73240,14 +58848,6 @@ Country: France
 
 Protocol: socks4
 Proxy: 51.79.248.208:62187:Singapore
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Singapore
-
-Protocol: socks4
-Proxy: 148.72.209.120:44834:Singapore
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -73271,6 +58871,14 @@ Server: N/A
 Country: United States
 
 Protocol: socks4
+Proxy: 58.247.113.130:5678:China
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: China
+
+Protocol: socks4
 Proxy: 105.214.100.63:5678:South Africa
 Status: not working
 IP: 127.0.0.1
@@ -73279,12 +58887,12 @@ Server: N/A
 Country: South Africa
 
 Protocol: socks4
-Proxy: 68.178.171.226:51274:United States
+Proxy: 105.214.122.127:5678:South Africa
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: United States
+Country: South Africa
 
 Protocol: socks4
 Proxy: 38.242.210.133:61716:Germany
@@ -73303,12 +58911,28 @@ Server: N/A
 Country: United States
 
 Protocol: socks4
+Proxy: 72.167.133.229:10333:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: socks4
 Proxy: 38.242.210.133:2070:Germany
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Germany
+
+Protocol: socks4
+Proxy: 138.197.73.150:38662:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
 
 Protocol: socks4
 Proxy: 84.247.168.26:1366:Germany
@@ -73359,14 +58983,6 @@ Server: N/A
 Country: United States
 
 Protocol: socks4
-Proxy: 163.172.63.233:35258:France
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: France
-
-Protocol: socks4
 Proxy: 148.72.209.120:15900:Singapore
 Status: not working
 IP: 127.0.0.1
@@ -73375,28 +58991,20 @@ Server: N/A
 Country: Singapore
 
 Protocol: socks4
-Proxy: 94.158.246.89:55355:Moldova
+Proxy: 54.37.86.163:39305:France
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Moldova
+Country: France
 
 Protocol: socks4
-Proxy: 68.183.83.37:15585:India
+Proxy: 178.33.164.95:21951:France
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: India
-
-Protocol: socks4
-Proxy: 188.164.197.103:64045:Spain
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Spain
+Country: France
 
 Protocol: socks4
 Proxy: 51.79.51.174:64827:Canada
@@ -73413,14 +59021,6 @@ IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Denmark
-
-Protocol: socks4
-Proxy: 188.165.247.6:38121:France
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: France
 
 Protocol: socks4
 Proxy: 8.210.158.189:9063:Germany
@@ -73447,44 +59047,12 @@ Server: N/A
 Country: France
 
 Protocol: socks4
-Proxy: 188.164.199.34:13745:Spain
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Spain
-
-Protocol: socks4
 Proxy: 51.38.64.38:17101:United Kingdom
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: United Kingdom
-
-Protocol: socks4
-Proxy: 46.55.240.86:4145:Bulgaria
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Bulgaria
-
-Protocol: socks4
-Proxy: 188.164.199.143:58998:Spain
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Spain
-
-Protocol: socks4
-Proxy: 178.33.133.82:39670:France
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: France
 
 Protocol: socks4
 Proxy: 82.146.37.142:1080:Russia
@@ -73503,23 +59071,31 @@ Server: N/A
 Country: United States
 
 Protocol: socks4
-Proxy: 148.72.209.120:19339:Singapore
+Proxy: 62.3.58.186:8080:Russia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Singapore
+Country: Russia
+
+Protocol: socks4
+Proxy: 89.221.212.251:42796:Czechia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Czechia
+
+Protocol: socks4
+Proxy: 74.208.26.199:51753:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
 
 Protocol: socks4
 Proxy: 51.79.248.237:59755:Singapore
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Singapore
-
-Protocol: socks4
-Proxy: 148.72.209.174:57245:Singapore
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -73543,12 +59119,12 @@ Server: N/A
 Country: France
 
 Protocol: socks4
-Proxy: 218.83.201.226:10800:China
+Proxy: 51.75.126.150:19578:France
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: China
+Country: France
 
 Protocol: socks4
 Proxy: 200.85.34.174:4153:Paraguay
@@ -73559,20 +59135,28 @@ Server: N/A
 Country: Paraguay
 
 Protocol: socks4
-Proxy: 177.200.82.190:5678:Brazil
+Proxy: 171.221.240.17:10800:China
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Brazil
+Country: China
 
 Protocol: socks4
-Proxy: 45.128.133.209:1080:Italy
+Proxy: 213.250.198.66:4145:Czechia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Italy
+Country: Czechia
+
+Protocol: socks4
+Proxy: 202.151.163.10:1080:Vietnam
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Vietnam
 
 Protocol: socks4
 Proxy: 45.116.114.37:5678:India
@@ -73591,28 +59175,12 @@ Server: N/A
 Country: Chile
 
 Protocol: socks4
-Proxy: 154.159.243.94:4673:Kenya
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Kenya
-
-Protocol: socks4
 Proxy: 85.102.10.94:4153:Türkiye
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Türkiye
-
-Protocol: socks4
-Proxy: 181.115.43.91:5678:Honduras
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Honduras
 
 Protocol: socks4
 Proxy: 45.61.188.134:44499:United States
@@ -73623,12 +59191,12 @@ Server: N/A
 Country: United States
 
 Protocol: socks4
-Proxy: 103.48.183.113:4145:India
+Proxy: 5.8.240.92:4153:Iraq
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: India
+Country: Iraq
 
 Protocol: socks4
 Proxy: 95.188.83.216:1080:Russia
@@ -73639,14 +59207,6 @@ Server: N/A
 Country: Russia
 
 Protocol: socks4
-Proxy: 51.75.206.235:60428:France
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: France
-
-Protocol: socks4
 Proxy: 165.140.184.30:39593:United States
 Status: not working
 IP: 127.0.0.1
@@ -73655,12 +59215,20 @@ Server: N/A
 Country: United States
 
 Protocol: socks4
-Proxy: 168.121.253.18:1080:Brazil
+Proxy: 144.217.61.76:20958:Canada
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Brazil
+Country: Canada
+
+Protocol: socks4
+Proxy: 144.217.61.84:20958:Canada
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Canada
 
 Protocol: socks4
 Proxy: 182.16.171.42:51459:Indonesia
@@ -73687,14 +59255,6 @@ Server: N/A
 Country: United States
 
 Protocol: socks4
-Proxy: 191.102.251.33:4153:Argentina
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Argentina
-
-Protocol: socks4
 Proxy: 163.172.31.177:21583:France
 Status: not working
 IP: 127.0.0.1
@@ -73711,14 +59271,6 @@ Server: N/A
 Country: United States
 
 Protocol: socks4
-Proxy: 144.217.61.75:15975:Canada
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Canada
-
-Protocol: socks4
 Proxy: 185.25.117.20:54706:Ukraine
 Status: not working
 IP: 127.0.0.1
@@ -73727,7 +59279,15 @@ Server: N/A
 Country: Ukraine
 
 Protocol: socks4
-Proxy: 188.165.247.6:22921:France
+Proxy: 92.205.110.47:51095:France
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: France
+
+Protocol: socks4
+Proxy: 51.75.126.150:9960:France
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -73749,14 +59309,6 @@ IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: United States
-
-Protocol: socks4
-Proxy: 37.187.73.7:59841:France
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: France
 
 Protocol: socks4
 Proxy: 45.70.56.252:3629:Ecuador
@@ -73783,12 +59335,28 @@ Server: N/A
 Country: France
 
 Protocol: socks4
+Proxy: 27.65.114.98:1080:Vietnam
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Vietnam
+
+Protocol: socks4
 Proxy: 182.253.158.214:5678:Indonesia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Indonesia
+
+Protocol: socks4
+Proxy: 192.163.200.93:17071:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
 
 Protocol: socks4
 Proxy: 50.63.12.101:1376:United States
@@ -73807,6 +59375,14 @@ Server: N/A
 Country: Germany
 
 Protocol: socks4
+Proxy: 178.254.61.34:32250:Germany
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Germany
+
+Protocol: socks4
 Proxy: 178.254.61.31:49654:Germany
 Status: not working
 IP: 127.0.0.1
@@ -73815,20 +59391,20 @@ Server: N/A
 Country: Germany
 
 Protocol: socks4
-Proxy: 172.232.132.27:26827:Sweden
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Sweden
-
-Protocol: socks4
 Proxy: 77.246.100.210:8080:The Netherlands
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: The Netherlands
+
+Protocol: socks4
+Proxy: 103.3.246.97:40499:Vietnam
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Vietnam
 
 Protocol: socks4
 Proxy: 185.95.0.197:44877:Türkiye
@@ -73903,14 +59479,6 @@ Server: N/A
 Country: Germany
 
 Protocol: socks4
-Proxy: 31.172.186.69:60890:Poland
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Poland
-
-Protocol: socks4
 Proxy: 91.238.114.172:21080:United States
 Status: not working
 IP: 127.0.0.1
@@ -73920,14 +59488,6 @@ Country: United States
 
 Protocol: socks4
 Proxy: 91.238.114.251:21080:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: socks4
-Proxy: 91.238.114.147:21080:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -73976,6 +59536,14 @@ Country: United States
 
 Protocol: socks4
 Proxy: 91.238.114.177:21080:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: socks4
+Proxy: 91.238.114.196:21080:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -74047,6 +59615,14 @@ Server: N/A
 Country: United States
 
 Protocol: socks4
+Proxy: 89.221.212.251:31822:Czechia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Czechia
+
+Protocol: socks4
 Proxy: 27.66.103.83:1080:Vietnam
 Status: not working
 IP: 127.0.0.1
@@ -74071,12 +59647,28 @@ Server: N/A
 Country: Vietnam
 
 Protocol: socks4
-Proxy: 51.222.241.157:5032:Canada
+Proxy: 88.198.0.39:38289:Germany
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Germany
+
+Protocol: socks4
+Proxy: 144.217.61.85:20958:Canada
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Canada
+
+Protocol: socks4
+Proxy: 54.37.86.163:26701:France
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: France
 
 Protocol: socks4
 Proxy: 95.164.117.150:16478:Germany
@@ -74103,12 +59695,28 @@ Server: N/A
 Country: Türkiye
 
 Protocol: socks4
+Proxy: 186.10.102.218:5678:Chile
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Chile
+
+Protocol: socks4
 Proxy: 8.210.158.189:9064:Denmark
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Denmark
+
+Protocol: socks4
+Proxy: 159.148.146.65:5678:Latvia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Latvia
 
 Protocol: socks4
 Proxy: 190.140.31.195:9900:Panama
@@ -74135,6 +59743,14 @@ Server: N/A
 Country: Canada
 
 Protocol: socks4
+Proxy: 91.238.114.156:21080:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: socks4
 Proxy: 91.238.114.191:21080:United States
 Status: not working
 IP: 127.0.0.1
@@ -74151,6 +59767,22 @@ Server: N/A
 Country: Indonesia
 
 Protocol: socks4
+Proxy: 85.228.42.14:4153:Sweden
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Sweden
+
+Protocol: socks4
+Proxy: 84.247.168.26:42882:Germany
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Germany
+
+Protocol: socks4
 Proxy: 144.217.58.246:5032:Canada
 Status: not working
 IP: 127.0.0.1
@@ -74159,12 +59791,12 @@ Server: N/A
 Country: Canada
 
 Protocol: socks4
-Proxy: 45.33.89.116:56956:United States
+Proxy: 88.198.0.39:48895:Germany
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: United States
+Country: Germany
 
 Protocol: socks4
 Proxy: 5.160.103.246:8080:Iran
@@ -74175,12 +59807,12 @@ Server: N/A
 Country: Iran
 
 Protocol: socks4
-Proxy: 115.127.188.214:1080:Bangladesh
+Proxy: 51.79.51.174:26169:Canada
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Bangladesh
+Country: Canada
 
 Protocol: socks4
 Proxy: 37.187.131.224:30398:France
@@ -74215,14 +59847,6 @@ Server: N/A
 Country: Singapore
 
 Protocol: socks4
-Proxy: 185.95.0.197:28202:Türkiye
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Türkiye
-
-Protocol: socks4
 Proxy: 103.78.54.13:4153:Bangladesh
 Status: not working
 IP: 127.0.0.1
@@ -74239,20 +59863,12 @@ Server: N/A
 Country: United States
 
 Protocol: socks4
-Proxy: 103.60.138.2:4153:India
+Proxy: 103.60.136.129:4153:India
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: India
-
-Protocol: socks4
-Proxy: 78.31.93.76:1080:Poland
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Poland
 
 Protocol: socks4
 Proxy: 27.147.149.130:52596:Bangladesh
@@ -74277,6 +59893,14 @@ IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: France
+
+Protocol: socks4
+Proxy: 172.105.11.250:12461:Canada
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Canada
 
 Protocol: socks4
 Proxy: 173.249.33.141:20196:Germany
@@ -74312,6 +59936,14 @@ Country: Canada
 
 Protocol: socks4
 Proxy: 103.90.230.16:50276:Vietnam
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Vietnam
+
+Protocol: socks4
+Proxy: 103.90.228.27:50276:Vietnam
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -74359,12 +59991,12 @@ Server: N/A
 Country: The Netherlands
 
 Protocol: socks4
-Proxy: 95.183.12.172:8080:Russia
+Proxy: 103.90.230.14:58083:Vietnam
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Russia
+Country: Vietnam
 
 Protocol: socks4
 Proxy: 103.3.246.97:33253:Vietnam
@@ -74375,15 +60007,23 @@ Server: N/A
 Country: Vietnam
 
 Protocol: socks4
-Proxy: 167.86.102.169:50952:Germany
+Proxy: 192.99.199.49:1102:Canada
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Germany
+Country: Canada
 
 Protocol: socks4
 Proxy: 208.89.96.91:7758:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: socks4
+Proxy: 5.161.146.73:5129:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -74399,14 +60039,6 @@ Server: N/A
 Country: Singapore
 
 Protocol: socks4
-Proxy: 207.180.253.143:11163:Germany
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Germany
-
-Protocol: socks4
 Proxy: 208.89.96.187:63374:United States
 Status: not working
 IP: 127.0.0.1
@@ -74415,12 +60047,12 @@ Server: N/A
 Country: United States
 
 Protocol: socks4
-Proxy: 144.217.61.89:5032:Canada
+Proxy: 72.167.133.229:12602:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Canada
+Country: United States
 
 Protocol: socks4
 Proxy: 185.25.117.20:14129:Ukraine
@@ -74439,6 +60071,14 @@ Server: N/A
 Country: United States
 
 Protocol: socks4
+Proxy: 188.165.247.6:26503:France
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: France
+
+Protocol: socks4
 Proxy: 103.153.63.33:1080:Indonesia
 Status: not working
 IP: 127.0.0.1
@@ -74453,6 +60093,22 @@ IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Croatia
+
+Protocol: socks4
+Proxy: 208.89.96.187:29615:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: socks4
+Proxy: 84.247.168.26:60327:Germany
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Germany
 
 Protocol: socks4
 Proxy: 178.33.164.95:20912:France
@@ -74487,6 +60143,14 @@ Server: N/A
 Country: Vietnam
 
 Protocol: socks4
+Proxy: 147.182.228.10:64022:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: socks4
 Proxy: 103.90.230.16:58083:Vietnam
 Status: not working
 IP: 127.0.0.1
@@ -74519,6 +60183,14 @@ Server: N/A
 Country: Canada
 
 Protocol: socks4
+Proxy: 144.217.61.82:5032:Canada
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Canada
+
+Protocol: socks4
 Proxy: 194.87.49.12:1080:Czechia
 Status: not working
 IP: 127.0.0.1
@@ -74527,20 +60199,20 @@ Server: N/A
 Country: Czechia
 
 Protocol: socks4
-Proxy: 45.8.230.26:8080:United Arab Emirates
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United Arab Emirates
-
-Protocol: socks4
 Proxy: 185.95.0.197:1953:Türkiye
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Türkiye
+
+Protocol: socks4
+Proxy: 208.89.96.187:40265:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
 
 Protocol: socks4
 Proxy: 68.178.207.17:20034:United States
@@ -74567,14 +60239,6 @@ Server: N/A
 Country: South Korea
 
 Protocol: socks4
-Proxy: 38.242.210.133:32094:Germany
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Germany
-
-Protocol: socks4
 Proxy: 103.234.35.136:1080:Indonesia
 Status: not working
 IP: 127.0.0.1
@@ -74584,14 +60248,6 @@ Country: Indonesia
 
 Protocol: socks4
 Proxy: 97.74.90.244:10062:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: socks4
-Proxy: 72.167.150.81:53503:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -74615,7 +60271,7 @@ Server: N/A
 Country: Canada
 
 Protocol: socks4
-Proxy: 144.217.61.76:6093:Canada
+Proxy: 144.217.61.78:6093:Canada
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -74623,7 +60279,7 @@ Server: N/A
 Country: Canada
 
 Protocol: socks4
-Proxy: 144.217.61.78:6093:Canada
+Proxy: 144.217.61.79:6093:Canada
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -74655,28 +60311,12 @@ Server: N/A
 Country: Canada
 
 Protocol: socks4
-Proxy: 157.245.131.28:3056:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: socks4
 Proxy: 84.247.168.26:17431:Germany
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Germany
-
-Protocol: socks4
-Proxy: 36.67.14.195:5678:Indonesia
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Indonesia
 
 Protocol: socks4
 Proxy: 109.232.106.150:52435:Russia
@@ -74687,14 +60327,6 @@ Server: N/A
 Country: Russia
 
 Protocol: socks4
-Proxy: 91.211.177.33:3629:Ukraine
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Ukraine
-
-Protocol: socks4
 Proxy: 103.124.137.251:1080:Indonesia
 Status: not working
 IP: 127.0.0.1
@@ -74703,12 +60335,12 @@ Server: N/A
 Country: Indonesia
 
 Protocol: socks4
-Proxy: 45.128.133.241:1080:Italy
+Proxy: 103.74.227.130:56417:India
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Italy
+Country: India
 
 Protocol: socks4
 Proxy: 181.129.182.138:5678:Colombia
@@ -74719,28 +60351,20 @@ Server: N/A
 Country: Colombia
 
 Protocol: socks4
-Proxy: 138.0.60.23:1080:Brazil
+Proxy: 36.91.139.82:5678:Indonesia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Brazil
+Country: Indonesia
 
 Protocol: socks4
-Proxy: 94.232.11.178:58028:Russia
+Proxy: 46.98.185.160:5678:Ukraine
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Russia
-
-Protocol: socks4
-Proxy: 185.31.200.191:32322:The Netherlands
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: The Netherlands
+Country: Ukraine
 
 Protocol: socks4
 Proxy: 123.201.140.154:5678:India
@@ -74783,14 +60407,6 @@ Server: N/A
 Country: Bangladesh
 
 Protocol: socks4
-Proxy: 72.167.150.81:32905:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: socks4
 Proxy: 91.134.44.233:56872:France
 Status: not working
 IP: 127.0.0.1
@@ -74807,12 +60423,28 @@ Server: N/A
 Country: United States
 
 Protocol: socks4
+Proxy: 162.144.33.212:38105:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: socks4
 Proxy: 103.90.230.14:50276:Vietnam
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Vietnam
+
+Protocol: socks4
+Proxy: 74.208.24.79:54817:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
 
 Protocol: socks4
 Proxy: 144.217.61.69:16830:Canada
@@ -74831,62 +60463,6 @@ Server: N/A
 Country: Canada
 
 Protocol: socks4
-Proxy: 144.217.61.70:6093:Canada
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Canada
-
-Protocol: socks4
-Proxy: 144.217.61.72:6093:Canada
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Canada
-
-Protocol: socks4
-Proxy: 144.217.61.77:6093:Canada
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Canada
-
-Protocol: socks4
-Proxy: 178.254.61.32:64615:Germany
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Germany
-
-Protocol: socks4
-Proxy: 171.248.214.177:1080:Vietnam
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Vietnam
-
-Protocol: socks4
-Proxy: 185.95.0.197:33829:Türkiye
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Türkiye
-
-Protocol: socks4
-Proxy: 51.83.66.117:10751:France
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: France
-
-Protocol: socks4
 Proxy: 78.109.139.51:5678:Russia
 Status: not working
 IP: 127.0.0.1
@@ -74903,7 +60479,23 @@ Server: N/A
 Country: Russia
 
 Protocol: socks4
+Proxy: 68.183.118.66:53238:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: socks4
 Proxy: 208.109.230.244:20034:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: socks4
+Proxy: 72.167.150.151:47231:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -74927,28 +60519,12 @@ Server: N/A
 Country: Germany
 
 Protocol: socks4
-Proxy: 38.57.3.41:29650:United States
+Proxy: 54.38.217.92:22929:France
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: United States
-
-Protocol: socks4
-Proxy: 207.244.241.235:62119:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: socks4
-Proxy: 31.42.184.143:51351:Ukraine
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Ukraine
+Country: France
 
 Protocol: socks4
 Proxy: 178.33.133.82:17288:France
@@ -74975,6 +60551,14 @@ Server: N/A
 Country: Germany
 
 Protocol: socks4
+Proxy: 184.174.37.14:41187:Germany
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Germany
+
+Protocol: socks4
 Proxy: 144.91.71.101:49396:Germany
 Status: not working
 IP: 127.0.0.1
@@ -74989,6 +60573,14 @@ IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: France
+
+Protocol: socks4
+Proxy: 167.172.138.48:25426:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
 
 Protocol: socks4
 Proxy: 142.93.150.134:5465:Canada
@@ -75007,15 +60599,7 @@ Server: N/A
 Country: France
 
 Protocol: socks4
-Proxy: 173.249.33.49:48779:Germany
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Germany
-
-Protocol: socks4
-Proxy: 91.121.173.38:30434:France
+Proxy: 37.187.92.86:37089:France
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -75031,15 +60615,15 @@ Server: N/A
 Country: United States
 
 Protocol: socks4
-Proxy: 146.59.70.29:6046:France
+Proxy: 171.240.89.128:20015:Vietnam
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: France
+Country: Vietnam
 
 Protocol: socks4
-Proxy: 171.240.89.128:20015:Vietnam
+Proxy: 116.101.241.63:20015:Vietnam
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -75063,6 +60647,14 @@ Server: N/A
 Country: Slovakia
 
 Protocol: socks4
+Proxy: 81.169.167.122:19560:Germany
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Germany
+
+Protocol: socks4
 Proxy: 68.178.207.17:1951:United States
 Status: not working
 IP: 127.0.0.1
@@ -75077,14 +60669,6 @@ IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Canada
-
-Protocol: socks4
-Proxy: 117.5.74.186:20005:Vietnam
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Vietnam
 
 Protocol: socks4
 Proxy: 202.61.231.23:29654:Germany
@@ -75112,22 +60696,6 @@ Country: United States
 
 Protocol: socks4
 Proxy: 68.178.164.136:19030:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: socks4
-Proxy: 31.172.186.69:21513:Poland
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Poland
-
-Protocol: socks4
-Proxy: 66.29.138.31:38097:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -75167,20 +60735,12 @@ Server: N/A
 Country: Canada
 
 Protocol: socks4
-Proxy: 178.254.61.31:55767:Germany
+Proxy: 172.104.156.169:34673:Germany
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Germany
-
-Protocol: socks4
-Proxy: 103.90.230.18:58083:Vietnam
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Vietnam
 
 Protocol: socks4
 Proxy: 68.178.164.136:14572:United States
@@ -75255,15 +60815,31 @@ Server: N/A
 Country: United States
 
 Protocol: socks4
-Proxy: 92.255.183.184:57575:Russia
+Proxy: 116.101.241.63:20016:Vietnam
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Russia
+Country: Vietnam
+
+Protocol: socks4
+Proxy: 144.217.61.67:1390:Canada
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Canada
 
 Protocol: socks4
 Proxy: 116.101.241.63:20010:Vietnam
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Vietnam
+
+Protocol: socks4
+Proxy: 117.5.74.186:20018:Vietnam
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -75293,6 +60869,14 @@ IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Russia
+
+Protocol: socks4
+Proxy: 72.167.150.151:6744:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
 
 Protocol: socks4
 Proxy: 178.254.61.32:49654:Germany
@@ -75335,6 +60919,14 @@ Server: N/A
 Country: Vietnam
 
 Protocol: socks4
+Proxy: 95.143.8.182:50285:Russia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Russia
+
+Protocol: socks4
 Proxy: 74.207.236.161:56341:United States
 Status: not working
 IP: 127.0.0.1
@@ -75351,6 +60943,22 @@ Server: N/A
 Country: Russia
 
 Protocol: socks4
+Proxy: 83.220.46.106:4145:Russia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Russia
+
+Protocol: socks4
+Proxy: 69.75.122.146:39593:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: socks4
 Proxy: 200.27.110.30:57702:Chile
 Status: not working
 IP: 127.0.0.1
@@ -75365,14 +60973,6 @@ IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Russia
-
-Protocol: socks4
-Proxy: 170.81.141.254:61437:Mexico
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Mexico
 
 Protocol: socks4
 Proxy: 94.247.241.70:51006:Russia
@@ -75415,15 +61015,7 @@ Server: N/A
 Country: Russia
 
 Protocol: socks4
-Proxy: 125.26.4.197:4145:Thailand
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Thailand
-
-Protocol: socks4
-Proxy: 122.116.29.68:4145:Taiwan
+Proxy: 122.146.95.183:4145:Taiwan
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -75431,15 +61023,7 @@ Server: N/A
 Country: Taiwan
 
 Protocol: socks4
-Proxy: 95.128.142.76:1080:Russia
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Russia
-
-Protocol: socks4
-Proxy: 125.228.94.199:4145:Taiwan
+Proxy: 122.116.29.68:4145:Taiwan
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -75463,15 +61047,31 @@ Server: N/A
 Country: Bangladesh
 
 Protocol: socks4
-Proxy: 38.83.108.90:5678:China
+Proxy: 171.248.222.31:1080:Vietnam
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: China
+Country: Vietnam
 
 Protocol: socks4
 Proxy: 84.52.123.163:4145:Russia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Russia
+
+Protocol: socks4
+Proxy: 91.185.236.239:4145:Russia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Russia
+
+Protocol: socks4
+Proxy: 91.247.250.215:4145:Russia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -75511,28 +61111,12 @@ Server: N/A
 Country: Russia
 
 Protocol: socks4
-Proxy: 201.144.20.231:5678:Mexico
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Mexico
-
-Protocol: socks4
 Proxy: 190.103.29.245:4145:Venezuela
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Venezuela
-
-Protocol: socks4
-Proxy: 103.206.105.193:3629:India
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: India
 
 Protocol: socks4
 Proxy: 36.37.189.64:5678:Cambodia
@@ -75559,20 +61143,12 @@ Server: N/A
 Country: Brazil
 
 Protocol: socks4
-Proxy: 82.137.245.41:1080:Syria
+Proxy: 82.204.198.28:1080:Russia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Syria
-
-Protocol: socks4
-Proxy: 171.248.223.92:1080:Vietnam
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Vietnam
+Country: Russia
 
 Protocol: socks4
 Proxy: 208.89.96.91:29003:United States
@@ -75591,7 +61167,15 @@ Server: N/A
 Country: China
 
 Protocol: socks4
-Proxy: 66.29.138.67:38097:United States
+Proxy: 173.249.33.141:56935:Germany
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Germany
+
+Protocol: socks4
+Proxy: 132.148.167.56:26337:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -75599,12 +61183,12 @@ Server: N/A
 Country: United States
 
 Protocol: socks4
-Proxy: 117.5.74.186:20019:Vietnam
+Proxy: 89.179.112.252:5678:Russia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Vietnam
+Country: Russia
 
 Protocol: socks4
 Proxy: 117.7.215.17:20018:Vietnam
@@ -75623,14 +61207,6 @@ Server: N/A
 Country: Vietnam
 
 Protocol: socks4
-Proxy: 152.228.134.142:34091:France
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: France
-
-Protocol: socks4
 Proxy: 103.154.2.37:1088:India
 Status: not working
 IP: 127.0.0.1
@@ -75639,15 +61215,31 @@ Server: N/A
 Country: India
 
 Protocol: socks4
-Proxy: 91.135.205.125:60606:Kazakhstan
+Proxy: 91.121.173.38:58557:France
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Kazakhstan
+Country: France
 
 Protocol: socks4
 Proxy: 116.101.241.63:20003:Vietnam
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Vietnam
+
+Protocol: socks4
+Proxy: 116.101.241.63:20019:Vietnam
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Vietnam
+
+Protocol: socks4
+Proxy: 117.5.74.186:20002:Vietnam
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -75671,12 +61263,12 @@ Server: N/A
 Country: France
 
 Protocol: socks4
-Proxy: 173.249.33.49:24916:Germany
+Proxy: 139.99.69.189:42125:Singapore
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Germany
+Country: Singapore
 
 Protocol: socks4
 Proxy: 188.166.230.38:56115:Singapore
@@ -75695,12 +61287,12 @@ Server: N/A
 Country: France
 
 Protocol: socks4
-Proxy: 173.249.28.218:8219:Germany
+Proxy: 57.128.140.76:32040:France
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Germany
+Country: France
 
 Protocol: socks4
 Proxy: 31.24.41.91:24290:Spain
@@ -75719,7 +61311,47 @@ Server: N/A
 Country: France
 
 Protocol: socks4
+Proxy: 31.42.184.143:56400:Ukraine
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Ukraine
+
+Protocol: socks4
+Proxy: 69.49.234.59:50866:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: socks4
+Proxy: 116.101.241.63:20004:Vietnam
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Vietnam
+
+Protocol: socks4
 Proxy: 51.83.66.117:58433:France
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: France
+
+Protocol: socks4
+Proxy: 146.59.70.139:48384:France
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: France
+
+Protocol: socks4
+Proxy: 94.23.11.131:46166:France
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -75751,15 +61383,15 @@ Server: N/A
 Country: United Kingdom
 
 Protocol: socks4
-Proxy: 72.167.150.81:19093:United States
+Proxy: 194.87.71.231:1080:Germany
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: United States
+Country: Germany
 
 Protocol: socks4
-Proxy: 72.167.150.151:42745:United States
+Proxy: 72.167.150.81:19093:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -75773,14 +61405,6 @@ IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Germany
-
-Protocol: socks4
-Proxy: 212.57.42.142:4153:Serbia
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Serbia
 
 Protocol: socks4
 Proxy: 50.62.81.217:46557:United States
@@ -75799,28 +61423,12 @@ Server: N/A
 Country: Germany
 
 Protocol: socks4
-Proxy: 162.19.251.240:9001:France
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: France
-
-Protocol: socks4
 Proxy: 213.249.67.48:8458:The Netherlands
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: The Netherlands
-
-Protocol: socks4
-Proxy: 103.146.185.85:1081:Indonesia
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Indonesia
 
 Protocol: socks4
 Proxy: 189.51.144.28:5678:Brazil
@@ -75831,20 +61439,20 @@ Server: N/A
 Country: Brazil
 
 Protocol: socks4
-Proxy: 117.5.74.186:20020:Vietnam
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Vietnam
-
-Protocol: socks4
 Proxy: 178.254.61.31:17025:Germany
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Germany
+
+Protocol: socks4
+Proxy: 66.29.138.31:38918:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
 
 Protocol: socks4
 Proxy: 77.40.48.193:40104:Russia
@@ -75855,12 +61463,12 @@ Server: N/A
 Country: Russia
 
 Protocol: socks4
-Proxy: 144.217.61.81:1390:Canada
+Proxy: 72.167.135.3:58311:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Canada
+Country: United States
 
 Protocol: socks4
 Proxy: 141.94.17.189:56378:France
@@ -75871,7 +61479,7 @@ Server: N/A
 Country: France
 
 Protocol: socks4
-Proxy: 117.7.215.17:20003:Vietnam
+Proxy: 103.90.230.11:58083:Vietnam
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -75895,12 +61503,12 @@ Server: N/A
 Country: Vietnam
 
 Protocol: socks4
-Proxy: 162.241.73.195:46818:United States
+Proxy: 171.240.89.128:20011:Vietnam
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: United States
+Country: Vietnam
 
 Protocol: socks4
 Proxy: 103.82.38.163:56072:Vietnam
@@ -75935,12 +61543,28 @@ Server: N/A
 Country: Germany
 
 Protocol: socks4
+Proxy: 161.97.173.42:15091:Germany
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Germany
+
+Protocol: socks4
 Proxy: 165.22.218.28:9946:India
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: India
+
+Protocol: socks4
+Proxy: 72.167.43.185:37771:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
 
 Protocol: socks4
 Proxy: 94.23.11.131:19149:France
@@ -75959,15 +61583,31 @@ Server: N/A
 Country: Vietnam
 
 Protocol: socks4
-Proxy: 51.89.17.109:57279:France
+Proxy: 185.95.0.197:15505:Türkiye
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: France
+Country: Türkiye
 
 Protocol: socks4
-Proxy: 54.37.77.32:38514:France
+Proxy: 148.72.209.174:48425:Singapore
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Singapore
+
+Protocol: socks4
+Proxy: 137.184.17.35:14830:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: socks4
+Proxy: 51.89.17.109:57279:France
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -76015,6 +61655,14 @@ Server: N/A
 Country: Germany
 
 Protocol: socks4
+Proxy: 116.101.241.63:20020:Vietnam
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Vietnam
+
+Protocol: socks4
 Proxy: 67.205.174.75:40092:United States
 Status: not working
 IP: 127.0.0.1
@@ -76024,6 +61672,14 @@ Country: United States
 
 Protocol: socks4
 Proxy: 74.50.126.189:6997:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: socks4
+Proxy: 72.167.221.145:7023:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -76079,12 +61735,20 @@ Server: N/A
 Country: United States
 
 Protocol: socks4
-Proxy: 31.132.158.132:4153:Russia
+Proxy: 165.22.218.28:49703:India
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Russia
+Country: India
+
+Protocol: socks4
+Proxy: 192.99.199.49:6874:Canada
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Canada
 
 Protocol: socks4
 Proxy: 147.135.228.38:27040:France
@@ -76103,6 +61767,14 @@ Server: N/A
 Country: Canada
 
 Protocol: socks4
+Proxy: 178.128.254.232:6330:The Netherlands
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: The Netherlands
+
+Protocol: socks4
 Proxy: 117.7.215.17:20020:Vietnam
 Status: not working
 IP: 127.0.0.1
@@ -76119,14 +61791,6 @@ Server: N/A
 Country: Vietnam
 
 Protocol: socks4
-Proxy: 159.89.174.192:35059:India
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: India
-
-Protocol: socks4
 Proxy: 165.227.140.18:49316:Germany
 Status: not working
 IP: 127.0.0.1
@@ -76135,12 +61799,12 @@ Server: N/A
 Country: Germany
 
 Protocol: socks4
-Proxy: 51.83.66.117:47578:France
+Proxy: 81.169.167.122:15199:Germany
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: France
+Country: Germany
 
 Protocol: socks4
 Proxy: 144.217.61.74:52916:Canada
@@ -76157,6 +61821,14 @@ IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Germany
+
+Protocol: socks4
+Proxy: 208.89.96.187:7563:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
 
 Protocol: socks4
 Proxy: 94.158.246.82:61952:Moldova
@@ -76183,14 +61855,6 @@ Server: N/A
 Country: France
 
 Protocol: socks4
-Proxy: 72.167.135.3:60536:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: socks4
 Proxy: 178.128.254.232:6402:The Netherlands
 Status: not working
 IP: 127.0.0.1
@@ -76207,12 +61871,12 @@ Server: N/A
 Country: United States
 
 Protocol: socks4
-Proxy: 135.125.132.117:47638:France
+Proxy: 95.217.122.41:63496:Finland
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: France
+Country: Finland
 
 Protocol: socks4
 Proxy: 178.253.43.167:28660:Russia
@@ -76223,14 +61887,6 @@ Server: N/A
 Country: Russia
 
 Protocol: socks4
-Proxy: 68.178.203.116:50672:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: socks4
 Proxy: 152.228.215.163:21809:France
 Status: not working
 IP: 127.0.0.1
@@ -76239,23 +61895,7 @@ Server: N/A
 Country: France
 
 Protocol: socks4
-Proxy: 152.228.229.209:39945:France
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: France
-
-Protocol: socks4
-Proxy: 171.240.89.128:20013:Vietnam
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Vietnam
-
-Protocol: socks4
-Proxy: 38.57.3.41:47131:United States
+Proxy: 162.243.22.61:53317:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -76271,12 +61911,12 @@ Server: N/A
 Country: United States
 
 Protocol: socks4
-Proxy: 148.251.179.102:51297:Germany
+Proxy: 72.167.150.151:37771:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Germany
+Country: United States
 
 Protocol: socks4
 Proxy: 144.91.71.101:41195:Germany
@@ -76288,6 +61928,22 @@ Country: Germany
 
 Protocol: socks4
 Proxy: 72.167.150.81:1965:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: socks4
+Proxy: 148.72.214.52:17032:Singapore
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Singapore
+
+Protocol: socks4
+Proxy: 147.182.228.10:41312:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -76343,14 +61999,6 @@ Server: N/A
 Country: Canada
 
 Protocol: socks4
-Proxy: 144.217.61.79:36634:Canada
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Canada
-
-Protocol: socks4
 Proxy: 132.148.167.56:18611:United States
 Status: not working
 IP: 127.0.0.1
@@ -76359,12 +62007,12 @@ Server: N/A
 Country: United States
 
 Protocol: socks4
-Proxy: 81.28.10.96:9062:The Netherlands
+Proxy: 117.7.215.17:20013:Vietnam
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: The Netherlands
+Country: Vietnam
 
 Protocol: socks4
 Proxy: 132.148.167.243:50928:United States
@@ -76373,6 +62021,30 @@ IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: United States
+
+Protocol: socks4
+Proxy: 117.5.74.186:20013:Vietnam
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Vietnam
+
+Protocol: socks4
+Proxy: 117.7.215.17:20016:Vietnam
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Vietnam
+
+Protocol: socks4
+Proxy: 31.24.44.92:56543:Spain
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Spain
 
 Protocol: socks4
 Proxy: 50.62.81.217:1965:United States
@@ -76399,28 +62071,12 @@ Server: N/A
 Country: United States
 
 Protocol: socks4
-Proxy: 66.29.138.31:36607:United States
+Proxy: 103.59.190.209:56252:India
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: United States
-
-Protocol: socks4
-Proxy: 178.254.61.32:7017:Germany
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Germany
-
-Protocol: socks4
-Proxy: 27.147.221.140:5678:Bangladesh
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Bangladesh
+Country: India
 
 Protocol: socks4
 Proxy: 103.86.1.34:4145:India
@@ -76455,20 +62111,36 @@ Server: N/A
 Country: Cameroon
 
 Protocol: socks4
+Proxy: 85.237.62.189:3629:Russia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Russia
+
+Protocol: socks4
+Proxy: 184.105.134.166:48324:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: socks4
+Proxy: 89.218.5.108:50733:Kazakhstan
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Kazakhstan
+
+Protocol: socks4
 Proxy: 213.6.68.210:4145:Palestine
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Palestine
-
-Protocol: socks4
-Proxy: 49.128.180.110:4145:Indonesia
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Indonesia
 
 Protocol: socks4
 Proxy: 81.28.10.96:9063:Denmark
@@ -76493,14 +62165,6 @@ IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Armenia
-
-Protocol: socks4
-Proxy: 197.157.254.162:4145:Congo Republic
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Congo Republic
 
 Protocol: socks4
 Proxy: 123.200.15.218:49120:Bangladesh
@@ -76543,14 +62207,6 @@ Server: N/A
 Country: Indonesia
 
 Protocol: socks4
-Proxy: 170.81.141.49:61437:Mexico
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Mexico
-
-Protocol: socks4
 Proxy: 31.170.19.142:4153:Latvia
 Status: not working
 IP: 127.0.0.1
@@ -76565,6 +62221,30 @@ IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Congo Republic
+
+Protocol: socks4
+Proxy: 115.76.201.7:24218:Vietnam
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Vietnam
+
+Protocol: socks4
+Proxy: 193.233.20.13:8080:Russia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Russia
+
+Protocol: socks4
+Proxy: 103.146.185.83:1081:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
 
 Protocol: socks4
 Proxy: 103.151.155.18:11080:Indonesia
@@ -76583,12 +62263,28 @@ Server: N/A
 Country: Russia
 
 Protocol: socks4
+Proxy: 50.62.81.217:29635:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: socks4
 Proxy: 72.167.43.185:6744:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: United States
+
+Protocol: socks4
+Proxy: 171.250.1.91:1080:Vietnam
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Vietnam
 
 Protocol: socks4
 Proxy: 135.181.119.141:51234:Finland
@@ -76599,12 +62295,12 @@ Server: N/A
 Country: Finland
 
 Protocol: socks4
-Proxy: 146.59.70.139:41687:France
+Proxy: 110.77.236.187:4145:Thailand
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: France
+Country: Thailand
 
 Protocol: socks4
 Proxy: 117.1.248.149:20016:Vietnam
@@ -76631,28 +62327,12 @@ Server: N/A
 Country: India
 
 Protocol: socks4
-Proxy: 213.74.223.69:4153:Türkiye
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Türkiye
-
-Protocol: socks4
 Proxy: 178.215.163.218:4145:Ukraine
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Ukraine
-
-Protocol: socks4
-Proxy: 103.57.134.250:45958:India
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: India
 
 Protocol: socks4
 Proxy: 213.149.154.213:5678:Bulgaria
@@ -76663,12 +62343,28 @@ Server: N/A
 Country: Bulgaria
 
 Protocol: socks4
+Proxy: 103.38.183.18:1088:India
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: India
+
+Protocol: socks4
 Proxy: 46.98.199.154:1111:Ukraine
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Ukraine
+
+Protocol: socks4
+Proxy: 135.125.132.117:54924:France
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: France
 
 Protocol: socks4
 Proxy: 185.95.0.197:61258:Türkiye
@@ -76679,22 +62375,6 @@ Server: N/A
 Country: Türkiye
 
 Protocol: socks4
-Proxy: 144.217.61.88:1390:Canada
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Canada
-
-Protocol: socks4
-Proxy: 144.217.61.84:36634:Canada
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Canada
-
-Protocol: socks4
 Proxy: 144.217.61.87:36634:Canada
 Status: not working
 IP: 127.0.0.1
@@ -76703,12 +62383,28 @@ Server: N/A
 Country: Canada
 
 Protocol: socks4
+Proxy: 171.250.221.187:1080:Vietnam
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Vietnam
+
+Protocol: socks4
 Proxy: 94.159.105.126:1080:Russia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Russia
+
+Protocol: socks4
+Proxy: 82.223.165.28:9526:Spain
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Spain
 
 Protocol: socks4
 Proxy: 116.106.106.2:1080:Vietnam
@@ -76751,23 +62447,15 @@ Server: N/A
 Country: United States
 
 Protocol: socks4
-Proxy: 148.72.210.123:14761:Singapore
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Singapore
-
-Protocol: socks4
-Proxy: 146.59.70.139:45383:France
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: France
-
-Protocol: socks4
 Proxy: 68.178.164.136:17588:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: socks4
+Proxy: 208.89.96.91:23494:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -76799,6 +62487,22 @@ Server: N/A
 Country: United States
 
 Protocol: socks4
+Proxy: 50.62.81.217:53503:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: socks4
+Proxy: 72.167.150.151:19093:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: socks4
 Proxy: 152.228.134.142:57918:France
 Status: not working
 IP: 127.0.0.1
@@ -76823,15 +62527,15 @@ Server: N/A
 Country: Singapore
 
 Protocol: socks4
-Proxy: 68.178.207.17:58793:United States
+Proxy: 117.1.248.149:20014:Vietnam
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: United States
+Country: Vietnam
 
 Protocol: socks4
-Proxy: 72.167.150.81:56251:United States
+Proxy: 68.178.207.17:58793:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -76855,22 +62559,6 @@ Server: N/A
 Country: United States
 
 Protocol: socks4
-Proxy: 162.241.73.195:36545:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: socks4
-Proxy: 68.178.207.17:40168:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: socks4
 Proxy: 117.1.248.149:20009:Vietnam
 Status: not working
 IP: 127.0.0.1
@@ -76887,20 +62575,20 @@ Server: N/A
 Country: Bangladesh
 
 Protocol: socks4
+Proxy: 178.33.164.134:30013:France
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: France
+
+Protocol: socks4
 Proxy: 50.62.81.217:11878:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: United States
-
-Protocol: socks4
-Proxy: 141.94.107.204:64561:France
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: France
 
 Protocol: socks4
 Proxy: 117.1.248.149:20019:Vietnam
@@ -76943,6 +62631,14 @@ Server: N/A
 Country: Germany
 
 Protocol: socks4
+Proxy: 161.97.161.81:57372:Germany
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Germany
+
+Protocol: socks4
 Proxy: 117.1.248.149:20004:Vietnam
 Status: not working
 IP: 127.0.0.1
@@ -76959,23 +62655,7 @@ Server: N/A
 Country: Singapore
 
 Protocol: socks4
-Proxy: 144.217.61.80:36634:Canada
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Canada
-
-Protocol: socks4
-Proxy: 115.76.193.188:30606:Vietnam
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Vietnam
-
-Protocol: socks4
-Proxy: 117.1.248.149:20011:Vietnam
+Proxy: 117.1.196.7:20013:Vietnam
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -76989,14 +62669,6 @@ IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Vietnam
-
-Protocol: socks4
-Proxy: 144.217.61.74:36634:Canada
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Canada
 
 Protocol: socks4
 Proxy: 117.1.196.7:20012:Vietnam
@@ -77015,6 +62687,14 @@ Server: N/A
 Country: Vietnam
 
 Protocol: socks4
+Proxy: 72.167.150.151:26048:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: socks4
 Proxy: 117.1.250.139:20020:Vietnam
 Status: not working
 IP: 127.0.0.1
@@ -77023,28 +62703,20 @@ Server: N/A
 Country: Vietnam
 
 Protocol: socks4
-Proxy: 141.95.175.120:44072:France
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: France
-
-Protocol: socks4
-Proxy: 94.23.11.131:61835:France
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: France
-
-Protocol: socks4
 Proxy: 161.97.163.52:64830:Germany
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Germany
+
+Protocol: socks4
+Proxy: 152.228.174.201:59926:France
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: France
 
 Protocol: socks4
 Proxy: 117.1.250.139:20004:Vietnam
@@ -77127,6 +62799,22 @@ Server: N/A
 Country: The Netherlands
 
 Protocol: socks4
+Proxy: 184.170.245.137:53188:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: socks4
+Proxy: 51.38.77.166:46421:United Kingdom
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United Kingdom
+
+Protocol: socks4
 Proxy: 117.1.248.149:20005:Vietnam
 Status: not working
 IP: 127.0.0.1
@@ -77151,7 +62839,7 @@ Server: N/A
 Country: United States
 
 Protocol: socks4
-Proxy: 178.33.164.134:59226:France
+Proxy: 5.196.66.43:37419:France
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -77159,7 +62847,7 @@ Server: N/A
 Country: France
 
 Protocol: socks4
-Proxy: 5.196.66.43:37419:France
+Proxy: 51.68.67.44:61248:France
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -77175,28 +62863,20 @@ Server: N/A
 Country: Germany
 
 Protocol: socks4
+Proxy: 81.169.167.122:12845:Germany
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Germany
+
+Protocol: socks4
 Proxy: 195.154.84.54:20130:France
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: France
-
-Protocol: socks4
-Proxy: 184.170.245.138:53188:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: socks4
-Proxy: 89.221.212.251:16529:Czechia
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Czechia
 
 Protocol: socks4
 Proxy: 74.50.126.189:42677:United States
@@ -77215,20 +62895,12 @@ Server: N/A
 Country: Singapore
 
 Protocol: socks4
-Proxy: 164.92.178.233:44944:Germany
+Proxy: 202.61.231.23:4308:Germany
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Germany
-
-Protocol: socks4
-Proxy: 178.253.43.167:24417:Russia
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Russia
 
 Protocol: socks4
 Proxy: 85.159.104.100:59611:Slovakia
@@ -77239,7 +62911,7 @@ Server: N/A
 Country: Slovakia
 
 Protocol: socks4
-Proxy: 161.97.173.42:38495:Germany
+Proxy: 194.163.171.175:12311:Germany
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -77295,23 +62967,31 @@ Server: N/A
 Country: United States
 
 Protocol: socks4
-Proxy: 104.152.222.58:22838:United States
+Proxy: 144.217.61.72:20958:Canada
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: United States
+Country: Canada
+
+Protocol: socks4
+Proxy: 139.59.71.236:52304:India
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: India
+
+Protocol: socks4
+Proxy: 115.76.201.7:30166:Vietnam
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Vietnam
 
 Protocol: socks4
 Proxy: 137.184.17.35:60702:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: socks4
-Proxy: 72.167.135.3:43510:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -77335,12 +63015,28 @@ Server: N/A
 Country: Vietnam
 
 Protocol: socks4
-Proxy: 163.172.33.91:11798:France
+Proxy: 144.217.61.72:52916:Canada
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: France
+Country: Canada
+
+Protocol: socks4
+Proxy: 162.240.104.248:48548:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: socks4
+Proxy: 144.217.61.66:52916:Canada
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Canada
 
 Protocol: socks4
 Proxy: 117.1.196.7:20014:Vietnam
@@ -77351,7 +63047,15 @@ Server: N/A
 Country: Vietnam
 
 Protocol: socks4
-Proxy: 117.1.196.7:20015:Vietnam
+Proxy: 148.66.129.152:34247:Singapore
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Singapore
+
+Protocol: socks4
+Proxy: 117.1.248.149:20001:Vietnam
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -77359,7 +63063,7 @@ Server: N/A
 Country: Vietnam
 
 Protocol: socks4
-Proxy: 117.1.248.149:20001:Vietnam
+Proxy: 117.1.248.149:20015:Vietnam
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -77423,14 +63127,6 @@ Server: N/A
 Country: Vietnam
 
 Protocol: socks4
-Proxy: 144.217.61.69:20958:Canada
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Canada
-
-Protocol: socks4
 Proxy: 115.74.159.62:1080:Vietnam
 Status: not working
 IP: 127.0.0.1
@@ -77455,20 +63151,12 @@ Server: N/A
 Country: Vietnam
 
 Protocol: socks4
-Proxy: 125.234.90.241:1080:Vietnam
+Proxy: 171.247.240.8:1080:Vietnam
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Vietnam
-
-Protocol: socks4
-Proxy: 180.112.180.167:8989:China
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: China
 
 Protocol: socks4
 Proxy: 74.207.236.161:50167:United States
@@ -77477,6 +63165,14 @@ IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: United States
+
+Protocol: socks4
+Proxy: 172.105.84.166:62911:Germany
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Germany
 
 Protocol: socks4
 Proxy: 144.217.61.77:36634:Canada
@@ -77503,7 +63199,7 @@ Server: N/A
 Country: United States
 
 Protocol: socks4
-Proxy: 117.1.196.7:20006:Vietnam
+Proxy: 117.1.196.7:20001:Vietnam
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -77511,7 +63207,15 @@ Server: N/A
 Country: Vietnam
 
 Protocol: socks4
-Proxy: 117.1.196.7:20001:Vietnam
+Proxy: 27.77.228.239:1080:Vietnam
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Vietnam
+
+Protocol: socks4
+Proxy: 117.1.248.149:20008:Vietnam
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -77527,6 +63231,22 @@ Server: N/A
 Country: Canada
 
 Protocol: socks4
+Proxy: 103.90.230.16:16743:Vietnam
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Vietnam
+
+Protocol: socks4
+Proxy: 103.90.228.27:16743:Vietnam
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Vietnam
+
+Protocol: socks4
 Proxy: 117.1.250.139:20011:Vietnam
 Status: not working
 IP: 127.0.0.1
@@ -77535,12 +63255,20 @@ Server: N/A
 Country: Vietnam
 
 Protocol: socks4
-Proxy: 144.217.61.88:36634:Canada
+Proxy: 1.9.27.217:4153:Malaysia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Canada
+Country: Malaysia
+
+Protocol: socks4
+Proxy: 208.109.13.93:41013:Singapore
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Singapore
 
 Protocol: socks4
 Proxy: 117.1.250.139:20007:Vietnam
@@ -77552,14 +63280,6 @@ Country: Vietnam
 
 Protocol: socks4
 Proxy: 162.240.102.84:58261:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: socks4
-Proxy: 72.167.43.185:42745:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -77581,6 +63301,14 @@ IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Vietnam
+
+Protocol: socks4
+Proxy: 144.217.61.67:6093:Canada
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Canada
 
 Protocol: socks4
 Proxy: 5.75.168.4:47780:Germany
@@ -77615,36 +63343,20 @@ Server: N/A
 Country: United States
 
 Protocol: socks4
-Proxy: 144.217.61.70:36634:Canada
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Canada
-
-Protocol: socks4
-Proxy: 50.62.81.217:47231:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: socks4
-Proxy: 117.1.250.139:20013:Vietnam
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Vietnam
-
-Protocol: socks4
 Proxy: 72.167.150.81:15482:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: United States
+
+Protocol: socks4
+Proxy: 103.90.230.12:16743:Vietnam
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Vietnam
 
 Protocol: socks4
 Proxy: 118.174.219.189:4153:Thailand
@@ -77664,6 +63376,14 @@ Country: United States
 
 Protocol: socks4
 Proxy: 132.148.167.243:42673:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: socks4
+Proxy: 162.241.76.102:54035:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -77695,28 +63415,20 @@ Server: N/A
 Country: Vietnam
 
 Protocol: socks4
-Proxy: 179.107.50.146:4153:Brazil
+Proxy: 49.0.156.20:32000:Mongolia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Brazil
+Country: Mongolia
 
 Protocol: socks4
-Proxy: 68.178.168.25:63976:United States
+Proxy: 38.242.239.132:50978:Germany
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: United States
-
-Protocol: socks4
-Proxy: 51.83.66.117:59025:France
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: France
+Country: Germany
 
 Protocol: socks4
 Proxy: 51.83.66.117:64333:France
@@ -77735,22 +63447,6 @@ Server: N/A
 Country: France
 
 Protocol: socks4
-Proxy: 109.230.237.226:60098:Germany
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Germany
-
-Protocol: socks4
-Proxy: 125.234.92.37:1080:Vietnam
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Vietnam
-
-Protocol: socks4
 Proxy: 179.107.50.112:4153:Brazil
 Status: not working
 IP: 127.0.0.1
@@ -77759,7 +63455,23 @@ Server: N/A
 Country: Brazil
 
 Protocol: socks4
-Proxy: 27.77.229.85:1080:Vietnam
+Proxy: 27.65.30.209:1080:Vietnam
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Vietnam
+
+Protocol: socks4
+Proxy: 27.65.115.25:1080:Vietnam
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Vietnam
+
+Protocol: socks4
+Proxy: 171.250.218.101:1080:Vietnam
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -77775,7 +63487,23 @@ Server: N/A
 Country: Vietnam
 
 Protocol: socks4
+Proxy: 27.65.119.98:1080:Vietnam
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Vietnam
+
+Protocol: socks4
 Proxy: 74.208.24.79:30651:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: socks4
+Proxy: 5.161.146.73:7360:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -77791,7 +63519,7 @@ Server: N/A
 Country: Vietnam
 
 Protocol: socks4
-Proxy: 115.74.157.23:1080:Vietnam
+Proxy: 115.74.155.2:1080:Vietnam
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -77800,22 +63528,6 @@ Country: Vietnam
 
 Protocol: socks4
 Proxy: 27.65.112.237:1080:Vietnam
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Vietnam
-
-Protocol: socks4
-Proxy: 27.77.226.242:1080:Vietnam
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Vietnam
-
-Protocol: socks4
-Proxy: 27.77.225.167:1080:Vietnam
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -77839,6 +63551,14 @@ Server: N/A
 Country: United States
 
 Protocol: socks4
+Proxy: 116.107.180.103:1080:Vietnam
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Vietnam
+
+Protocol: socks4
 Proxy: 69.164.206.8:12862:United States
 Status: not working
 IP: 127.0.0.1
@@ -77847,15 +63567,15 @@ Server: N/A
 Country: United States
 
 Protocol: socks4
-Proxy: 144.217.61.75:1390:Canada
+Proxy: 202.61.231.23:22631:Germany
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Canada
+Country: Germany
 
 Protocol: socks4
-Proxy: 144.217.61.81:6093:Canada
+Proxy: 144.217.61.75:1390:Canada
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -77903,6 +63623,14 @@ Server: N/A
 Country: Japan
 
 Protocol: socks4
+Proxy: 206.189.184.213:42922:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: socks4
 Proxy: 188.166.230.38:51879:Singapore
 Status: not working
 IP: 127.0.0.1
@@ -77911,15 +63639,23 @@ Server: N/A
 Country: Singapore
 
 Protocol: socks4
-Proxy: 51.89.17.109:38514:France
+Proxy: 72.167.150.151:53503:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: France
+Country: United States
 
 Protocol: socks4
-Proxy: 72.167.150.151:53503:United States
+Proxy: 50.62.81.217:26048:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: socks4
+Proxy: 208.109.230.244:54278:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -77975,7 +63711,7 @@ Server: N/A
 Country: Canada
 
 Protocol: socks4
-Proxy: 116.100.218.63:1080:Vietnam
+Proxy: 27.65.114.20:1080:Vietnam
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -77991,7 +63727,7 @@ Server: N/A
 Country: Brazil
 
 Protocol: socks4
-Proxy: 27.77.231.244:1080:Vietnam
+Proxy: 116.96.165.144:1080:Vietnam
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -78015,7 +63751,23 @@ Server: N/A
 Country: Vietnam
 
 Protocol: socks4
-Proxy: 171.253.60.106:1080:Vietnam
+Proxy: 116.96.166.71:1080:Vietnam
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Vietnam
+
+Protocol: socks4
+Proxy: 36.90.222.50:4153:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
+
+Protocol: socks4
+Proxy: 27.65.243.56:1080:Vietnam
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -78039,12 +63791,12 @@ Server: N/A
 Country: United States
 
 Protocol: socks4
-Proxy: 171.238.90.32:1022:Vietnam
+Proxy: 137.184.17.35:22750:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Vietnam
+Country: United States
 
 Protocol: socks4
 Proxy: 72.167.150.151:25830:United States
@@ -78053,14 +63805,6 @@ IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: United States
-
-Protocol: socks4
-Proxy: 144.217.61.72:5032:Canada
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Canada
 
 Protocol: socks4
 Proxy: 72.14.190.102:63874:United States
@@ -78079,20 +63823,12 @@ Server: N/A
 Country: The Netherlands
 
 Protocol: socks4
-Proxy: 144.217.58.246:1390:Canada
+Proxy: 69.164.206.8:57623:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Canada
-
-Protocol: socks4
-Proxy: 144.217.61.83:36634:Canada
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Canada
+Country: United States
 
 Protocol: socks4
 Proxy: 72.167.43.185:11878:United States
@@ -78101,6 +63837,14 @@ IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: United States
+
+Protocol: socks4
+Proxy: 144.217.61.85:5815:Canada
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Canada
 
 Protocol: socks4
 Proxy: 78.85.35.180:32080:Russia
@@ -78125,14 +63869,6 @@ IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: China
-
-Protocol: socks4
-Proxy: 113.53.61.49:4153:Thailand
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Thailand
 
 Protocol: socks4
 Proxy: 144.217.61.84:5032:Canada
@@ -78175,7 +63911,15 @@ Server: N/A
 Country: Vietnam
 
 Protocol: socks4
-Proxy: 27.77.227.190:1080:Vietnam
+Proxy: 27.65.118.45:1080:Vietnam
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Vietnam
+
+Protocol: socks4
+Proxy: 27.65.112.152:1080:Vietnam
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -78191,7 +63935,7 @@ Server: N/A
 Country: Vietnam
 
 Protocol: socks4
-Proxy: 27.79.145.199:17000:Vietnam
+Proxy: 116.107.189.95:1080:Vietnam
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -78199,7 +63943,7 @@ Server: N/A
 Country: Vietnam
 
 Protocol: socks4
-Proxy: 171.239.209.31:1022:Vietnam
+Proxy: 27.79.145.199:17000:Vietnam
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -78231,7 +63975,7 @@ Server: N/A
 Country: Vietnam
 
 Protocol: socks4
-Proxy: 115.74.152.1:1080:Vietnam
+Proxy: 116.96.9.99:1080:Vietnam
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -78239,7 +63983,7 @@ Server: N/A
 Country: Vietnam
 
 Protocol: socks4
-Proxy: 116.107.177.255:1080:Vietnam
+Proxy: 116.107.176.31:1080:Vietnam
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -78311,22 +64055,6 @@ Server: N/A
 Country: Canada
 
 Protocol: socks5
-Proxy: 192.111.130.5:17002:Canada
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Canada
-
-Protocol: socks5
-Proxy: 192.252.209.155:14455:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: socks5
 Proxy: 192.252.208.67:14287:United States
 Status: not working
 IP: 127.0.0.1
@@ -78343,6 +64071,14 @@ Server: N/A
 Country: United States
 
 Protocol: socks5
+Proxy: 192.111.135.18:18301:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: socks5
 Proxy: 192.252.211.197:14921:United States
 Status: not working
 IP: 127.0.0.1
@@ -78351,12 +64087,12 @@ Server: N/A
 Country: United States
 
 Protocol: socks5
-Proxy: 192.252.214.20:15864:United States
+Proxy: 192.111.129.145:16894:Canada
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: United States
+Country: Canada
 
 Protocol: socks5
 Proxy: 192.111.139.163:19404:Canada
@@ -78447,6 +64183,14 @@ Server: N/A
 Country: Canada
 
 Protocol: socks5
+Proxy: 187.63.9.62:63253:Brazil
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Brazil
+
+Protocol: socks5
 Proxy: 116.97.240.147:4996:Vietnam
 Status: not working
 IP: 127.0.0.1
@@ -78463,12 +64207,12 @@ Server: N/A
 Country: Bangladesh
 
 Protocol: socks5
-Proxy: 187.188.169.169:59329:Mexico
+Proxy: 46.10.229.243:7777:Bulgaria
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Mexico
+Country: Bulgaria
 
 Protocol: socks5
 Proxy: 212.231.230.141:18500:Spain
@@ -78527,14 +64271,6 @@ Server: N/A
 Country: Singapore
 
 Protocol: socks5
-Proxy: 82.223.165.28:4733:Spain
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Spain
-
-Protocol: socks5
 Proxy: 94.158.155.138:58903:Ukraine
 Status: not working
 IP: 127.0.0.1
@@ -78549,6 +64285,14 @@ IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Germany
+
+Protocol: socks5
+Proxy: 167.172.86.46:10471:Singapore
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Singapore
 
 Protocol: socks5
 Proxy: 161.97.163.52:54721:Germany
@@ -78583,6 +64327,14 @@ Server: N/A
 Country: United States
 
 Protocol: socks5
+Proxy: 103.160.12.147:8199:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
+
+Protocol: socks5
 Proxy: 161.97.163.52:49649:Germany
 Status: not working
 IP: 127.0.0.1
@@ -78599,28 +64351,20 @@ Server: N/A
 Country: Spain
 
 Protocol: socks5
+Proxy: 89.46.249.252:8765:United Kingdom
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United Kingdom
+
+Protocol: socks5
 Proxy: 184.95.235.194:1080:Canada
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Canada
-
-Protocol: socks5
-Proxy: 89.46.249.170:12345:United Kingdom
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United Kingdom
-
-Protocol: socks5
-Proxy: 89.46.249.142:31415:United Kingdom
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United Kingdom
 
 Protocol: socks5
 Proxy: 103.55.22.247:8199:Indonesia
@@ -78631,7 +64375,7 @@ Server: N/A
 Country: Indonesia
 
 Protocol: socks5
-Proxy: 161.97.163.52:57722:Germany
+Proxy: 161.97.163.52:61978:Germany
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -78639,7 +64383,7 @@ Server: N/A
 Country: Germany
 
 Protocol: socks5
-Proxy: 161.97.163.52:61978:Germany
+Proxy: 161.97.163.52:50704:Germany
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -78655,12 +64399,28 @@ Server: N/A
 Country: France
 
 Protocol: socks5
+Proxy: 82.223.165.28:18757:Spain
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Spain
+
+Protocol: socks5
 Proxy: 161.97.163.52:62156:Germany
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Germany
+
+Protocol: socks5
+Proxy: 103.151.74.129:6969:Bangladesh
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Bangladesh
 
 Protocol: socks5
 Proxy: 185.139.155.155:11813:Sweden
@@ -78679,7 +64439,7 @@ Server: N/A
 Country: United States
 
 Protocol: socks5
-Proxy: 161.97.163.52:61693:Germany
+Proxy: 161.97.163.52:60316:Germany
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -78693,6 +64453,14 @@ IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: France
+
+Protocol: socks5
+Proxy: 82.223.165.28:5527:Spain
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Spain
 
 Protocol: socks5
 Proxy: 172.105.193.238:1080:Japan
@@ -78727,14 +64495,6 @@ Server: N/A
 Country: Singapore
 
 Protocol: socks5
-Proxy: 113.176.118.150:1080:Vietnam
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Vietnam
-
-Protocol: socks5
 Proxy: 162.243.55.12:59179:United States
 Status: not working
 IP: 127.0.0.1
@@ -78743,12 +64503,12 @@ Server: N/A
 Country: United States
 
 Protocol: socks5
-Proxy: 163.172.146.42:16379:Germany
+Proxy: 163.172.146.42:16379:The Netherlands
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Germany
+Country: The Netherlands
 
 Protocol: socks5
 Proxy: 161.97.163.52:55802:Germany
@@ -78765,14 +64525,6 @@ IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Canada
-
-Protocol: socks5
-Proxy: 163.172.190.59:16379:Cyprus
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Cyprus
 
 Protocol: socks5
 Proxy: 163.172.140.107:16379:The Netherlands
@@ -78807,20 +64559,28 @@ Server: N/A
 Country: Australia
 
 Protocol: socks5
+Proxy: 161.97.163.52:59510:Germany
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Germany
+
+Protocol: socks5
+Proxy: 161.97.163.52:64114:Germany
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Germany
+
+Protocol: socks5
 Proxy: 103.247.14.37:8199:Indonesia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Indonesia
-
-Protocol: socks5
-Proxy: 113.160.188.21:1080:Vietnam
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Vietnam
 
 Protocol: socks5
 Proxy: 102.36.127.249:1080:South Africa
@@ -78847,14 +64607,6 @@ Server: N/A
 Country: India
 
 Protocol: socks5
-Proxy: 103.55.22.246:8199:Indonesia
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Indonesia
-
-Protocol: socks5
 Proxy: 118.70.151.55:1080:Vietnam
 Status: not working
 IP: 127.0.0.1
@@ -78863,7 +64615,7 @@ Server: N/A
 Country: Vietnam
 
 Protocol: socks5
-Proxy: 103.55.22.236:8199:Indonesia
+Proxy: 103.152.232.56:8199:Indonesia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -78871,15 +64623,15 @@ Server: N/A
 Country: Indonesia
 
 Protocol: socks5
-Proxy: 188.165.220.50:48440:France
+Proxy: 161.97.163.52:53480:Germany
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: France
+Country: Germany
 
 Protocol: socks5
-Proxy: 161.97.163.52:53480:Germany
+Proxy: 161.97.163.52:57307:Germany
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -78919,12 +64671,12 @@ Server: N/A
 Country: Singapore
 
 Protocol: socks5
-Proxy: 184.95.220.42:1080:Canada
+Proxy: 188.165.220.50:10434:France
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Canada
+Country: France
 
 Protocol: socks5
 Proxy: 103.151.75.17:6969:Bangladesh
@@ -78951,12 +64703,20 @@ Server: N/A
 Country: Bangladesh
 
 Protocol: socks5
-Proxy: 141.98.112.161:61337:United States
+Proxy: 188.165.192.99:22163:France
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: United States
+Country: France
+
+Protocol: socks5
+Proxy: 186.226.58.189:15954:Brazil
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Brazil
 
 Protocol: socks5
 Proxy: 139.84.135.239:1080:India
@@ -78973,14 +64733,6 @@ IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: France
-
-Protocol: socks5
-Proxy: 130.255.160.60:52939:Sweden
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Sweden
 
 Protocol: socks5
 Proxy: 192.252.216.86:4145:United States
@@ -79015,22 +64767,6 @@ Server: N/A
 Country: Singapore
 
 Protocol: socks5
-Proxy: 103.151.74.249:6969:Bangladesh
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Bangladesh
-
-Protocol: socks5
-Proxy: 103.157.237.150:1080:Bangladesh
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Bangladesh
-
-Protocol: socks5
 Proxy: 184.168.121.153:62648:Singapore
 Status: not working
 IP: 127.0.0.1
@@ -79047,14 +64783,6 @@ Server: N/A
 Country: Bangladesh
 
 Protocol: socks5
-Proxy: 88.202.230.103:39345:United Kingdom
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United Kingdom
-
-Protocol: socks5
 Proxy: 212.47.250.252:16379:France
 Status: not working
 IP: 127.0.0.1
@@ -79063,20 +64791,12 @@ Server: N/A
 Country: France
 
 Protocol: socks5
-Proxy: 212.47.251.132:16379:Sweden
+Proxy: 212.47.254.121:16379:Ukraine
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Sweden
-
-Protocol: socks5
-Proxy: 212.47.254.121:16379:Poland
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Poland
+Country: Ukraine
 
 Protocol: socks5
 Proxy: 212.47.229.46:16379:United States
@@ -79087,12 +64807,20 @@ Server: N/A
 Country: United States
 
 Protocol: socks5
-Proxy: 184.168.121.153:20974:Singapore
+Proxy: 103.174.178.131:1020:Indonesia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Singapore
+Country: Indonesia
+
+Protocol: socks5
+Proxy: 51.68.229.7:43131:United Kingdom
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United Kingdom
 
 Protocol: socks5
 Proxy: 161.97.163.52:53190:Germany
@@ -79111,14 +64839,6 @@ Server: N/A
 Country: United States
 
 Protocol: socks5
-Proxy: 103.55.22.252:8199:Indonesia
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Indonesia
-
-Protocol: socks5
 Proxy: 161.97.163.52:56186:Germany
 Status: not working
 IP: 127.0.0.1
@@ -79127,23 +64847,23 @@ Server: N/A
 Country: Germany
 
 Protocol: socks5
-Proxy: 185.151.86.121:3699:Ukraine
+Proxy: 212.47.232.161:16379:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Ukraine
+Country: United States
+
+Protocol: socks5
+Proxy: 176.31.110.126:45517:France
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: France
 
 Protocol: socks5
 Proxy: 103.48.160.83:1080:Bangladesh
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Bangladesh
-
-Protocol: socks5
-Proxy: 115.127.67.26:1080:Bangladesh
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -79157,6 +64877,14 @@ IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Indonesia
+
+Protocol: socks5
+Proxy: 182.66.207.139:1888:India
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: India
 
 Protocol: socks5
 Proxy: 103.163.244.106:1080:India
@@ -79175,12 +64903,12 @@ Server: N/A
 Country: Bangladesh
 
 Protocol: socks5
-Proxy: 212.47.237.84:16379:Germany
+Proxy: 212.47.237.84:16379:Ukraine
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Germany
+Country: Ukraine
 
 Protocol: socks5
 Proxy: 212.47.249.156:16379:The Netherlands
@@ -79191,23 +64919,15 @@ Server: N/A
 Country: The Netherlands
 
 Protocol: socks5
-Proxy: 212.47.235.205:16379:United States
+Proxy: 212.47.235.205:16379:Luxembourg
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: United States
+Country: Luxembourg
 
 Protocol: socks5
 Proxy: 68.71.249.153:48606:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: socks5
-Proxy: 162.253.68.97:4145:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -79231,7 +64951,15 @@ Server: N/A
 Country: Singapore
 
 Protocol: socks5
-Proxy: 142.54.231.38:4145:United States
+Proxy: 37.44.238.2:57167:France
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: France
+
+Protocol: socks5
+Proxy: 104.200.135.46:4145:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -79239,7 +64967,7 @@ Server: N/A
 Country: United States
 
 Protocol: socks5
-Proxy: 104.200.135.46:4145:United States
+Proxy: 198.23.143.24:6969:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -79263,22 +64991,6 @@ Server: N/A
 Country: South Korea
 
 Protocol: socks5
-Proxy: 163.172.162.184:16379:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: socks5
-Proxy: 103.77.16.190:1080:Bangladesh
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Bangladesh
-
-Protocol: socks5
 Proxy: 46.105.105.223:29489:France
 Status: not working
 IP: 127.0.0.1
@@ -79295,7 +65007,7 @@ Server: N/A
 Country: Ukraine
 
 Protocol: socks5
-Proxy: 51.15.206.101:16379:The Netherlands
+Proxy: 163.172.132.115:16379:The Netherlands
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -79303,12 +65015,28 @@ Server: N/A
 Country: The Netherlands
 
 Protocol: socks5
-Proxy: 51.15.236.150:16379:United States
+Proxy: 51.158.68.28:16379:Germany
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: United States
+Country: Germany
+
+Protocol: socks5
+Proxy: 51.15.206.101:16379:France
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: France
+
+Protocol: socks5
+Proxy: 51.15.236.150:16379:Germany
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Germany
 
 Protocol: socks5
 Proxy: 51.15.241.236:16379:Sweden
@@ -79351,28 +65079,12 @@ Server: N/A
 Country: Spain
 
 Protocol: socks5
-Proxy: 138.197.73.150:41031:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: socks5
 Proxy: 166.62.121.102:45886:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: United States
-
-Protocol: socks5
-Proxy: 193.123.252.70:35973:South Korea
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: South Korea
 
 Protocol: socks5
 Proxy: 167.99.39.82:46015:The Netherlands
@@ -79391,6 +65103,14 @@ Server: N/A
 Country: Indonesia
 
 Protocol: socks5
+Proxy: 51.77.92.155:55448:France
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: France
+
+Protocol: socks5
 Proxy: 51.75.126.150:54612:France
 Status: not working
 IP: 127.0.0.1
@@ -79405,14 +65125,6 @@ IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: France
-
-Protocol: socks5
-Proxy: 207.180.253.143:27967:Germany
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Germany
 
 Protocol: socks5
 Proxy: 51.75.126.150:37863:France
@@ -79431,20 +65143,20 @@ Server: N/A
 Country: France
 
 Protocol: socks5
+Proxy: 138.197.73.150:44855:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: socks5
 Proxy: 51.75.126.150:33177:France
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: France
-
-Protocol: socks5
-Proxy: 130.255.160.60:11813:Sweden
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Sweden
 
 Protocol: socks5
 Proxy: 51.210.111.216:29963:France
@@ -79469,6 +65181,14 @@ IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: France
+
+Protocol: socks5
+Proxy: 130.255.160.60:51849:Sweden
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Sweden
 
 Protocol: socks5
 Proxy: 162.243.22.61:60359:United States
@@ -79509,6 +65229,14 @@ IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: France
+
+Protocol: socks5
+Proxy: 167.172.145.158:32050:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
 
 Protocol: socks5
 Proxy: 51.210.111.216:29733:France
@@ -79559,12 +65287,12 @@ Server: N/A
 Country: France
 
 Protocol: socks5
-Proxy: 167.172.145.158:42477:United States
+Proxy: 51.79.177.70:35856:Singapore
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: United States
+Country: Singapore
 
 Protocol: socks5
 Proxy: 51.210.111.216:16466:France
@@ -79584,6 +65312,14 @@ Country: United States
 
 Protocol: socks5
 Proxy: 51.75.126.150:62037:France
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: France
+
+Protocol: socks5
+Proxy: 46.105.124.216:44019:France
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -79623,6 +65359,14 @@ Server: N/A
 Country: France
 
 Protocol: socks5
+Proxy: 46.105.124.216:26201:France
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: France
+
+Protocol: socks5
 Proxy: 206.189.184.213:33809:United States
 Status: not working
 IP: 127.0.0.1
@@ -79637,14 +65381,6 @@ IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Germany
-
-Protocol: socks5
-Proxy: 72.167.133.229:23460:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
 
 Protocol: socks5
 Proxy: 161.97.163.52:52714:Germany
@@ -79663,15 +65399,7 @@ Server: N/A
 Country: Singapore
 
 Protocol: socks5
-Proxy: 68.178.171.226:62934:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: socks5
-Proxy: 37.187.73.7:63263:France
+Proxy: 54.37.86.163:41712:France
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -79711,6 +65439,14 @@ Server: N/A
 Country: India
 
 Protocol: socks5
+Proxy: 212.237.125.216:6969:Iraq
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Iraq
+
+Protocol: socks5
 Proxy: 207.244.254.27:7002:United States
 Status: not working
 IP: 127.0.0.1
@@ -79735,15 +65471,23 @@ Server: N/A
 Country: France
 
 Protocol: socks5
-Proxy: 207.148.121.18:44479:Singapore
+Proxy: 162.243.22.61:64929:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Singapore
+Country: United States
 
 Protocol: socks5
 Proxy: 207.244.254.27:1214:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: socks5
+Proxy: 206.189.184.213:5506:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -79767,12 +65511,28 @@ Server: N/A
 Country: France
 
 Protocol: socks5
+Proxy: 92.205.110.47:41431:France
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: France
+
+Protocol: socks5
 Proxy: 51.15.139.14:16379:Ukraine
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Ukraine
+
+Protocol: socks5
+Proxy: 157.66.221.222:59218:Vietnam
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Vietnam
 
 Protocol: socks5
 Proxy: 51.79.248.208:36910:Singapore
@@ -79789,6 +65549,14 @@ IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: United States
+
+Protocol: socks5
+Proxy: 51.210.111.216:16490:France
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: France
 
 Protocol: socks5
 Proxy: 184.168.121.153:12475:Singapore
@@ -79831,14 +65599,6 @@ Server: N/A
 Country: France
 
 Protocol: socks5
-Proxy: 188.164.197.178:61758:Spain
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Spain
-
-Protocol: socks5
 Proxy: 37.187.131.224:60972:France
 Status: not working
 IP: 127.0.0.1
@@ -79856,6 +65616,14 @@ Country: United States
 
 Protocol: socks5
 Proxy: 162.19.107.54:53414:France
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: France
+
+Protocol: socks5
+Proxy: 162.19.107.54:39238:France
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -79887,22 +65655,6 @@ Server: N/A
 Country: United States
 
 Protocol: socks5
-Proxy: 72.167.133.229:30166:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: socks5
-Proxy: 51.75.126.150:15048:France
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: France
-
-Protocol: socks5
 Proxy: 54.36.62.238:47144:France
 Status: not working
 IP: 127.0.0.1
@@ -79917,6 +65669,14 @@ IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Germany
+
+Protocol: socks5
+Proxy: 161.49.116.131:1338:Philippines
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Philippines
 
 Protocol: socks5
 Proxy: 216.238.102.254:1080:Brazil
@@ -79967,12 +65727,20 @@ Server: N/A
 Country: Poland
 
 Protocol: socks5
-Proxy: 85.25.177.53:61199:Germany
+Proxy: 45.184.124.33:1080:Mexico
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Germany
+Country: Mexico
+
+Protocol: socks5
+Proxy: 51.83.141.136:49988:Poland
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Poland
 
 Protocol: socks5
 Proxy: 188.165.192.99:1428:France
@@ -80007,14 +65775,6 @@ Server: N/A
 Country: United States
 
 Protocol: socks5
-Proxy: 167.172.145.158:22989:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: socks5
 Proxy: 135.148.32.193:45446:United States
 Status: not working
 IP: 127.0.0.1
@@ -80023,20 +65783,20 @@ Server: N/A
 Country: United States
 
 Protocol: socks5
+Proxy: 89.221.212.251:18535:Czechia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Czechia
+
+Protocol: socks5
 Proxy: 207.180.253.143:27364:Germany
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Germany
-
-Protocol: socks5
-Proxy: 89.221.212.251:43359:Czechia
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Czechia
 
 Protocol: socks5
 Proxy: 51.38.64.38:26967:United Kingdom
@@ -80053,14 +65813,6 @@ IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: France
-
-Protocol: socks5
-Proxy: 51.83.141.136:14535:Poland
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Poland
 
 Protocol: socks5
 Proxy: 92.205.110.47:48646:France
@@ -80127,12 +65879,28 @@ Server: N/A
 Country: Singapore
 
 Protocol: socks5
+Proxy: 68.178.171.226:20539:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: socks5
 Proxy: 140.245.115.151:8080:Singapore
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Singapore
+
+Protocol: socks5
+Proxy: 173.249.33.122:22239:Germany
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Germany
 
 Protocol: socks5
 Proxy: 88.202.230.103:12913:United Kingdom
@@ -80151,20 +65919,28 @@ Server: N/A
 Country: Germany
 
 Protocol: socks5
-Proxy: 51.83.141.136:4619:Poland
+Proxy: 115.127.124.234:1080:Bangladesh
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Poland
+Country: Bangladesh
 
 Protocol: socks5
-Proxy: 51.75.126.150:6424:France
+Proxy: 51.75.126.150:36055:France
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: France
+
+Protocol: socks5
+Proxy: 148.72.209.174:17107:Singapore
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Singapore
 
 Protocol: socks5
 Proxy: 188.164.197.178:59505:Spain
@@ -80215,22 +65991,6 @@ Server: N/A
 Country: Germany
 
 Protocol: socks5
-Proxy: 144.217.61.74:15975:Canada
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Canada
-
-Protocol: socks5
-Proxy: 51.75.126.150:20311:France
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: France
-
-Protocol: socks5
 Proxy: 173.249.33.122:64958:Germany
 Status: not working
 IP: 127.0.0.1
@@ -80239,7 +65999,15 @@ Server: N/A
 Country: Germany
 
 Protocol: socks5
-Proxy: 167.172.138.48:62272:United States
+Proxy: 46.105.124.216:18586:France
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: France
+
+Protocol: socks5
+Proxy: 206.189.184.213:4765:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -80247,7 +66015,7 @@ Server: N/A
 Country: United States
 
 Protocol: socks5
-Proxy: 46.105.124.216:18586:France
+Proxy: 188.165.247.6:41178:France
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -80271,36 +66039,36 @@ Server: N/A
 Country: Singapore
 
 Protocol: socks5
-Proxy: 173.249.33.141:20447:Germany
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Germany
-
-Protocol: socks5
-Proxy: 188.166.234.144:8577:Singapore
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Singapore
-
-Protocol: socks5
-Proxy: 144.217.61.87:20958:Canada
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Canada
-
-Protocol: socks5
 Proxy: 188.165.247.6:40227:France
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: France
+
+Protocol: socks5
+Proxy: 154.38.161.76:50493:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: socks5
+Proxy: 54.36.115.169:24978:France
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: France
+
+Protocol: socks5
+Proxy: 97.74.233.64:45780:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
 
 Protocol: socks5
 Proxy: 45.40.136.39:45741:United States
@@ -80311,12 +66079,12 @@ Server: N/A
 Country: United States
 
 Protocol: socks5
-Proxy: 43.228.131.173:31128:Mongolia
+Proxy: 103.36.11.18:8199:Indonesia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Mongolia
+Country: Indonesia
 
 Protocol: socks5
 Proxy: 144.217.61.75:20958:Canada
@@ -80327,20 +66095,28 @@ Server: N/A
 Country: Canada
 
 Protocol: socks5
-Proxy: 37.187.92.86:34064:France
+Proxy: 144.217.61.90:20958:Canada
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: France
+Country: Canada
 
 Protocol: socks5
-Proxy: 68.178.174.208:34236:United States
+Proxy: 95.217.121.238:34981:Finland
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: United States
+Country: Finland
+
+Protocol: socks5
+Proxy: 84.247.168.26:19265:Germany
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Germany
 
 Protocol: socks5
 Proxy: 188.164.197.103:54185:Spain
@@ -80349,14 +66125,6 @@ IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Spain
-
-Protocol: socks5
-Proxy: 213.169.39.234:31098:Bulgaria
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Bulgaria
 
 Protocol: socks5
 Proxy: 46.105.105.223:34293:France
@@ -80383,28 +66151,12 @@ Server: N/A
 Country: France
 
 Protocol: socks5
-Proxy: 84.247.168.26:12818:Germany
+Proxy: 103.161.199.66:1080:India
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Germany
-
-Protocol: socks5
-Proxy: 5.252.224.41:58071:Germany
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Germany
-
-Protocol: socks5
-Proxy: 135.125.202.253:8040:Germany
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Germany
+Country: India
 
 Protocol: socks5
 Proxy: 167.86.102.169:22027:Germany
@@ -80423,7 +66175,15 @@ Server: N/A
 Country: Canada
 
 Protocol: socks5
-Proxy: 69.49.230.69:62980:United States
+Proxy: 208.89.96.187:6948:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: socks5
+Proxy: 206.189.184.213:38950:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -80437,6 +66197,14 @@ IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Russia
+
+Protocol: socks5
+Proxy: 207.180.253.143:56954:Germany
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Germany
 
 Protocol: socks5
 Proxy: 54.39.50.68:57257:Canada
@@ -80503,6 +66271,14 @@ Server: N/A
 Country: United States
 
 Protocol: socks5
+Proxy: 91.238.114.197:21080:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: socks5
 Proxy: 91.238.114.207:21080:United States
 Status: not working
 IP: 127.0.0.1
@@ -80511,20 +66287,12 @@ Server: N/A
 Country: United States
 
 Protocol: socks5
-Proxy: 91.238.114.224:21080:United States
+Proxy: 185.35.130.168:64042:Russia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: United States
-
-Protocol: socks5
-Proxy: 91.238.114.241:21080:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
+Country: Russia
 
 Protocol: socks5
 Proxy: 140.245.115.151:6080:Singapore
@@ -80575,20 +66343,20 @@ Server: N/A
 Country: Myanmar
 
 Protocol: socks5
-Proxy: 145.249.249.2:10810:Kazakhstan
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Kazakhstan
-
-Protocol: socks5
 Proxy: 51.83.66.117:20524:France
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: France
+
+Protocol: socks5
+Proxy: 165.227.104.122:60989:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
 
 Protocol: socks5
 Proxy: 51.79.248.208:27651:Singapore
@@ -80607,20 +66375,20 @@ Server: N/A
 Country: United States
 
 Protocol: socks5
-Proxy: 130.255.133.228:50080:Ukraine
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Ukraine
-
-Protocol: socks5
 Proxy: 208.89.96.187:47812:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: United States
+
+Protocol: socks5
+Proxy: 37.157.217.144:10810:Armenia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Armenia
 
 Protocol: socks5
 Proxy: 51.68.87.173:29212:France
@@ -80631,28 +66399,12 @@ Server: N/A
 Country: France
 
 Protocol: socks5
-Proxy: 91.238.114.215:21080:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: socks5
 Proxy: 37.139.104.233:50080:Ukraine
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Ukraine
-
-Protocol: socks5
-Proxy: 144.217.61.88:5032:Canada
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Canada
 
 Protocol: socks5
 Proxy: 31.172.186.69:35562:Poland
@@ -80695,28 +66447,12 @@ Server: N/A
 Country: Singapore
 
 Protocol: socks5
-Proxy: 188.166.230.38:36073:Singapore
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Singapore
-
-Protocol: socks5
 Proxy: 51.75.126.150:12456:France
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: France
-
-Protocol: socks5
-Proxy: 74.208.26.199:10469:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
 
 Protocol: socks5
 Proxy: 94.159.97.80:1080:Russia
@@ -80735,20 +66471,20 @@ Server: N/A
 Country: United States
 
 Protocol: socks5
+Proxy: 178.33.162.89:58502:Spain
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Spain
+
+Protocol: socks5
 Proxy: 74.208.24.79:61139:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: United States
-
-Protocol: socks5
-Proxy: 46.4.13.176:54975:Germany
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Germany
 
 Protocol: socks5
 Proxy: 64.227.124.137:32459:Germany
@@ -80799,20 +66535,20 @@ Server: N/A
 Country: Canada
 
 Protocol: socks5
-Proxy: 46.105.105.223:5589:France
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: France
-
-Protocol: socks5
 Proxy: 62.84.178.83:1080:Norway
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Norway
+
+Protocol: socks5
+Proxy: 144.217.255.108:39698:Canada
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Canada
 
 Protocol: socks5
 Proxy: 178.254.61.31:3719:Germany
@@ -80831,6 +66567,14 @@ Server: N/A
 Country: United States
 
 Protocol: socks5
+Proxy: 188.166.234.144:42078:Singapore
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Singapore
+
+Protocol: socks5
 Proxy: 109.123.254.43:59693:Germany
 Status: not working
 IP: 127.0.0.1
@@ -80840,14 +66584,6 @@ Country: Germany
 
 Protocol: socks5
 Proxy: 46.105.105.223:4498:France
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: France
-
-Protocol: socks5
-Proxy: 51.91.103.153:16663:France
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -80879,12 +66615,12 @@ Server: N/A
 Country: France
 
 Protocol: socks5
-Proxy: 161.97.163.52:49456:Germany
+Proxy: 51.79.248.237:26721:Singapore
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Germany
+Country: Singapore
 
 Protocol: socks5
 Proxy: 89.221.212.251:8716:Czechia
@@ -80893,14 +66629,6 @@ IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Czechia
-
-Protocol: socks5
-Proxy: 208.89.96.91:48492:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
 
 Protocol: socks5
 Proxy: 103.54.217.81:8199:Indonesia
@@ -80919,12 +66647,28 @@ Server: N/A
 Country: France
 
 Protocol: socks5
-Proxy: 208.89.96.91:28859:United States
+Proxy: 103.143.170.12:8199:Indonesia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: United States
+Country: Indonesia
+
+Protocol: socks5
+Proxy: 172.232.132.27:17243:Sweden
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Sweden
+
+Protocol: socks5
+Proxy: 51.91.103.153:35844:France
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: France
 
 Protocol: socks5
 Proxy: 148.66.129.172:36183:Singapore
@@ -80949,6 +66693,14 @@ IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Germany
+
+Protocol: socks5
+Proxy: 192.99.199.49:5942:Canada
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Canada
 
 Protocol: socks5
 Proxy: 144.217.255.108:7722:Canada
@@ -81023,6 +66775,14 @@ Server: N/A
 Country: Russia
 
 Protocol: socks5
+Proxy: 110.235.250.155:1080:Cambodia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Cambodia
+
+Protocol: socks5
 Proxy: 95.188.79.3:1080:Russia
 Status: not working
 IP: 127.0.0.1
@@ -81063,12 +66823,28 @@ Server: N/A
 Country: Türkiye
 
 Protocol: socks5
+Proxy: 208.89.96.187:10217:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: socks5
 Proxy: 94.23.11.131:59985:France
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: France
+
+Protocol: socks5
+Proxy: 188.164.199.35:3645:Spain
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Spain
 
 Protocol: socks5
 Proxy: 208.89.96.187:33139:United States
@@ -81079,20 +66855,12 @@ Server: N/A
 Country: United States
 
 Protocol: socks5
-Proxy: 74.208.26.199:61139:United States
+Proxy: 144.217.61.64:6093:Canada
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: United States
-
-Protocol: socks5
-Proxy: 5.78.121.78:10003:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
+Country: Canada
 
 Protocol: socks5
 Proxy: 68.178.173.3:35412:United States
@@ -81117,6 +66885,38 @@ IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: France
+
+Protocol: socks5
+Proxy: 92.222.23.167:37626:France
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: France
+
+Protocol: socks5
+Proxy: 188.166.234.144:11709:Singapore
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Singapore
+
+Protocol: socks5
+Proxy: 72.167.221.145:52072:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: socks5
+Proxy: 50.62.81.217:6744:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
 
 Protocol: socks5
 Proxy: 172.236.30.116:31111:United Kingdom
@@ -81151,28 +66951,12 @@ Server: N/A
 Country: India
 
 Protocol: socks5
-Proxy: 65.21.169.141:43260:Finland
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Finland
-
-Protocol: socks5
 Proxy: 173.249.33.122:54670:Germany
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Germany
-
-Protocol: socks5
-Proxy: 5.58.25.239:1080:Ukraine
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Ukraine
 
 Protocol: socks5
 Proxy: 192.99.199.49:51932:Canada
@@ -81199,12 +66983,28 @@ Server: N/A
 Country: Poland
 
 Protocol: socks5
+Proxy: 165.227.140.18:42706:Germany
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Germany
+
+Protocol: socks5
 Proxy: 172.236.31.201:31111:United Kingdom
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: United Kingdom
+
+Protocol: socks5
+Proxy: 172.233.13.86:55667:Brazil
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Brazil
 
 Protocol: socks5
 Proxy: 149.78.186.176:32566:Brazil
@@ -81221,6 +67021,22 @@ IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: United Kingdom
+
+Protocol: socks5
+Proxy: 38.156.74.149:10820:Türkiye
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Türkiye
+
+Protocol: socks5
+Proxy: 95.217.122.41:51234:Finland
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Finland
 
 Protocol: socks5
 Proxy: 45.117.63.25:6250:Bangladesh
@@ -81248,6 +67064,14 @@ Country: United Kingdom
 
 Protocol: socks5
 Proxy: 172.236.30.108:31111:United Kingdom
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United Kingdom
+
+Protocol: socks5
+Proxy: 172.236.31.114:31111:United Kingdom
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -81319,6 +67143,22 @@ Server: N/A
 Country: Bangladesh
 
 Protocol: socks5
+Proxy: 45.117.62.18:6250:Bangladesh
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Bangladesh
+
+Protocol: socks5
+Proxy: 172.104.156.169:58336:Germany
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Germany
+
+Protocol: socks5
 Proxy: 51.38.64.38:28940:United Kingdom
 Status: not working
 IP: 127.0.0.1
@@ -81335,23 +67175,15 @@ Server: N/A
 Country: Vietnam
 
 Protocol: socks5
+Proxy: 46.101.195.252:26966:Germany
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Germany
+
+Protocol: socks5
 Proxy: 66.29.138.67:14023:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: socks5
-Proxy: 94.158.246.82:59558:Moldova
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Moldova
-
-Protocol: socks5
-Proxy: 64.202.184.249:46528:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -81391,15 +67223,23 @@ Server: N/A
 Country: The Netherlands
 
 Protocol: socks5
-Proxy: 208.89.96.91:43268:United States
+Proxy: 46.105.124.216:4691:France
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: United States
+Country: France
 
 Protocol: socks5
 Proxy: 51.68.70.161:64291:France
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: France
+
+Protocol: socks5
+Proxy: 94.23.11.131:62697:France
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -81415,28 +67255,20 @@ Server: N/A
 Country: Indonesia
 
 Protocol: socks5
+Proxy: 148.72.209.174:21065:Singapore
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Singapore
+
+Protocol: socks5
 Proxy: 152.228.134.142:51313:France
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: France
-
-Protocol: socks5
-Proxy: 5.161.183.123:8560:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: socks5
-Proxy: 144.91.71.101:62806:Germany
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Germany
 
 Protocol: socks5
 Proxy: 172.236.20.9:31111:United Kingdom
@@ -81495,6 +67327,14 @@ Server: N/A
 Country: United Kingdom
 
 Protocol: socks5
+Proxy: 172.236.22.82:31111:United Kingdom
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United Kingdom
+
+Protocol: socks5
 Proxy: 172.236.22.95:31111:United Kingdom
 Status: not working
 IP: 127.0.0.1
@@ -81509,14 +67349,6 @@ IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: United Kingdom
-
-Protocol: socks5
-Proxy: 94.158.246.90:59558:Moldova
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Moldova
 
 Protocol: socks5
 Proxy: 94.158.246.91:59558:Moldova
@@ -81639,20 +67471,28 @@ Server: N/A
 Country: United Kingdom
 
 Protocol: socks5
-Proxy: 87.117.11.57:1080:Russia
+Proxy: 47.84.42.57:10005:United Kingdom
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Russia
+Country: United Kingdom
 
 Protocol: socks5
-Proxy: 89.104.71.70:1080:Russia
+Proxy: 117.5.74.186:20007:Vietnam
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Russia
+Country: Vietnam
+
+Protocol: socks5
+Proxy: 117.5.74.186:20008:Vietnam
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Vietnam
 
 Protocol: socks5
 Proxy: 85.113.43.181:1080:Russia
@@ -81727,14 +67567,6 @@ Server: N/A
 Country: The Netherlands
 
 Protocol: socks5
-Proxy: 178.33.133.82:10289:France
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: France
-
-Protocol: socks5
 Proxy: 171.240.89.128:20019:Vietnam
 Status: not working
 IP: 127.0.0.1
@@ -81765,14 +67597,6 @@ IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Spain
-
-Protocol: socks5
-Proxy: 117.5.74.186:20010:Vietnam
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Vietnam
 
 Protocol: socks5
 Proxy: 84.247.168.26:45157:Germany
@@ -81831,14 +67655,6 @@ Server: N/A
 Country: Germany
 
 Protocol: socks5
-Proxy: 51.91.103.153:51613:France
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: France
-
-Protocol: socks5
 Proxy: 164.92.82.207:28131:United States
 Status: not working
 IP: 127.0.0.1
@@ -81847,36 +67663,36 @@ Server: N/A
 Country: United States
 
 Protocol: socks5
-Proxy: 50.62.81.217:42745:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: socks5
-Proxy: 148.251.154.233:59825:Germany
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Germany
-
-Protocol: socks5
-Proxy: 207.180.253.143:63782:Germany
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Germany
-
-Protocol: socks5
-Proxy: 171.240.89.128:20014:Vietnam
+Proxy: 117.5.74.186:20003:Vietnam
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Vietnam
+
+Protocol: socks5
+Proxy: 136.144.241.21:10558:The Netherlands
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: The Netherlands
+
+Protocol: socks5
+Proxy: 172.105.14.39:42686:Canada
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Canada
+
+Protocol: socks5
+Proxy: 144.217.61.72:1390:Canada
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Canada
 
 Protocol: socks5
 Proxy: 116.101.241.63:20014:Vietnam
@@ -81895,12 +67711,28 @@ Server: N/A
 Country: France
 
 Protocol: socks5
+Proxy: 194.163.174.206:43092:Germany
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Germany
+
+Protocol: socks5
 Proxy: 94.23.11.131:51499:France
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: France
+
+Protocol: socks5
+Proxy: 66.29.138.67:38918:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
 
 Protocol: socks5
 Proxy: 117.7.215.17:20004:Vietnam
@@ -81911,7 +67743,7 @@ Server: N/A
 Country: Vietnam
 
 Protocol: socks5
-Proxy: 5.78.121.78:10005:United States
+Proxy: 208.109.229.141:29373:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -81919,7 +67751,7 @@ Server: N/A
 Country: United States
 
 Protocol: socks5
-Proxy: 174.141.233.168:10005:United States
+Proxy: 5.78.121.78:10005:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -81959,7 +67791,7 @@ Server: N/A
 Country: United States
 
 Protocol: socks5
-Proxy: 154.205.83.156:40034:United States
+Proxy: 154.205.81.136:40182:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -81983,12 +67815,20 @@ Server: N/A
 Country: United States
 
 Protocol: socks5
-Proxy: 109.172.86.78:13725:Russia
+Proxy: 154.205.83.153:40031:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Russia
+Country: United States
+
+Protocol: socks5
+Proxy: 117.7.215.17:20011:Vietnam
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Vietnam
 
 Protocol: socks5
 Proxy: 132.148.167.56:44276:United States
@@ -81997,22 +67837,6 @@ IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: United States
-
-Protocol: socks5
-Proxy: 68.178.207.17:11904:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: socks5
-Proxy: 51.68.67.43:18941:France
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: France
 
 Protocol: socks5
 Proxy: 95.217.121.238:19654:Finland
@@ -82031,14 +67855,6 @@ Server: N/A
 Country: Canada
 
 Protocol: socks5
-Proxy: 50.62.81.217:54800:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: socks5
 Proxy: 171.240.89.128:20012:Vietnam
 Status: not working
 IP: 127.0.0.1
@@ -82055,20 +67871,20 @@ Server: N/A
 Country: United States
 
 Protocol: socks5
+Proxy: 103.90.230.12:58083:Vietnam
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Vietnam
+
+Protocol: socks5
 Proxy: 172.105.11.250:22276:Canada
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Canada
-
-Protocol: socks5
-Proxy: 117.7.215.17:20002:Vietnam
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Vietnam
 
 Protocol: socks5
 Proxy: 51.38.77.166:17169:United Kingdom
@@ -82079,6 +67895,22 @@ Server: N/A
 Country: United Kingdom
 
 Protocol: socks5
+Proxy: 134.209.106.70:47515:Singapore
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Singapore
+
+Protocol: socks5
+Proxy: 143.198.229.56:58298:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: socks5
 Proxy: 162.243.17.117:33597:United States
 Status: not working
 IP: 127.0.0.1
@@ -82087,12 +67919,12 @@ Server: N/A
 Country: United States
 
 Protocol: socks5
-Proxy: 208.109.230.244:11904:United States
+Proxy: 51.68.79.11:63345:France
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: United States
+Country: France
 
 Protocol: socks5
 Proxy: 178.254.61.32:14278:Germany
@@ -82119,12 +67951,12 @@ Server: N/A
 Country: Ukraine
 
 Protocol: socks5
-Proxy: 65.21.169.137:43260:Finland
+Proxy: 72.167.150.151:29635:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Finland
+Country: United States
 
 Protocol: socks5
 Proxy: 117.7.215.17:20010:Vietnam
@@ -82143,12 +67975,28 @@ Server: N/A
 Country: Germany
 
 Protocol: socks5
+Proxy: 194.163.170.232:51277:Germany
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Germany
+
+Protocol: socks5
 Proxy: 91.134.44.233:45726:France
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: France
+
+Protocol: socks5
+Proxy: 142.93.150.134:9152:Canada
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Canada
 
 Protocol: socks5
 Proxy: 51.75.126.150:3307:France
@@ -82159,15 +68007,23 @@ Server: N/A
 Country: France
 
 Protocol: socks5
-Proxy: 194.163.174.206:43446:Germany
+Proxy: 148.66.129.152:63910:Singapore
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Germany
+Country: Singapore
 
 Protocol: socks5
 Proxy: 51.68.70.161:56526:France
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: France
+
+Protocol: socks5
+Proxy: 46.105.121.29:47305:France
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -82215,36 +68071,12 @@ Server: N/A
 Country: Moldova
 
 Protocol: socks5
-Proxy: 51.38.64.38:24988:United Kingdom
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United Kingdom
-
-Protocol: socks5
-Proxy: 178.20.44.107:26811:Russia
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Russia
-
-Protocol: socks5
 Proxy: 146.59.70.139:48682:France
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: France
-
-Protocol: socks5
-Proxy: 93.183.94.109:11568:Russia
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Russia
 
 Protocol: socks5
 Proxy: 137.184.17.35:55319:United States
@@ -82279,7 +68111,15 @@ Server: N/A
 Country: United States
 
 Protocol: socks5
-Proxy: 67.205.174.75:18163:United States
+Proxy: 46.105.121.29:38734:France
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: France
+
+Protocol: socks5
+Proxy: 154.38.161.76:25100:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -82287,7 +68127,7 @@ Server: N/A
 Country: United States
 
 Protocol: socks5
-Proxy: 46.105.121.29:38734:France
+Proxy: 195.154.84.54:19852:France
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -82309,6 +68149,30 @@ IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Germany
+
+Protocol: socks5
+Proxy: 157.66.25.92:40961:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: socks5
+Proxy: 138.3.218.141:54261:Japan
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Japan
+
+Protocol: socks5
+Proxy: 80.85.245.58:37377:The Netherlands
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: The Netherlands
 
 Protocol: socks5
 Proxy: 161.49.176.173:1338:Philippines
@@ -82351,14 +68215,6 @@ Server: N/A
 Country: Switzerland
 
 Protocol: socks5
-Proxy: 185.225.226.181:1080:Ukraine
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Ukraine
-
-Protocol: socks5
 Proxy: 62.182.83.214:1080:Ukraine
 Status: not working
 IP: 127.0.0.1
@@ -82373,14 +68229,6 @@ IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Ukraine
-
-Protocol: socks5
-Proxy: 104.152.222.60:22838:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
 
 Protocol: socks5
 Proxy: 213.249.67.16:3488:The Netherlands
@@ -82423,7 +68271,23 @@ Server: N/A
 Country: Vietnam
 
 Protocol: socks5
+Proxy: 162.241.73.195:50774:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: socks5
 Proxy: 144.217.61.67:36634:Canada
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Canada
+
+Protocol: socks5
+Proxy: 144.217.61.65:16830:Canada
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -82447,6 +68311,14 @@ Server: N/A
 Country: United States
 
 Protocol: socks5
+Proxy: 213.249.67.16:50935:The Netherlands
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: The Netherlands
+
+Protocol: socks5
 Proxy: 68.178.173.3:46126:United States
 Status: not working
 IP: 127.0.0.1
@@ -82456,6 +68328,14 @@ Country: United States
 
 Protocol: socks5
 Proxy: 68.178.173.3:14413:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: socks5
+Proxy: 68.178.207.17:54278:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -82487,20 +68367,12 @@ Server: N/A
 Country: France
 
 Protocol: socks5
-Proxy: 51.91.103.153:49048:France
+Proxy: 192.99.199.49:20513:Canada
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: France
-
-Protocol: socks5
-Proxy: 135.148.32.193:19161:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
+Country: Canada
 
 Protocol: socks5
 Proxy: 68.178.173.3:44041:United States
@@ -82511,12 +68383,12 @@ Server: N/A
 Country: United States
 
 Protocol: socks5
-Proxy: 135.148.32.193:44551:United States
+Proxy: 178.33.164.95:55936:France
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: United States
+Country: France
 
 Protocol: socks5
 Proxy: 68.178.173.3:26748:United States
@@ -82525,6 +68397,14 @@ IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: United States
+
+Protocol: socks5
+Proxy: 192.99.199.49:64664:Canada
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Canada
 
 Protocol: socks5
 Proxy: 88.214.25.246:7648:United States
@@ -82567,14 +68447,6 @@ Server: N/A
 Country: United States
 
 Protocol: socks5
-Proxy: 72.167.150.81:54800:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: socks5
 Proxy: 143.47.255.13:59900:United Kingdom
 Status: not working
 IP: 127.0.0.1
@@ -82583,12 +68455,36 @@ Server: N/A
 Country: United Kingdom
 
 Protocol: socks5
+Proxy: 135.148.32.193:52716:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: socks5
 Proxy: 68.178.173.3:11913:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: United States
+
+Protocol: socks5
+Proxy: 192.99.199.49:62034:Canada
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Canada
+
+Protocol: socks5
+Proxy: 192.99.199.49:51970:Canada
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Canada
 
 Protocol: socks5
 Proxy: 68.178.207.17:41613:United States
@@ -82607,15 +68503,7 @@ Server: N/A
 Country: Türkiye
 
 Protocol: socks5
-Proxy: 66.29.138.67:38925:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: socks5
-Proxy: 72.167.150.81:46557:United States
+Proxy: 72.14.190.102:57856:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -82645,6 +68533,14 @@ IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: United States
+
+Protocol: socks5
+Proxy: 144.217.61.87:1390:Canada
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Canada
 
 Protocol: socks5
 Proxy: 195.154.84.54:33922:France
@@ -82687,14 +68583,6 @@ Server: N/A
 Country: Vietnam
 
 Protocol: socks5
-Proxy: 144.217.61.72:15975:Canada
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Canada
-
-Protocol: socks5
 Proxy: 117.1.250.139:20019:Vietnam
 Status: not working
 IP: 127.0.0.1
@@ -82735,6 +68623,14 @@ Server: N/A
 Country: Vietnam
 
 Protocol: socks5
+Proxy: 94.23.148.101:49665:The Netherlands
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: The Netherlands
+
+Protocol: socks5
 Proxy: 91.142.222.105:59089:Spain
 Status: not working
 IP: 127.0.0.1
@@ -82743,12 +68639,20 @@ Server: N/A
 Country: Spain
 
 Protocol: socks5
-Proxy: 194.163.176.66:59631:Germany
+Proxy: 117.1.248.149:20020:Vietnam
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Germany
+Country: Vietnam
+
+Protocol: socks5
+Proxy: 192.95.33.162:24716:Canada
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Canada
 
 Protocol: socks5
 Proxy: 51.68.67.42:61248:France
@@ -82767,12 +68671,20 @@ Server: N/A
 Country: France
 
 Protocol: socks5
-Proxy: 94.158.246.82:55355:Moldova
+Proxy: 172.105.43.124:49073:India
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Moldova
+Country: India
+
+Protocol: socks5
+Proxy: 54.39.50.68:54570:Canada
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Canada
 
 Protocol: socks5
 Proxy: 136.144.241.21:55589:The Netherlands
@@ -82781,6 +68693,14 @@ IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: The Netherlands
+
+Protocol: socks5
+Proxy: 192.99.201.39:11249:Canada
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Canada
 
 Protocol: socks5
 Proxy: 144.91.71.101:54687:Germany
@@ -82847,20 +68767,12 @@ Server: N/A
 Country: The Netherlands
 
 Protocol: socks5
-Proxy: 157.66.25.92:40707:United States
+Proxy: 173.249.33.122:51726:Germany
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: United States
-
-Protocol: socks5
-Proxy: 185.35.130.23:59790:Russia
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Russia
+Country: Germany
 
 Protocol: socks5
 Proxy: 167.114.159.79:45724:Canada
@@ -82871,12 +68783,12 @@ Server: N/A
 Country: Canada
 
 Protocol: socks5
-Proxy: 116.202.48.78:52497:Germany
+Proxy: 154.38.161.76:17593:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Germany
+Country: United States
 
 Protocol: socks5
 Proxy: 50.62.81.217:4131:United States
@@ -82893,6 +68805,14 @@ IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Russia
+
+Protocol: socks5
+Proxy: 173.249.31.67:64214:Germany
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Germany
 
 Protocol: socks5
 Proxy: 162.144.33.212:20785:United States
@@ -82919,6 +68839,14 @@ Server: N/A
 Country: Canada
 
 Protocol: socks5
+Proxy: 144.217.61.76:52916:Canada
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Canada
+
+Protocol: socks5
 Proxy: 152.53.36.109:33847:India
 Status: not working
 IP: 127.0.0.1
@@ -82927,12 +68855,28 @@ Server: N/A
 Country: India
 
 Protocol: socks5
+Proxy: 178.254.61.31:7017:Germany
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Germany
+
+Protocol: socks5
 Proxy: 144.217.61.85:39234:Canada
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Canada
+
+Protocol: socks5
+Proxy: 166.62.122.168:54193:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
 
 Protocol: socks5
 Proxy: 46.105.127.74:19755:France
@@ -82975,6 +68919,14 @@ Server: N/A
 Country: Moldova
 
 Protocol: socks5
+Proxy: 117.1.248.149:20010:Vietnam
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Vietnam
+
+Protocol: socks5
 Proxy: 97.74.88.159:28649:United States
 Status: not working
 IP: 127.0.0.1
@@ -82983,20 +68935,12 @@ Server: N/A
 Country: United States
 
 Protocol: socks5
-Proxy: 144.217.58.246:36634:Canada
+Proxy: 74.208.24.79:53317:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Canada
-
-Protocol: socks5
-Proxy: 117.1.250.139:20002:Vietnam
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Vietnam
+Country: United States
 
 Protocol: socks5
 Proxy: 103.165.93.65:1080:Bangladesh
@@ -83007,7 +68951,7 @@ Server: N/A
 Country: Bangladesh
 
 Protocol: socks5
-Proxy: 117.1.248.149:20006:Vietnam
+Proxy: 117.1.250.139:20017:Vietnam
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -83023,12 +68967,12 @@ Server: N/A
 Country: United States
 
 Protocol: socks5
-Proxy: 117.1.250.139:20012:Vietnam
+Proxy: 37.187.92.86:23614:France
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Vietnam
+Country: France
 
 Protocol: socks5
 Proxy: 91.134.44.233:43219:France
@@ -83039,12 +68983,52 @@ Server: N/A
 Country: France
 
 Protocol: socks5
+Proxy: 117.1.248.149:20007:Vietnam
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Vietnam
+
+Protocol: socks5
+Proxy: 144.217.61.79:20958:Canada
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Canada
+
+Protocol: socks5
 Proxy: 178.178.6.235:1080:Russia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Russia
+
+Protocol: socks5
+Proxy: 178.128.254.232:55496:The Netherlands
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: The Netherlands
+
+Protocol: socks5
+Proxy: 65.109.23.226:52336:Finland
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Finland
+
+Protocol: socks5
+Proxy: 103.90.230.11:16743:Vietnam
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Vietnam
 
 Protocol: socks5
 Proxy: 185.231.205.133:8020:France
@@ -83055,12 +69039,12 @@ Server: N/A
 Country: France
 
 Protocol: socks5
-Proxy: 117.1.250.139:20010:Vietnam
+Proxy: 162.241.77.69:54035:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Vietnam
+Country: United States
 
 Protocol: socks5
 Proxy: 162.243.17.117:42715:United States
@@ -83143,14 +69127,6 @@ Server: N/A
 Country: France
 
 Protocol: socks5
-Proxy: 51.83.66.117:52355:France
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: France
-
-Protocol: socks5
 Proxy: 51.83.66.117:62062:France
 Status: not working
 IP: 127.0.0.1
@@ -83183,15 +69159,7 @@ Server: N/A
 Country: France
 
 Protocol: socks5
-Proxy: 51.83.66.117:53083:France
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: France
-
-Protocol: socks5
-Proxy: 51.83.66.117:51067:France
+Proxy: 51.83.66.117:45305:France
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -83208,22 +69176,6 @@ Country: France
 
 Protocol: socks5
 Proxy: 94.23.11.131:45131:France
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: France
-
-Protocol: socks5
-Proxy: 51.83.66.117:61971:France
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: France
-
-Protocol: socks5
-Proxy: 94.23.11.131:34102:France
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -83263,20 +69215,20 @@ Server: N/A
 Country: France
 
 Protocol: socks5
-Proxy: 51.83.66.117:47125:France
+Proxy: 207.244.241.235:53514:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: France
+Country: United States
 
 Protocol: socks5
-Proxy: 144.217.61.66:36634:Canada
+Proxy: 116.107.127.46:20081:Vietnam
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: Canada
+Country: Vietnam
 
 Protocol: socks5
 Proxy: 144.217.61.76:36634:Canada
@@ -83303,20 +69255,20 @@ Server: N/A
 Country: United States
 
 Protocol: socks5
+Proxy: 103.90.230.14:16743:Vietnam
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Vietnam
+
+Protocol: socks5
 Proxy: 137.184.17.35:32751:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: United States
-
-Protocol: socks5
-Proxy: 144.217.253.110:50164:Canada
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Canada
 
 Protocol: socks5
 Proxy: 45.12.132.138:46491:Cyprus
@@ -83351,6 +69303,38 @@ Server: N/A
 Country: United States
 
 Protocol: socks5
+Proxy: 173.249.31.67:37023:Germany
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Germany
+
+Protocol: socks5
+Proxy: 208.109.230.244:42850:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: socks5
+Proxy: 117.1.196.7:20008:Vietnam
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Vietnam
+
+Protocol: socks5
+Proxy: 37.187.91.170:57751:France
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: France
+
+Protocol: socks5
 Proxy: 192.99.199.49:51047:Canada
 Status: not working
 IP: 127.0.0.1
@@ -83383,6 +69367,14 @@ Server: N/A
 Country: United States
 
 Protocol: socks5
+Proxy: 164.68.127.147:39688:Germany
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Germany
+
+Protocol: socks5
 Proxy: 45.12.132.12:46491:Cyprus
 Status: not working
 IP: 127.0.0.1
@@ -83397,6 +69389,22 @@ IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Armenia
+
+Protocol: socks5
+Proxy: 72.167.150.81:25830:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: socks5
+Proxy: 68.178.207.17:15517:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
 
 Protocol: socks5
 Proxy: 45.12.132.165:46491:Cyprus
@@ -83543,14 +69551,6 @@ Server: N/A
 Country: Vietnam
 
 Protocol: socks5
-Proxy: 116.107.116.147:20081:Vietnam
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Vietnam
-
-Protocol: socks5
 Proxy: 27.79.240.124:17000:Vietnam
 Status: not working
 IP: 127.0.0.1
@@ -83567,12 +69567,12 @@ Server: N/A
 Country: Vietnam
 
 Protocol: socks5
-Proxy: 72.167.43.185:47231:United States
+Proxy: 27.79.243.204:17000:Vietnam
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: United States
+Country: Vietnam
 
 Protocol: socks5
 Proxy: 27.79.228.53:17000:Vietnam
@@ -83599,14 +69599,6 @@ Server: N/A
 Country: Vietnam
 
 Protocol: socks5
-Proxy: 173.249.31.67:37951:Germany
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Germany
-
-Protocol: socks5
 Proxy: 27.79.217.84:17000:Vietnam
 Status: not working
 IP: 127.0.0.1
@@ -83616,14 +69608,6 @@ Country: Vietnam
 
 Protocol: socks5
 Proxy: 27.79.214.82:17000:Vietnam
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Vietnam
-
-Protocol: socks5
-Proxy: 27.79.212.14:17000:Vietnam
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -83663,20 +69647,20 @@ Server: N/A
 Country: United States
 
 Protocol: socks5
-Proxy: 45.12.137.38:50064:Cyprus
+Proxy: 27.79.205.108:17000:Vietnam
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Vietnam
+
+Protocol: socks5
+Proxy: 45.12.137.38:65401:Cyprus
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Cyprus
-
-Protocol: socks5
-Proxy: 67.205.181.188:41219:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
 
 Protocol: socks5
 Proxy: 27.79.195.227:17000:Vietnam
@@ -83895,7 +69879,7 @@ Server: N/A
 Country: Hong Kong
 
 Protocol: socks5
-Proxy: 116.104.254.193:1094:Vietnam
+Proxy: 27.79.147.42:17000:Vietnam
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -83951,15 +69935,7 @@ Server: N/A
 Country: Brazil
 
 Protocol: socks5
-Proxy: 50.62.81.217:25830:United States
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: socks5
-Proxy: 157.230.191.76:64540:United States
+Proxy: 162.241.129.84:40049:United States
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -83973,6 +69949,14 @@ IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: United States
+
+Protocol: socks5
+Proxy: 144.91.71.101:48043:Germany
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Germany
 
 Protocol: socks5
 Proxy: 51.68.67.42:30239:France
@@ -84013,14 +69997,6 @@ IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: United States
-
-Protocol: socks5
-Proxy: 147.45.47.46:12397:Finland
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Finland
 
 Protocol: socks5
 Proxy: 27.79.228.10:17000:Vietnam
@@ -84095,23 +70071,15 @@ Server: N/A
 Country: Vietnam
 
 Protocol: socks5
-Proxy: 27.79.156.196:17000:Vietnam
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Vietnam
-
-Protocol: socks5
-Proxy: 27.79.202.246:17000:Vietnam
-Status: not working
-IP: 127.0.0.1
-Anon: N/A
-Server: N/A
-Country: Vietnam
-
-Protocol: socks5
 Proxy: 27.79.228.253:17000:Vietnam
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Vietnam
+
+Protocol: socks5
+Proxy: 27.79.254.246:17000:Vietnam
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -84144,6 +70112,14 @@ Country: Vietnam
 
 Protocol: socks5
 Proxy: 27.79.224.156:17000:Vietnam
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Vietnam
+
+Protocol: socks5
+Proxy: 27.79.211.184:17000:Vietnam
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -84255,6 +70231,14 @@ Server: N/A
 Country: Vietnam
 
 Protocol: socks5
+Proxy: 27.79.199.236:17000:Vietnam
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Vietnam
+
+Protocol: socks5
 Proxy: 27.79.179.22:17000:Vietnam
 Status: not working
 IP: 127.0.0.1
@@ -84271,7 +70255,7 @@ Server: N/A
 Country: Vietnam
 
 Protocol: socks5
-Proxy: 116.107.127.150:20081:Vietnam
+Proxy: 27.79.249.89:17000:Vietnam
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -84279,20 +70263,20 @@ Server: N/A
 Country: Vietnam
 
 Protocol: socks5
-Proxy: 72.167.43.185:39986:United States
+Proxy: 27.79.253.147:17000:Vietnam
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: United States
+Country: Vietnam
 
 Protocol: socks5
-Proxy: 103.220.30.218:1080:India
+Proxy: 116.107.127.150:20081:Vietnam
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
-Country: India
+Country: Vietnam
 
 Protocol: socks5
 Proxy: 27.79.134.181:17000:Vietnam
@@ -84327,6 +70311,14 @@ Server: N/A
 Country: Vietnam
 
 Protocol: socks5
+Proxy: 162.241.73.195:57824:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: socks5
 Proxy: 154.205.82.142:20216:United States
 Status: not working
 IP: 127.0.0.1
@@ -84351,6 +70343,14 @@ Server: N/A
 Country: Türkiye
 
 Protocol: connect
+Proxy: 122.3.41.154:8090:Philippines
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Philippines
+
+Protocol: connect
 Proxy: 36.93.140.71:8080:Indonesia
 Status: not working
 IP: 127.0.0.1
@@ -84367,12 +70367,44 @@ Server: N/A
 Country: Georgia
 
 Protocol: connect
+Proxy: 79.121.102.227:8080:Hungary
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Hungary
+
+Protocol: connect
+Proxy: 102.68.128.212:8080:Libya
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Libya
+
+Protocol: connect
+Proxy: 83.143.24.66:80:Botswana
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Botswana
+
+Protocol: connect
 Proxy: 182.93.75.77:8080:Nepal
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Nepal
+
+Protocol: connect
+Proxy: 122.3.103.17:8082:Philippines
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Philippines
 
 Protocol: connect
 Proxy: 103.180.123.27:8080:Indonesia
@@ -84407,6 +70439,14 @@ Server: N/A
 Country: Guatemala
 
 Protocol: connect
+Proxy: 62.103.66.18:3128:Greece
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Greece
+
+Protocol: connect
 Proxy: 45.65.138.48:999:Colombia
 Status: not working
 IP: 127.0.0.1
@@ -84437,6 +70477,22 @@ IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Indonesia
+
+Protocol: connect
+Proxy: 13.234.24.116:3128:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: connect
+Proxy: 44.226.167.102:3128:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
 
 Protocol: connect
 Proxy: 121.101.134.214:1111:Indonesia
@@ -84479,6 +70535,22 @@ Server: N/A
 Country: Libya
 
 Protocol: connect
+Proxy: 80.87.178.175:8080:Czechia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Czechia
+
+Protocol: connect
+Proxy: 18.169.83.87:3128:France
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: France
+
+Protocol: connect
 Proxy: 65.1.244.232:3128:Switzerland
 Status: not working
 IP: 127.0.0.1
@@ -84495,12 +70567,52 @@ Server: N/A
 Country: Ukraine
 
 Protocol: connect
+Proxy: 18.169.83.87:1080:Sweden
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Sweden
+
+Protocol: connect
+Proxy: 34.215.74.117:3128:The Netherlands
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: The Netherlands
+
+Protocol: connect
+Proxy: 181.224.205.42:999:Dominican Republic
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Dominican Republic
+
+Protocol: connect
 Proxy: 146.190.101.222:3128:Singapore
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Singapore
+
+Protocol: connect
+Proxy: 190.128.195.58:999:Paraguay
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Paraguay
+
+Protocol: connect
+Proxy: 121.101.133.81:1111:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
 
 Protocol: connect
 Proxy: 103.125.50.234:8080:Indonesia
@@ -84535,6 +70647,22 @@ Server: N/A
 Country: Indonesia
 
 Protocol: connect
+Proxy: 119.92.75.48:8181:Philippines
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Philippines
+
+Protocol: connect
+Proxy: 177.73.136.29:8080:Brazil
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Brazil
+
+Protocol: connect
 Proxy: 102.222.173.33:8080:Botswana
 Status: not working
 IP: 127.0.0.1
@@ -84565,6 +70693,14 @@ IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Indonesia
+
+Protocol: connect
+Proxy: 103.48.71.2:83:India
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: India
 
 Protocol: connect
 Proxy: 45.70.201.186:999:Ecuador
@@ -84607,6 +70743,22 @@ Server: N/A
 Country: Bangladesh
 
 Protocol: connect
+Proxy: 161.49.87.222:8095:Philippines
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Philippines
+
+Protocol: connect
+Proxy: 124.106.66.194:8080:Philippines
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Philippines
+
+Protocol: connect
 Proxy: 179.49.117.19:999:Honduras
 Status: not working
 IP: 127.0.0.1
@@ -84621,6 +70773,22 @@ IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Indonesia
+
+Protocol: connect
+Proxy: 36.67.223.231:8090:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
+
+Protocol: connect
+Proxy: 103.231.239.137:58080:Bangladesh
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Bangladesh
 
 Protocol: connect
 Proxy: 27.147.140.129:58080:Bangladesh
@@ -84653,6 +70821,14 @@ IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Bangladesh
+
+Protocol: connect
+Proxy: 103.162.54.251:8080:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
 
 Protocol: connect
 Proxy: 103.180.126.42:8181:Indonesia
@@ -84711,6 +70887,22 @@ Server: N/A
 Country: India
 
 Protocol: connect
+Proxy: 103.41.35.162:58080:India
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: India
+
+Protocol: connect
+Proxy: 202.57.25.127:8080:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
+
+Protocol: connect
 Proxy: 45.249.122.198:8080:India
 Status: not working
 IP: 127.0.0.1
@@ -84719,12 +70911,44 @@ Server: N/A
 Country: India
 
 Protocol: connect
+Proxy: 102.222.51.105:8080:South Africa
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: South Africa
+
+Protocol: connect
+Proxy: 147.78.169.80:8443:Slovakia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Slovakia
+
+Protocol: connect
+Proxy: 36.91.15.241:8080:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
+
+Protocol: connect
 Proxy: 122.2.79.174:8082:Philippines
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Philippines
+
+Protocol: connect
+Proxy: 190.83.15.21:999:Ecuador
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Ecuador
 
 Protocol: connect
 Proxy: 103.162.16.168:8080:Indonesia
@@ -84736,6 +70960,30 @@ Country: Indonesia
 
 Protocol: connect
 Proxy: 103.153.134.27:8090:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
+
+Protocol: connect
+Proxy: 193.169.4.12:8091:Russia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Russia
+
+Protocol: connect
+Proxy: 103.186.239.73:6969:Bangladesh
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Bangladesh
+
+Protocol: connect
+Proxy: 36.92.44.82:8080:Indonesia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -84815,6 +71063,14 @@ Server: N/A
 Country: Philippines
 
 Protocol: connect
+Proxy: 103.156.16.243:8080:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
+
+Protocol: connect
 Proxy: 103.180.118.138:1111:Indonesia
 Status: not working
 IP: 127.0.0.1
@@ -84824,6 +71080,38 @@ Country: Indonesia
 
 Protocol: connect
 Proxy: 203.190.46.57:3128:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
+
+Protocol: connect
+Proxy: 202.148.16.147:8080:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
+
+Protocol: connect
+Proxy: 177.37.114.5:3128:Brazil
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Brazil
+
+Protocol: connect
+Proxy: 202.152.24.50:8080:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
+
+Protocol: connect
+Proxy: 103.166.159.163:8080:Indonesia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -84847,6 +71135,14 @@ Server: N/A
 Country: Indonesia
 
 Protocol: connect
+Proxy: 103.31.235.102:8080:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
+
+Protocol: connect
 Proxy: 36.89.251.14:8080:Indonesia
 Status: not working
 IP: 127.0.0.1
@@ -84861,6 +71157,14 @@ IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Bangladesh
+
+Protocol: connect
+Proxy: 92.51.122.174:8080:Georgia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Georgia
 
 Protocol: connect
 Proxy: 103.148.130.107:8080:Indonesia
@@ -84895,6 +71199,14 @@ Server: N/A
 Country: Singapore
 
 Protocol: connect
+Proxy: 103.132.245.100:58080:India
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: India
+
+Protocol: connect
 Proxy: 119.47.90.240:1111:Indonesia
 Status: not working
 IP: 127.0.0.1
@@ -84911,6 +71223,22 @@ Server: N/A
 Country: Indonesia
 
 Protocol: connect
+Proxy: 128.199.254.13:9090:Singapore
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Singapore
+
+Protocol: connect
+Proxy: 103.48.68.138:83:India
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: India
+
+Protocol: connect
 Proxy: 114.9.26.122:8080:Indonesia
 Status: not working
 IP: 127.0.0.1
@@ -84925,6 +71253,14 @@ IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Indonesia
+
+Protocol: connect
+Proxy: 41.33.219.132:8080:Egypt
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Egypt
 
 Protocol: connect
 Proxy: 210.79.146.98:8080:Indonesia
@@ -84951,6 +71287,14 @@ Server: N/A
 Country: India
 
 Protocol: connect
+Proxy: 15.204.31.10:3128:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: connect
 Proxy: 154.73.29.201:8080:Libya
 Status: not working
 IP: 127.0.0.1
@@ -84973,6 +71317,22 @@ IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Bangladesh
+
+Protocol: connect
+Proxy: 41.180.70.2:8080:South Africa
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: South Africa
+
+Protocol: connect
+Proxy: 200.49.99.78:9991:Argentina
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Argentina
 
 Protocol: connect
 Proxy: 203.190.46.131:8080:Indonesia
@@ -85007,12 +71367,28 @@ Server: N/A
 Country: Indonesia
 
 Protocol: connect
+Proxy: 103.143.168.58:84:India
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: India
+
+Protocol: connect
 Proxy: 103.148.39.26:82:India
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: India
+
+Protocol: connect
+Proxy: 103.139.98.157:8080:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
 
 Protocol: connect
 Proxy: 179.60.235.249:8094:Argentina
@@ -85039,12 +71415,44 @@ Server: N/A
 Country: Brazil
 
 Protocol: connect
+Proxy: 170.81.171.189:8089:Brazil
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Brazil
+
+Protocol: connect
 Proxy: 120.28.220.26:8080:Philippines
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Philippines
+
+Protocol: connect
+Proxy: 46.252.35.91:8080:Albania
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Albania
+
+Protocol: connect
+Proxy: 199.48.129.114:3121:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: connect
+Proxy: 154.73.28.241:8080:Libya
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Libya
 
 Protocol: connect
 Proxy: 194.150.71.39:7060:Iran
@@ -85063,12 +71471,28 @@ Server: N/A
 Country: Indonesia
 
 Protocol: connect
+Proxy: 203.190.46.127:8090:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
+
+Protocol: connect
 Proxy: 45.174.57.26:999:Mexico
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Mexico
+
+Protocol: connect
+Proxy: 27.147.142.138:58080:Bangladesh
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Bangladesh
 
 Protocol: connect
 Proxy: 103.139.126.230:8083:Indonesia
@@ -85095,6 +71519,22 @@ Server: N/A
 Country: Indonesia
 
 Protocol: connect
+Proxy: 190.121.157.141:999:Colombia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Colombia
+
+Protocol: connect
+Proxy: 190.186.1.126:999:Bolivia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Bolivia
+
+Protocol: connect
 Proxy: 103.153.134.150:8080:Indonesia
 Status: not working
 IP: 127.0.0.1
@@ -85103,12 +71543,36 @@ Server: N/A
 Country: Indonesia
 
 Protocol: connect
+Proxy: 188.132.221.170:8080:Türkiye
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Türkiye
+
+Protocol: connect
+Proxy: 103.48.70.209:83:India
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: India
+
+Protocol: connect
 Proxy: 154.73.87.241:8080:Botswana
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Botswana
+
+Protocol: connect
+Proxy: 177.93.40.56:999:Colombia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Colombia
 
 Protocol: connect
 Proxy: 103.247.21.44:1111:Indonesia
@@ -85127,6 +71591,14 @@ Server: N/A
 Country: Argentina
 
 Protocol: connect
+Proxy: 45.70.202.71:999:Ecuador
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Ecuador
+
+Protocol: connect
 Proxy: 103.190.171.155:1111:Indonesia
 Status: not working
 IP: 127.0.0.1
@@ -85143,6 +71615,22 @@ Server: N/A
 Country: Philippines
 
 Protocol: connect
+Proxy: 43.229.254.221:8181:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
+
+Protocol: connect
+Proxy: 202.93.244.242:8080:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
+
+Protocol: connect
 Proxy: 157.20.100.26:1111:Indonesia
 Status: not working
 IP: 127.0.0.1
@@ -85157,6 +71645,14 @@ IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Bangladesh
+
+Protocol: connect
+Proxy: 103.122.1.42:8181:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
 
 Protocol: connect
 Proxy: 61.91.162.126:8080:Thailand
@@ -85199,12 +71695,36 @@ Server: N/A
 Country: Indonesia
 
 Protocol: connect
+Proxy: 103.180.123.93:8080:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
+
+Protocol: connect
 Proxy: 103.190.171.197:8080:Indonesia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Indonesia
+
+Protocol: connect
+Proxy: 168.197.182.137:8080:Brazil
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Brazil
+
+Protocol: connect
+Proxy: 45.174.250.16:999:Mexico
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Mexico
 
 Protocol: connect
 Proxy: 203.81.67.22:8080:Myanmar
@@ -85221,6 +71741,22 @@ IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Indonesia
+
+Protocol: connect
+Proxy: 45.179.193.165:999:Paraguay
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Paraguay
+
+Protocol: connect
+Proxy: 189.124.85.77:33333:Brazil
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Brazil
 
 Protocol: connect
 Proxy: 202.93.244.194:8080:Indonesia
@@ -85271,6 +71807,30 @@ Server: N/A
 Country: Indonesia
 
 Protocol: connect
+Proxy: 177.43.72.250:3128:Brazil
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Brazil
+
+Protocol: connect
+Proxy: 103.165.234.46:8080:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
+
+Protocol: connect
+Proxy: 180.191.23.221:8081:Philippines
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Philippines
+
+Protocol: connect
 Proxy: 103.230.49.132:8080:Indonesia
 Status: not working
 IP: 127.0.0.1
@@ -85295,12 +71855,36 @@ Server: N/A
 Country: Indonesia
 
 Protocol: connect
+Proxy: 161.49.215.28:10101:Philippines
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Philippines
+
+Protocol: connect
+Proxy: 212.231.230.141:20500:Spain
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Spain
+
+Protocol: connect
 Proxy: 103.82.126.202:8080:Indonesia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Indonesia
+
+Protocol: connect
+Proxy: 102.38.13.9:19000:Libya
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Libya
 
 Protocol: connect
 Proxy: 116.163.1.85:9999:China
@@ -85317,6 +71901,22 @@ IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Indonesia
+
+Protocol: connect
+Proxy: 85.117.60.133:8080:Georgia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Georgia
+
+Protocol: connect
+Proxy: 181.205.74.98:21901:Colombia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Colombia
 
 Protocol: connect
 Proxy: 103.143.197.218:8000:Indonesia
@@ -85367,6 +71967,14 @@ Server: N/A
 Country: South Africa
 
 Protocol: connect
+Proxy: 45.174.80.83:20183:Brazil
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Brazil
+
+Protocol: connect
 Proxy: 186.180.79.22:999:Colombia
 Status: not working
 IP: 127.0.0.1
@@ -85407,7 +72015,23 @@ Server: N/A
 Country: Brazil
 
 Protocol: connect
+Proxy: 143.255.85.180:999:Venezuela
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Venezuela
+
+Protocol: connect
 Proxy: 128.199.253.195:9090:Singapore
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Singapore
+
+Protocol: connect
+Proxy: 128.199.113.85:9090:Singapore
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -85437,6 +72061,14 @@ IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Indonesia
+
+Protocol: connect
+Proxy: 129.18.210.10:8080:Nigeria
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Nigeria
 
 Protocol: connect
 Proxy: 196.251.195.253:8082:South Africa
@@ -85527,6 +72159,22 @@ Server: N/A
 Country: United States
 
 Protocol: connect
+Proxy: 103.122.1.26:8080:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
+
+Protocol: connect
+Proxy: 103.156.86.76:8080:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
+
+Protocol: connect
 Proxy: 103.248.196.73:3125:Indonesia
 Status: not working
 IP: 127.0.0.1
@@ -85543,6 +72191,30 @@ Server: N/A
 Country: India
 
 Protocol: connect
+Proxy: 147.75.122.245:999:Colombia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Colombia
+
+Protocol: connect
+Proxy: 45.174.77.1:999:Mexico
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Mexico
+
+Protocol: connect
+Proxy: 45.230.169.6:999:Venezuela
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Venezuela
+
+Protocol: connect
 Proxy: 103.169.148.2:1111:Indonesia
 Status: not working
 IP: 127.0.0.1
@@ -85557,6 +72229,14 @@ IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Bangladesh
+
+Protocol: connect
+Proxy: 36.95.249.157:8080:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
 
 Protocol: connect
 Proxy: 188.132.222.247:8080:Türkiye
@@ -85583,12 +72263,44 @@ Server: N/A
 Country: Kazakhstan
 
 Protocol: connect
+Proxy: 36.94.27.65:8080:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
+
+Protocol: connect
 Proxy: 190.52.104.214:999:Venezuela
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Venezuela
+
+Protocol: connect
+Proxy: 187.188.16.28:999:Mexico
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Mexico
+
+Protocol: connect
+Proxy: 103.189.123.223:8080:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
+
+Protocol: connect
+Proxy: 41.65.55.27:1981:Egypt
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Egypt
 
 Protocol: connect
 Proxy: 115.75.99.65:8080:Vietnam
@@ -85607,12 +72319,44 @@ Server: N/A
 Country: Bangladesh
 
 Protocol: connect
+Proxy: 190.121.146.75:999:Colombia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Colombia
+
+Protocol: connect
 Proxy: 109.127.82.162:8080:Iraq
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Iraq
+
+Protocol: connect
+Proxy: 202.154.19.7:8080:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
+
+Protocol: connect
+Proxy: 149.14.76.99:8080:United Kingdom
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United Kingdom
+
+Protocol: connect
+Proxy: 181.209.95.205:999:Argentina
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Argentina
 
 Protocol: connect
 Proxy: 38.51.188.31:999:Dominican Republic
@@ -85679,12 +72423,28 @@ Server: N/A
 Country: Indonesia
 
 Protocol: connect
+Proxy: 103.180.123.15:8080:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
+
+Protocol: connect
 Proxy: 190.61.101.95:8080:Guatemala
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Guatemala
+
+Protocol: connect
+Proxy: 103.172.70.191:8181:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
 
 Protocol: connect
 Proxy: 103.159.194.33:1111:Indonesia
@@ -85703,12 +72463,44 @@ Server: N/A
 Country: Libya
 
 Protocol: connect
+Proxy: 186.237.131.122:8080:Brazil
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Brazil
+
+Protocol: connect
+Proxy: 160.248.80.91:137:Luxembourg
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Luxembourg
+
+Protocol: connect
 Proxy: 103.248.120.5:8080:India
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: India
+
+Protocol: connect
+Proxy: 31.145.154.138:9093:Türkiye
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Türkiye
+
+Protocol: connect
+Proxy: 201.20.67.70:8080:Brazil
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Brazil
 
 Protocol: connect
 Proxy: 181.115.67.3:999:Honduras
@@ -85735,12 +72527,28 @@ Server: N/A
 Country: Iraq
 
 Protocol: connect
+Proxy: 103.36.10.223:8080:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
+
+Protocol: connect
 Proxy: 94.102.234.186:32650:Montenegro
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Montenegro
+
+Protocol: connect
+Proxy: 103.93.193.141:58080:India
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: India
 
 Protocol: connect
 Proxy: 187.245.214.7:999:Mexico
@@ -85871,12 +72679,36 @@ Server: N/A
 Country: India
 
 Protocol: connect
+Proxy: 103.48.71.18:83:India
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: India
+
+Protocol: connect
+Proxy: 94.43.164.242:8080:Georgia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Georgia
+
+Protocol: connect
 Proxy: 103.165.155.68:1111:Indonesia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Indonesia
+
+Protocol: connect
+Proxy: 200.217.165.114:8080:Brazil
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Brazil
 
 Protocol: connect
 Proxy: 177.234.227.215:999:Ecuador
@@ -85927,6 +72759,22 @@ Server: N/A
 Country: Ecuador
 
 Protocol: connect
+Proxy: 103.211.107.114:7777:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
+
+Protocol: connect
+Proxy: 103.155.198.105:7777:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
+
+Protocol: connect
 Proxy: 93.177.126.79:8088:Russia
 Status: not working
 IP: 127.0.0.1
@@ -85949,6 +72797,22 @@ IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Venezuela
+
+Protocol: connect
+Proxy: 154.90.49.103:9090:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
+
+Protocol: connect
+Proxy: 36.92.60.234:8080:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
 
 Protocol: connect
 Proxy: 103.169.128.148:8080:Indonesia
@@ -85991,6 +72855,14 @@ Server: N/A
 Country: Ecuador
 
 Protocol: connect
+Proxy: 61.245.9.174:8080:Philippines
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Philippines
+
+Protocol: connect
 Proxy: 78.46.107.230:3128:Germany
 Status: not working
 IP: 127.0.0.1
@@ -86021,6 +72893,14 @@ IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Pakistan
+
+Protocol: connect
+Proxy: 113.160.132.195:8080:Vietnam
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Vietnam
 
 Protocol: connect
 Proxy: 202.77.112.245:8080:Indonesia
@@ -86079,6 +72959,22 @@ Server: N/A
 Country: Indonesia
 
 Protocol: connect
+Proxy: 103.115.198.179:8082:Pakistan
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Pakistan
+
+Protocol: connect
+Proxy: 103.217.224.203:8090:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
+
+Protocol: connect
 Proxy: 180.190.186.166:8085:Philippines
 Status: not working
 IP: 127.0.0.1
@@ -86103,12 +72999,36 @@ Server: N/A
 Country: Indonesia
 
 Protocol: connect
+Proxy: 103.172.120.148:8989:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
+
+Protocol: connect
 Proxy: 103.172.71.140:8080:Indonesia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Indonesia
+
+Protocol: connect
+Proxy: 189.85.82.38:3128:Brazil
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Brazil
+
+Protocol: connect
+Proxy: 38.253.88.242:999:Dominican Republic
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Dominican Republic
 
 Protocol: connect
 Proxy: 37.26.86.206:47464:Albania
@@ -86120,6 +73040,14 @@ Country: Albania
 
 Protocol: connect
 Proxy: 38.159.232.139:999:Dominican Republic
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Dominican Republic
+
+Protocol: connect
+Proxy: 38.45.44.106:999:Dominican Republic
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -86159,12 +73087,36 @@ Server: N/A
 Country: Indonesia
 
 Protocol: connect
+Proxy: 36.93.140.183:8080:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
+
+Protocol: connect
 Proxy: 188.132.222.4:8080:Türkiye
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Türkiye
+
+Protocol: connect
+Proxy: 36.91.166.98:8080:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
+
+Protocol: connect
+Proxy: 103.137.218.113:83:India
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: India
 
 Protocol: connect
 Proxy: 152.32.67.243:10101:Philippines
@@ -86183,6 +73135,14 @@ Server: N/A
 Country: Georgia
 
 Protocol: connect
+Proxy: 115.127.28.10:8674:Bangladesh
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Bangladesh
+
+Protocol: connect
 Proxy: 45.185.204.102:999:Argentina
 Status: not working
 IP: 127.0.0.1
@@ -86197,6 +73157,14 @@ IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Libya
+
+Protocol: connect
+Proxy: 103.163.80.70:8090:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
 
 Protocol: connect
 Proxy: 201.182.204.18:9999:Brazil
@@ -86223,6 +73191,30 @@ Server: N/A
 Country: Indonesia
 
 Protocol: connect
+Proxy: 77.225.198.220:9812:Spain
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Spain
+
+Protocol: connect
+Proxy: 188.132.222.39:8080:Türkiye
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Türkiye
+
+Protocol: connect
+Proxy: 103.203.233.144:3125:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
+
+Protocol: connect
 Proxy: 103.25.79.74:32650:Myanmar
 Status: not working
 IP: 127.0.0.1
@@ -86231,7 +73223,47 @@ Server: N/A
 Country: Myanmar
 
 Protocol: connect
+Proxy: 101.255.104.38:1080:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
+
+Protocol: connect
 Proxy: 157.66.16.44:8080:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
+
+Protocol: connect
+Proxy: 131.255.56.169:9292:Brazil
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Brazil
+
+Protocol: connect
+Proxy: 157.20.244.38:1111:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
+
+Protocol: connect
+Proxy: 103.162.16.115:8080:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
+
+Protocol: connect
+Proxy: 103.166.158.107:8080:Indonesia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -86271,12 +73303,52 @@ Server: N/A
 Country: Indonesia
 
 Protocol: connect
+Proxy: 59.36.239.108:21133:China
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: China
+
+Protocol: connect
 Proxy: 111.199.239.2:9000:China
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: China
+
+Protocol: connect
+Proxy: 192.141.98.9:3020:Peru
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Peru
+
+Protocol: connect
+Proxy: 159.89.208.15:4750:Singapore
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Singapore
+
+Protocol: connect
+Proxy: 43.250.182.11:1234:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
+
+Protocol: connect
+Proxy: 45.249.77.145:83:India
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: India
 
 Protocol: connect
 Proxy: 103.39.51.20:8090:Indonesia
@@ -86319,6 +73391,22 @@ Server: N/A
 Country: Indonesia
 
 Protocol: connect
+Proxy: 103.130.182.121:8080:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
+
+Protocol: connect
+Proxy: 93.123.98.106:33333:Bulgaria
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Bulgaria
+
+Protocol: connect
 Proxy: 45.188.167.25:999:Mexico
 Status: not working
 IP: 127.0.0.1
@@ -86333,6 +73421,14 @@ IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: France
+
+Protocol: connect
+Proxy: 80.78.64.70:8080:Albania
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Albania
 
 Protocol: connect
 Proxy: 103.165.157.245:3000:Indonesia
@@ -86351,6 +73447,30 @@ Server: N/A
 Country: Costa Rica
 
 Protocol: connect
+Proxy: 190.12.95.170:47029:Peru
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Peru
+
+Protocol: connect
+Proxy: 212.174.242.114:8080:Türkiye
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Türkiye
+
+Protocol: connect
+Proxy: 154.66.159.34:800:South Africa
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: South Africa
+
+Protocol: connect
 Proxy: 103.234.28.50:8181:Indonesia
 Status: not working
 IP: 127.0.0.1
@@ -86359,7 +73479,23 @@ Server: N/A
 Country: Indonesia
 
 Protocol: connect
+Proxy: 186.125.235.253:999:Argentina
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Argentina
+
+Protocol: connect
 Proxy: 103.143.105.138:8080:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
+
+Protocol: connect
+Proxy: 103.175.238.174:8080:Indonesia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -86373,6 +73509,22 @@ IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Indonesia
+
+Protocol: connect
+Proxy: 41.174.132.58:8080:DR Congo
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: DR Congo
+
+Protocol: connect
+Proxy: 196.251.221.30:8104:South Africa
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: South Africa
 
 Protocol: connect
 Proxy: 202.173.217.4:8080:Thailand
@@ -86431,12 +73583,28 @@ Server: N/A
 Country: Ecuador
 
 Protocol: connect
+Proxy: 120.50.18.146:58080:Bangladesh
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Bangladesh
+
+Protocol: connect
 Proxy: 202.61.120.182:8080:India
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: India
+
+Protocol: connect
+Proxy: 181.78.105.156:999:Guatemala
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Guatemala
 
 Protocol: connect
 Proxy: 103.165.157.123:8085:Indonesia
@@ -86527,6 +73695,14 @@ Server: N/A
 Country: Indonesia
 
 Protocol: connect
+Proxy: 159.89.239.166:18104:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: connect
 Proxy: 103.155.196.105:8080:Indonesia
 Status: not working
 IP: 127.0.0.1
@@ -86567,6 +73743,22 @@ Server: N/A
 Country: Indonesia
 
 Protocol: connect
+Proxy: 24.152.58.123:3128:Colombia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Colombia
+
+Protocol: connect
+Proxy: 190.15.192.169:8080:Argentina
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Argentina
+
+Protocol: connect
 Proxy: 103.228.243.219:8080:Indonesia
 Status: not working
 IP: 127.0.0.1
@@ -86581,6 +73773,14 @@ IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Iran
+
+Protocol: connect
+Proxy: 27.189.132.94:8089:China
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: China
 
 Protocol: connect
 Proxy: 157.66.16.43:8070:Indonesia
@@ -86615,6 +73815,22 @@ Server: N/A
 Country: Indonesia
 
 Protocol: connect
+Proxy: 103.154.118.154:57413:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
+
+Protocol: connect
+Proxy: 160.19.84.23:61943:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
+
+Protocol: connect
 Proxy: 103.134.220.140:8088:Indonesia
 Status: not working
 IP: 127.0.0.1
@@ -86629,6 +73845,30 @@ IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Indonesia
+
+Protocol: connect
+Proxy: 103.226.232.197:8099:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
+
+Protocol: connect
+Proxy: 79.137.194.94:3128:The Netherlands
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: The Netherlands
+
+Protocol: connect
+Proxy: 216.158.246.90:51012:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
 
 Protocol: connect
 Proxy: 202.47.188.76:8087:Indonesia
@@ -86655,12 +73895,60 @@ Server: N/A
 Country: India
 
 Protocol: connect
+Proxy: 103.226.232.205:8099:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
+
+Protocol: connect
+Proxy: 103.165.157.248:8090:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
+
+Protocol: connect
+Proxy: 157.10.182.249:8080:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
+
+Protocol: connect
 Proxy: 49.146.57.185:8082:Philippines
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Philippines
+
+Protocol: connect
+Proxy: 103.133.61.36:8181:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
+
+Protocol: connect
+Proxy: 203.175.102.22:8082:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
+
+Protocol: connect
+Proxy: 103.133.24.73:8080:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
 
 Protocol: connect
 Proxy: 103.178.171.36:8080:Indonesia
@@ -86711,7 +73999,95 @@ Server: N/A
 Country: Indonesia
 
 Protocol: connect
+Proxy: 41.254.63.14:8080:Libya
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Libya
+
+Protocol: connect
 Proxy: 103.171.245.154:1080:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
+
+Protocol: connect
+Proxy: 103.156.15.130:1111:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
+
+Protocol: connect
+Proxy: 20.222.243.172:443:Japan
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Japan
+
+Protocol: connect
+Proxy: 51.222.200.68:3128:Canada
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Canada
+
+Protocol: connect
+Proxy: 103.190.112.210:8080:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
+
+Protocol: connect
+Proxy: 20.222.243.172:9443:Japan
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Japan
+
+Protocol: connect
+Proxy: 203.175.102.84:8080:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
+
+Protocol: connect
+Proxy: 103.46.10.27:7777:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
+
+Protocol: connect
+Proxy: 103.158.252.79:8080:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
+
+Protocol: connect
+Proxy: 103.134.220.145:8080:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
+
+Protocol: connect
+Proxy: 103.133.61.230:8080:Indonesia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -86767,6 +74143,14 @@ Server: N/A
 Country: Indonesia
 
 Protocol: connect
+Proxy: 20.222.243.172:9480:Japan
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Japan
+
+Protocol: connect
 Proxy: 103.101.216.242:8080:Indonesia
 Status: not working
 IP: 127.0.0.1
@@ -86775,7 +74159,47 @@ Server: N/A
 Country: Indonesia
 
 Protocol: connect
+Proxy: 201.71.137.90:5128:Brazil
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Brazil
+
+Protocol: connect
+Proxy: 45.175.58.207:61950:Brazil
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Brazil
+
+Protocol: connect
+Proxy: 177.136.12.160:55443:Brazil
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Brazil
+
+Protocol: connect
 Proxy: 191.240.142.99:5128:Brazil
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Brazil
+
+Protocol: connect
+Proxy: 186.251.247.14:2180:Brazil
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Brazil
+
+Protocol: connect
+Proxy: 187.49.83.165:8286:Brazil
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -86831,6 +74255,14 @@ Server: N/A
 Country: Argentina
 
 Protocol: connect
+Proxy: 190.139.5.202:3388:Argentina
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Argentina
+
+Protocol: connect
 Proxy: 181.209.66.179:1120:Argentina
 Status: not working
 IP: 127.0.0.1
@@ -86845,6 +74277,14 @@ IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Iran
+
+Protocol: connect
+Proxy: 119.11.205.129:8080:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
 
 Protocol: connect
 Proxy: 103.231.62.10:8080:Cambodia
@@ -86919,7 +74359,23 @@ Server: N/A
 Country: Indonesia
 
 Protocol: connect
+Proxy: 103.132.55.214:8080:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
+
+Protocol: connect
 Proxy: 102.0.16.124:8080:Kenya
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Kenya
+
+Protocol: connect
+Proxy: 102.209.78.72:8080:Kenya
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -86943,12 +74399,52 @@ Server: N/A
 Country: Indonesia
 
 Protocol: connect
+Proxy: 103.155.168.95:8299:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
+
+Protocol: connect
+Proxy: 103.155.168.90:8299:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
+
+Protocol: connect
 Proxy: 103.247.21.238:8080:Indonesia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Indonesia
+
+Protocol: connect
+Proxy: 103.153.149.207:8080:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
+
+Protocol: connect
+Proxy: 157.20.253.173:8080:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
+
+Protocol: connect
+Proxy: 187.19.201.48:8080:Brazil
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Brazil
 
 Protocol: connect
 Proxy: 181.215.253.112:5001:Brazil
@@ -87047,6 +74543,22 @@ Server: N/A
 Country: Russia
 
 Protocol: connect
+Proxy: 115.42.67.186:8080:Pakistan
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Pakistan
+
+Protocol: connect
+Proxy: 45.5.118.149:999:Guatemala
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Guatemala
+
+Protocol: connect
 Proxy: 102.0.16.20:8082:Kenya
 Status: not working
 IP: 127.0.0.1
@@ -87056,6 +74568,14 @@ Country: Kenya
 
 Protocol: connect
 Proxy: 103.162.54.203:8080:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
+
+Protocol: connect
+Proxy: 103.180.123.229:8090:Indonesia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -87079,7 +74599,23 @@ Server: N/A
 Country: Indonesia
 
 Protocol: connect
+Proxy: 103.106.231.188:41866:France
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: France
+
+Protocol: connect
 Proxy: 103.75.85.131:8070:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
+
+Protocol: connect
+Proxy: 103.170.22.137:8089:Indonesia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -87093,6 +74629,14 @@ IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Indonesia
+
+Protocol: connect
+Proxy: 103.106.231.188:41908:The Netherlands
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: The Netherlands
 
 Protocol: connect
 Proxy: 103.132.54.233:8182:Indonesia
@@ -87119,12 +74663,36 @@ Server: N/A
 Country: Indonesia
 
 Protocol: connect
+Proxy: 181.49.122.78:999:Colombia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Colombia
+
+Protocol: connect
 Proxy: 195.62.15.58:3128:Ukraine
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Ukraine
+
+Protocol: connect
+Proxy: 202.137.122.4:8082:Philippines
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Philippines
+
+Protocol: connect
+Proxy: 188.132.150.36:8080:Türkiye
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Türkiye
 
 Protocol: connect
 Proxy: 84.52.125.113:8082:Russia
@@ -87167,6 +74735,54 @@ Server: N/A
 Country: Indonesia
 
 Protocol: connect
+Proxy: 27.72.244.228:8080:Vietnam
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Vietnam
+
+Protocol: connect
+Proxy: 41.203.84.134:8080:Nigeria
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Nigeria
+
+Protocol: connect
+Proxy: 177.174.126.203:8080:Brazil
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Brazil
+
+Protocol: connect
+Proxy: 103.155.168.89:8299:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
+
+Protocol: connect
+Proxy: 103.156.14.18:8080:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
+
+Protocol: connect
+Proxy: 45.190.52.24:8080:Brazil
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Brazil
+
+Protocol: connect
 Proxy: 203.177.133.235:8080:Philippines
 Status: not working
 IP: 127.0.0.1
@@ -87175,12 +74791,36 @@ Server: N/A
 Country: Philippines
 
 Protocol: connect
+Proxy: 103.35.108.113:5020:Bangladesh
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Bangladesh
+
+Protocol: connect
+Proxy: 45.179.71.90:3180:Brazil
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Brazil
+
+Protocol: connect
 Proxy: 103.187.162.75:8080:Indonesia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Indonesia
+
+Protocol: connect
+Proxy: 182.160.103.220:8090:Bangladesh
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Bangladesh
 
 Protocol: connect
 Proxy: 103.169.149.254:1111:Indonesia
@@ -87197,6 +74837,22 @@ IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Indonesia
+
+Protocol: connect
+Proxy: 103.243.177.129:8080:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
+
+Protocol: connect
+Proxy: 191.97.68.42:8080:Argentina
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Argentina
 
 Protocol: connect
 Proxy: 200.10.30.217:8083:Colombia
@@ -87231,7 +74887,23 @@ Server: N/A
 Country: Brazil
 
 Protocol: connect
+Proxy: 78.108.108.9:8080:Czechia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Czechia
+
+Protocol: connect
 Proxy: 103.65.202.209:8080:India
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: India
+
+Protocol: connect
+Proxy: 103.48.69.54:83:India
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -87245,6 +74917,14 @@ IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Australia
+
+Protocol: connect
+Proxy: 213.169.33.7:8001:Bulgaria
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Bulgaria
 
 Protocol: connect
 Proxy: 103.147.250.233:83:India
@@ -87263,6 +74943,14 @@ Server: N/A
 Country: India
 
 Protocol: connect
+Proxy: 103.195.65.185:8080:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
+
+Protocol: connect
 Proxy: 103.166.8.228:1080:Indonesia
 Status: not working
 IP: 127.0.0.1
@@ -87271,12 +74959,36 @@ Server: N/A
 Country: Indonesia
 
 Protocol: connect
+Proxy: 102.223.27.228:8080:Equatorial Guinea
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Equatorial Guinea
+
+Protocol: connect
 Proxy: 177.36.14.137:8080:Brazil
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Brazil
+
+Protocol: connect
+Proxy: 38.9.48.162:8090:Dominican Republic
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Dominican Republic
+
+Protocol: connect
+Proxy: 186.148.175.118:999:Colombia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Colombia
 
 Protocol: connect
 Proxy: 190.202.84.199:3128:Venezuela
@@ -87319,12 +75031,36 @@ Server: N/A
 Country: Chile
 
 Protocol: connect
+Proxy: 181.209.82.198:999:Argentina
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Argentina
+
+Protocol: connect
 Proxy: 190.94.213.198:999:Venezuela
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Venezuela
+
+Protocol: connect
+Proxy: 45.70.202.70:999:Ecuador
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Ecuador
+
+Protocol: connect
+Proxy: 103.83.97.46:7777:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
 
 Protocol: connect
 Proxy: 45.184.103.112:999:Venezuela
@@ -87335,12 +75071,36 @@ Server: N/A
 Country: Venezuela
 
 Protocol: connect
+Proxy: 141.11.241.189:8080:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
+
+Protocol: connect
+Proxy: 141.11.241.162:8080:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
+
+Protocol: connect
 Proxy: 103.81.194.49:2020:Indonesia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Indonesia
+
+Protocol: connect
+Proxy: 103.82.37.151:13134:Vietnam
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Vietnam
 
 Protocol: connect
 Proxy: 203.81.87.186:10443:Myanmar
@@ -87383,12 +75143,52 @@ Server: N/A
 Country: Indonesia
 
 Protocol: connect
+Proxy: 103.160.202.138:8070:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
+
+Protocol: connect
+Proxy: 109.236.35.71:8089:Albania
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Albania
+
+Protocol: connect
+Proxy: 103.190.60.26:9090:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
+
+Protocol: connect
 Proxy: 111.221.1.114:8021:Bangladesh
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Bangladesh
+
+Protocol: connect
+Proxy: 103.22.99.46:8080:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
+
+Protocol: connect
+Proxy: 103.75.85.126:1080:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
 
 Protocol: connect
 Proxy: 103.103.144.163:2222:Indonesia
@@ -87400,6 +75200,30 @@ Country: Indonesia
 
 Protocol: connect
 Proxy: 103.148.44.253:8181:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
+
+Protocol: connect
+Proxy: 103.163.231.106:3127:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
+
+Protocol: connect
+Proxy: 103.86.117.53:1080:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
+
+Protocol: connect
+Proxy: 103.222.255.161:8055:Indonesia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -87423,6 +75247,14 @@ Server: N/A
 Country: Argentina
 
 Protocol: connect
+Proxy: 103.190.60.17:9090:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
+
+Protocol: connect
 Proxy: 47.237.121.151:10015:United Kingdom
 Status: not working
 IP: 127.0.0.1
@@ -87439,12 +75271,36 @@ Server: N/A
 Country: Indonesia
 
 Protocol: connect
+Proxy: 27.189.128.108:8089:China
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: China
+
+Protocol: connect
 Proxy: 45.8.229.41:1080:Russia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Russia
+
+Protocol: connect
+Proxy: 103.106.231.188:47327:Lithuania
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Lithuania
+
+Protocol: connect
+Proxy: 103.172.120.219:9999:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
 
 Protocol: connect
 Proxy: 38.159.227.132:999:Dominican Republic
@@ -87469,6 +75325,14 @@ IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Indonesia
+
+Protocol: connect
+Proxy: 103.143.168.58:82:India
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: India
 
 Protocol: connect
 Proxy: 41.76.220.35:8088:South Africa
@@ -87511,6 +75375,14 @@ Server: N/A
 Country: Philippines
 
 Protocol: connect
+Proxy: 204.199.81.94:999:Colombia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Colombia
+
+Protocol: connect
 Proxy: 197.232.85.163:8080:Kenya
 Status: not working
 IP: 127.0.0.1
@@ -87519,12 +75391,36 @@ Server: N/A
 Country: Kenya
 
 Protocol: connect
+Proxy: 103.157.116.213:8088:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
+
+Protocol: connect
 Proxy: 115.147.26.219:8082:Philippines
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Philippines
+
+Protocol: connect
+Proxy: 36.91.148.36:8080:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
+
+Protocol: connect
+Proxy: 38.7.31.229:999:Honduras
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Honduras
 
 Protocol: connect
 Proxy: 45.230.51.4:999:Chile
@@ -87543,12 +75439,28 @@ Server: N/A
 Country: Ecuador
 
 Protocol: connect
+Proxy: 161.49.91.13:1337:Philippines
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Philippines
+
+Protocol: connect
 Proxy: 190.120.249.61:999:Venezuela
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Venezuela
+
+Protocol: connect
+Proxy: 187.86.159.54:3128:Brazil
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Brazil
 
 Protocol: connect
 Proxy: 183.240.196.55:38080:China
@@ -87575,6 +75487,22 @@ Server: N/A
 Country: Ecuador
 
 Protocol: connect
+Proxy: 103.156.75.40:8181:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
+
+Protocol: connect
+Proxy: 191.102.123.196:999:Colombia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Colombia
+
+Protocol: connect
 Proxy: 175.100.92.40:8080:Cambodia
 Status: not working
 IP: 127.0.0.1
@@ -87583,12 +75511,28 @@ Server: N/A
 Country: Cambodia
 
 Protocol: connect
+Proxy: 181.57.131.122:8080:Colombia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Colombia
+
+Protocol: connect
 Proxy: 167.249.29.220:999:Chile
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Chile
+
+Protocol: connect
+Proxy: 186.192.78.7:8080:Brazil
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Brazil
 
 Protocol: connect
 Proxy: 119.11.205.96:8080:Indonesia
@@ -87623,12 +75567,44 @@ Server: N/A
 Country: Brazil
 
 Protocol: connect
+Proxy: 191.103.219.225:48612:Colombia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Colombia
+
+Protocol: connect
+Proxy: 101.255.117.138:2020:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
+
+Protocol: connect
 Proxy: 45.238.220.1:8181:Argentina
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Argentina
+
+Protocol: connect
+Proxy: 190.120.249.60:999:Venezuela
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Venezuela
+
+Protocol: connect
+Proxy: 49.229.100.235:8080:Thailand
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Thailand
 
 Protocol: connect
 Proxy: 103.88.91.14:8080:Indonesia
@@ -87655,7 +75631,31 @@ Server: N/A
 Country: Brazil
 
 Protocol: connect
+Proxy: 103.99.136.30:8080:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
+
+Protocol: connect
+Proxy: 103.78.25.42:8080:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
+
+Protocol: connect
 Proxy: 103.79.155.210:8080:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
+
+Protocol: connect
+Proxy: 157.66.16.68:8070:Indonesia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -87687,6 +75687,30 @@ Server: N/A
 Country: Indonesia
 
 Protocol: connect
+Proxy: 103.77.62.134:8080:Bangladesh
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Bangladesh
+
+Protocol: connect
+Proxy: 103.157.132.224:8080:India
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: India
+
+Protocol: connect
+Proxy: 103.181.255.227:3128:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
+
+Protocol: connect
 Proxy: 103.36.10.27:1080:Indonesia
 Status: not working
 IP: 127.0.0.1
@@ -87711,12 +75735,28 @@ Server: N/A
 Country: India
 
 Protocol: connect
+Proxy: 103.168.149.48:8181:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
+
+Protocol: connect
 Proxy: 190.122.88.144:8080:Argentina
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Argentina
+
+Protocol: connect
+Proxy: 103.220.23.177:8080:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
 
 Protocol: connect
 Proxy: 37.27.180.39:8082:Finland
@@ -87727,7 +75767,23 @@ Server: N/A
 Country: Finland
 
 Protocol: connect
+Proxy: 182.253.216.8:8080:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
+
+Protocol: connect
 Proxy: 103.220.23.217:8080:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
+
+Protocol: connect
+Proxy: 103.148.44.99:8080:Indonesia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -87749,6 +75805,14 @@ IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Syria
+
+Protocol: connect
+Proxy: 47.84.42.57:10001:United Kingdom
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United Kingdom
 
 Protocol: connect
 Proxy: 217.88.78.140:8080:Germany
@@ -87799,6 +75863,38 @@ Server: N/A
 Country: Indonesia
 
 Protocol: connect
+Proxy: 103.165.222.190:8080:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
+
+Protocol: connect
+Proxy: 136.239.176.85:8080:Philippines
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Philippines
+
+Protocol: connect
+Proxy: 38.52.221.43:999:Dominican Republic
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Dominican Republic
+
+Protocol: connect
+Proxy: 168.194.169.101:999:Peru
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Peru
+
+Protocol: connect
 Proxy: 103.1.93.184:55443:Nepal
 Status: not working
 IP: 127.0.0.1
@@ -87815,6 +75911,38 @@ Server: N/A
 Country: Indonesia
 
 Protocol: connect
+Proxy: 115.186.185.6:3128:Pakistan
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Pakistan
+
+Protocol: connect
+Proxy: 103.203.175.49:84:India
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: India
+
+Protocol: connect
+Proxy: 157.100.7.218:999:Ecuador
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Ecuador
+
+Protocol: connect
+Proxy: 181.209.122.75:999:Argentina
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Argentina
+
+Protocol: connect
 Proxy: 27.147.28.73:8080:Taiwan
 Status: not working
 IP: 127.0.0.1
@@ -87823,12 +75951,28 @@ Server: N/A
 Country: Taiwan
 
 Protocol: connect
+Proxy: 103.156.141.87:8080:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
+
+Protocol: connect
 Proxy: 79.106.108.150:8079:Albania
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Albania
+
+Protocol: connect
+Proxy: 103.186.193.11:3125:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
 
 Protocol: connect
 Proxy: 103.48.68.138:82:India
@@ -87847,6 +75991,22 @@ Server: N/A
 Country: Indonesia
 
 Protocol: connect
+Proxy: 160.248.80.91:465:Ukraine
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Ukraine
+
+Protocol: connect
+Proxy: 189.7.145.111:3128:Brazil
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Brazil
+
+Protocol: connect
 Proxy: 45.230.39.139:999:Chile
 Status: not working
 IP: 127.0.0.1
@@ -87863,12 +76023,36 @@ Server: N/A
 Country: Russia
 
 Protocol: connect
+Proxy: 177.93.33.244:999:Colombia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Colombia
+
+Protocol: connect
+Proxy: 168.194.169.214:999:Peru
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Peru
+
+Protocol: connect
 Proxy: 38.156.236.153:999:Dominican Republic
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Dominican Republic
+
+Protocol: connect
+Proxy: 190.97.234.173:999:Venezuela
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Venezuela
 
 Protocol: connect
 Proxy: 103.48.71.2:84:India
@@ -87927,6 +76111,22 @@ Server: N/A
 Country: Peru
 
 Protocol: connect
+Proxy: 171.240.89.128:10002:Vietnam
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Vietnam
+
+Protocol: connect
+Proxy: 117.7.215.17:10008:Vietnam
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Vietnam
+
+Protocol: connect
 Proxy: 171.240.89.128:10004:Vietnam
 Status: not working
 IP: 127.0.0.1
@@ -87959,6 +76159,14 @@ Server: N/A
 Country: Indonesia
 
 Protocol: connect
+Proxy: 103.165.155.145:8080:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
+
+Protocol: connect
 Proxy: 38.183.146.178:8080:Indonesia
 Status: not working
 IP: 127.0.0.1
@@ -87983,7 +76191,55 @@ Server: N/A
 Country: Indonesia
 
 Protocol: connect
+Proxy: 168.194.169.107:999:Peru
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Peru
+
+Protocol: connect
+Proxy: 89.104.102.209:58080:Uzbekistan
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Uzbekistan
+
+Protocol: connect
+Proxy: 197.232.47.122:8080:Kenya
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Kenya
+
+Protocol: connect
+Proxy: 103.106.240.18:96:Bangladesh
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Bangladesh
+
+Protocol: connect
 Proxy: 103.44.19.225:34340:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
+
+Protocol: connect
+Proxy: 170.81.131.70:3128:Brazil
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Brazil
+
+Protocol: connect
+Proxy: 103.211.107.62:8080:Indonesia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -88007,12 +76263,36 @@ Server: N/A
 Country: Indonesia
 
 Protocol: connect
+Proxy: 103.227.61.51:8899:Australia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Australia
+
+Protocol: connect
+Proxy: 38.159.232.141:999:Dominican Republic
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Dominican Republic
+
+Protocol: connect
 Proxy: 181.209.82.195:999:Argentina
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Argentina
+
+Protocol: connect
+Proxy: 103.153.246.61:8080:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
 
 Protocol: connect
 Proxy: 118.172.184.25:8180:Thailand
@@ -88029,6 +76309,14 @@ IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Philippines
+
+Protocol: connect
+Proxy: 103.147.30.65:3128:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
 
 Protocol: connect
 Proxy: 103.174.237.71:7777:Indonesia
@@ -88111,6 +76399,14 @@ Server: N/A
 Country: Venezuela
 
 Protocol: connect
+Proxy: 94.181.34.54:8080:Russia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Russia
+
+Protocol: connect
 Proxy: 103.88.237.91:82:India
 Status: not working
 IP: 127.0.0.1
@@ -88127,6 +76423,14 @@ Server: N/A
 Country: Argentina
 
 Protocol: connect
+Proxy: 180.107.218.63:8089:China
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: China
+
+Protocol: connect
 Proxy: 190.61.117.45:999:Honduras
 Status: not working
 IP: 127.0.0.1
@@ -88141,6 +76445,38 @@ IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Philippines
+
+Protocol: connect
+Proxy: 101.255.167.50:8080:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
+
+Protocol: connect
+Proxy: 38.52.212.113:999:Guatemala
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Guatemala
+
+Protocol: connect
+Proxy: 62.33.136.242:8080:Russia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Russia
+
+Protocol: connect
+Proxy: 45.225.205.1:999:Chile
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Chile
 
 Protocol: connect
 Proxy: 103.146.196.11:8080:Indonesia
@@ -88175,6 +76511,14 @@ Server: N/A
 Country: France
 
 Protocol: connect
+Proxy: 103.106.231.188:47292:France
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: France
+
+Protocol: connect
 Proxy: 103.179.216.46:8080:Indonesia
 Status: not working
 IP: 127.0.0.1
@@ -88199,6 +76543,22 @@ Server: N/A
 Country: Vietnam
 
 Protocol: connect
+Proxy: 171.228.159.146:10089:Vietnam
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Vietnam
+
+Protocol: connect
+Proxy: 117.7.215.17:10013:Vietnam
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Vietnam
+
+Protocol: connect
 Proxy: 1.179.236.10:8080:Thailand
 Status: not working
 IP: 127.0.0.1
@@ -88207,12 +76567,44 @@ Server: N/A
 Country: Thailand
 
 Protocol: connect
+Proxy: 154.205.81.150:40196:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: connect
+Proxy: 103.106.231.188:47066:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: connect
 Proxy: 117.7.215.17:10016:Vietnam
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Vietnam
+
+Protocol: connect
+Proxy: 117.5.74.186:10016:Vietnam
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Vietnam
+
+Protocol: connect
+Proxy: 38.9.48.211:8080:Dominican Republic
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Dominican Republic
 
 Protocol: connect
 Proxy: 200.106.124.37:999:Peru
@@ -88247,6 +76639,14 @@ Server: N/A
 Country: Ecuador
 
 Protocol: connect
+Proxy: 117.5.74.186:10019:Vietnam
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Vietnam
+
+Protocol: connect
 Proxy: 171.6.195.127:8080:Thailand
 Status: not working
 IP: 127.0.0.1
@@ -88255,12 +76655,28 @@ Server: N/A
 Country: Thailand
 
 Protocol: connect
+Proxy: 101.255.211.42:1111:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
+
+Protocol: connect
 Proxy: 204.157.251.234:999:Dominican Republic
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Dominican Republic
+
+Protocol: connect
+Proxy: 49.157.62.203:8181:Philippines
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Philippines
 
 Protocol: connect
 Proxy: 103.164.221.34:8080:Indonesia
@@ -88279,6 +76695,14 @@ Server: N/A
 Country: Chile
 
 Protocol: connect
+Proxy: 114.218.77.237:8089:China
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: China
+
+Protocol: connect
 Proxy: 103.183.254.6:8080:Indonesia
 Status: not working
 IP: 127.0.0.1
@@ -88295,6 +76719,30 @@ Server: N/A
 Country: Colombia
 
 Protocol: connect
+Proxy: 103.253.127.154:8080:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
+
+Protocol: connect
+Proxy: 182.252.94.217:8082:Bangladesh
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Bangladesh
+
+Protocol: connect
+Proxy: 222.127.135.164:8082:Philippines
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Philippines
+
+Protocol: connect
 Proxy: 85.132.37.9:1313:Azerbaijan
 Status: not working
 IP: 127.0.0.1
@@ -88309,6 +76757,14 @@ IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Colombia
+
+Protocol: connect
+Proxy: 203.111.253.130:8080:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
 
 Protocol: connect
 Proxy: 188.132.221.125:8080:Türkiye
@@ -88335,12 +76791,44 @@ Server: N/A
 Country: Bangladesh
 
 Protocol: connect
+Proxy: 103.104.192.114:8080:Pakistan
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Pakistan
+
+Protocol: connect
+Proxy: 114.69.225.6:84:India
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: India
+
+Protocol: connect
 Proxy: 115.247.98.14:8080:India
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: India
+
+Protocol: connect
+Proxy: 190.26.27.129:999:Colombia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Colombia
+
+Protocol: connect
+Proxy: 190.94.212.247:999:Venezuela
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Venezuela
 
 Protocol: connect
 Proxy: 188.132.222.43:8080:Türkiye
@@ -88383,6 +76871,14 @@ Server: N/A
 Country: India
 
 Protocol: connect
+Proxy: 103.154.230.190:8080:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
+
+Protocol: connect
 Proxy: 101.128.82.150:8181:Indonesia
 Status: not working
 IP: 127.0.0.1
@@ -88413,6 +76909,14 @@ IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Indonesia
+
+Protocol: connect
+Proxy: 103.48.68.171:83:India
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: India
 
 Protocol: connect
 Proxy: 45.161.201.202:3386:Brazil
@@ -88495,12 +76999,52 @@ Server: N/A
 Country: Chile
 
 Protocol: connect
+Proxy: 154.205.82.146:40220:United States
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: connect
 Proxy: 117.7.215.17:10010:Vietnam
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Vietnam
+
+Protocol: connect
+Proxy: 185.86.81.27:8080:Türkiye
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Türkiye
+
+Protocol: connect
+Proxy: 117.1.250.139:10006:Vietnam
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Vietnam
+
+Protocol: connect
+Proxy: 171.240.89.128:10017:Vietnam
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Vietnam
+
+Protocol: connect
+Proxy: 103.224.124.135:8080:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
 
 Protocol: connect
 Proxy: 27.189.133.23:8089:China
@@ -88527,12 +77071,44 @@ Server: N/A
 Country: China
 
 Protocol: connect
+Proxy: 114.225.152.241:8089:China
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: China
+
+Protocol: connect
+Proxy: 121.227.44.175:8089:China
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: China
+
+Protocol: connect
+Proxy: 186.96.160.202:999:Mexico
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Mexico
+
+Protocol: connect
 Proxy: 103.127.220.206:8080:Indonesia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Indonesia
+
+Protocol: connect
+Proxy: 27.77.79.174:8118:Vietnam
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Vietnam
 
 Protocol: connect
 Proxy: 95.55.110.47:8080:Russia
@@ -88551,6 +77127,14 @@ Server: N/A
 Country: Malaysia
 
 Protocol: connect
+Proxy: 183.81.28.154:8080:Vietnam
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Vietnam
+
+Protocol: connect
 Proxy: 41.90.118.9:8080:Kenya
 Status: not working
 IP: 127.0.0.1
@@ -88565,6 +77149,22 @@ IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Colombia
+
+Protocol: connect
+Proxy: 90.156.194.70:8026:Uzbekistan
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Uzbekistan
+
+Protocol: connect
+Proxy: 103.147.246.148:2025:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
 
 Protocol: connect
 Proxy: 115.178.49.101:8181:Indonesia
@@ -88591,7 +77191,31 @@ Server: N/A
 Country: Indonesia
 
 Protocol: connect
+Proxy: 103.186.193.131:8084:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
+
+Protocol: connect
 Proxy: 43.252.237.108:1111:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
+
+Protocol: connect
+Proxy: 103.162.54.250:8066:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
+
+Protocol: connect
+Proxy: 202.154.18.17:1122:Indonesia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -88631,6 +77255,14 @@ Server: N/A
 Country: Indonesia
 
 Protocol: connect
+Proxy: 103.44.19.218:1112:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
+
+Protocol: connect
 Proxy: 103.148.130.37:8090:Indonesia
 Status: not working
 IP: 127.0.0.1
@@ -88647,12 +77279,36 @@ Server: N/A
 Country: Colombia
 
 Protocol: connect
+Proxy: 139.59.224.196:8182:Singapore
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Singapore
+
+Protocol: connect
 Proxy: 103.69.106.151:8181:Indonesia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Indonesia
+
+Protocol: connect
+Proxy: 102.0.3.234:8083:Kenya
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Kenya
+
+Protocol: connect
+Proxy: 49.49.89.76:8888:Thailand
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Thailand
 
 Protocol: connect
 Proxy: 103.178.171.115:8080:Indonesia
@@ -88664,6 +77320,14 @@ Country: Indonesia
 
 Protocol: connect
 Proxy: 103.119.51.158:8080:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
+
+Protocol: connect
+Proxy: 103.181.255.231:8080:Indonesia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -88695,6 +77359,14 @@ Server: N/A
 Country: Indonesia
 
 Protocol: connect
+Proxy: 103.184.62.10:8099:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
+
+Protocol: connect
 Proxy: 58.209.137.76:8089:China
 Status: not working
 IP: 127.0.0.1
@@ -88719,6 +77391,14 @@ Server: N/A
 Country: Vietnam
 
 Protocol: connect
+Proxy: 186.96.74.147:999:Venezuela
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Venezuela
+
+Protocol: connect
 Proxy: 148.103.9.57:80:Dominican Republic
 Status: not working
 IP: 127.0.0.1
@@ -88735,12 +77415,28 @@ Server: N/A
 Country: Indonesia
 
 Protocol: connect
+Proxy: 61.178.141.146:443:China
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: China
+
+Protocol: connect
 Proxy: 181.52.238.165:54694:Colombia
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Colombia
+
+Protocol: connect
+Proxy: 157.100.60.144:999:Ecuador
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Ecuador
 
 Protocol: connect
 Proxy: 41.220.131.56:8080:Tanzania
@@ -88759,12 +77455,52 @@ Server: N/A
 Country: Vietnam
 
 Protocol: connect
+Proxy: 27.79.184.43:16000:Vietnam
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Vietnam
+
+Protocol: connect
+Proxy: 181.78.13.205:999:Colombia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Colombia
+
+Protocol: connect
+Proxy: 27.79.168.251:16000:Vietnam
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Vietnam
+
+Protocol: connect
 Proxy: 117.1.248.149:10011:Vietnam
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Vietnam
+
+Protocol: connect
+Proxy: 116.107.127.46:10086:Vietnam
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Vietnam
+
+Protocol: connect
+Proxy: 1.160.0.143:8081:Taiwan
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Taiwan
 
 Protocol: connect
 Proxy: 103.253.246.85:8080:Bangladesh
@@ -88775,12 +77511,36 @@ Server: N/A
 Country: Bangladesh
 
 Protocol: connect
+Proxy: 170.83.82.10:3128:Brazil
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Brazil
+
+Protocol: connect
 Proxy: 45.201.216.193:8080:Brazil
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
 Server: N/A
 Country: Brazil
+
+Protocol: connect
+Proxy: 223.206.140.49:8080:Thailand
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Thailand
+
+Protocol: connect
+Proxy: 61.5.100.235:8080:Indonesia
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Indonesia
 
 Protocol: connect
 Proxy: 103.148.130.42:8080:Indonesia
@@ -88807,6 +77567,14 @@ Server: N/A
 Country: Russia
 
 Protocol: connect
+Proxy: 179.186.157.60:3128:Brazil
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Brazil
+
+Protocol: connect
 Proxy: 101.255.150.254:8080:Indonesia
 Status: not working
 IP: 127.0.0.1
@@ -88816,6 +77584,22 @@ Country: Indonesia
 
 Protocol: connect
 Proxy: 171.7.27.205:8080:Thailand
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Thailand
+
+Protocol: connect
+Proxy: 223.206.194.153:8080:Thailand
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Thailand
+
+Protocol: connect
+Proxy: 125.25.43.133:8080:Thailand
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
@@ -88848,6 +77632,14 @@ Country: Vietnam
 
 Protocol: connect
 Proxy: 27.79.202.246:16000:Vietnam
+Status: not working
+IP: 127.0.0.1
+Anon: N/A
+Server: N/A
+Country: Vietnam
+
+Protocol: connect
+Proxy: 113.160.122.27:8015:Vietnam
 Status: not working
 IP: 127.0.0.1
 Anon: N/A
