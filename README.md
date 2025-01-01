@@ -4,7 +4,7 @@ Proxy Checker is a powerful proxy checker tool with extensive features which is 
 
 ## Features
 
-- **Multi-protocol support**: HTTP, HTTPS, SOCKS4, SOCKS5.
+- **Multi-protocol support**: CONNECT, HTTP, HTTPS, SOCKS4, SOCKS5.
 - **Concurrency**: Perform checks using multiple threads.
 - **Anonymity Detection**: Identify proxy anonymity levels (transparent, anonymous, elite).
 - **Server Detection**: Recognize proxy server software (Squid, Mikrotik, Tinyproxy, etc.).
